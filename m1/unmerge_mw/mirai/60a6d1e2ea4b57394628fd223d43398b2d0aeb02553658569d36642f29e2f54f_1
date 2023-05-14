@@ -1,0 +1,6 @@
+# started on Mon Mar 27 13:33:46 2023
+
+22817,,branch-instructions,76906,100.00,,
+1191,,branch-misses,76906,100.00,5.22,of all branches
+1719,,bus-cycles,76906,100.00,,
+124788,,instructions,76906,100.00,,

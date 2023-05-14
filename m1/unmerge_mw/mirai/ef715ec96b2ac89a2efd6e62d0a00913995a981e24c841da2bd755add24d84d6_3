@@ -1,0 +1,6 @@
+# started on Mon Mar 27 16:06:01 2023
+
+     0.003034230,34388,,L1-dcache-load-misses,2791261,100.00,2.81,of all L1-dcache accesses
+     0.003034230,1222418,,L1-dcache-loads,2791261,100.00,,
+     0.003034230,660654,,L1-dcache-stores,2791261,100.00,,
+     0.003034230,9794911,,instructions,2791261,100.00,,

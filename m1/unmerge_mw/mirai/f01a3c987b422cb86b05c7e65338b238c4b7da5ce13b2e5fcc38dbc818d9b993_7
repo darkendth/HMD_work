@@ -1,0 +1,6 @@
+# started on Mon Mar 27 16:03:52 2023
+
+0,,node-load-misses,284972076,74.79,,
+390945,,node-loads,285256445,74.87,,
+0,,node-store-misses,191791603,50.72,,
+1438722251,,instructions,286417594,75.29,,

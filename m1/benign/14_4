@@ -1,0 +1,2386 @@
+# started on Fri May  5 00:28:39 2023
+
+     0.100146433,153,,LLC-load-misses,189883,100.00,30.30,of all LL-cache accesses
+     0.100146433,505,,LLC-loads,189883,100.00,,
+     0.100146433,<not counted>,,LLC-store-misses,0,0.00,,
+     0.100146433,<not counted>,,instructions,0,0.00,,
+     0.200739968,84,,LLC-load-misses,255605,100.00,11.95,of all LL-cache accesses
+     0.200739968,703,,LLC-loads,255605,100.00,,
+     0.200739968,<not counted>,,LLC-store-misses,0,0.00,,
+     0.200739968,<not counted>,,instructions,0,0.00,,
+     0.301166957,73,,LLC-load-misses,31855,100.00,53.68,of all LL-cache accesses
+     0.301166957,136,,LLC-loads,31855,100.00,,
+     0.301166957,<not counted>,,LLC-store-misses,0,0.00,,
+     0.301166957,<not counted>,,instructions,0,0.00,,
+     0.401695775,<not counted>,,LLC-load-misses,0,100.00,,
+     0.401695775,<not counted>,,LLC-loads,0,100.00,,
+     0.401695775,<not counted>,,LLC-store-misses,0,100.00,,
+     0.401695775,<not counted>,,instructions,0,100.00,,
+     0.502220491,310,,LLC-load-misses,177353,100.00,55.76,of all LL-cache accesses
+     0.502220491,556,,LLC-loads,177353,100.00,,
+     0.502220491,<not counted>,,LLC-store-misses,0,0.00,,
+     0.502220491,<not counted>,,instructions,0,0.00,,
+     0.602743027,49,,LLC-load-misses,77740,100.00,48.04,of all LL-cache accesses
+     0.602743027,102,,LLC-loads,77740,100.00,,
+     0.602743027,<not counted>,,LLC-store-misses,0,0.00,,
+     0.602743027,<not counted>,,instructions,0,0.00,,
+     0.703306676,172,,LLC-load-misses,223920,100.00,50.00,of all LL-cache accesses
+     0.703306676,344,,LLC-loads,223920,100.00,,
+     0.703306676,<not counted>,,LLC-store-misses,0,0.00,,
+     0.703306676,<not counted>,,instructions,0,0.00,,
+     0.803858871,31,,LLC-load-misses,57340,100.00,38.27,of all LL-cache accesses
+     0.803858871,81,,LLC-loads,57340,100.00,,
+     0.803858871,<not counted>,,LLC-store-misses,0,0.00,,
+     0.803858871,<not counted>,,instructions,0,0.00,,
+     0.904399974,<not counted>,,LLC-load-misses,0,100.00,,
+     0.904399974,<not counted>,,LLC-loads,0,100.00,,
+     0.904399974,<not counted>,,LLC-store-misses,0,100.00,,
+     0.904399974,<not counted>,,instructions,0,100.00,,
+     1.004733858,95,,LLC-load-misses,117552,100.00,56.89,of all LL-cache accesses
+     1.004733858,167,,LLC-loads,117552,100.00,,
+     1.004733858,<not counted>,,LLC-store-misses,0,0.00,,
+     1.004733858,<not counted>,,instructions,0,0.00,,
+     1.105266742,50,,LLC-load-misses,57875,100.00,71.43,of all LL-cache accesses
+     1.105266742,70,,LLC-loads,57875,100.00,,
+     1.105266742,<not counted>,,LLC-store-misses,0,0.00,,
+     1.105266742,<not counted>,,instructions,0,0.00,,
+     1.205690161,144,,LLC-load-misses,336921,100.00,23.80,of all LL-cache accesses
+     1.205690161,605,,LLC-loads,336921,100.00,,
+     1.205690161,<not counted>,,LLC-store-misses,0,0.00,,
+     1.205690161,<not counted>,,instructions,0,0.00,,
+     1.306232983,89,,LLC-load-misses,113396,100.00,52.35,of all LL-cache accesses
+     1.306232983,170,,LLC-loads,113396,100.00,,
+     1.306232983,<not counted>,,LLC-store-misses,0,0.00,,
+     1.306232983,<not counted>,,instructions,0,0.00,,
+     1.406806743,67,,LLC-load-misses,84415,100.00,65.69,of all LL-cache accesses
+     1.406806743,102,,LLC-loads,84415,100.00,,
+     1.406806743,<not counted>,,LLC-store-misses,0,0.00,,
+     1.406806743,<not counted>,,instructions,0,0.00,,
+     1.507188494,191,,LLC-load-misses,250719,100.00,47.63,of all LL-cache accesses
+     1.507188494,401,,LLC-loads,250719,100.00,,
+     1.507188494,<not counted>,,LLC-store-misses,0,0.00,,
+     1.507188494,<not counted>,,instructions,0,0.00,,
+     1.607563739,69,,LLC-load-misses,87637,100.00,50.36,of all LL-cache accesses
+     1.607563739,137,,LLC-loads,87637,100.00,,
+     1.607563739,<not counted>,,LLC-store-misses,0,0.00,,
+     1.607563739,<not counted>,,instructions,0,0.00,,
+     1.707930837,69,,LLC-load-misses,88595,100.00,65.71,of all LL-cache accesses
+     1.707930837,105,,LLC-loads,88595,100.00,,
+     1.707930837,<not counted>,,LLC-store-misses,0,0.00,,
+     1.707930837,<not counted>,,instructions,0,0.00,,
+     1.808408402,111,,LLC-load-misses,112791,100.00,64.91,of all LL-cache accesses
+     1.808408402,171,,LLC-loads,112791,100.00,,
+     1.808408402,<not counted>,,LLC-store-misses,0,0.00,,
+     1.808408402,<not counted>,,instructions,0,0.00,,
+     1.908761124,122,,LLC-load-misses,138786,100.00,56.48,of all LL-cache accesses
+     1.908761124,216,,LLC-loads,138786,100.00,,
+     1.908761124,<not counted>,,LLC-store-misses,0,0.00,,
+     1.908761124,<not counted>,,instructions,0,0.00,,
+     2.009121025,99,,LLC-load-misses,116435,100.00,67.35,of all LL-cache accesses
+     2.009121025,147,,LLC-loads,116435,100.00,,
+     2.009121025,<not counted>,,LLC-store-misses,0,0.00,,
+     2.009121025,<not counted>,,instructions,0,0.00,,
+     2.109689019,46,,LLC-load-misses,56402,100.00,53.49,of all LL-cache accesses
+     2.109689019,86,,LLC-loads,56402,100.00,,
+     2.109689019,<not counted>,,LLC-store-misses,0,0.00,,
+     2.109689019,<not counted>,,instructions,0,0.00,,
+     2.210227240,117,,LLC-load-misses,159827,100.00,53.92,of all LL-cache accesses
+     2.210227240,217,,LLC-loads,159827,100.00,,
+     2.210227240,<not counted>,,LLC-store-misses,0,0.00,,
+     2.210227240,<not counted>,,instructions,0,0.00,,
+     2.310587091,76,,LLC-load-misses,60360,100.00,81.72,of all LL-cache accesses
+     2.310587091,93,,LLC-loads,60360,100.00,,
+     2.310587091,<not counted>,,LLC-store-misses,0,0.00,,
+     2.310587091,<not counted>,,instructions,0,0.00,,
+     2.410922370,94,,LLC-load-misses,105196,100.00,44.55,of all LL-cache accesses
+     2.410922370,211,,LLC-loads,105196,100.00,,
+     2.410922370,<not counted>,,LLC-store-misses,0,0.00,,
+     2.410922370,<not counted>,,instructions,0,0.00,,
+     2.511174916,223,,LLC-load-misses,164682,100.00,58.22,of all LL-cache accesses
+     2.511174916,383,,LLC-loads,164682,100.00,,
+     2.511174916,<not counted>,,LLC-store-misses,0,0.00,,
+     2.511174916,<not counted>,,instructions,0,0.00,,
+     2.611715695,60,,LLC-load-misses,80432,100.00,50.85,of all LL-cache accesses
+     2.611715695,118,,LLC-loads,80432,100.00,,
+     2.611715695,<not counted>,,LLC-store-misses,0,0.00,,
+     2.611715695,<not counted>,,instructions,0,0.00,,
+     2.712195525,81,,LLC-load-misses,80505,100.00,58.70,of all LL-cache accesses
+     2.712195525,138,,LLC-loads,80505,100.00,,
+     2.712195525,<not counted>,,LLC-store-misses,0,0.00,,
+     2.712195525,<not counted>,,instructions,0,0.00,,
+     2.812549743,189,,LLC-load-misses,192198,100.00,65.17,of all LL-cache accesses
+     2.812549743,290,,LLC-loads,192198,100.00,,
+     2.812549743,<not counted>,,LLC-store-misses,0,0.00,,
+     2.812549743,<not counted>,,instructions,0,0.00,,
+     2.913091051,<not counted>,,LLC-load-misses,0,100.00,,
+     2.913091051,<not counted>,,LLC-loads,0,100.00,,
+     2.913091051,<not counted>,,LLC-store-misses,0,100.00,,
+     2.913091051,<not counted>,,instructions,0,100.00,,
+     3.013538384,184,,LLC-load-misses,187086,100.00,61.54,of all LL-cache accesses
+     3.013538384,299,,LLC-loads,187086,100.00,,
+     3.013538384,<not counted>,,LLC-store-misses,0,0.00,,
+     3.013538384,<not counted>,,instructions,0,0.00,,
+     3.113940800,98,,LLC-load-misses,137801,100.00,52.69,of all LL-cache accesses
+     3.113940800,186,,LLC-loads,137801,100.00,,
+     3.113940800,<not counted>,,LLC-store-misses,0,0.00,,
+     3.113940800,<not counted>,,instructions,0,0.00,,
+     3.214451928,138,,LLC-load-misses,97802,100.00,61.06,of all LL-cache accesses
+     3.214451928,226,,LLC-loads,97802,100.00,,
+     3.214451928,<not counted>,,LLC-store-misses,0,0.00,,
+     3.214451928,<not counted>,,instructions,0,0.00,,
+     3.314911751,139,,LLC-load-misses,127792,100.00,69.85,of all LL-cache accesses
+     3.314911751,199,,LLC-loads,127792,100.00,,
+     3.314911751,<not counted>,,LLC-store-misses,0,0.00,,
+     3.314911751,<not counted>,,instructions,0,0.00,,
+     3.415287377,95,,LLC-load-misses,167123,100.00,30.94,of all LL-cache accesses
+     3.415287377,307,,LLC-loads,167123,100.00,,
+     3.415287377,<not counted>,,LLC-store-misses,0,0.00,,
+     3.415287377,<not counted>,,instructions,0,0.00,,
+     3.515859848,90,,LLC-load-misses,109932,100.00,61.64,of all LL-cache accesses
+     3.515859848,146,,LLC-loads,109932,100.00,,
+     3.515859848,<not counted>,,LLC-store-misses,0,0.00,,
+     3.515859848,<not counted>,,instructions,0,0.00,,
+     3.616169606,61,,LLC-load-misses,83357,100.00,45.52,of all LL-cache accesses
+     3.616169606,134,,LLC-loads,83357,100.00,,
+     3.616169606,<not counted>,,LLC-store-misses,0,0.00,,
+     3.616169606,<not counted>,,instructions,0,0.00,,
+     3.716673572,164,,LLC-load-misses,180533,100.00,43.39,of all LL-cache accesses
+     3.716673572,378,,LLC-loads,180533,100.00,,
+     3.716673572,<not counted>,,LLC-store-misses,0,0.00,,
+     3.716673572,<not counted>,,instructions,0,0.00,,
+     3.817246728,56,,LLC-load-misses,57924,100.00,64.37,of all LL-cache accesses
+     3.817246728,87,,LLC-loads,57924,100.00,,
+     3.817246728,<not counted>,,LLC-store-misses,0,0.00,,
+     3.817246728,<not counted>,,instructions,0,0.00,,
+     3.917619850,45,,LLC-load-misses,53385,100.00,67.16,of all LL-cache accesses
+     3.917619850,67,,LLC-loads,53385,100.00,,
+     3.917619850,<not counted>,,LLC-store-misses,0,0.00,,
+     3.917619850,<not counted>,,instructions,0,0.00,,
+     4.018177261,130,,LLC-load-misses,142399,100.00,59.36,of all LL-cache accesses
+     4.018177261,219,,LLC-loads,142399,100.00,,
+     4.018177261,<not counted>,,LLC-store-misses,0,0.00,,
+     4.018177261,<not counted>,,instructions,0,0.00,,
+     4.118514322,57,,LLC-load-misses,58363,100.00,83.82,of all LL-cache accesses
+     4.118514322,68,,LLC-loads,58363,100.00,,
+     4.118514322,<not counted>,,LLC-store-misses,0,0.00,,
+     4.118514322,<not counted>,,instructions,0,0.00,,
+     4.218940303,157,,LLC-load-misses,145726,100.00,50.48,of all LL-cache accesses
+     4.218940303,311,,LLC-loads,145726,100.00,,
+     4.218940303,<not counted>,,LLC-store-misses,0,0.00,,
+     4.218940303,<not counted>,,instructions,0,0.00,,
+     4.319320915,61,,LLC-load-misses,81554,100.00,51.69,of all LL-cache accesses
+     4.319320915,118,,LLC-loads,81554,100.00,,
+     4.319320915,<not counted>,,LLC-store-misses,0,0.00,,
+     4.319320915,<not counted>,,instructions,0,0.00,,
+     4.419856766,115,,LLC-load-misses,141400,100.00,54.50,of all LL-cache accesses
+     4.419856766,211,,LLC-loads,141400,100.00,,
+     4.419856766,<not counted>,,LLC-store-misses,0,0.00,,
+     4.419856766,<not counted>,,instructions,0,0.00,,
+     4.520405149,84,,LLC-load-misses,84992,100.00,61.76,of all LL-cache accesses
+     4.520405149,136,,LLC-loads,84992,100.00,,
+     4.520405149,<not counted>,,LLC-store-misses,0,0.00,,
+     4.520405149,<not counted>,,instructions,0,0.00,,
+     4.620873005,63,,LLC-load-misses,84850,100.00,50.40,of all LL-cache accesses
+     4.620873005,125,,LLC-loads,84850,100.00,,
+     4.620873005,<not counted>,,LLC-store-misses,0,0.00,,
+     4.620873005,<not counted>,,instructions,0,0.00,,
+     4.721399127,163,,LLC-load-misses,203045,100.00,56.40,of all LL-cache accesses
+     4.721399127,289,,LLC-loads,203045,100.00,,
+     4.721399127,<not counted>,,LLC-store-misses,0,0.00,,
+     4.721399127,<not counted>,,instructions,0,0.00,,
+     4.821762484,46,,LLC-load-misses,53096,100.00,54.76,of all LL-cache accesses
+     4.821762484,84,,LLC-loads,53096,100.00,,
+     4.821762484,<not counted>,,LLC-store-misses,0,0.00,,
+     4.821762484,<not counted>,,instructions,0,0.00,,
+     4.922299966,73,,LLC-load-misses,79738,100.00,54.89,of all LL-cache accesses
+     4.922299966,133,,LLC-loads,79738,100.00,,
+     4.922299966,<not counted>,,LLC-store-misses,0,0.00,,
+     4.922299966,<not counted>,,instructions,0,0.00,,
+     5.022718455,105,,LLC-load-misses,110044,100.00,67.74,of all LL-cache accesses
+     5.022718455,155,,LLC-loads,110044,100.00,,
+     5.022718455,<not counted>,,LLC-store-misses,0,0.00,,
+     5.022718455,<not counted>,,instructions,0,0.00,,
+     5.123277818,57,,LLC-load-misses,70568,100.00,64.04,of all LL-cache accesses
+     5.123277818,89,,LLC-loads,70568,100.00,,
+     5.123277818,<not counted>,,LLC-store-misses,0,0.00,,
+     5.123277818,<not counted>,,instructions,0,0.00,,
+     5.223782604,165,,LLC-load-misses,95342,100.00,64.45,of all LL-cache accesses
+     5.223782604,256,,LLC-loads,95342,100.00,,
+     5.223782604,<not counted>,,LLC-store-misses,0,0.00,,
+     5.223782604,<not counted>,,instructions,0,0.00,,
+     5.324207669,<not counted>,,LLC-load-misses,0,100.00,,
+     5.324207669,<not counted>,,LLC-loads,0,100.00,,
+     5.324207669,<not counted>,,LLC-store-misses,0,100.00,,
+     5.324207669,<not counted>,,instructions,0,100.00,,
+     5.424705241,72,,LLC-load-misses,96160,100.00,42.86,of all LL-cache accesses
+     5.424705241,168,,LLC-loads,96160,100.00,,
+     5.424705241,<not counted>,,LLC-store-misses,0,0.00,,
+     5.424705241,<not counted>,,instructions,0,0.00,,
+     5.525135358,275,,LLC-load-misses,241011,100.00,54.56,of all LL-cache accesses
+     5.525135358,504,,LLC-loads,241011,100.00,,
+     5.525135358,<not counted>,,LLC-store-misses,0,0.00,,
+     5.525135358,<not counted>,,instructions,0,0.00,,
+     5.625677218,34,,LLC-load-misses,28005,100.00,85.00,of all LL-cache accesses
+     5.625677218,40,,LLC-loads,28005,100.00,,
+     5.625677218,<not counted>,,LLC-store-misses,0,0.00,,
+     5.625677218,<not counted>,,instructions,0,0.00,,
+     5.726212780,111,,LLC-load-misses,115727,100.00,63.07,of all LL-cache accesses
+     5.726212780,176,,LLC-loads,115727,100.00,,
+     5.726212780,<not counted>,,LLC-store-misses,0,0.00,,
+     5.726212780,<not counted>,,instructions,0,0.00,,
+     5.826707903,55,,LLC-load-misses,54865,100.00,77.46,of all LL-cache accesses
+     5.826707903,71,,LLC-loads,54865,100.00,,
+     5.826707903,<not counted>,,LLC-store-misses,0,0.00,,
+     5.826707903,<not counted>,,instructions,0,0.00,,
+     5.927260165,<not counted>,,LLC-load-misses,0,100.00,,
+     5.927260165,<not counted>,,LLC-loads,0,100.00,,
+     5.927260165,<not counted>,,LLC-store-misses,0,100.00,,
+     5.927260165,<not counted>,,instructions,0,100.00,,
+     6.027730501,171,,LLC-load-misses,197002,100.00,60.42,of all LL-cache accesses
+     6.027730501,283,,LLC-loads,197002,100.00,,
+     6.027730501,<not counted>,,LLC-store-misses,0,0.00,,
+     6.027730501,<not counted>,,instructions,0,0.00,,
+     6.128102704,192,,LLC-load-misses,247428,100.00,42.38,of all LL-cache accesses
+     6.128102704,453,,LLC-loads,247428,100.00,,
+     6.128102704,<not counted>,,LLC-store-misses,0,0.00,,
+     6.128102704,<not counted>,,instructions,0,0.00,,
+     6.228603443,143,,LLC-load-misses,137336,100.00,50.18,of all LL-cache accesses
+     6.228603443,285,,LLC-loads,137336,100.00,,
+     6.228603443,<not counted>,,LLC-store-misses,0,0.00,,
+     6.228603443,<not counted>,,instructions,0,0.00,,
+     6.329061450,<not counted>,,LLC-load-misses,0,100.00,,
+     6.329061450,<not counted>,,LLC-loads,0,100.00,,
+     6.329061450,<not counted>,,LLC-store-misses,0,100.00,,
+     6.329061450,<not counted>,,instructions,0,100.00,,
+     6.429418652,198,,LLC-load-misses,195774,100.00,43.52,of all LL-cache accesses
+     6.429418652,455,,LLC-loads,195774,100.00,,
+     6.429418652,<not counted>,,LLC-store-misses,0,0.00,,
+     6.429418652,<not counted>,,instructions,0,0.00,,
+     6.529778166,278,,LLC-load-misses,282135,100.00,68.81,of all LL-cache accesses
+     6.529778166,404,,LLC-loads,282135,100.00,,
+     6.529778166,<not counted>,,LLC-store-misses,0,0.00,,
+     6.529778166,<not counted>,,instructions,0,0.00,,
+     6.630324535,100,,LLC-load-misses,144650,100.00,51.55,of all LL-cache accesses
+     6.630324535,194,,LLC-loads,144650,100.00,,
+     6.630324535,<not counted>,,LLC-store-misses,0,0.00,,
+     6.630324535,<not counted>,,instructions,0,0.00,,
+     6.730891067,149,,LLC-load-misses,191427,100.00,47.91,of all LL-cache accesses
+     6.730891067,311,,LLC-loads,191427,100.00,,
+     6.730891067,<not counted>,,LLC-store-misses,0,0.00,,
+     6.730891067,<not counted>,,instructions,0,0.00,,
+     6.831428501,<not counted>,,LLC-load-misses,0,100.00,,
+     6.831428501,<not counted>,,LLC-loads,0,100.00,,
+     6.831428501,<not counted>,,LLC-store-misses,0,100.00,,
+     6.831428501,<not counted>,,instructions,0,100.00,,
+     6.931775143,55,,LLC-load-misses,59749,100.00,65.48,of all LL-cache accesses
+     6.931775143,84,,LLC-loads,59749,100.00,,
+     6.931775143,<not counted>,,LLC-store-misses,0,0.00,,
+     6.931775143,<not counted>,,instructions,0,0.00,,
+     7.032347187,100,,LLC-load-misses,111902,100.00,62.50,of all LL-cache accesses
+     7.032347187,160,,LLC-loads,111902,100.00,,
+     7.032347187,<not counted>,,LLC-store-misses,0,0.00,,
+     7.032347187,<not counted>,,instructions,0,0.00,,
+     7.132885947,42,,LLC-load-misses,57694,100.00,47.19,of all LL-cache accesses
+     7.132885947,89,,LLC-loads,57694,100.00,,
+     7.132885947,<not counted>,,LLC-store-misses,0,0.00,,
+     7.132885947,<not counted>,,instructions,0,0.00,,
+     7.233350981,154,,LLC-load-misses,133189,100.00,59.23,of all LL-cache accesses
+     7.233350981,260,,LLC-loads,133189,100.00,,
+     7.233350981,<not counted>,,LLC-store-misses,0,0.00,,
+     7.233350981,<not counted>,,instructions,0,0.00,,
+     7.333809128,66,,LLC-load-misses,67853,100.00,58.41,of all LL-cache accesses
+     7.333809128,113,,LLC-loads,67853,100.00,,
+     7.333809128,<not counted>,,LLC-store-misses,0,0.00,,
+     7.333809128,<not counted>,,instructions,0,0.00,,
+     7.434197045,<not counted>,,LLC-load-misses,0,100.00,,
+     7.434197045,<not counted>,,LLC-loads,0,100.00,,
+     7.434197045,<not counted>,,LLC-store-misses,0,100.00,,
+     7.434197045,<not counted>,,instructions,0,100.00,,
+     7.534710856,126,,LLC-load-misses,102222,100.00,57.01,of all LL-cache accesses
+     7.534710856,221,,LLC-loads,102222,100.00,,
+     7.534710856,<not counted>,,LLC-store-misses,0,0.00,,
+     7.534710856,<not counted>,,instructions,0,0.00,,
+     7.635250574,46,,LLC-load-misses,50427,100.00,58.23,of all LL-cache accesses
+     7.635250574,79,,LLC-loads,50427,100.00,,
+     7.635250574,<not counted>,,LLC-store-misses,0,0.00,,
+     7.635250574,<not counted>,,instructions,0,0.00,,
+     7.735807386,53,,LLC-load-misses,55505,100.00,62.35,of all LL-cache accesses
+     7.735807386,85,,LLC-loads,55505,100.00,,
+     7.735807386,<not counted>,,LLC-store-misses,0,0.00,,
+     7.735807386,<not counted>,,instructions,0,0.00,,
+     7.836306346,194,,LLC-load-misses,229176,100.00,53.44,of all LL-cache accesses
+     7.836306346,363,,LLC-loads,229176,100.00,,
+     7.836306346,<not counted>,,LLC-store-misses,0,0.00,,
+     7.836306346,<not counted>,,instructions,0,0.00,,
+     7.936791521,53,,LLC-load-misses,81403,100.00,44.92,of all LL-cache accesses
+     7.936791521,118,,LLC-loads,81403,100.00,,
+     7.936791521,<not counted>,,LLC-store-misses,0,0.00,,
+     7.936791521,<not counted>,,instructions,0,0.00,,
+     8.037343634,54,,LLC-load-misses,56215,100.00,62.07,of all LL-cache accesses
+     8.037343634,87,,LLC-loads,56215,100.00,,
+     8.037343634,<not counted>,,LLC-store-misses,0,0.00,,
+     8.037343634,<not counted>,,instructions,0,0.00,,
+     8.137883700,39,,LLC-load-misses,56334,100.00,47.56,of all LL-cache accesses
+     8.137883700,82,,LLC-loads,56334,100.00,,
+     8.137883700,<not counted>,,LLC-store-misses,0,0.00,,
+     8.137883700,<not counted>,,instructions,0,0.00,,
+     8.238427884,126,,LLC-load-misses,135279,100.00,64.29,of all LL-cache accesses
+     8.238427884,196,,LLC-loads,135279,100.00,,
+     8.238427884,<not counted>,,LLC-store-misses,0,0.00,,
+     8.238427884,<not counted>,,instructions,0,0.00,,
+     8.338886236,151,,LLC-load-misses,164357,100.00,59.92,of all LL-cache accesses
+     8.338886236,252,,LLC-loads,164357,100.00,,
+     8.338886236,<not counted>,,LLC-store-misses,0,0.00,,
+     8.338886236,<not counted>,,instructions,0,0.00,,
+     8.439279872,57,,LLC-load-misses,119107,100.00,28.36,of all LL-cache accesses
+     8.439279872,201,,LLC-loads,119107,100.00,,
+     8.439279872,<not counted>,,LLC-store-misses,0,0.00,,
+     8.439279872,<not counted>,,instructions,0,0.00,,
+     8.539701914,129,,LLC-load-misses,109428,100.00,50.59,of all LL-cache accesses
+     8.539701914,255,,LLC-loads,109428,100.00,,
+     8.539701914,<not counted>,,LLC-store-misses,0,0.00,,
+     8.539701914,<not counted>,,instructions,0,0.00,,
+     8.640067878,31,,LLC-load-misses,93862,100.00,21.99,of all LL-cache accesses
+     8.640067878,141,,LLC-loads,93862,100.00,,
+     8.640067878,<not counted>,,LLC-store-misses,0,0.00,,
+     8.640067878,<not counted>,,instructions,0,0.00,,
+     8.740624507,105,,LLC-load-misses,140040,100.00,53.57,of all LL-cache accesses
+     8.740624507,196,,LLC-loads,140040,100.00,,
+     8.740624507,<not counted>,,LLC-store-misses,0,0.00,,
+     8.740624507,<not counted>,,instructions,0,0.00,,
+     8.841177642,<not counted>,,LLC-load-misses,0,100.00,,
+     8.841177642,<not counted>,,LLC-loads,0,100.00,,
+     8.841177642,<not counted>,,LLC-store-misses,0,100.00,,
+     8.841177642,<not counted>,,instructions,0,100.00,,
+     8.941656482,43,,LLC-load-misses,58008,100.00,50.59,of all LL-cache accesses
+     8.941656482,85,,LLC-loads,58008,100.00,,
+     8.941656482,<not counted>,,LLC-store-misses,0,0.00,,
+     8.941656482,<not counted>,,instructions,0,0.00,,
+     9.042206606,107,,LLC-load-misses,142852,100.00,50.71,of all LL-cache accesses
+     9.042206606,211,,LLC-loads,142852,100.00,,
+     9.042206606,<not counted>,,LLC-store-misses,0,0.00,,
+     9.042206606,<not counted>,,instructions,0,0.00,,
+     9.142694198,43,,LLC-load-misses,54374,100.00,47.78,of all LL-cache accesses
+     9.142694198,90,,LLC-loads,54374,100.00,,
+     9.142694198,<not counted>,,LLC-store-misses,0,0.00,,
+     9.142694198,<not counted>,,instructions,0,0.00,,
+     9.243143537,57,,LLC-load-misses,20146,100.00,63.33,of all LL-cache accesses
+     9.243143537,90,,LLC-loads,20146,100.00,,
+     9.243143537,<not counted>,,LLC-store-misses,0,0.00,,
+     9.243143537,<not counted>,,instructions,0,0.00,,
+     9.343508715,166,,LLC-load-misses,160750,100.00,66.94,of all LL-cache accesses
+     9.343508715,248,,LLC-loads,160750,100.00,,
+     9.343508715,<not counted>,,LLC-store-misses,0,0.00,,
+     9.343508715,<not counted>,,instructions,0,0.00,,
+     9.444054752,<not counted>,,LLC-load-misses,0,100.00,,
+     9.444054752,<not counted>,,LLC-loads,0,100.00,,
+     9.444054752,<not counted>,,LLC-store-misses,0,100.00,,
+     9.444054752,<not counted>,,instructions,0,100.00,,
+     9.544579785,136,,LLC-load-misses,162143,100.00,55.28,of all LL-cache accesses
+     9.544579785,246,,LLC-loads,162143,100.00,,
+     9.544579785,<not counted>,,LLC-store-misses,0,0.00,,
+     9.544579785,<not counted>,,instructions,0,0.00,,
+     9.645095583,146,,LLC-load-misses,212722,100.00,35.87,of all LL-cache accesses
+     9.645095583,407,,LLC-loads,212722,100.00,,
+     9.645095583,<not counted>,,LLC-store-misses,0,0.00,,
+     9.645095583,<not counted>,,instructions,0,0.00,,
+     9.745459110,175,,LLC-load-misses,192611,100.00,68.90,of all LL-cache accesses
+     9.745459110,254,,LLC-loads,192611,100.00,,
+     9.745459110,<not counted>,,LLC-store-misses,0,0.00,,
+     9.745459110,<not counted>,,instructions,0,0.00,,
+     9.845999998,<not counted>,,LLC-load-misses,0,100.00,,
+     9.845999998,<not counted>,,LLC-loads,0,100.00,,
+     9.845999998,<not counted>,,LLC-store-misses,0,100.00,,
+     9.845999998,<not counted>,,instructions,0,100.00,,
+     9.946532734,54,,LLC-load-misses,53198,100.00,61.36,of all LL-cache accesses
+     9.946532734,88,,LLC-loads,53198,100.00,,
+     9.946532734,<not counted>,,LLC-store-misses,0,0.00,,
+     9.946532734,<not counted>,,instructions,0,0.00,,
+    10.047097361,86,,LLC-load-misses,85534,100.00,72.88,of all LL-cache accesses
+    10.047097361,118,,LLC-loads,85534,100.00,,
+    10.047097361,<not counted>,,LLC-store-misses,0,0.00,,
+    10.047097361,<not counted>,,instructions,0,0.00,,
+    10.147653450,47,,LLC-load-misses,56372,100.00,54.65,of all LL-cache accesses
+    10.147653450,86,,LLC-loads,56372,100.00,,
+    10.147653450,<not counted>,,LLC-store-misses,0,0.00,,
+    10.147653450,<not counted>,,instructions,0,0.00,,
+    10.248108487,133,,LLC-load-misses,163578,100.00,45.08,of all LL-cache accesses
+    10.248108487,295,,LLC-loads,163578,100.00,,
+    10.248108487,<not counted>,,LLC-store-misses,0,0.00,,
+    10.248108487,<not counted>,,instructions,0,0.00,,
+    10.348465009,42,,LLC-load-misses,52195,100.00,73.68,of all LL-cache accesses
+    10.348465009,57,,LLC-loads,52195,100.00,,
+    10.348465009,<not counted>,,LLC-store-misses,0,0.00,,
+    10.348465009,<not counted>,,instructions,0,0.00,,
+    10.448816038,<not counted>,,LLC-load-misses,0,100.00,,
+    10.448816038,<not counted>,,LLC-loads,0,100.00,,
+    10.448816038,<not counted>,,LLC-store-misses,0,100.00,,
+    10.448816038,<not counted>,,instructions,0,100.00,,
+    10.549331738,225,,LLC-load-misses,232756,100.00,38.01,of all LL-cache accesses
+    10.549331738,592,,LLC-loads,232756,100.00,,
+    10.549331738,<not counted>,,LLC-store-misses,0,0.00,,
+    10.549331738,<not counted>,,instructions,0,0.00,,
+    10.649869982,128,,LLC-load-misses,139393,100.00,66.67,of all LL-cache accesses
+    10.649869982,192,,LLC-loads,139393,100.00,,
+    10.649869982,<not counted>,,LLC-store-misses,0,0.00,,
+    10.649869982,<not counted>,,instructions,0,0.00,,
+    10.750189838,59,,LLC-load-misses,57135,100.00,81.94,of all LL-cache accesses
+    10.750189838,72,,LLC-loads,57135,100.00,,
+    10.750189838,<not counted>,,LLC-store-misses,0,0.00,,
+    10.750189838,<not counted>,,instructions,0,0.00,,
+    10.850747655,97,,LLC-load-misses,135921,100.00,52.15,of all LL-cache accesses
+    10.850747655,186,,LLC-loads,135921,100.00,,
+    10.850747655,<not counted>,,LLC-store-misses,0,0.00,,
+    10.850747655,<not counted>,,instructions,0,0.00,,
+    10.951111818,30,,LLC-load-misses,27077,100.00,69.77,of all LL-cache accesses
+    10.951111818,43,,LLC-loads,27077,100.00,,
+    10.951111818,<not counted>,,LLC-store-misses,0,0.00,,
+    10.951111818,<not counted>,,instructions,0,0.00,,
+    11.051654805,124,,LLC-load-misses,165509,100.00,59.05,of all LL-cache accesses
+    11.051654805,210,,LLC-loads,165509,100.00,,
+    11.051654805,<not counted>,,LLC-store-misses,0,0.00,,
+    11.051654805,<not counted>,,instructions,0,0.00,,
+    11.152141538,126,,LLC-load-misses,199786,100.00,33.42,of all LL-cache accesses
+    11.152141538,377,,LLC-loads,199786,100.00,,
+    11.152141538,<not counted>,,LLC-store-misses,0,0.00,,
+    11.152141538,<not counted>,,instructions,0,0.00,,
+    11.252589694,87,,LLC-load-misses,61982,100.00,61.70,of all LL-cache accesses
+    11.252589694,141,,LLC-loads,61982,100.00,,
+    11.252589694,<not counted>,,LLC-store-misses,0,0.00,,
+    11.252589694,<not counted>,,instructions,0,0.00,,
+    11.353105595,53,,LLC-load-misses,91799,100.00,37.86,of all LL-cache accesses
+    11.353105595,140,,LLC-loads,91799,100.00,,
+    11.353105595,<not counted>,,LLC-store-misses,0,0.00,,
+    11.353105595,<not counted>,,instructions,0,0.00,,
+    11.453432994,233,,LLC-load-misses,178886,100.00,40.66,of all LL-cache accesses
+    11.453432994,573,,LLC-loads,178886,100.00,,
+    11.453432994,<not counted>,,LLC-store-misses,0,0.00,,
+    11.453432994,<not counted>,,instructions,0,0.00,,
+    11.553683108,204,,LLC-load-misses,189215,100.00,51.13,of all LL-cache accesses
+    11.553683108,399,,LLC-loads,189215,100.00,,
+    11.553683108,<not counted>,,LLC-store-misses,0,0.00,,
+    11.553683108,<not counted>,,instructions,0,0.00,,
+    11.654221321,67,,LLC-load-misses,78911,100.00,57.26,of all LL-cache accesses
+    11.654221321,117,,LLC-loads,78911,100.00,,
+    11.654221321,<not counted>,,LLC-store-misses,0,0.00,,
+    11.654221321,<not counted>,,instructions,0,0.00,,
+    11.754769839,134,,LLC-load-misses,140332,100.00,71.66,of all LL-cache accesses
+    11.754769839,187,,LLC-loads,140332,100.00,,
+    11.754769839,<not counted>,,LLC-store-misses,0,0.00,,
+    11.754769839,<not counted>,,instructions,0,0.00,,
+    11.855110012,29,,LLC-load-misses,26657,100.00,70.73,of all LL-cache accesses
+    11.855110012,41,,LLC-loads,26657,100.00,,
+    11.855110012,<not counted>,,LLC-store-misses,0,0.00,,
+    11.855110012,<not counted>,,instructions,0,0.00,,
+    11.955576506,57,,LLC-load-misses,84779,100.00,55.34,of all LL-cache accesses
+    11.955576506,103,,LLC-loads,84779,100.00,,
+    11.955576506,<not counted>,,LLC-store-misses,0,0.00,,
+    11.955576506,<not counted>,,instructions,0,0.00,,
+    12.055966366,40,,LLC-load-misses,30005,100.00,81.63,of all LL-cache accesses
+    12.055966366,49,,LLC-loads,30005,100.00,,
+    12.055966366,<not counted>,,LLC-store-misses,0,0.00,,
+    12.055966366,<not counted>,,instructions,0,0.00,,
+    12.156529739,31,,LLC-load-misses,58950,100.00,41.33,of all LL-cache accesses
+    12.156529739,75,,LLC-loads,58950,100.00,,
+    12.156529739,<not counted>,,LLC-store-misses,0,0.00,,
+    12.156529739,<not counted>,,instructions,0,0.00,,
+    12.257061945,104,,LLC-load-misses,142368,100.00,41.27,of all LL-cache accesses
+    12.257061945,252,,LLC-loads,142368,100.00,,
+    12.257061945,<not counted>,,LLC-store-misses,0,0.00,,
+    12.257061945,<not counted>,,instructions,0,0.00,,
+    12.357490959,<not counted>,,LLC-load-misses,0,100.00,,
+    12.357490959,<not counted>,,LLC-loads,0,100.00,,
+    12.357490959,<not counted>,,LLC-store-misses,0,100.00,,
+    12.357490959,<not counted>,,instructions,0,100.00,,
+    12.457733383,54,,LLC-load-misses,90071,100.00,62.79,of all LL-cache accesses
+    12.457733383,86,,LLC-loads,90071,100.00,,
+    12.457733383,<not counted>,,LLC-store-misses,0,0.00,,
+    12.457733383,<not counted>,,instructions,0,0.00,,
+    12.558102731,101,,LLC-load-misses,114902,100.00,60.48,of all LL-cache accesses
+    12.558102731,167,,LLC-loads,114902,100.00,,
+    12.558102731,<not counted>,,LLC-store-misses,0,0.00,,
+    12.558102731,<not counted>,,instructions,0,0.00,,
+    12.658457379,139,,LLC-load-misses,164745,100.00,49.29,of all LL-cache accesses
+    12.658457379,282,,LLC-loads,164745,100.00,,
+    12.658457379,<not counted>,,LLC-store-misses,0,0.00,,
+    12.658457379,<not counted>,,instructions,0,0.00,,
+    12.758841197,173,,LLC-load-misses,215160,100.00,65.28,of all LL-cache accesses
+    12.758841197,265,,LLC-loads,215160,100.00,,
+    12.758841197,<not counted>,,LLC-store-misses,0,0.00,,
+    12.758841197,<not counted>,,instructions,0,0.00,,
+    12.859207486,146,,LLC-load-misses,138448,100.00,65.18,of all LL-cache accesses
+    12.859207486,224,,LLC-loads,138448,100.00,,
+    12.859207486,<not counted>,,LLC-store-misses,0,0.00,,
+    12.859207486,<not counted>,,instructions,0,0.00,,
+    12.959673469,54,,LLC-load-misses,85396,100.00,50.00,of all LL-cache accesses
+    12.959673469,108,,LLC-loads,85396,100.00,,
+    12.959673469,<not counted>,,LLC-store-misses,0,0.00,,
+    12.959673469,<not counted>,,instructions,0,0.00,,
+    13.060050079,41,,LLC-load-misses,30534,100.00,83.67,of all LL-cache accesses
+    13.060050079,49,,LLC-loads,30534,100.00,,
+    13.060050079,<not counted>,,LLC-store-misses,0,0.00,,
+    13.060050079,<not counted>,,instructions,0,0.00,,
+    13.160523769,41,,LLC-load-misses,53222,100.00,51.90,of all LL-cache accesses
+    13.160523769,79,,LLC-loads,53222,100.00,,
+    13.160523769,<not counted>,,LLC-store-misses,0,0.00,,
+    13.160523769,<not counted>,,instructions,0,0.00,,
+    13.261048952,131,,LLC-load-misses,104465,100.00,46.45,of all LL-cache accesses
+    13.261048952,282,,LLC-loads,104465,100.00,,
+    13.261048952,<not counted>,,LLC-store-misses,0,0.00,,
+    13.261048952,<not counted>,,instructions,0,0.00,,
+    13.361534368,132,,LLC-load-misses,140060,100.00,56.41,of all LL-cache accesses
+    13.361534368,234,,LLC-loads,140060,100.00,,
+    13.361534368,<not counted>,,LLC-store-misses,0,0.00,,
+    13.361534368,<not counted>,,instructions,0,0.00,,
+    13.462075845,40,,LLC-load-misses,82202,100.00,37.04,of all LL-cache accesses
+    13.462075845,108,,LLC-loads,82202,100.00,,
+    13.462075845,<not counted>,,LLC-store-misses,0,0.00,,
+    13.462075845,<not counted>,,instructions,0,0.00,,
+    13.562545277,114,,LLC-load-misses,116949,100.00,68.26,of all LL-cache accesses
+    13.562545277,167,,LLC-loads,116949,100.00,,
+    13.562545277,<not counted>,,LLC-store-misses,0,0.00,,
+    13.562545277,<not counted>,,instructions,0,0.00,,
+    13.662850576,130,,LLC-load-misses,205524,100.00,44.52,of all LL-cache accesses
+    13.662850576,292,,LLC-loads,205524,100.00,,
+    13.662850576,<not counted>,,LLC-store-misses,0,0.00,,
+    13.662850576,<not counted>,,instructions,0,0.00,,
+    13.763385946,98,,LLC-load-misses,130417,100.00,42.06,of all LL-cache accesses
+    13.763385946,233,,LLC-loads,130417,100.00,,
+    13.763385946,<not counted>,,LLC-store-misses,0,0.00,,
+    13.763385946,<not counted>,,instructions,0,0.00,,
+    13.863778310,47,,LLC-load-misses,61137,100.00,65.28,of all LL-cache accesses
+    13.863778310,72,,LLC-loads,61137,100.00,,
+    13.863778310,<not counted>,,LLC-store-misses,0,0.00,,
+    13.863778310,<not counted>,,instructions,0,0.00,,
+    13.964145101,103,,LLC-load-misses,109293,100.00,59.20,of all LL-cache accesses
+    13.964145101,174,,LLC-loads,109293,100.00,,
+    13.964145101,<not counted>,,LLC-store-misses,0,0.00,,
+    13.964145101,<not counted>,,instructions,0,0.00,,
+    14.064651875,31,,LLC-load-misses,51491,100.00,37.80,of all LL-cache accesses
+    14.064651875,82,,LLC-loads,51491,100.00,,
+    14.064651875,<not counted>,,LLC-store-misses,0,0.00,,
+    14.064651875,<not counted>,,instructions,0,0.00,,
+    14.165025488,<not counted>,,LLC-load-misses,0,100.00,,
+    14.165025488,<not counted>,,LLC-loads,0,100.00,,
+    14.165025488,<not counted>,,LLC-store-misses,0,100.00,,
+    14.165025488,<not counted>,,instructions,0,100.00,,
+    14.265536716,171,,LLC-load-misses,195151,100.00,57.97,of all LL-cache accesses
+    14.265536716,295,,LLC-loads,195151,100.00,,
+    14.265536716,<not counted>,,LLC-store-misses,0,0.00,,
+    14.265536716,<not counted>,,instructions,0,0.00,,
+    14.366085086,98,,LLC-load-misses,107484,100.00,57.65,of all LL-cache accesses
+    14.366085086,170,,LLC-loads,107484,100.00,,
+    14.366085086,<not counted>,,LLC-store-misses,0,0.00,,
+    14.366085086,<not counted>,,instructions,0,0.00,,
+    14.466521959,149,,LLC-load-misses,120155,100.00,50.51,of all LL-cache accesses
+    14.466521959,295,,LLC-loads,120155,100.00,,
+    14.466521959,<not counted>,,LLC-store-misses,0,0.00,,
+    14.466521959,<not counted>,,instructions,0,0.00,,
+    14.566790911,175,,LLC-load-misses,148702,100.00,70.28,of all LL-cache accesses
+    14.566790911,249,,LLC-loads,148702,100.00,,
+    14.566790911,<not counted>,,LLC-store-misses,0,0.00,,
+    14.566790911,<not counted>,,instructions,0,0.00,,
+    14.667114202,202,,LLC-load-misses,239328,100.00,60.48,of all LL-cache accesses
+    14.667114202,334,,LLC-loads,239328,100.00,,
+    14.667114202,<not counted>,,LLC-store-misses,0,0.00,,
+    14.667114202,<not counted>,,instructions,0,0.00,,
+    14.767654665,107,,LLC-load-misses,134436,100.00,54.31,of all LL-cache accesses
+    14.767654665,197,,LLC-loads,134436,100.00,,
+    14.767654665,<not counted>,,LLC-store-misses,0,0.00,,
+    14.767654665,<not counted>,,instructions,0,0.00,,
+    14.868188030,69,,LLC-load-misses,80195,100.00,62.73,of all LL-cache accesses
+    14.868188030,110,,LLC-loads,80195,100.00,,
+    14.868188030,<not counted>,,LLC-store-misses,0,0.00,,
+    14.868188030,<not counted>,,instructions,0,0.00,,
+    14.968710080,44,,LLC-load-misses,54832,100.00,52.38,of all LL-cache accesses
+    14.968710080,84,,LLC-loads,54832,100.00,,
+    14.968710080,<not counted>,,LLC-store-misses,0,0.00,,
+    14.968710080,<not counted>,,instructions,0,0.00,,
+    15.069210217,102,,LLC-load-misses,112906,100.00,71.83,of all LL-cache accesses
+    15.069210217,142,,LLC-loads,112906,100.00,,
+    15.069210217,<not counted>,,LLC-store-misses,0,0.00,,
+    15.069210217,<not counted>,,instructions,0,0.00,,
+    15.169699384,40,,LLC-load-misses,52569,100.00,66.67,of all LL-cache accesses
+    15.169699384,60,,LLC-loads,52569,100.00,,
+    15.169699384,<not counted>,,LLC-store-misses,0,0.00,,
+    15.169699384,<not counted>,,instructions,0,0.00,,
+    15.270238441,100,,LLC-load-misses,102957,100.00,64.10,of all LL-cache accesses
+    15.270238441,156,,LLC-loads,102957,100.00,,
+    15.270238441,<not counted>,,LLC-store-misses,0,0.00,,
+    15.270238441,<not counted>,,instructions,0,0.00,,
+    15.370826133,109,,LLC-load-misses,61980,100.00,61.24,of all LL-cache accesses
+    15.370826133,178,,LLC-loads,61980,100.00,,
+    15.370826133,<not counted>,,LLC-store-misses,0,0.00,,
+    15.370826133,<not counted>,,instructions,0,0.00,,
+    15.471377131,53,,LLC-load-misses,53766,100.00,70.67,of all LL-cache accesses
+    15.471377131,75,,LLC-loads,53766,100.00,,
+    15.471377131,<not counted>,,LLC-store-misses,0,0.00,,
+    15.471377131,<not counted>,,instructions,0,0.00,,
+    15.571955882,50,,LLC-load-misses,52552,100.00,58.82,of all LL-cache accesses
+    15.571955882,85,,LLC-loads,52552,100.00,,
+    15.571955882,<not counted>,,LLC-store-misses,0,0.00,,
+    15.571955882,<not counted>,,instructions,0,0.00,,
+    15.672453756,192,,LLC-load-misses,227609,100.00,52.60,of all LL-cache accesses
+    15.672453756,365,,LLC-loads,227609,100.00,,
+    15.672453756,<not counted>,,LLC-store-misses,0,0.00,,
+    15.672453756,<not counted>,,instructions,0,0.00,,
+    15.772954005,183,,LLC-load-misses,190588,100.00,64.44,of all LL-cache accesses
+    15.772954005,284,,LLC-loads,190588,100.00,,
+    15.772954005,<not counted>,,LLC-store-misses,0,0.00,,
+    15.772954005,<not counted>,,instructions,0,0.00,,
+    15.873497428,<not counted>,,LLC-load-misses,0,100.00,,
+    15.873497428,<not counted>,,LLC-loads,0,100.00,,
+    15.873497428,<not counted>,,LLC-store-misses,0,100.00,,
+    15.873497428,<not counted>,,instructions,0,100.00,,
+    15.973990014,114,,LLC-load-misses,147982,100.00,60.32,of all LL-cache accesses
+    15.973990014,189,,LLC-loads,147982,100.00,,
+    15.973990014,<not counted>,,LLC-store-misses,0,0.00,,
+    15.973990014,<not counted>,,instructions,0,0.00,,
+    16.074549740,48,,LLC-load-misses,62851,100.00,63.16,of all LL-cache accesses
+    16.074549740,76,,LLC-loads,62851,100.00,,
+    16.074549740,<not counted>,,LLC-store-misses,0,0.00,,
+    16.074549740,<not counted>,,instructions,0,0.00,,
+    16.174927838,131,,LLC-load-misses,193221,100.00,39.34,of all LL-cache accesses
+    16.174927838,333,,LLC-loads,193221,100.00,,
+    16.174927838,<not counted>,,LLC-store-misses,0,0.00,,
+    16.174927838,<not counted>,,instructions,0,0.00,,
+    16.275295236,211,,LLC-load-misses,218122,100.00,62.61,of all LL-cache accesses
+    16.275295236,337,,LLC-loads,218122,100.00,,
+    16.275295236,<not counted>,,LLC-store-misses,0,0.00,,
+    16.275295236,<not counted>,,instructions,0,0.00,,
+    16.375661056,<not counted>,,LLC-load-misses,0,100.00,,
+    16.375661056,<not counted>,,LLC-loads,0,100.00,,
+    16.375661056,<not counted>,,LLC-store-misses,0,100.00,,
+    16.375661056,<not counted>,,instructions,0,100.00,,
+    16.476155713,181,,LLC-load-misses,249756,100.00,51.86,of all LL-cache accesses
+    16.476155713,349,,LLC-loads,249756,100.00,,
+    16.476155713,<not counted>,,LLC-store-misses,0,0.00,,
+    16.476155713,<not counted>,,instructions,0,0.00,,
+    16.576694674,66,,LLC-load-misses,82820,100.00,53.23,of all LL-cache accesses
+    16.576694674,124,,LLC-loads,82820,100.00,,
+    16.576694674,<not counted>,,LLC-store-misses,0,0.00,,
+    16.576694674,<not counted>,,instructions,0,0.00,,
+    16.677250308,<not counted>,,LLC-load-misses,0,100.00,,
+    16.677250308,<not counted>,,LLC-loads,0,100.00,,
+    16.677250308,<not counted>,,LLC-store-misses,0,100.00,,
+    16.677250308,<not counted>,,instructions,0,100.00,,
+    16.777591303,94,,LLC-load-misses,110765,100.00,54.97,of all LL-cache accesses
+    16.777591303,171,,LLC-loads,110765,100.00,,
+    16.777591303,<not counted>,,LLC-store-misses,0,0.00,,
+    16.777591303,<not counted>,,instructions,0,0.00,,
+    16.878108479,122,,LLC-load-misses,138154,100.00,62.56,of all LL-cache accesses
+    16.878108479,195,,LLC-loads,138154,100.00,,
+    16.878108479,<not counted>,,LLC-store-misses,0,0.00,,
+    16.878108479,<not counted>,,instructions,0,0.00,,
+    16.978653262,117,,LLC-load-misses,139424,100.00,54.93,of all LL-cache accesses
+    16.978653262,213,,LLC-loads,139424,100.00,,
+    16.978653262,<not counted>,,LLC-store-misses,0,0.00,,
+    16.978653262,<not counted>,,instructions,0,0.00,,
+    17.079198551,58,,LLC-load-misses,54917,100.00,63.74,of all LL-cache accesses
+    17.079198551,91,,LLC-loads,54917,100.00,,
+    17.079198551,<not counted>,,LLC-store-misses,0,0.00,,
+    17.079198551,<not counted>,,instructions,0,0.00,,
+    17.179576324,108,,LLC-load-misses,110833,100.00,62.79,of all LL-cache accesses
+    17.179576324,172,,LLC-loads,110833,100.00,,
+    17.179576324,<not counted>,,LLC-store-misses,0,0.00,,
+    17.179576324,<not counted>,,instructions,0,0.00,,
+    17.280098738,112,,LLC-load-misses,104971,100.00,62.92,of all LL-cache accesses
+    17.280098738,178,,LLC-loads,104971,100.00,,
+    17.280098738,<not counted>,,LLC-store-misses,0,0.00,,
+    17.280098738,<not counted>,,instructions,0,0.00,,
+    17.380452116,51,,LLC-load-misses,84270,100.00,47.66,of all LL-cache accesses
+    17.380452116,107,,LLC-loads,84270,100.00,,
+    17.380452116,<not counted>,,LLC-store-misses,0,0.00,,
+    17.380452116,<not counted>,,instructions,0,0.00,,
+    17.480745879,124,,LLC-load-misses,128993,100.00,39.74,of all LL-cache accesses
+    17.480745879,312,,LLC-loads,128993,100.00,,
+    17.480745879,<not counted>,,LLC-store-misses,0,0.00,,
+    17.480745879,<not counted>,,instructions,0,0.00,,
+    17.581191680,139,,LLC-load-misses,135746,100.00,47.77,of all LL-cache accesses
+    17.581191680,291,,LLC-loads,135746,100.00,,
+    17.581191680,<not counted>,,LLC-store-misses,0,0.00,,
+    17.581191680,<not counted>,,instructions,0,0.00,,
+    17.681549332,42,,LLC-load-misses,54308,100.00,47.73,of all LL-cache accesses
+    17.681549332,88,,LLC-loads,54308,100.00,,
+    17.681549332,<not counted>,,LLC-store-misses,0,0.00,,
+    17.681549332,<not counted>,,instructions,0,0.00,,
+    17.781922493,97,,LLC-load-misses,111331,100.00,58.43,of all LL-cache accesses
+    17.781922493,166,,LLC-loads,111331,100.00,,
+    17.781922493,<not counted>,,LLC-store-misses,0,0.00,,
+    17.781922493,<not counted>,,instructions,0,0.00,,
+    17.882265102,147,,LLC-load-misses,165991,100.00,59.51,of all LL-cache accesses
+    17.882265102,247,,LLC-loads,165991,100.00,,
+    17.882265102,<not counted>,,LLC-store-misses,0,0.00,,
+    17.882265102,<not counted>,,instructions,0,0.00,,
+    17.982803151,65,,LLC-load-misses,79800,100.00,56.52,of all LL-cache accesses
+    17.982803151,115,,LLC-loads,79800,100.00,,
+    17.982803151,<not counted>,,LLC-store-misses,0,0.00,,
+    17.982803151,<not counted>,,instructions,0,0.00,,
+    18.083346408,105,,LLC-load-misses,110842,100.00,61.76,of all LL-cache accesses
+    18.083346408,170,,LLC-loads,110842,100.00,,
+    18.083346408,<not counted>,,LLC-store-misses,0,0.00,,
+    18.083346408,<not counted>,,instructions,0,0.00,,
+    18.183887168,43,,LLC-load-misses,53099,100.00,51.19,of all LL-cache accesses
+    18.183887168,84,,LLC-loads,53099,100.00,,
+    18.183887168,<not counted>,,LLC-store-misses,0,0.00,,
+    18.183887168,<not counted>,,instructions,0,0.00,,
+    18.284258141,159,,LLC-load-misses,96897,100.00,66.53,of all LL-cache accesses
+    18.284258141,239,,LLC-loads,96897,100.00,,
+    18.284258141,<not counted>,,LLC-store-misses,0,0.00,,
+    18.284258141,<not counted>,,instructions,0,0.00,,
+    18.384708889,83,,LLC-load-misses,74124,100.00,49.40,of all LL-cache accesses
+    18.384708889,168,,LLC-loads,74124,100.00,,
+    18.384708889,<not counted>,,LLC-store-misses,0,0.00,,
+    18.384708889,<not counted>,,instructions,0,0.00,,
+    18.485028442,74,,LLC-load-misses,114732,100.00,46.25,of all LL-cache accesses
+    18.485028442,160,,LLC-loads,114732,100.00,,
+    18.485028442,<not counted>,,LLC-store-misses,0,0.00,,
+    18.485028442,<not counted>,,instructions,0,0.00,,
+    18.585579918,35,,LLC-load-misses,53032,100.00,51.47,of all LL-cache accesses
+    18.585579918,68,,LLC-loads,53032,100.00,,
+    18.585579918,<not counted>,,LLC-store-misses,0,0.00,,
+    18.585579918,<not counted>,,instructions,0,0.00,,
+    18.686125372,143,,LLC-load-misses,262120,100.00,29.18,of all LL-cache accesses
+    18.686125372,490,,LLC-loads,262120,100.00,,
+    18.686125372,<not counted>,,LLC-store-misses,0,0.00,,
+    18.686125372,<not counted>,,instructions,0,0.00,,
+    18.786675937,95,,LLC-load-misses,117482,100.00,54.91,of all LL-cache accesses
+    18.786675937,173,,LLC-loads,117482,100.00,,
+    18.786675937,<not counted>,,LLC-store-misses,0,0.00,,
+    18.786675937,<not counted>,,instructions,0,0.00,,
+    18.887219926,55,,LLC-load-misses,55922,100.00,60.44,of all LL-cache accesses
+    18.887219926,91,,LLC-loads,55922,100.00,,
+    18.887219926,<not counted>,,LLC-store-misses,0,0.00,,
+    18.887219926,<not counted>,,instructions,0,0.00,,
+    18.987616943,84,,LLC-load-misses,118651,100.00,56.76,of all LL-cache accesses
+    18.987616943,148,,LLC-loads,118651,100.00,,
+    18.987616943,<not counted>,,LLC-store-misses,0,0.00,,
+    18.987616943,<not counted>,,instructions,0,0.00,,
+    19.088119566,<not counted>,,LLC-load-misses,0,100.00,,
+    19.088119566,<not counted>,,LLC-loads,0,100.00,,
+    19.088119566,<not counted>,,LLC-store-misses,0,100.00,,
+    19.088119566,<not counted>,,instructions,0,100.00,,
+    19.188655902,51,,LLC-load-misses,56812,100.00,68.92,of all LL-cache accesses
+    19.188655902,74,,LLC-loads,56812,100.00,,
+    19.188655902,<not counted>,,LLC-store-misses,0,0.00,,
+    19.188655902,<not counted>,,instructions,0,0.00,,
+    19.289217200,240,,LLC-load-misses,301917,100.00,48.48,of all LL-cache accesses
+    19.289217200,495,,LLC-loads,301917,100.00,,
+    19.289217200,<not counted>,,LLC-store-misses,0,0.00,,
+    19.289217200,<not counted>,,instructions,0,0.00,,
+    19.389746408,184,,LLC-load-misses,189693,100.00,64.79,of all LL-cache accesses
+    19.389746408,284,,LLC-loads,189693,100.00,,
+    19.389746408,<not counted>,,LLC-store-misses,0,0.00,,
+    19.389746408,<not counted>,,instructions,0,0.00,,
+    19.490297783,111,,LLC-load-misses,92054,100.00,56.63,of all LL-cache accesses
+    19.490297783,196,,LLC-loads,92054,100.00,,
+    19.490297783,<not counted>,,LLC-store-misses,0,0.00,,
+    19.490297783,<not counted>,,instructions,0,0.00,,
+    19.590664394,49,,LLC-load-misses,53750,100.00,62.82,of all LL-cache accesses
+    19.590664394,78,,LLC-loads,53750,100.00,,
+    19.590664394,<not counted>,,LLC-store-misses,0,0.00,,
+    19.590664394,<not counted>,,instructions,0,0.00,,
+    19.691212228,189,,LLC-load-misses,226372,100.00,50.53,of all LL-cache accesses
+    19.691212228,374,,LLC-loads,226372,100.00,,
+    19.691212228,<not counted>,,LLC-store-misses,0,0.00,,
+    19.691212228,<not counted>,,instructions,0,0.00,,
+    19.791678763,145,,LLC-load-misses,158966,100.00,57.54,of all LL-cache accesses
+    19.791678763,252,,LLC-loads,158966,100.00,,
+    19.791678763,<not counted>,,LLC-store-misses,0,0.00,,
+    19.791678763,<not counted>,,instructions,0,0.00,,
+    19.892041028,103,,LLC-load-misses,142164,100.00,58.52,of all LL-cache accesses
+    19.892041028,176,,LLC-loads,142164,100.00,,
+    19.892041028,<not counted>,,LLC-store-misses,0,0.00,,
+    19.892041028,<not counted>,,instructions,0,0.00,,
+    19.992584811,98,,LLC-load-misses,108010,100.00,46.67,of all LL-cache accesses
+    19.992584811,210,,LLC-loads,108010,100.00,,
+    19.992584811,<not counted>,,LLC-store-misses,0,0.00,,
+    19.992584811,<not counted>,,instructions,0,0.00,,
+    20.093125900,<not counted>,,LLC-load-misses,0,100.00,,
+    20.093125900,<not counted>,,LLC-loads,0,100.00,,
+    20.093125900,<not counted>,,LLC-store-misses,0,100.00,,
+    20.093125900,<not counted>,,instructions,0,100.00,,
+    20.193646294,51,,LLC-load-misses,54215,100.00,61.45,of all LL-cache accesses
+    20.193646294,83,,LLC-loads,54215,100.00,,
+    20.193646294,<not counted>,,LLC-store-misses,0,0.00,,
+    20.193646294,<not counted>,,instructions,0,0.00,,
+    20.294159795,105,,LLC-load-misses,84571,100.00,60.00,of all LL-cache accesses
+    20.294159795,175,,LLC-loads,84571,100.00,,
+    20.294159795,<not counted>,,LLC-store-misses,0,0.00,,
+    20.294159795,<not counted>,,instructions,0,0.00,,
+    20.394604526,44,,LLC-load-misses,22277,100.00,56.41,of all LL-cache accesses
+    20.394604526,78,,LLC-loads,22277,100.00,,
+    20.394604526,<not counted>,,LLC-store-misses,0,0.00,,
+    20.394604526,<not counted>,,instructions,0,0.00,,
+    20.494883897,92,,LLC-load-misses,77525,100.00,29.77,of all LL-cache accesses
+    20.494883897,309,,LLC-loads,77525,100.00,,
+    20.494883897,<not counted>,,LLC-store-misses,0,0.00,,
+    20.494883897,<not counted>,,instructions,0,0.00,,
+    20.595342552,169,,LLC-load-misses,133983,100.00,46.81,of all LL-cache accesses
+    20.595342552,361,,LLC-loads,133983,100.00,,
+    20.595342552,<not counted>,,LLC-store-misses,0,0.00,,
+    20.595342552,<not counted>,,instructions,0,0.00,,
+    20.695720552,<not counted>,,LLC-load-misses,0,100.00,,
+    20.695720552,<not counted>,,LLC-loads,0,100.00,,
+    20.695720552,<not counted>,,LLC-store-misses,0,100.00,,
+    20.695720552,<not counted>,,instructions,0,100.00,,
+    20.796232554,82,,LLC-load-misses,79634,100.00,73.21,of all LL-cache accesses
+    20.796232554,112,,LLC-loads,79634,100.00,,
+    20.796232554,<not counted>,,LLC-store-misses,0,0.00,,
+    20.796232554,<not counted>,,instructions,0,0.00,,
+    20.896779745,55,,LLC-load-misses,53820,100.00,61.11,of all LL-cache accesses
+    20.896779745,90,,LLC-loads,53820,100.00,,
+    20.896779745,<not counted>,,LLC-store-misses,0,0.00,,
+    20.896779745,<not counted>,,instructions,0,0.00,,
+    20.997308892,50,,LLC-load-misses,52223,100.00,59.52,of all LL-cache accesses
+    20.997308892,84,,LLC-loads,52223,100.00,,
+    20.997308892,<not counted>,,LLC-store-misses,0,0.00,,
+    20.997308892,<not counted>,,instructions,0,0.00,,
+    21.097857257,97,,LLC-load-misses,105689,100.00,65.54,of all LL-cache accesses
+    21.097857257,148,,LLC-loads,105689,100.00,,
+    21.097857257,<not counted>,,LLC-store-misses,0,0.00,,
+    21.097857257,<not counted>,,instructions,0,0.00,,
+    21.198374779,100,,LLC-load-misses,137836,100.00,31.75,of all LL-cache accesses
+    21.198374779,315,,LLC-loads,137836,100.00,,
+    21.198374779,<not counted>,,LLC-store-misses,0,0.00,,
+    21.198374779,<not counted>,,instructions,0,0.00,,
+    21.298864035,168,,LLC-load-misses,129352,100.00,68.57,of all LL-cache accesses
+    21.298864035,245,,LLC-loads,129352,100.00,,
+    21.298864035,<not counted>,,LLC-store-misses,0,0.00,,
+    21.298864035,<not counted>,,instructions,0,0.00,,
+    21.399319833,55,,LLC-load-misses,29080,100.00,63.22,of all LL-cache accesses
+    21.399319833,87,,LLC-loads,29080,100.00,,
+    21.399319833,<not counted>,,LLC-store-misses,0,0.00,,
+    21.399319833,<not counted>,,instructions,0,0.00,,
+    21.499854749,193,,LLC-load-misses,253129,100.00,50.13,of all LL-cache accesses
+    21.499854749,385,,LLC-loads,253129,100.00,,
+    21.499854749,<not counted>,,LLC-store-misses,0,0.00,,
+    21.499854749,<not counted>,,instructions,0,0.00,,
+    21.600406160,62,,LLC-load-misses,58686,100.00,66.67,of all LL-cache accesses
+    21.600406160,93,,LLC-loads,58686,100.00,,
+    21.600406160,<not counted>,,LLC-store-misses,0,0.00,,
+    21.600406160,<not counted>,,instructions,0,0.00,,
+    21.700770908,242,,LLC-load-misses,253959,100.00,63.19,of all LL-cache accesses
+    21.700770908,383,,LLC-loads,253959,100.00,,
+    21.700770908,<not counted>,,LLC-store-misses,0,0.00,,
+    21.700770908,<not counted>,,instructions,0,0.00,,
+    21.801287133,70,,LLC-load-misses,81430,100.00,56.91,of all LL-cache accesses
+    21.801287133,123,,LLC-loads,81430,100.00,,
+    21.801287133,<not counted>,,LLC-store-misses,0,0.00,,
+    21.801287133,<not counted>,,instructions,0,0.00,,
+    21.901839253,47,,LLC-load-misses,54800,100.00,54.65,of all LL-cache accesses
+    21.901839253,86,,LLC-loads,54800,100.00,,
+    21.901839253,<not counted>,,LLC-store-misses,0,0.00,,
+    21.901839253,<not counted>,,instructions,0,0.00,,
+    22.002383136,80,,LLC-load-misses,116277,100.00,51.95,of all LL-cache accesses
+    22.002383136,154,,LLC-loads,116277,100.00,,
+    22.002383136,<not counted>,,LLC-store-misses,0,0.00,,
+    22.002383136,<not counted>,,instructions,0,0.00,,
+    22.102815485,59,,LLC-load-misses,54643,100.00,67.05,of all LL-cache accesses
+    22.102815485,88,,LLC-loads,54643,100.00,,
+    22.102815485,<not counted>,,LLC-store-misses,0,0.00,,
+    22.102815485,<not counted>,,instructions,0,0.00,,
+    22.203187047,109,,LLC-load-misses,107938,100.00,70.32,of all LL-cache accesses
+    22.203187047,155,,LLC-loads,107938,100.00,,
+    22.203187047,<not counted>,,LLC-store-misses,0,0.00,,
+    22.203187047,<not counted>,,instructions,0,0.00,,
+    22.303554072,91,,LLC-load-misses,105973,100.00,47.89,of all LL-cache accesses
+    22.303554072,190,,LLC-loads,105973,100.00,,
+    22.303554072,<not counted>,,LLC-store-misses,0,0.00,,
+    22.303554072,<not counted>,,instructions,0,0.00,,
+    22.404023261,<not counted>,,LLC-load-misses,0,100.00,,
+    22.404023261,<not counted>,,LLC-loads,0,100.00,,
+    22.404023261,<not counted>,,LLC-store-misses,0,100.00,,
+    22.404023261,<not counted>,,instructions,0,100.00,,
+    22.504552169,85,,LLC-load-misses,106932,100.00,52.15,of all LL-cache accesses
+    22.504552169,163,,LLC-loads,106932,100.00,,
+    22.504552169,<not counted>,,LLC-store-misses,0,0.00,,
+    22.504552169,<not counted>,,instructions,0,0.00,,
+    22.605083691,103,,LLC-load-misses,109296,100.00,69.13,of all LL-cache accesses
+    22.605083691,149,,LLC-loads,109296,100.00,,
+    22.605083691,<not counted>,,LLC-store-misses,0,0.00,,
+    22.605083691,<not counted>,,instructions,0,0.00,,
+    22.705453444,<not counted>,,LLC-load-misses,0,100.00,,
+    22.705453444,<not counted>,,LLC-loads,0,100.00,,
+    22.705453444,<not counted>,,LLC-store-misses,0,100.00,,
+    22.705453444,<not counted>,,instructions,0,100.00,,
+    22.805796166,103,,LLC-load-misses,137351,100.00,51.50,of all LL-cache accesses
+    22.805796166,200,,LLC-loads,137351,100.00,,
+    22.805796166,<not counted>,,LLC-store-misses,0,0.00,,
+    22.805796166,<not counted>,,instructions,0,0.00,,
+    22.906341122,260,,LLC-load-misses,248074,100.00,69.52,of all LL-cache accesses
+    22.906341122,374,,LLC-loads,248074,100.00,,
+    22.906341122,<not counted>,,LLC-store-misses,0,0.00,,
+    22.906341122,<not counted>,,instructions,0,0.00,,
+    23.006881287,138,,LLC-load-misses,148913,100.00,64.19,of all LL-cache accesses
+    23.006881287,215,,LLC-loads,148913,100.00,,
+    23.006881287,<not counted>,,LLC-store-misses,0,0.00,,
+    23.006881287,<not counted>,,instructions,0,0.00,,
+    23.107438764,<not counted>,,LLC-load-misses,0,100.00,,
+    23.107438764,<not counted>,,LLC-loads,0,100.00,,
+    23.107438764,<not counted>,,LLC-store-misses,0,100.00,,
+    23.107438764,<not counted>,,instructions,0,100.00,,
+    23.207779400,66,,LLC-load-misses,80959,100.00,57.89,of all LL-cache accesses
+    23.207779400,114,,LLC-loads,80959,100.00,,
+    23.207779400,<not counted>,,LLC-store-misses,0,0.00,,
+    23.207779400,<not counted>,,instructions,0,0.00,,
+    23.308203987,166,,LLC-load-misses,125431,100.00,57.04,of all LL-cache accesses
+    23.308203987,291,,LLC-loads,125431,100.00,,
+    23.308203987,<not counted>,,LLC-store-misses,0,0.00,,
+    23.308203987,<not counted>,,instructions,0,0.00,,
+    23.408559375,69,,LLC-load-misses,81383,100.00,46.62,of all LL-cache accesses
+    23.408559375,148,,LLC-loads,81383,100.00,,
+    23.408559375,<not counted>,,LLC-store-misses,0,0.00,,
+    23.408559375,<not counted>,,instructions,0,0.00,,
+    23.508931714,264,,LLC-load-misses,130350,100.00,56.53,of all LL-cache accesses
+    23.508931714,467,,LLC-loads,130350,100.00,,
+    23.508931714,<not counted>,,LLC-store-misses,0,0.00,,
+    23.508931714,<not counted>,,instructions,0,0.00,,
+    23.609386091,118,,LLC-load-misses,100794,100.00,40.97,of all LL-cache accesses
+    23.609386091,288,,LLC-loads,100794,100.00,,
+    23.609386091,<not counted>,,LLC-store-misses,0,0.00,,
+    23.609386091,<not counted>,,instructions,0,0.00,,
+    23.709765805,74,,LLC-load-misses,173930,100.00,17.05,of all LL-cache accesses
+    23.709765805,434,,LLC-loads,173930,100.00,,
+    23.709765805,<not counted>,,LLC-store-misses,0,0.00,,
+    23.709765805,<not counted>,,instructions,0,0.00,,
+    23.810324795,138,,LLC-load-misses,144551,100.00,64.79,of all LL-cache accesses
+    23.810324795,213,,LLC-loads,144551,100.00,,
+    23.810324795,<not counted>,,LLC-store-misses,0,0.00,,
+    23.810324795,<not counted>,,instructions,0,0.00,,
+    23.910868544,51,,LLC-load-misses,54420,100.00,61.45,of all LL-cache accesses
+    23.910868544,83,,LLC-loads,54420,100.00,,
+    23.910868544,<not counted>,,LLC-store-misses,0,0.00,,
+    23.910868544,<not counted>,,instructions,0,0.00,,
+    24.011294904,50,,LLC-load-misses,57748,100.00,60.98,of all LL-cache accesses
+    24.011294904,82,,LLC-loads,57748,100.00,,
+    24.011294904,<not counted>,,LLC-store-misses,0,0.00,,
+    24.011294904,<not counted>,,instructions,0,0.00,,
+    24.111875897,105,,LLC-load-misses,114189,100.00,65.22,of all LL-cache accesses
+    24.111875897,161,,LLC-loads,114189,100.00,,
+    24.111875897,<not counted>,,LLC-store-misses,0,0.00,,
+    24.111875897,<not counted>,,instructions,0,0.00,,
+    24.212375019,63,,LLC-load-misses,86528,100.00,46.32,of all LL-cache accesses
+    24.212375019,136,,LLC-loads,86528,100.00,,
+    24.212375019,<not counted>,,LLC-store-misses,0,0.00,,
+    24.212375019,<not counted>,,instructions,0,0.00,,
+    24.312689111,94,,LLC-load-misses,110139,100.00,63.51,of all LL-cache accesses
+    24.312689111,148,,LLC-loads,110139,100.00,,
+    24.312689111,<not counted>,,LLC-store-misses,0,0.00,,
+    24.312689111,<not counted>,,instructions,0,0.00,,
+    24.413231055,128,,LLC-load-misses,171816,100.00,59.53,of all LL-cache accesses
+    24.413231055,215,,LLC-loads,171816,100.00,,
+    24.413231055,<not counted>,,LLC-store-misses,0,0.00,,
+    24.413231055,<not counted>,,instructions,0,0.00,,
+    24.513780766,83,,LLC-load-misses,81947,100.00,65.35,of all LL-cache accesses
+    24.513780766,127,,LLC-loads,81947,100.00,,
+    24.513780766,<not counted>,,LLC-store-misses,0,0.00,,
+    24.513780766,<not counted>,,instructions,0,0.00,,
+    24.614322695,45,,LLC-load-misses,53348,100.00,54.22,of all LL-cache accesses
+    24.614322695,83,,LLC-loads,53348,100.00,,
+    24.614322695,<not counted>,,LLC-store-misses,0,0.00,,
+    24.614322695,<not counted>,,instructions,0,0.00,,
+    24.714879471,235,,LLC-load-misses,314177,100.00,47.57,of all LL-cache accesses
+    24.714879471,494,,LLC-loads,314177,100.00,,
+    24.714879471,<not counted>,,LLC-store-misses,0,0.00,,
+    24.714879471,<not counted>,,instructions,0,0.00,,
+    24.815238050,20,,LLC-load-misses,27290,100.00,80.00,of all LL-cache accesses
+    24.815238050,25,,LLC-loads,27290,100.00,,
+    24.815238050,<not counted>,,LLC-store-misses,0,0.00,,
+    24.815238050,<not counted>,,instructions,0,0.00,,
+    24.915764492,57,,LLC-load-misses,54968,100.00,64.77,of all LL-cache accesses
+    24.915764492,88,,LLC-loads,54968,100.00,,
+    24.915764492,<not counted>,,LLC-store-misses,0,0.00,,
+    24.915764492,<not counted>,,instructions,0,0.00,,
+    25.016306926,105,,LLC-load-misses,116386,100.00,70.47,of all LL-cache accesses
+    25.016306926,149,,LLC-loads,116386,100.00,,
+    25.016306926,<not counted>,,LLC-store-misses,0,0.00,,
+    25.016306926,<not counted>,,instructions,0,0.00,,
+    25.116848277,45,,LLC-load-misses,53333,100.00,53.57,of all LL-cache accesses
+    25.116848277,84,,LLC-loads,53333,100.00,,
+    25.116848277,<not counted>,,LLC-store-misses,0,0.00,,
+    25.116848277,<not counted>,,instructions,0,0.00,,
+    25.217207575,49,,LLC-load-misses,54665,100.00,68.06,of all LL-cache accesses
+    25.217207575,72,,LLC-loads,54665,100.00,,
+    25.217207575,<not counted>,,LLC-store-misses,0,0.00,,
+    25.217207575,<not counted>,,instructions,0,0.00,,
+    25.317524516,162,,LLC-load-misses,173203,100.00,61.13,of all LL-cache accesses
+    25.317524516,265,,LLC-loads,173203,100.00,,
+    25.317524516,<not counted>,,LLC-store-misses,0,0.00,,
+    25.317524516,<not counted>,,instructions,0,0.00,,
+    25.417963566,61,,LLC-load-misses,25590,100.00,66.30,of all LL-cache accesses
+    25.417963566,92,,LLC-loads,25590,100.00,,
+    25.417963566,<not counted>,,LLC-store-misses,0,0.00,,
+    25.417963566,<not counted>,,instructions,0,0.00,,
+    25.518457583,120,,LLC-load-misses,145123,100.00,66.30,of all LL-cache accesses
+    25.518457583,181,,LLC-loads,145123,100.00,,
+    25.518457583,<not counted>,,LLC-store-misses,0,0.00,,
+    25.518457583,<not counted>,,instructions,0,0.00,,
+    25.619066430,79,,LLC-load-misses,102887,100.00,59.40,of all LL-cache accesses
+    25.619066430,133,,LLC-loads,102887,100.00,,
+    25.619066430,<not counted>,,LLC-store-misses,0,0.00,,
+    25.619066430,<not counted>,,instructions,0,0.00,,
+    25.719516254,53,,LLC-load-misses,56335,100.00,71.62,of all LL-cache accesses
+    25.719516254,74,,LLC-loads,56335,100.00,,
+    25.719516254,<not counted>,,LLC-store-misses,0,0.00,,
+    25.719516254,<not counted>,,instructions,0,0.00,,
+    25.819906301,57,,LLC-load-misses,55825,100.00,73.08,of all LL-cache accesses
+    25.819906301,78,,LLC-loads,55825,100.00,,
+    25.819906301,<not counted>,,LLC-store-misses,0,0.00,,
+    25.819906301,<not counted>,,instructions,0,0.00,,
+    25.920399798,241,,LLC-load-misses,279923,100.00,62.27,of all LL-cache accesses
+    25.920399798,387,,LLC-loads,279923,100.00,,
+    25.920399798,<not counted>,,LLC-store-misses,0,0.00,,
+    25.920399798,<not counted>,,instructions,0,0.00,,
+    26.020759617,112,,LLC-load-misses,134217,100.00,64.00,of all LL-cache accesses
+    26.020759617,175,,LLC-loads,134217,100.00,,
+    26.020759617,<not counted>,,LLC-store-misses,0,0.00,,
+    26.020759617,<not counted>,,instructions,0,0.00,,
+    26.121120332,50,,LLC-load-misses,75804,100.00,39.68,of all LL-cache accesses
+    26.121120332,126,,LLC-loads,75804,100.00,,
+    26.121120332,<not counted>,,LLC-store-misses,0,0.00,,
+    26.121120332,<not counted>,,instructions,0,0.00,,
+    26.221480426,189,,LLC-load-misses,188139,100.00,39.38,of all LL-cache accesses
+    26.221480426,480,,LLC-loads,188139,100.00,,
+    26.221480426,<not counted>,,LLC-store-misses,0,0.00,,
+    26.221480426,<not counted>,,instructions,0,0.00,,
+    26.321834111,86,,LLC-load-misses,114104,100.00,54.78,of all LL-cache accesses
+    26.321834111,157,,LLC-loads,114104,100.00,,
+    26.321834111,<not counted>,,LLC-store-misses,0,0.00,,
+    26.321834111,<not counted>,,instructions,0,0.00,,
+    26.422382551,77,,LLC-load-misses,116690,100.00,47.53,of all LL-cache accesses
+    26.422382551,162,,LLC-loads,116690,100.00,,
+    26.422382551,<not counted>,,LLC-store-misses,0,0.00,,
+    26.422382551,<not counted>,,instructions,0,0.00,,
+    26.522705985,367,,LLC-load-misses,326214,100.00,48.23,of all LL-cache accesses
+    26.522705985,761,,LLC-loads,326214,100.00,,
+    26.522705985,<not counted>,,LLC-store-misses,0,0.00,,
+    26.522705985,<not counted>,,instructions,0,0.00,,
+    26.623153156,213,,LLC-load-misses,121006,100.00,52.46,of all LL-cache accesses
+    26.623153156,406,,LLC-loads,121006,100.00,,
+    26.623153156,<not counted>,,LLC-store-misses,0,0.00,,
+    26.623153156,<not counted>,,instructions,0,0.00,,
+    26.723523317,107,,LLC-load-misses,109381,100.00,59.78,of all LL-cache accesses
+    26.723523317,179,,LLC-loads,109381,100.00,,
+    26.723523317,<not counted>,,LLC-store-misses,0,0.00,,
+    26.723523317,<not counted>,,instructions,0,0.00,,
+    26.823889755,42,,LLC-load-misses,53985,100.00,50.00,of all LL-cache accesses
+    26.823889755,84,,LLC-loads,53985,100.00,,
+    26.823889755,<not counted>,,LLC-store-misses,0,0.00,,
+    26.823889755,<not counted>,,instructions,0,0.00,,
+    26.924391318,44,,LLC-load-misses,54574,100.00,69.84,of all LL-cache accesses
+    26.924391318,63,,LLC-loads,54574,100.00,,
+    26.924391318,<not counted>,,LLC-store-misses,0,0.00,,
+    26.924391318,<not counted>,,instructions,0,0.00,,
+    27.024749622,50,,LLC-load-misses,53024,100.00,59.52,of all LL-cache accesses
+    27.024749622,84,,LLC-loads,53024,100.00,,
+    27.024749622,<not counted>,,LLC-store-misses,0,0.00,,
+    27.024749622,<not counted>,,instructions,0,0.00,,
+    27.125214062,113,,LLC-load-misses,133047,100.00,57.65,of all LL-cache accesses
+    27.125214062,196,,LLC-loads,133047,100.00,,
+    27.125214062,<not counted>,,LLC-store-misses,0,0.00,,
+    27.125214062,<not counted>,,instructions,0,0.00,,
+    27.225578680,161,,LLC-load-misses,165110,100.00,65.98,of all LL-cache accesses
+    27.225578680,244,,LLC-loads,165110,100.00,,
+    27.225578680,<not counted>,,LLC-store-misses,0,0.00,,
+    27.225578680,<not counted>,,instructions,0,0.00,,
+    27.325953465,93,,LLC-load-misses,71741,100.00,62.84,of all LL-cache accesses
+    27.325953465,148,,LLC-loads,71741,100.00,,
+    27.325953465,<not counted>,,LLC-store-misses,0,0.00,,
+    27.325953465,<not counted>,,instructions,0,0.00,,
+    27.426383468,62,,LLC-load-misses,42770,100.00,55.86,of all LL-cache accesses
+    27.426383468,111,,LLC-loads,42770,100.00,,
+    27.426383468,<not counted>,,LLC-store-misses,0,0.00,,
+    27.426383468,<not counted>,,instructions,0,0.00,,
+    27.526756181,68,,LLC-load-misses,78145,100.00,56.67,of all LL-cache accesses
+    27.526756181,120,,LLC-loads,78145,100.00,,
+    27.526756181,<not counted>,,LLC-store-misses,0,0.00,,
+    27.526756181,<not counted>,,instructions,0,0.00,,
+    27.627289121,32,,LLC-load-misses,27510,100.00,74.42,of all LL-cache accesses
+    27.627289121,43,,LLC-loads,27510,100.00,,
+    27.627289121,<not counted>,,LLC-store-misses,0,0.00,,
+    27.627289121,<not counted>,,instructions,0,0.00,,
+    27.727845681,161,,LLC-load-misses,167978,100.00,65.45,of all LL-cache accesses
+    27.727845681,246,,LLC-loads,167978,100.00,,
+    27.727845681,<not counted>,,LLC-store-misses,0,0.00,,
+    27.727845681,<not counted>,,instructions,0,0.00,,
+    27.828203227,170,,LLC-load-misses,195906,100.00,62.27,of all LL-cache accesses
+    27.828203227,273,,LLC-loads,195906,100.00,,
+    27.828203227,<not counted>,,LLC-store-misses,0,0.00,,
+    27.828203227,<not counted>,,instructions,0,0.00,,
+    27.928734757,53,,LLC-load-misses,54532,100.00,60.92,of all LL-cache accesses
+    27.928734757,87,,LLC-loads,54532,100.00,,
+    27.928734757,<not counted>,,LLC-store-misses,0,0.00,,
+    27.928734757,<not counted>,,instructions,0,0.00,,
+    28.029279664,118,,LLC-load-misses,141167,100.00,53.88,of all LL-cache accesses
+    28.029279664,219,,LLC-loads,141167,100.00,,
+    28.029279664,<not counted>,,LLC-store-misses,0,0.00,,
+    28.029279664,<not counted>,,instructions,0,0.00,,
+    28.129830006,<not counted>,,LLC-load-misses,0,100.00,,
+    28.129830006,<not counted>,,LLC-loads,0,100.00,,
+    28.129830006,<not counted>,,LLC-store-misses,0,100.00,,
+    28.129830006,<not counted>,,instructions,0,100.00,,
+    28.230365845,103,,LLC-load-misses,133725,100.00,53.93,of all LL-cache accesses
+    28.230365845,191,,LLC-loads,133725,100.00,,
+    28.230365845,<not counted>,,LLC-store-misses,0,0.00,,
+    28.230365845,<not counted>,,instructions,0,0.00,,
+    28.330728197,213,,LLC-load-misses,259051,100.00,55.32,of all LL-cache accesses
+    28.330728197,385,,LLC-loads,259051,100.00,,
+    28.330728197,<not counted>,,LLC-store-misses,0,0.00,,
+    28.330728197,<not counted>,,instructions,0,0.00,,
+    28.431148074,23,,LLC-load-misses,57424,100.00,33.82,of all LL-cache accesses
+    28.431148074,68,,LLC-loads,57424,100.00,,
+    28.431148074,<not counted>,,LLC-store-misses,0,0.00,,
+    28.431148074,<not counted>,,instructions,0,0.00,,
+    28.531690670,143,,LLC-load-misses,190859,100.00,53.76,of all LL-cache accesses
+    28.531690670,266,,LLC-loads,190859,100.00,,
+    28.531690670,<not counted>,,LLC-store-misses,0,0.00,,
+    28.531690670,<not counted>,,instructions,0,0.00,,
+    28.632079994,<not counted>,,LLC-load-misses,0,100.00,,
+    28.632079994,<not counted>,,LLC-loads,0,100.00,,
+    28.632079994,<not counted>,,LLC-store-misses,0,100.00,,
+    28.632079994,<not counted>,,instructions,0,100.00,,
+    28.732660904,104,,LLC-load-misses,80772,100.00,47.71,of all LL-cache accesses
+    28.732660904,218,,LLC-loads,80772,100.00,,
+    28.732660904,<not counted>,,LLC-store-misses,0,0.00,,
+    28.732660904,<not counted>,,instructions,0,0.00,,
+    28.833199997,<not counted>,,LLC-load-misses,0,100.00,,
+    28.833199997,<not counted>,,LLC-loads,0,100.00,,
+    28.833199997,<not counted>,,LLC-store-misses,0,100.00,,
+    28.833199997,<not counted>,,instructions,0,100.00,,
+    28.933558913,203,,LLC-load-misses,256221,100.00,55.62,of all LL-cache accesses
+    28.933558913,365,,LLC-loads,256221,100.00,,
+    28.933558913,<not counted>,,LLC-store-misses,0,0.00,,
+    28.933558913,<not counted>,,instructions,0,0.00,,
+    29.034076578,90,,LLC-load-misses,112149,100.00,56.96,of all LL-cache accesses
+    29.034076578,158,,LLC-loads,112149,100.00,,
+    29.034076578,<not counted>,,LLC-store-misses,0,0.00,,
+    29.034076578,<not counted>,,instructions,0,0.00,,
+    29.134643253,64,,LLC-load-misses,91238,100.00,47.06,of all LL-cache accesses
+    29.134643253,136,,LLC-loads,91238,100.00,,
+    29.134643253,<not counted>,,LLC-store-misses,0,0.00,,
+    29.134643253,<not counted>,,instructions,0,0.00,,
+    29.235224614,54,,LLC-load-misses,58774,100.00,61.36,of all LL-cache accesses
+    29.235224614,88,,LLC-loads,58774,100.00,,
+    29.235224614,<not counted>,,LLC-store-misses,0,0.00,,
+    29.235224614,<not counted>,,instructions,0,0.00,,
+    29.335593148,125,,LLC-load-misses,107544,100.00,47.89,of all LL-cache accesses
+    29.335593148,261,,LLC-loads,107544,100.00,,
+    29.335593148,<not counted>,,LLC-store-misses,0,0.00,,
+    29.335593148,<not counted>,,instructions,0,0.00,,
+    29.435847172,32,,LLC-load-misses,11245,100.00,76.19,of all LL-cache accesses
+    29.435847172,42,,LLC-loads,11245,100.00,,
+    29.435847172,<not counted>,,LLC-store-misses,0,0.00,,
+    29.435847172,<not counted>,,instructions,0,0.00,,
+    29.536172888,216,,LLC-load-misses,230550,100.00,49.88,of all LL-cache accesses
+    29.536172888,433,,LLC-loads,230550,100.00,,
+    29.536172888,<not counted>,,LLC-store-misses,0,0.00,,
+    29.536172888,<not counted>,,instructions,0,0.00,,
+    29.636594945,186,,LLC-load-misses,205398,100.00,60.00,of all LL-cache accesses
+    29.636594945,310,,LLC-loads,205398,100.00,,
+    29.636594945,<not counted>,,LLC-store-misses,0,0.00,,
+    29.636594945,<not counted>,,instructions,0,0.00,,
+    29.737143294,97,,LLC-load-misses,139340,100.00,48.02,of all LL-cache accesses
+    29.737143294,202,,LLC-loads,139340,100.00,,
+    29.737143294,<not counted>,,LLC-store-misses,0,0.00,,
+    29.737143294,<not counted>,,instructions,0,0.00,,
+    29.837674214,52,,LLC-load-misses,84968,100.00,33.99,of all LL-cache accesses
+    29.837674214,153,,LLC-loads,84968,100.00,,
+    29.837674214,<not counted>,,LLC-store-misses,0,0.00,,
+    29.837674214,<not counted>,,instructions,0,0.00,,
+    29.938029430,<not counted>,,LLC-load-misses,0,100.00,,
+    29.938029430,<not counted>,,LLC-loads,0,100.00,,
+    29.938029430,<not counted>,,LLC-store-misses,0,100.00,,
+    29.938029430,<not counted>,,instructions,0,100.00,,
+    30.038537985,106,,LLC-load-misses,137364,100.00,47.75,of all LL-cache accesses
+    30.038537985,222,,LLC-loads,137364,100.00,,
+    30.038537985,<not counted>,,LLC-store-misses,0,0.00,,
+    30.038537985,<not counted>,,instructions,0,0.00,,
+    30.139108662,143,,LLC-load-misses,176157,100.00,57.89,of all LL-cache accesses
+    30.139108662,247,,LLC-loads,176157,100.00,,
+    30.139108662,<not counted>,,LLC-store-misses,0,0.00,,
+    30.139108662,<not counted>,,instructions,0,0.00,,
+    30.239479202,56,,LLC-load-misses,51576,100.00,60.87,of all LL-cache accesses
+    30.239479202,92,,LLC-loads,51576,100.00,,
+    30.239479202,<not counted>,,LLC-store-misses,0,0.00,,
+    30.239479202,<not counted>,,instructions,0,0.00,,
+    30.339783014,109,,LLC-load-misses,72961,100.00,63.74,of all LL-cache accesses
+    30.339783014,171,,LLC-loads,72961,100.00,,
+    30.339783014,<not counted>,,LLC-store-misses,0,0.00,,
+    30.339783014,<not counted>,,instructions,0,0.00,,
+    30.440025751,83,,LLC-load-misses,22636,100.00,58.87,of all LL-cache accesses
+    30.440025751,141,,LLC-loads,22636,100.00,,
+    30.440025751,<not counted>,,LLC-store-misses,0,0.00,,
+    30.440025751,<not counted>,,instructions,0,0.00,,
+    30.540484475,72,,LLC-load-misses,110084,100.00,40.22,of all LL-cache accesses
+    30.540484475,179,,LLC-loads,110084,100.00,,
+    30.540484475,<not counted>,,LLC-store-misses,0,0.00,,
+    30.540484475,<not counted>,,instructions,0,0.00,,
+    30.640930926,<not counted>,,LLC-load-misses,0,100.00,,
+    30.640930926,<not counted>,,LLC-loads,0,100.00,,
+    30.640930926,<not counted>,,LLC-store-misses,0,100.00,,
+    30.640930926,<not counted>,,instructions,0,100.00,,
+    30.741495968,169,,LLC-load-misses,215796,100.00,57.68,of all LL-cache accesses
+    30.741495968,293,,LLC-loads,215796,100.00,,
+    30.741495968,<not counted>,,LLC-store-misses,0,0.00,,
+    30.741495968,<not counted>,,instructions,0,0.00,,
+    30.842043359,43,,LLC-load-misses,58650,100.00,48.86,of all LL-cache accesses
+    30.842043359,88,,LLC-loads,58650,100.00,,
+    30.842043359,<not counted>,,LLC-store-misses,0,0.00,,
+    30.842043359,<not counted>,,instructions,0,0.00,,
+    30.942431520,<not counted>,,LLC-load-misses,0,100.00,,
+    30.942431520,<not counted>,,LLC-loads,0,100.00,,
+    30.942431520,<not counted>,,LLC-store-misses,0,100.00,,
+    30.942431520,<not counted>,,instructions,0,100.00,,
+    31.042842722,109,,LLC-load-misses,139337,100.00,57.07,of all LL-cache accesses
+    31.042842722,191,,LLC-loads,139337,100.00,,
+    31.042842722,<not counted>,,LLC-store-misses,0,0.00,,
+    31.042842722,<not counted>,,instructions,0,0.00,,
+    31.143154618,62,,LLC-load-misses,86676,100.00,38.75,of all LL-cache accesses
+    31.143154618,160,,LLC-loads,86676,100.00,,
+    31.143154618,<not counted>,,LLC-store-misses,0,0.00,,
+    31.143154618,<not counted>,,instructions,0,0.00,,
+    31.243568747,113,,LLC-load-misses,85113,100.00,54.07,of all LL-cache accesses
+    31.243568747,209,,LLC-loads,85113,100.00,,
+    31.243568747,<not counted>,,LLC-store-misses,0,0.00,,
+    31.243568747,<not counted>,,instructions,0,0.00,,
+    31.344062244,104,,LLC-load-misses,106858,100.00,55.61,of all LL-cache accesses
+    31.344062244,187,,LLC-loads,106858,100.00,,
+    31.344062244,<not counted>,,LLC-store-misses,0,0.00,,
+    31.344062244,<not counted>,,instructions,0,0.00,,
+    31.444434856,128,,LLC-load-misses,192663,100.00,48.48,of all LL-cache accesses
+    31.444434856,264,,LLC-loads,192663,100.00,,
+    31.444434856,<not counted>,,LLC-store-misses,0,0.00,,
+    31.444434856,<not counted>,,instructions,0,0.00,,
+    31.544791302,99,,LLC-load-misses,110771,100.00,55.93,of all LL-cache accesses
+    31.544791302,177,,LLC-loads,110771,100.00,,
+    31.544791302,<not counted>,,LLC-store-misses,0,0.00,,
+    31.544791302,<not counted>,,instructions,0,0.00,,
+    31.645334139,40,,LLC-load-misses,59674,100.00,41.67,of all LL-cache accesses
+    31.645334139,96,,LLC-loads,59674,100.00,,
+    31.645334139,<not counted>,,LLC-store-misses,0,0.00,,
+    31.645334139,<not counted>,,instructions,0,0.00,,
+    31.745873550,100,,LLC-load-misses,122374,100.00,57.14,of all LL-cache accesses
+    31.745873550,175,,LLC-loads,122374,100.00,,
+    31.745873550,<not counted>,,LLC-store-misses,0,0.00,,
+    31.745873550,<not counted>,,instructions,0,0.00,,
+    31.846434746,56,,LLC-load-misses,55216,100.00,65.88,of all LL-cache accesses
+    31.846434746,85,,LLC-loads,55216,100.00,,
+    31.846434746,<not counted>,,LLC-store-misses,0,0.00,,
+    31.846434746,<not counted>,,instructions,0,0.00,,
+    31.946792310,306,,LLC-load-misses,320770,100.00,60.24,of all LL-cache accesses
+    31.946792310,508,,LLC-loads,320770,100.00,,
+    31.946792310,<not counted>,,LLC-store-misses,0,0.00,,
+    31.946792310,<not counted>,,instructions,0,0.00,,
+    32.047158054,81,,LLC-load-misses,83076,100.00,60.45,of all LL-cache accesses
+    32.047158054,134,,LLC-loads,83076,100.00,,
+    32.047158054,<not counted>,,LLC-store-misses,0,0.00,,
+    32.047158054,<not counted>,,instructions,0,0.00,,
+    32.147717968,94,,LLC-load-misses,107911,100.00,60.26,of all LL-cache accesses
+    32.147717968,156,,LLC-loads,107911,100.00,,
+    32.147717968,<not counted>,,LLC-store-misses,0,0.00,,
+    32.147717968,<not counted>,,instructions,0,0.00,,
+    32.248246622,107,,LLC-load-misses,107120,100.00,65.64,of all LL-cache accesses
+    32.248246622,163,,LLC-loads,107120,100.00,,
+    32.248246622,<not counted>,,LLC-store-misses,0,0.00,,
+    32.248246622,<not counted>,,instructions,0,0.00,,
+    32.348776251,92,,LLC-load-misses,96198,100.00,44.23,of all LL-cache accesses
+    32.348776251,208,,LLC-loads,96198,100.00,,
+    32.348776251,<not counted>,,LLC-store-misses,0,0.00,,
+    32.348776251,<not counted>,,instructions,0,0.00,,
+    32.449218425,43,,LLC-load-misses,11223,100.00,81.13,of all LL-cache accesses
+    32.449218425,53,,LLC-loads,11223,100.00,,
+    32.449218425,<not counted>,,LLC-store-misses,0,0.00,,
+    32.449218425,<not counted>,,instructions,0,0.00,,
+    32.549574902,237,,LLC-load-misses,246110,100.00,56.03,of all LL-cache accesses
+    32.549574902,423,,LLC-loads,246110,100.00,,
+    32.549574902,<not counted>,,LLC-store-misses,0,0.00,,
+    32.549574902,<not counted>,,instructions,0,0.00,,
+    32.650041222,116,,LLC-load-misses,87150,100.00,55.50,of all LL-cache accesses
+    32.650041222,209,,LLC-loads,87150,100.00,,
+    32.650041222,<not counted>,,LLC-store-misses,0,0.00,,
+    32.650041222,<not counted>,,instructions,0,0.00,,
+    32.750586863,103,,LLC-load-misses,118511,100.00,47.03,of all LL-cache accesses
+    32.750586863,219,,LLC-loads,118511,100.00,,
+    32.750586863,<not counted>,,LLC-store-misses,0,0.00,,
+    32.750586863,<not counted>,,instructions,0,0.00,,
+    32.851151874,178,,LLC-load-misses,189321,100.00,71.20,of all LL-cache accesses
+    32.851151874,250,,LLC-loads,189321,100.00,,
+    32.851151874,<not counted>,,LLC-store-misses,0,0.00,,
+    32.851151874,<not counted>,,instructions,0,0.00,,
+    32.951705295,67,,LLC-load-misses,86259,100.00,65.69,of all LL-cache accesses
+    32.951705295,102,,LLC-loads,86259,100.00,,
+    32.951705295,<not counted>,,LLC-store-misses,0,0.00,,
+    32.951705295,<not counted>,,instructions,0,0.00,,
+    33.052237471,74,,LLC-load-misses,79242,100.00,58.73,of all LL-cache accesses
+    33.052237471,126,,LLC-loads,79242,100.00,,
+    33.052237471,<not counted>,,LLC-store-misses,0,0.00,,
+    33.052237471,<not counted>,,instructions,0,0.00,,
+    33.152584415,111,,LLC-load-misses,130279,100.00,52.36,of all LL-cache accesses
+    33.152584415,212,,LLC-loads,130279,100.00,,
+    33.152584415,<not counted>,,LLC-store-misses,0,0.00,,
+    33.152584415,<not counted>,,instructions,0,0.00,,
+    33.253124949,128,,LLC-load-misses,135501,100.00,62.75,of all LL-cache accesses
+    33.253124949,204,,LLC-loads,135501,100.00,,
+    33.253124949,<not counted>,,LLC-store-misses,0,0.00,,
+    33.253124949,<not counted>,,instructions,0,0.00,,
+    33.353445156,239,,LLC-load-misses,218870,100.00,70.09,of all LL-cache accesses
+    33.353445156,341,,LLC-loads,218870,100.00,,
+    33.353445156,<not counted>,,LLC-store-misses,0,0.00,,
+    33.353445156,<not counted>,,instructions,0,0.00,,
+    33.453886812,89,,LLC-load-misses,80324,100.00,50.57,of all LL-cache accesses
+    33.453886812,176,,LLC-loads,80324,100.00,,
+    33.453886812,<not counted>,,LLC-store-misses,0,0.00,,
+    33.453886812,<not counted>,,instructions,0,0.00,,
+    33.554421375,111,,LLC-load-misses,144483,100.00,58.73,of all LL-cache accesses
+    33.554421375,189,,LLC-loads,144483,100.00,,
+    33.554421375,<not counted>,,LLC-store-misses,0,0.00,,
+    33.554421375,<not counted>,,instructions,0,0.00,,
+    33.654723566,84,,LLC-load-misses,123027,100.00,41.38,of all LL-cache accesses
+    33.654723566,203,,LLC-loads,123027,100.00,,
+    33.654723566,<not counted>,,LLC-store-misses,0,0.00,,
+    33.654723566,<not counted>,,instructions,0,0.00,,
+    33.755163594,184,,LLC-load-misses,164767,100.00,46.46,of all LL-cache accesses
+    33.755163594,396,,LLC-loads,164767,100.00,,
+    33.755163594,<not counted>,,LLC-store-misses,0,0.00,,
+    33.755163594,<not counted>,,instructions,0,0.00,,
+    33.855710182,51,,LLC-load-misses,54622,100.00,57.30,of all LL-cache accesses
+    33.855710182,89,,LLC-loads,54622,100.00,,
+    33.855710182,<not counted>,,LLC-store-misses,0,0.00,,
+    33.855710182,<not counted>,,instructions,0,0.00,,
+    33.956050440,53,,LLC-load-misses,79830,100.00,47.32,of all LL-cache accesses
+    33.956050440,112,,LLC-loads,79830,100.00,,
+    33.956050440,<not counted>,,LLC-store-misses,0,0.00,,
+    33.956050440,<not counted>,,instructions,0,0.00,,
+    34.056589191,65,,LLC-load-misses,61993,100.00,75.58,of all LL-cache accesses
+    34.056589191,86,,LLC-loads,61993,100.00,,
+    34.056589191,<not counted>,,LLC-store-misses,0,0.00,,
+    34.056589191,<not counted>,,instructions,0,0.00,,
+    34.157125293,<not counted>,,LLC-load-misses,0,100.00,,
+    34.157125293,<not counted>,,LLC-loads,0,100.00,,
+    34.157125293,<not counted>,,LLC-store-misses,0,100.00,,
+    34.157125293,<not counted>,,instructions,0,100.00,,
+    34.257616629,103,,LLC-load-misses,117758,100.00,58.19,of all LL-cache accesses
+    34.257616629,177,,LLC-loads,117758,100.00,,
+    34.257616629,<not counted>,,LLC-store-misses,0,0.00,,
+    34.257616629,<not counted>,,instructions,0,0.00,,
+    34.358190940,200,,LLC-load-misses,268915,100.00,49.14,of all LL-cache accesses
+    34.358190940,407,,LLC-loads,268915,100.00,,
+    34.358190940,<not counted>,,LLC-store-misses,0,0.00,,
+    34.358190940,<not counted>,,instructions,0,0.00,,
+    34.458631503,83,,LLC-load-misses,50439,100.00,41.09,of all LL-cache accesses
+    34.458631503,202,,LLC-loads,50439,100.00,,
+    34.458631503,<not counted>,,LLC-store-misses,0,0.00,,
+    34.458631503,<not counted>,,instructions,0,0.00,,
+    34.559168231,35,,LLC-load-misses,27906,100.00,79.55,of all LL-cache accesses
+    34.559168231,44,,LLC-loads,27906,100.00,,
+    34.559168231,<not counted>,,LLC-store-misses,0,0.00,,
+    34.559168231,<not counted>,,instructions,0,0.00,,
+    34.659529392,161,,LLC-load-misses,165612,100.00,63.64,of all LL-cache accesses
+    34.659529392,253,,LLC-loads,165612,100.00,,
+    34.659529392,<not counted>,,LLC-store-misses,0,0.00,,
+    34.659529392,<not counted>,,instructions,0,0.00,,
+    34.759889011,102,,LLC-load-misses,108228,100.00,58.96,of all LL-cache accesses
+    34.759889011,173,,LLC-loads,108228,100.00,,
+    34.759889011,<not counted>,,LLC-store-misses,0,0.00,,
+    34.759889011,<not counted>,,instructions,0,0.00,,
+    34.860394683,43,,LLC-load-misses,58368,100.00,52.44,of all LL-cache accesses
+    34.860394683,82,,LLC-loads,58368,100.00,,
+    34.860394683,<not counted>,,LLC-store-misses,0,0.00,,
+    34.860394683,<not counted>,,instructions,0,0.00,,
+    34.960767092,201,,LLC-load-misses,230888,100.00,65.26,of all LL-cache accesses
+    34.960767092,308,,LLC-loads,230888,100.00,,
+    34.960767092,<not counted>,,LLC-store-misses,0,0.00,,
+    34.960767092,<not counted>,,instructions,0,0.00,,
+    35.061292644,69,,LLC-load-misses,84631,100.00,62.16,of all LL-cache accesses
+    35.061292644,111,,LLC-loads,84631,100.00,,
+    35.061292644,<not counted>,,LLC-store-misses,0,0.00,,
+    35.061292644,<not counted>,,instructions,0,0.00,,
+    35.161848008,43,,LLC-load-misses,55305,100.00,50.00,of all LL-cache accesses
+    35.161848008,86,,LLC-loads,55305,100.00,,
+    35.161848008,<not counted>,,LLC-store-misses,0,0.00,,
+    35.161848008,<not counted>,,instructions,0,0.00,,
+    35.262220242,98,,LLC-load-misses,121757,100.00,61.25,of all LL-cache accesses
+    35.262220242,160,,LLC-loads,121757,100.00,,
+    35.262220242,<not counted>,,LLC-store-misses,0,0.00,,
+    35.262220242,<not counted>,,instructions,0,0.00,,
+    35.362516067,87,,LLC-load-misses,102846,100.00,61.27,of all LL-cache accesses
+    35.362516067,142,,LLC-loads,102846,100.00,,
+    35.362516067,<not counted>,,LLC-store-misses,0,0.00,,
+    35.362516067,<not counted>,,instructions,0,0.00,,
+    35.462674429,55,,LLC-load-misses,45997,100.00,36.67,of all LL-cache accesses
+    35.462674429,150,,LLC-loads,56883,100.00,,
+    35.462674429,<not counted>,,LLC-store-misses,0,0.00,,
+    35.462674429,<not counted>,,instructions,0,0.00,,
+    35.563087466,266,,LLC-load-misses,226459,100.00,57.58,of all LL-cache accesses
+    35.563087466,462,,LLC-loads,215573,100.00,,
+    35.563087466,<not counted>,,LLC-store-misses,0,0.00,,
+    35.563087466,<not counted>,,instructions,0,0.00,,
+    35.663558758,124,,LLC-load-misses,108932,100.00,47.33,of all LL-cache accesses
+    35.663558758,262,,LLC-loads,108932,100.00,,
+    35.663558758,<not counted>,,LLC-store-misses,0,0.00,,
+    35.663558758,<not counted>,,instructions,0,0.00,,
+    35.763936578,125,,LLC-load-misses,132837,100.00,61.27,of all LL-cache accesses
+    35.763936578,204,,LLC-loads,132837,100.00,,
+    35.763936578,<not counted>,,LLC-store-misses,0,0.00,,
+    35.763936578,<not counted>,,instructions,0,0.00,,
+    35.864473671,92,,LLC-load-misses,129840,100.00,46.00,of all LL-cache accesses
+    35.864473671,200,,LLC-loads,129840,100.00,,
+    35.864473671,<not counted>,,LLC-store-misses,0,0.00,,
+    35.864473671,<not counted>,,instructions,0,0.00,,
+    35.964966874,52,,LLC-load-misses,53516,100.00,62.65,of all LL-cache accesses
+    35.964966874,83,,LLC-loads,53516,100.00,,
+    35.964966874,<not counted>,,LLC-store-misses,0,0.00,,
+    35.964966874,<not counted>,,instructions,0,0.00,,
+    36.065433464,34,,LLC-load-misses,53105,100.00,57.63,of all LL-cache accesses
+    36.065433464,59,,LLC-loads,53105,100.00,,
+    36.065433464,<not counted>,,LLC-store-misses,0,0.00,,
+    36.065433464,<not counted>,,instructions,0,0.00,,
+    36.166046180,131,,LLC-load-misses,200496,100.00,42.12,of all LL-cache accesses
+    36.166046180,311,,LLC-loads,200496,100.00,,
+    36.166046180,<not counted>,,LLC-store-misses,0,0.00,,
+    36.166046180,<not counted>,,instructions,0,0.00,,
+    36.266276998,79,,LLC-load-misses,66935,100.00,63.71,of all LL-cache accesses
+    36.266276998,124,,LLC-loads,66935,100.00,,
+    36.266276998,<not counted>,,LLC-store-misses,0,0.00,,
+    36.266276998,<not counted>,,instructions,0,0.00,,
+    36.366656076,60,,LLC-load-misses,75335,100.00,52.63,of all LL-cache accesses
+    36.366656076,114,,LLC-loads,75335,100.00,,
+    36.366656076,<not counted>,,LLC-store-misses,0,0.00,,
+    36.366656076,<not counted>,,instructions,0,0.00,,
+    36.466898335,232,,LLC-load-misses,243332,100.00,50.33,of all LL-cache accesses
+    36.466898335,461,,LLC-loads,243332,100.00,,
+    36.466898335,<not counted>,,LLC-store-misses,0,0.00,,
+    36.466898335,<not counted>,,instructions,0,0.00,,
+    36.567440658,54,,LLC-load-misses,87156,100.00,42.19,of all LL-cache accesses
+    36.567440658,128,,LLC-loads,87156,100.00,,
+    36.567440658,<not counted>,,LLC-store-misses,0,0.00,,
+    36.567440658,<not counted>,,instructions,0,0.00,,
+    36.667803750,<not counted>,,LLC-load-misses,0,100.00,,
+    36.667803750,<not counted>,,LLC-loads,0,100.00,,
+    36.667803750,<not counted>,,LLC-store-misses,0,100.00,,
+    36.667803750,<not counted>,,instructions,0,100.00,,
+    36.768102098,205,,LLC-load-misses,260413,100.00,51.77,of all LL-cache accesses
+    36.768102098,396,,LLC-loads,260413,100.00,,
+    36.768102098,<not counted>,,LLC-store-misses,0,0.00,,
+    36.768102098,<not counted>,,instructions,0,0.00,,
+    36.868668700,56,,LLC-load-misses,82988,100.00,57.14,of all LL-cache accesses
+    36.868668700,98,,LLC-loads,82988,100.00,,
+    36.868668700,<not counted>,,LLC-store-misses,0,0.00,,
+    36.868668700,<not counted>,,instructions,0,0.00,,
+    36.969207488,106,,LLC-load-misses,145413,100.00,53.81,of all LL-cache accesses
+    36.969207488,197,,LLC-loads,145413,100.00,,
+    36.969207488,<not counted>,,LLC-store-misses,0,0.00,,
+    36.969207488,<not counted>,,instructions,0,0.00,,
+    37.069746263,<not counted>,,LLC-load-misses,0,100.00,,
+    37.069746263,<not counted>,,LLC-loads,0,100.00,,
+    37.069746263,<not counted>,,LLC-store-misses,0,100.00,,
+    37.069746263,<not counted>,,instructions,0,100.00,,
+    37.170288411,64,,LLC-load-misses,90204,100.00,53.33,of all LL-cache accesses
+    37.170288411,120,,LLC-loads,90204,100.00,,
+    37.170288411,<not counted>,,LLC-store-misses,0,0.00,,
+    37.170288411,<not counted>,,instructions,0,0.00,,
+    37.270832918,162,,LLC-load-misses,164926,100.00,61.36,of all LL-cache accesses
+    37.270832918,264,,LLC-loads,164926,100.00,,
+    37.270832918,<not counted>,,LLC-store-misses,0,0.00,,
+    37.270832918,<not counted>,,instructions,0,0.00,,
+    37.371189821,70,,LLC-load-misses,78355,100.00,55.12,of all LL-cache accesses
+    37.371189821,127,,LLC-loads,78355,100.00,,
+    37.371189821,<not counted>,,LLC-store-misses,0,0.00,,
+    37.371189821,<not counted>,,instructions,0,0.00,,
+    37.471551408,133,,LLC-load-misses,140457,100.00,63.33,of all LL-cache accesses
+    37.471551408,210,,LLC-loads,140457,100.00,,
+    37.471551408,<not counted>,,LLC-store-misses,0,0.00,,
+    37.471551408,<not counted>,,instructions,0,0.00,,
+    37.572107497,93,,LLC-load-misses,112720,100.00,54.07,of all LL-cache accesses
+    37.572107497,172,,LLC-loads,112720,100.00,,
+    37.572107497,<not counted>,,LLC-store-misses,0,0.00,,
+    37.572107497,<not counted>,,instructions,0,0.00,,
+    37.672643054,<not counted>,,LLC-load-misses,0,100.00,,
+    37.672643054,<not counted>,,LLC-loads,0,100.00,,
+    37.672643054,<not counted>,,LLC-store-misses,0,100.00,,
+    37.672643054,<not counted>,,instructions,0,100.00,,
+    37.773174335,95,,LLC-load-misses,109940,100.00,60.51,of all LL-cache accesses
+    37.773174335,157,,LLC-loads,109940,100.00,,
+    37.773174335,<not counted>,,LLC-store-misses,0,0.00,,
+    37.773174335,<not counted>,,instructions,0,0.00,,
+    37.873700117,161,,LLC-load-misses,195906,100.00,53.14,of all LL-cache accesses
+    37.873700117,303,,LLC-loads,195906,100.00,,
+    37.873700117,<not counted>,,LLC-store-misses,0,0.00,,
+    37.873700117,<not counted>,,instructions,0,0.00,,
+    37.974235515,247,,LLC-load-misses,319929,100.00,52.00,of all LL-cache accesses
+    37.974235515,475,,LLC-loads,319929,100.00,,
+    37.974235515,<not counted>,,LLC-store-misses,0,0.00,,
+    37.974235515,<not counted>,,instructions,0,0.00,,
+    38.074635964,48,,LLC-load-misses,53742,100.00,62.34,of all LL-cache accesses
+    38.074635964,77,,LLC-loads,53742,100.00,,
+    38.074635964,<not counted>,,LLC-store-misses,0,0.00,,
+    38.074635964,<not counted>,,instructions,0,0.00,,
+    38.175207226,45,,LLC-load-misses,58853,100.00,41.67,of all LL-cache accesses
+    38.175207226,108,,LLC-loads,58853,100.00,,
+    38.175207226,<not counted>,,LLC-store-misses,0,0.00,,
+    38.175207226,<not counted>,,instructions,0,0.00,,
+    38.275755280,107,,LLC-load-misses,105802,100.00,61.85,of all LL-cache accesses
+    38.275755280,173,,LLC-loads,105802,100.00,,
+    38.275755280,<not counted>,,LLC-store-misses,0,0.00,,
+    38.275755280,<not counted>,,instructions,0,0.00,,
+    38.376247550,127,,LLC-load-misses,135829,100.00,55.95,of all LL-cache accesses
+    38.376247550,227,,LLC-loads,135829,100.00,,
+    38.376247550,<not counted>,,LLC-store-misses,0,0.00,,
+    38.376247550,<not counted>,,instructions,0,0.00,,
+    38.476577406,135,,LLC-load-misses,203002,100.00,45.30,of all LL-cache accesses
+    38.476577406,298,,LLC-loads,203002,100.00,,
+    38.476577406,<not counted>,,LLC-store-misses,0,0.00,,
+    38.476577406,<not counted>,,instructions,0,0.00,,
+    38.577148686,208,,LLC-load-misses,204977,100.00,52.66,of all LL-cache accesses
+    38.577148686,395,,LLC-loads,204977,100.00,,
+    38.577148686,<not counted>,,LLC-store-misses,0,0.00,,
+    38.577148686,<not counted>,,instructions,0,0.00,,
+    38.677602132,219,,LLC-load-misses,255521,100.00,36.20,of all LL-cache accesses
+    38.677602132,605,,LLC-loads,255521,100.00,,
+    38.677602132,<not counted>,,LLC-store-misses,0,0.00,,
+    38.677602132,<not counted>,,instructions,0,0.00,,
+    38.777966516,58,,LLC-load-misses,43157,100.00,63.04,of all LL-cache accesses
+    38.777966516,92,,LLC-loads,43157,100.00,,
+    38.777966516,<not counted>,,LLC-store-misses,0,0.00,,
+    38.777966516,<not counted>,,instructions,0,0.00,,
+    38.878553390,51,,LLC-load-misses,56748,100.00,57.95,of all LL-cache accesses
+    38.878553390,88,,LLC-loads,56748,100.00,,
+    38.878553390,<not counted>,,LLC-store-misses,0,0.00,,
+    38.878553390,<not counted>,,instructions,0,0.00,,
+    38.978968817,106,,LLC-load-misses,115540,100.00,59.22,of all LL-cache accesses
+    38.978968817,179,,LLC-loads,115540,100.00,,
+    38.978968817,<not counted>,,LLC-store-misses,0,0.00,,
+    38.978968817,<not counted>,,instructions,0,0.00,,
+    39.079298865,44,,LLC-load-misses,64163,100.00,50.00,of all LL-cache accesses
+    39.079298865,88,,LLC-loads,64163,100.00,,
+    39.079298865,<not counted>,,LLC-store-misses,0,0.00,,
+    39.079298865,<not counted>,,instructions,0,0.00,,
+    39.179679245,45,,LLC-load-misses,52906,100.00,52.94,of all LL-cache accesses
+    39.179679245,85,,LLC-loads,52906,100.00,,
+    39.179679245,<not counted>,,LLC-store-misses,0,0.00,,
+    39.179679245,<not counted>,,instructions,0,0.00,,
+    39.280220899,121,,LLC-load-misses,100417,100.00,50.84,of all LL-cache accesses
+    39.280220899,238,,LLC-loads,100417,100.00,,
+    39.280220899,<not counted>,,LLC-store-misses,0,0.00,,
+    39.280220899,<not counted>,,instructions,0,0.00,,
+    39.380574282,170,,LLC-load-misses,173164,100.00,58.22,of all LL-cache accesses
+    39.380574282,292,,LLC-loads,173164,100.00,,
+    39.380574282,<not counted>,,LLC-store-misses,0,0.00,,
+    39.380574282,<not counted>,,instructions,0,0.00,,
+    39.481037704,109,,LLC-load-misses,53778,100.00,63.74,of all LL-cache accesses
+    39.481037704,171,,LLC-loads,53778,100.00,,
+    39.481037704,<not counted>,,LLC-store-misses,0,0.00,,
+    39.481037704,<not counted>,,instructions,0,0.00,,
+    39.581418268,45,,LLC-load-misses,59934,100.00,27.11,of all LL-cache accesses
+    39.581418268,166,,LLC-loads,59934,100.00,,
+    39.581418268,<not counted>,,LLC-store-misses,0,0.00,,
+    39.581418268,<not counted>,,instructions,0,0.00,,
+    39.681788734,150,,LLC-load-misses,183140,100.00,57.25,of all LL-cache accesses
+    39.681788734,262,,LLC-loads,183140,100.00,,
+    39.681788734,<not counted>,,LLC-store-misses,0,0.00,,
+    39.681788734,<not counted>,,instructions,0,0.00,,
+    39.782322362,83,,LLC-load-misses,107008,100.00,49.11,of all LL-cache accesses
+    39.782322362,169,,LLC-loads,107008,100.00,,
+    39.782322362,<not counted>,,LLC-store-misses,0,0.00,,
+    39.782322362,<not counted>,,instructions,0,0.00,,
+    39.882715315,54,,LLC-load-misses,86273,100.00,46.96,of all LL-cache accesses
+    39.882715315,115,,LLC-loads,86273,100.00,,
+    39.882715315,<not counted>,,LLC-store-misses,0,0.00,,
+    39.882715315,<not counted>,,instructions,0,0.00,,
+    39.983086790,124,,LLC-load-misses,153877,100.00,57.14,of all LL-cache accesses
+    39.983086790,217,,LLC-loads,153877,100.00,,
+    39.983086790,<not counted>,,LLC-store-misses,0,0.00,,
+    39.983086790,<not counted>,,instructions,0,0.00,,
+    40.083632007,40,,LLC-load-misses,59243,100.00,43.48,of all LL-cache accesses
+    40.083632007,92,,LLC-loads,59243,100.00,,
+    40.083632007,<not counted>,,LLC-store-misses,0,0.00,,
+    40.083632007,<not counted>,,instructions,0,0.00,,
+    40.184172522,<not counted>,,LLC-load-misses,0,100.00,,
+    40.184172522,<not counted>,,LLC-loads,0,100.00,,
+    40.184172522,<not counted>,,LLC-store-misses,0,100.00,,
+    40.184172522,<not counted>,,instructions,0,100.00,,
+    40.284533909,105,,LLC-load-misses,137773,100.00,49.53,of all LL-cache accesses
+    40.284533909,212,,LLC-loads,137773,100.00,,
+    40.284533909,<not counted>,,LLC-store-misses,0,0.00,,
+    40.284533909,<not counted>,,instructions,0,0.00,,
+    40.385023659,139,,LLC-load-misses,160204,100.00,59.15,of all LL-cache accesses
+    40.385023659,235,,LLC-loads,160204,100.00,,
+    40.385023659,<not counted>,,LLC-store-misses,0,0.00,,
+    40.385023659,<not counted>,,instructions,0,0.00,,
+    40.485405479,124,,LLC-load-misses,76318,100.00,54.39,of all LL-cache accesses
+    40.485405479,228,,LLC-loads,76318,100.00,,
+    40.485405479,<not counted>,,LLC-store-misses,0,0.00,,
+    40.485405479,<not counted>,,instructions,0,0.00,,
+    40.585733650,<not counted>,,LLC-load-misses,0,100.00,,
+    40.585733650,<not counted>,,LLC-loads,0,100.00,,
+    40.585733650,<not counted>,,LLC-store-misses,0,100.00,,
+    40.585733650,<not counted>,,instructions,0,100.00,,
+    40.686309330,36,,LLC-load-misses,55082,100.00,54.55,of all LL-cache accesses
+    40.686309330,66,,LLC-loads,55082,100.00,,
+    40.686309330,<not counted>,,LLC-store-misses,0,0.00,,
+    40.686309330,<not counted>,,instructions,0,0.00,,
+    40.786848756,111,,LLC-load-misses,109489,100.00,64.53,of all LL-cache accesses
+    40.786848756,172,,LLC-loads,109489,100.00,,
+    40.786848756,<not counted>,,LLC-store-misses,0,0.00,,
+    40.786848756,<not counted>,,instructions,0,0.00,,
+    40.887180572,9,,LLC-load-misses,28020,100.00,32.14,of all LL-cache accesses
+    40.887180572,28,,LLC-loads,28020,100.00,,
+    40.887180572,<not counted>,,LLC-store-misses,0,0.00,,
+    40.887180572,<not counted>,,instructions,0,0.00,,
+    40.987550340,181,,LLC-load-misses,215697,100.00,57.83,of all LL-cache accesses
+    40.987550340,313,,LLC-loads,215697,100.00,,
+    40.987550340,<not counted>,,LLC-store-misses,0,0.00,,
+    40.987550340,<not counted>,,instructions,0,0.00,,
+    41.088066021,36,,LLC-load-misses,52375,100.00,44.44,of all LL-cache accesses
+    41.088066021,81,,LLC-loads,52375,100.00,,
+    41.088066021,<not counted>,,LLC-store-misses,0,0.00,,
+    41.088066021,<not counted>,,instructions,0,0.00,,
+    41.188497151,159,,LLC-load-misses,207923,100.00,29.94,of all LL-cache accesses
+    41.188497151,531,,LLC-loads,207923,100.00,,
+    41.188497151,<not counted>,,LLC-store-misses,0,0.00,,
+    41.188497151,<not counted>,,instructions,0,0.00,,
+    41.288798175,58,,LLC-load-misses,54165,100.00,63.74,of all LL-cache accesses
+    41.288798175,91,,LLC-loads,54165,100.00,,
+    41.288798175,<not counted>,,LLC-store-misses,0,0.00,,
+    41.288798175,<not counted>,,instructions,0,0.00,,
+    41.389206509,39,,LLC-load-misses,61773,100.00,45.88,of all LL-cache accesses
+    41.389206509,85,,LLC-loads,61773,100.00,,
+    41.389206509,<not counted>,,LLC-store-misses,0,0.00,,
+    41.389206509,<not counted>,,instructions,0,0.00,,
+    41.489476230,183,,LLC-load-misses,142118,100.00,54.30,of all LL-cache accesses
+    41.489476230,337,,LLC-loads,142118,100.00,,
+    41.489476230,<not counted>,,LLC-store-misses,0,0.00,,
+    41.489476230,<not counted>,,instructions,0,0.00,,
+    41.589968574,172,,LLC-load-misses,165287,100.00,57.53,of all LL-cache accesses
+    41.589968574,299,,LLC-loads,165287,100.00,,
+    41.589968574,<not counted>,,LLC-store-misses,0,0.00,,
+    41.589968574,<not counted>,,instructions,0,0.00,,
+    41.690408028,163,,LLC-load-misses,126042,100.00,49.70,of all LL-cache accesses
+    41.690408028,328,,LLC-loads,126042,100.00,,
+    41.690408028,<not counted>,,LLC-store-misses,0,0.00,,
+    41.690408028,<not counted>,,instructions,0,0.00,,
+    41.790705706,66,,LLC-load-misses,86601,100.00,50.38,of all LL-cache accesses
+    41.790705706,131,,LLC-loads,86601,100.00,,
+    41.790705706,<not counted>,,LLC-store-misses,0,0.00,,
+    41.790705706,<not counted>,,instructions,0,0.00,,
+    41.891266293,34,,LLC-load-misses,28846,100.00,77.27,of all LL-cache accesses
+    41.891266293,44,,LLC-loads,28846,100.00,,
+    41.891266293,<not counted>,,LLC-store-misses,0,0.00,,
+    41.891266293,<not counted>,,instructions,0,0.00,,
+    41.991814514,108,,LLC-load-misses,107346,100.00,59.02,of all LL-cache accesses
+    41.991814514,183,,LLC-loads,107346,100.00,,
+    41.991814514,<not counted>,,LLC-store-misses,0,0.00,,
+    41.991814514,<not counted>,,instructions,0,0.00,,
+    42.092184810,<not counted>,,LLC-load-misses,0,100.00,,
+    42.092184810,<not counted>,,LLC-loads,0,100.00,,
+    42.092184810,<not counted>,,LLC-store-misses,0,100.00,,
+    42.092184810,<not counted>,,instructions,0,100.00,,
+    42.192459203,134,,LLC-load-misses,159448,100.00,50.00,of all LL-cache accesses
+    42.192459203,268,,LLC-loads,159448,100.00,,
+    42.192459203,<not counted>,,LLC-store-misses,0,0.00,,
+    42.192459203,<not counted>,,instructions,0,0.00,,
+    42.293018490,126,,LLC-load-misses,143350,100.00,57.53,of all LL-cache accesses
+    42.293018490,219,,LLC-loads,143350,100.00,,
+    42.293018490,<not counted>,,LLC-store-misses,0,0.00,,
+    42.293018490,<not counted>,,instructions,0,0.00,,
+    42.393385014,<not counted>,,LLC-load-misses,0,100.00,,
+    42.393385014,<not counted>,,LLC-loads,0,100.00,,
+    42.393385014,<not counted>,,LLC-store-misses,0,100.00,,
+    42.393385014,<not counted>,,instructions,0,100.00,,
+    42.493901521,95,,LLC-load-misses,45839,100.00,60.13,of all LL-cache accesses
+    42.493901521,158,,LLC-loads,45839,100.00,,
+    42.493901521,<not counted>,,LLC-store-misses,0,0.00,,
+    42.493901521,<not counted>,,instructions,0,0.00,,
+    42.594381118,99,,LLC-load-misses,107787,100.00,61.88,of all LL-cache accesses
+    42.594381118,160,,LLC-loads,107787,100.00,,
+    42.594381118,<not counted>,,LLC-store-misses,0,0.00,,
+    42.594381118,<not counted>,,instructions,0,0.00,,
+    42.694728503,43,,LLC-load-misses,56830,100.00,48.86,of all LL-cache accesses
+    42.694728503,88,,LLC-loads,56830,100.00,,
+    42.694728503,<not counted>,,LLC-store-misses,0,0.00,,
+    42.694728503,<not counted>,,instructions,0,0.00,,
+    42.795045382,152,,LLC-load-misses,179116,100.00,51.53,of all LL-cache accesses
+    42.795045382,295,,LLC-loads,179116,100.00,,
+    42.795045382,<not counted>,,LLC-store-misses,0,0.00,,
+    42.795045382,<not counted>,,instructions,0,0.00,,
+    42.895582397,78,,LLC-load-misses,86032,100.00,40.41,of all LL-cache accesses
+    42.895582397,193,,LLC-loads,86032,100.00,,
+    42.895582397,<not counted>,,LLC-store-misses,0,0.00,,
+    42.895582397,<not counted>,,instructions,0,0.00,,
+    42.996104758,41,,LLC-load-misses,56526,100.00,60.29,of all LL-cache accesses
+    42.996104758,68,,LLC-loads,56526,100.00,,
+    42.996104758,<not counted>,,LLC-store-misses,0,0.00,,
+    42.996104758,<not counted>,,instructions,0,0.00,,
+    43.096648335,48,,LLC-load-misses,59194,100.00,52.75,of all LL-cache accesses
+    43.096648335,91,,LLC-loads,59194,100.00,,
+    43.096648335,<not counted>,,LLC-store-misses,0,0.00,,
+    43.096648335,<not counted>,,instructions,0,0.00,,
+    43.197150864,44,,LLC-load-misses,50693,100.00,57.14,of all LL-cache accesses
+    43.197150864,77,,LLC-loads,50693,100.00,,
+    43.197150864,<not counted>,,LLC-store-misses,0,0.00,,
+    43.197150864,<not counted>,,instructions,0,0.00,,
+    43.297674714,118,,LLC-load-misses,187752,100.00,46.46,of all LL-cache accesses
+    43.297674714,254,,LLC-loads,187752,100.00,,
+    43.297674714,<not counted>,,LLC-store-misses,0,0.00,,
+    43.297674714,<not counted>,,instructions,0,0.00,,
+    43.397991499,62,,LLC-load-misses,86975,100.00,56.88,of all LL-cache accesses
+    43.397991499,109,,LLC-loads,86975,100.00,,
+    43.397991499,<not counted>,,LLC-store-misses,0,0.00,,
+    43.397991499,<not counted>,,instructions,0,0.00,,
+    43.498321096,195,,LLC-load-misses,224096,100.00,56.69,of all LL-cache accesses
+    43.498321096,344,,LLC-loads,224096,100.00,,
+    43.498321096,<not counted>,,LLC-store-misses,0,0.00,,
+    43.498321096,<not counted>,,instructions,0,0.00,,
+    43.598887940,<not counted>,,LLC-load-misses,0,100.00,,
+    43.598887940,<not counted>,,LLC-loads,0,100.00,,
+    43.598887940,<not counted>,,LLC-store-misses,0,100.00,,
+    43.598887940,<not counted>,,instructions,0,100.00,,
+    43.699240296,109,,LLC-load-misses,155767,100.00,44.31,of all LL-cache accesses
+    43.699240296,246,,LLC-loads,155767,100.00,,
+    43.699240296,<not counted>,,LLC-store-misses,0,0.00,,
+    43.699240296,<not counted>,,instructions,0,0.00,,
+    43.799522641,127,,LLC-load-misses,122053,100.00,56.95,of all LL-cache accesses
+    43.799522641,223,,LLC-loads,122053,100.00,,
+    43.799522641,<not counted>,,LLC-store-misses,0,0.00,,
+    43.799522641,<not counted>,,instructions,0,0.00,,
+    43.899895230,66,,LLC-load-misses,91235,100.00,51.97,of all LL-cache accesses
+    43.899895230,127,,LLC-loads,91235,100.00,,
+    43.899895230,<not counted>,,LLC-store-misses,0,0.00,,
+    43.899895230,<not counted>,,instructions,0,0.00,,
+    44.000451102,157,,LLC-load-misses,190736,100.00,50.32,of all LL-cache accesses
+    44.000451102,312,,LLC-loads,190736,100.00,,
+    44.000451102,<not counted>,,LLC-store-misses,0,0.00,,
+    44.000451102,<not counted>,,instructions,0,0.00,,
+    44.100979952,<not counted>,,LLC-load-misses,0,100.00,,
+    44.100979952,<not counted>,,LLC-loads,0,100.00,,
+    44.100979952,<not counted>,,LLC-store-misses,0,100.00,,
+    44.100979952,<not counted>,,instructions,0,100.00,,
+    44.201325624,51,,LLC-load-misses,59397,100.00,76.12,of all LL-cache accesses
+    44.201325624,67,,LLC-loads,59397,100.00,,
+    44.201325624,<not counted>,,LLC-store-misses,0,0.00,,
+    44.201325624,<not counted>,,instructions,0,0.00,,
+    44.301860711,96,,LLC-load-misses,121096,100.00,70.59,of all LL-cache accesses
+    44.301860711,136,,LLC-loads,121096,100.00,,
+    44.301860711,<not counted>,,LLC-store-misses,0,0.00,,
+    44.301860711,<not counted>,,instructions,0,0.00,,
+    44.402227100,157,,LLC-load-misses,182421,100.00,75.85,of all LL-cache accesses
+    44.402227100,207,,LLC-loads,182421,100.00,,
+    44.402227100,<not counted>,,LLC-store-misses,0,0.00,,
+    44.402227100,<not counted>,,instructions,0,0.00,,
+    44.502812115,122,,LLC-load-misses,54953,100.00,59.22,of all LL-cache accesses
+    44.502812115,206,,LLC-loads,54953,100.00,,
+    44.502812115,<not counted>,,LLC-store-misses,0,0.00,,
+    44.502812115,<not counted>,,instructions,0,0.00,,
+    44.603159267,219,,LLC-load-misses,194426,100.00,54.07,of all LL-cache accesses
+    44.603159267,405,,LLC-loads,194426,100.00,,
+    44.603159267,<not counted>,,LLC-store-misses,0,0.00,,
+    44.603159267,<not counted>,,instructions,0,0.00,,
+    44.703445555,149,,LLC-load-misses,171062,100.00,59.84,of all LL-cache accesses
+    44.703445555,249,,LLC-loads,171062,100.00,,
+    44.703445555,<not counted>,,LLC-store-misses,0,0.00,,
+    44.703445555,<not counted>,,instructions,0,0.00,,
+    44.803815683,38,,LLC-load-misses,53951,100.00,43.18,of all LL-cache accesses
+    44.803815683,88,,LLC-loads,53951,100.00,,
+    44.803815683,<not counted>,,LLC-store-misses,0,0.00,,
+    44.803815683,<not counted>,,instructions,0,0.00,,
+    44.904386490,48,,LLC-load-misses,56576,100.00,57.83,of all LL-cache accesses
+    44.904386490,83,,LLC-loads,56576,100.00,,
+    44.904386490,<not counted>,,LLC-store-misses,0,0.00,,
+    44.904386490,<not counted>,,instructions,0,0.00,,
+    45.004956963,99,,LLC-load-misses,116773,100.00,45.41,of all LL-cache accesses
+    45.004956963,218,,LLC-loads,116773,100.00,,
+    45.004956963,<not counted>,,LLC-store-misses,0,0.00,,
+    45.004956963,<not counted>,,instructions,0,0.00,,
+    45.105498373,<not counted>,,LLC-load-misses,0,100.00,,
+    45.105498373,<not counted>,,LLC-loads,0,100.00,,
+    45.105498373,<not counted>,,LLC-store-misses,0,100.00,,
+    45.105498373,<not counted>,,instructions,0,100.00,,
+    45.205868785,28,,LLC-load-misses,53474,100.00,36.84,of all LL-cache accesses
+    45.205868785,76,,LLC-loads,53474,100.00,,
+    45.205868785,<not counted>,,LLC-store-misses,0,0.00,,
+    45.205868785,<not counted>,,instructions,0,0.00,,
+    45.306436093,33,,LLC-load-misses,54214,100.00,39.76,of all LL-cache accesses
+    45.306436093,83,,LLC-loads,54214,100.00,,
+    45.306436093,<not counted>,,LLC-store-misses,0,0.00,,
+    45.306436093,<not counted>,,instructions,0,0.00,,
+    45.406992427,51,,LLC-load-misses,53750,100.00,64.56,of all LL-cache accesses
+    45.406992427,79,,LLC-loads,53750,100.00,,
+    45.406992427,<not counted>,,LLC-store-misses,0,0.00,,
+    45.406992427,<not counted>,,instructions,0,0.00,,
+    45.507534880,105,,LLC-load-misses,55227,100.00,58.01,of all LL-cache accesses
+    45.507534880,181,,LLC-loads,55227,100.00,,
+    45.507534880,<not counted>,,LLC-store-misses,0,0.00,,
+    45.507534880,<not counted>,,instructions,0,0.00,,
+    45.608082937,66,,LLC-load-misses,78005,100.00,53.66,of all LL-cache accesses
+    45.608082937,123,,LLC-loads,78005,100.00,,
+    45.608082937,<not counted>,,LLC-store-misses,0,0.00,,
+    45.608082937,<not counted>,,instructions,0,0.00,,
+    45.708447158,16,,LLC-load-misses,25661,100.00,40.00,of all LL-cache accesses
+    45.708447158,40,,LLC-loads,25661,100.00,,
+    45.708447158,<not counted>,,LLC-store-misses,0,0.00,,
+    45.708447158,<not counted>,,instructions,0,0.00,,
+    45.808789326,99,,LLC-load-misses,113876,100.00,62.66,of all LL-cache accesses
+    45.808789326,158,,LLC-loads,113876,100.00,,
+    45.808789326,<not counted>,,LLC-store-misses,0,0.00,,
+    45.808789326,<not counted>,,instructions,0,0.00,,
+    45.909330947,56,,LLC-load-misses,84922,100.00,49.12,of all LL-cache accesses
+    45.909330947,114,,LLC-loads,84922,100.00,,
+    45.909330947,<not counted>,,LLC-store-misses,0,0.00,,
+    45.909330947,<not counted>,,instructions,0,0.00,,
+    46.009891019,100,,LLC-load-misses,112277,100.00,58.14,of all LL-cache accesses
+    46.009891019,172,,LLC-loads,112277,100.00,,
+    46.009891019,<not counted>,,LLC-store-misses,0,0.00,,
+    46.009891019,<not counted>,,instructions,0,0.00,,
+    46.110447428,<not counted>,,LLC-load-misses,0,100.00,,
+    46.110447428,<not counted>,,LLC-loads,0,100.00,,
+    46.110447428,<not counted>,,LLC-store-misses,0,100.00,,
+    46.110447428,<not counted>,,instructions,0,100.00,,
+    46.210826076,158,,LLC-load-misses,205741,100.00,27.15,of all LL-cache accesses
+    46.210826076,582,,LLC-loads,205741,100.00,,
+    46.210826076,<not counted>,,LLC-store-misses,0,0.00,,
+    46.210826076,<not counted>,,instructions,0,0.00,,
+    46.311248908,51,,LLC-load-misses,57135,100.00,52.58,of all LL-cache accesses
+    46.311248908,97,,LLC-loads,57135,100.00,,
+    46.311248908,<not counted>,,LLC-store-misses,0,0.00,,
+    46.311248908,<not counted>,,instructions,0,0.00,,
+    46.411631344,135,,LLC-load-misses,157801,100.00,36.78,of all LL-cache accesses
+    46.411631344,367,,LLC-loads,157801,100.00,,
+    46.411631344,<not counted>,,LLC-store-misses,0,0.00,,
+    46.411631344,<not counted>,,instructions,0,0.00,,
+    46.512195693,145,,LLC-load-misses,110247,100.00,44.89,of all LL-cache accesses
+    46.512195693,323,,LLC-loads,110247,100.00,,
+    46.512195693,<not counted>,,LLC-store-misses,0,0.00,,
+    46.512195693,<not counted>,,instructions,0,0.00,,
+    46.612735023,45,,LLC-load-misses,54562,100.00,47.37,of all LL-cache accesses
+    46.612735023,95,,LLC-loads,54562,100.00,,
+    46.612735023,<not counted>,,LLC-store-misses,0,0.00,,
+    46.612735023,<not counted>,,instructions,0,0.00,,
+    46.713108750,24,,LLC-load-misses,29060,100.00,57.14,of all LL-cache accesses
+    46.713108750,42,,LLC-loads,29060,100.00,,
+    46.713108750,<not counted>,,LLC-store-misses,0,0.00,,
+    46.713108750,<not counted>,,instructions,0,0.00,,
+    46.813664115,47,,LLC-load-misses,59859,100.00,55.29,of all LL-cache accesses
+    46.813664115,85,,LLC-loads,59859,100.00,,
+    46.813664115,<not counted>,,LLC-store-misses,0,0.00,,
+    46.813664115,<not counted>,,instructions,0,0.00,,
+    46.914205966,89,,LLC-load-misses,110761,100.00,55.28,of all LL-cache accesses
+    46.914205966,161,,LLC-loads,110761,100.00,,
+    46.914205966,<not counted>,,LLC-store-misses,0,0.00,,
+    46.914205966,<not counted>,,instructions,0,0.00,,
+    47.014754755,225,,LLC-load-misses,231972,100.00,69.02,of all LL-cache accesses
+    47.014754755,326,,LLC-loads,231972,100.00,,
+    47.014754755,<not counted>,,LLC-store-misses,0,0.00,,
+    47.014754755,<not counted>,,instructions,0,0.00,,
+    47.115311861,<not counted>,,LLC-load-misses,0,100.00,,
+    47.115311861,<not counted>,,LLC-loads,0,100.00,,
+    47.115311861,<not counted>,,LLC-store-misses,0,100.00,,
+    47.115311861,<not counted>,,instructions,0,100.00,,
+    47.215652856,76,,LLC-load-misses,81656,100.00,61.79,of all LL-cache accesses
+    47.215652856,123,,LLC-loads,81656,100.00,,
+    47.215652856,<not counted>,,LLC-store-misses,0,0.00,,
+    47.215652856,<not counted>,,instructions,0,0.00,,
+    47.316194389,58,,LLC-load-misses,56269,100.00,59.79,of all LL-cache accesses
+    47.316194389,97,,LLC-loads,56269,100.00,,
+    47.316194389,<not counted>,,LLC-store-misses,0,0.00,,
+    47.316194389,<not counted>,,instructions,0,0.00,,
+    47.416765723,46,,LLC-load-misses,57629,100.00,69.70,of all LL-cache accesses
+    47.416765723,66,,LLC-loads,57629,100.00,,
+    47.416765723,<not counted>,,LLC-store-misses,0,0.00,,
+    47.416765723,<not counted>,,instructions,0,0.00,,
+    47.517223114,151,,LLC-load-misses,86205,100.00,47.34,of all LL-cache accesses
+    47.517223114,319,,LLC-loads,86205,100.00,,
+    47.517223114,<not counted>,,LLC-store-misses,0,0.00,,
+    47.517223114,<not counted>,,instructions,0,0.00,,
+    47.617735510,146,,LLC-load-misses,154404,100.00,48.50,of all LL-cache accesses
+    47.617735510,301,,LLC-loads,154404,100.00,,
+    47.617735510,<not counted>,,LLC-store-misses,0,0.00,,
+    47.617735510,<not counted>,,instructions,0,0.00,,
+    47.718221472,149,,LLC-load-misses,131155,100.00,73.76,of all LL-cache accesses
+    47.718221472,202,,LLC-loads,131155,100.00,,
+    47.718221472,<not counted>,,LLC-store-misses,0,0.00,,
+    47.718221472,<not counted>,,instructions,0,0.00,,
+    47.818785242,150,,LLC-load-misses,168432,100.00,56.18,of all LL-cache accesses
+    47.818785242,267,,LLC-loads,168432,100.00,,
+    47.818785242,<not counted>,,LLC-store-misses,0,0.00,,
+    47.818785242,<not counted>,,instructions,0,0.00,,
+    47.919173499,37,,LLC-load-misses,27808,100.00,78.72,of all LL-cache accesses
+    47.919173499,47,,LLC-loads,27808,100.00,,
+    47.919173499,<not counted>,,LLC-store-misses,0,0.00,,
+    47.919173499,<not counted>,,instructions,0,0.00,,
+    48.019733768,141,,LLC-load-misses,139993,100.00,64.68,of all LL-cache accesses
+    48.019733768,218,,LLC-loads,139993,100.00,,
+    48.019733768,<not counted>,,LLC-store-misses,0,0.00,,
+    48.019733768,<not counted>,,instructions,0,0.00,,
+    48.120271969,<not counted>,,LLC-load-misses,0,100.00,,
+    48.120271969,<not counted>,,LLC-loads,0,100.00,,
+    48.120271969,<not counted>,,LLC-store-misses,0,100.00,,
+    48.120271969,<not counted>,,instructions,0,100.00,,
+    48.220619959,146,,LLC-load-misses,168704,100.00,65.77,of all LL-cache accesses
+    48.220619959,222,,LLC-loads,168704,100.00,,
+    48.220619959,<not counted>,,LLC-store-misses,0,0.00,,
+    48.220619959,<not counted>,,instructions,0,0.00,,
+    48.321156148,153,,LLC-load-misses,188808,100.00,55.04,of all LL-cache accesses
+    48.321156148,278,,LLC-loads,188808,100.00,,
+    48.321156148,<not counted>,,LLC-store-misses,0,0.00,,
+    48.321156148,<not counted>,,instructions,0,0.00,,
+    48.421703506,76,,LLC-load-misses,146555,100.00,43.18,of all LL-cache accesses
+    48.421703506,176,,LLC-loads,146555,100.00,,
+    48.421703506,<not counted>,,LLC-store-misses,0,0.00,,
+    48.421703506,<not counted>,,instructions,0,0.00,,
+    48.522261747,142,,LLC-load-misses,57683,100.00,68.27,of all LL-cache accesses
+    48.522261747,208,,LLC-loads,57683,100.00,,
+    48.522261747,<not counted>,,LLC-store-misses,0,0.00,,
+    48.522261747,<not counted>,,instructions,0,0.00,,
+    48.622831785,55,,LLC-load-misses,57127,100.00,78.57,of all LL-cache accesses
+    48.622831785,70,,LLC-loads,57127,100.00,,
+    48.622831785,<not counted>,,LLC-store-misses,0,0.00,,
+    48.622831785,<not counted>,,instructions,0,0.00,,
+    48.723205494,93,,LLC-load-misses,156822,100.00,38.75,of all LL-cache accesses
+    48.723205494,240,,LLC-loads,156822,100.00,,
+    48.723205494,<not counted>,,LLC-store-misses,0,0.00,,
+    48.723205494,<not counted>,,instructions,0,0.00,,
+    48.823554754,50,,LLC-load-misses,56045,100.00,55.56,of all LL-cache accesses
+    48.823554754,90,,LLC-loads,56045,100.00,,
+    48.823554754,<not counted>,,LLC-store-misses,0,0.00,,
+    48.823554754,<not counted>,,instructions,0,0.00,,
+    48.924098749,47,,LLC-load-misses,55608,100.00,69.12,of all LL-cache accesses
+    48.924098749,68,,LLC-loads,55608,100.00,,
+    48.924098749,<not counted>,,LLC-store-misses,0,0.00,,
+    48.924098749,<not counted>,,instructions,0,0.00,,
+    49.024648636,55,,LLC-load-misses,54676,100.00,58.51,of all LL-cache accesses
+    49.024648636,94,,LLC-loads,54676,100.00,,
+    49.024648636,<not counted>,,LLC-store-misses,0,0.00,,
+    49.024648636,<not counted>,,instructions,0,0.00,,
+    49.125218049,54,,LLC-load-misses,81755,100.00,51.43,of all LL-cache accesses
+    49.125218049,105,,LLC-loads,81755,100.00,,
+    49.125218049,<not counted>,,LLC-store-misses,0,0.00,,
+    49.125218049,<not counted>,,instructions,0,0.00,,
+    49.225731155,100,,LLC-load-misses,115977,100.00,57.47,of all LL-cache accesses
+    49.225731155,174,,LLC-loads,115977,100.00,,
+    49.225731155,<not counted>,,LLC-store-misses,0,0.00,,
+    49.225731155,<not counted>,,instructions,0,0.00,,
+    49.326288101,8,,LLC-load-misses,26257,100.00,42.11,of all LL-cache accesses
+    49.326288101,19,,LLC-loads,26257,100.00,,
+    49.326288101,<not counted>,,LLC-store-misses,0,0.00,,
+    49.326288101,<not counted>,,instructions,0,0.00,,
+    49.426837170,115,,LLC-load-misses,144338,100.00,59.28,of all LL-cache accesses
+    49.426837170,194,,LLC-loads,144338,100.00,,
+    49.426837170,<not counted>,,LLC-store-misses,0,0.00,,
+    49.426837170,<not counted>,,instructions,0,0.00,,
+    49.527199075,156,,LLC-load-misses,103477,100.00,57.99,of all LL-cache accesses
+    49.527199075,269,,LLC-loads,103477,100.00,,
+    49.527199075,<not counted>,,LLC-store-misses,0,0.00,,
+    49.527199075,<not counted>,,instructions,0,0.00,,
+    49.627561897,106,,LLC-load-misses,110164,100.00,70.67,of all LL-cache accesses
+    49.627561897,150,,LLC-loads,110164,100.00,,
+    49.627561897,<not counted>,,LLC-store-misses,0,0.00,,
+    49.627561897,<not counted>,,instructions,0,0.00,,
+    49.728115142,109,,LLC-load-misses,143459,100.00,67.70,of all LL-cache accesses
+    49.728115142,161,,LLC-loads,143459,100.00,,
+    49.728115142,<not counted>,,LLC-store-misses,0,0.00,,
+    49.728115142,<not counted>,,instructions,0,0.00,,
+    49.828499655,44,,LLC-load-misses,79424,100.00,40.37,of all LL-cache accesses
+    49.828499655,109,,LLC-loads,79424,100.00,,
+    49.828499655,<not counted>,,LLC-store-misses,0,0.00,,
+    49.828499655,<not counted>,,instructions,0,0.00,,
+    49.928861149,108,,LLC-load-misses,168920,100.00,43.90,of all LL-cache accesses
+    49.928861149,246,,LLC-loads,168920,100.00,,
+    49.928861149,<not counted>,,LLC-store-misses,0,0.00,,
+    49.928861149,<not counted>,,instructions,0,0.00,,
+    50.029385975,96,,LLC-load-misses,133515,100.00,46.38,of all LL-cache accesses
+    50.029385975,207,,LLC-loads,133515,100.00,,
+    50.029385975,<not counted>,,LLC-store-misses,0,0.00,,
+    50.029385975,<not counted>,,instructions,0,0.00,,
+    50.129938076,47,,LLC-load-misses,53426,100.00,55.95,of all LL-cache accesses
+    50.129938076,84,,LLC-loads,53426,100.00,,
+    50.129938076,<not counted>,,LLC-store-misses,0,0.00,,
+    50.129938076,<not counted>,,instructions,0,0.00,,
+    50.230317878,58,,LLC-load-misses,54776,100.00,65.17,of all LL-cache accesses
+    50.230317878,89,,LLC-loads,54776,100.00,,
+    50.230317878,<not counted>,,LLC-store-misses,0,0.00,,
+    50.230317878,<not counted>,,instructions,0,0.00,,
+    50.330678132,49,,LLC-load-misses,53313,100.00,57.65,of all LL-cache accesses
+    50.330678132,85,,LLC-loads,53313,100.00,,
+    50.330678132,<not counted>,,LLC-store-misses,0,0.00,,
+    50.330678132,<not counted>,,instructions,0,0.00,,
+    50.431220633,59,,LLC-load-misses,55204,100.00,68.60,of all LL-cache accesses
+    50.431220633,86,,LLC-loads,55204,100.00,,
+    50.431220633,<not counted>,,LLC-store-misses,0,0.00,,
+    50.431220633,<not counted>,,instructions,0,0.00,,
+    50.531591320,228,,LLC-load-misses,171680,100.00,58.76,of all LL-cache accesses
+    50.531591320,388,,LLC-loads,171680,100.00,,
+    50.531591320,<not counted>,,LLC-store-misses,0,0.00,,
+    50.531591320,<not counted>,,instructions,0,0.00,,
+    50.631959836,91,,LLC-load-misses,61054,100.00,53.22,of all LL-cache accesses
+    50.631959836,171,,LLC-loads,61054,100.00,,
+    50.631959836,<not counted>,,LLC-store-misses,0,0.00,,
+    50.631959836,<not counted>,,instructions,0,0.00,,
+    50.732439624,182,,LLC-load-misses,172573,100.00,60.87,of all LL-cache accesses
+    50.732439624,299,,LLC-loads,172573,100.00,,
+    50.732439624,<not counted>,,LLC-store-misses,0,0.00,,
+    50.732439624,<not counted>,,instructions,0,0.00,,
+    50.832941397,<not counted>,,LLC-load-misses,0,100.00,,
+    50.832941397,<not counted>,,LLC-loads,0,100.00,,
+    50.832941397,<not counted>,,LLC-store-misses,0,100.00,,
+    50.832941397,<not counted>,,instructions,0,100.00,,
+    50.933486427,63,,LLC-load-misses,77556,100.00,55.75,of all LL-cache accesses
+    50.933486427,113,,LLC-loads,77556,100.00,,
+    50.933486427,<not counted>,,LLC-store-misses,0,0.00,,
+    50.933486427,<not counted>,,instructions,0,0.00,,
+    51.034039771,49,,LLC-load-misses,52542,100.00,58.33,of all LL-cache accesses
+    51.034039771,84,,LLC-loads,52542,100.00,,
+    51.034039771,<not counted>,,LLC-store-misses,0,0.00,,
+    51.034039771,<not counted>,,instructions,0,0.00,,
+    51.134580270,44,,LLC-load-misses,52933,100.00,53.66,of all LL-cache accesses
+    51.134580270,82,,LLC-loads,52933,100.00,,
+    51.134580270,<not counted>,,LLC-store-misses,0,0.00,,
+    51.134580270,<not counted>,,instructions,0,0.00,,
+    51.235008436,129,,LLC-load-misses,205989,100.00,39.09,of all LL-cache accesses
+    51.235008436,330,,LLC-loads,205989,100.00,,
+    51.235008436,<not counted>,,LLC-store-misses,0,0.00,,
+    51.235008436,<not counted>,,instructions,0,0.00,,
+    51.335373187,66,,LLC-load-misses,84421,100.00,67.35,of all LL-cache accesses
+    51.335373187,98,,LLC-loads,84421,100.00,,
+    51.335373187,<not counted>,,LLC-store-misses,0,0.00,,
+    51.335373187,<not counted>,,instructions,0,0.00,,
+    51.435746205,77,,LLC-load-misses,113456,100.00,43.75,of all LL-cache accesses
+    51.435746205,176,,LLC-loads,113456,100.00,,
+    51.435746205,<not counted>,,LLC-store-misses,0,0.00,,
+    51.435746205,<not counted>,,instructions,0,0.00,,
+    51.536399616,102,,LLC-load-misses,150673,100.00,54.26,of all LL-cache accesses
+    51.536399616,188,,LLC-loads,150673,100.00,,
+    51.536399616,<not counted>,,LLC-store-misses,0,0.00,,
+    51.536399616,<not counted>,,instructions,0,0.00,,
+    51.636946596,60,,LLC-load-misses,82375,100.00,38.46,of all LL-cache accesses
+    51.636946596,156,,LLC-loads,82375,100.00,,
+    51.636946596,<not counted>,,LLC-store-misses,0,0.00,,
+    51.636946596,<not counted>,,instructions,0,0.00,,
+    51.737498768,100,,LLC-load-misses,110749,100.00,54.95,of all LL-cache accesses
+    51.737498768,182,,LLC-loads,110749,100.00,,
+    51.737498768,<not counted>,,LLC-store-misses,0,0.00,,
+    51.737498768,<not counted>,,instructions,0,0.00,,
+    51.838046832,119,,LLC-load-misses,139711,100.00,60.41,of all LL-cache accesses
+    51.838046832,197,,LLC-loads,139711,100.00,,
+    51.838046832,<not counted>,,LLC-store-misses,0,0.00,,
+    51.838046832,<not counted>,,instructions,0,0.00,,
+    51.938470176,<not counted>,,LLC-load-misses,0,100.00,,
+    51.938470176,<not counted>,,LLC-loads,0,100.00,,
+    51.938470176,<not counted>,,LLC-store-misses,0,100.00,,
+    51.938470176,<not counted>,,instructions,0,100.00,,
+    52.039051793,122,,LLC-load-misses,133527,100.00,59.80,of all LL-cache accesses
+    52.039051793,204,,LLC-loads,133527,100.00,,
+    52.039051793,<not counted>,,LLC-store-misses,0,0.00,,
+    52.039051793,<not counted>,,instructions,0,0.00,,
+    52.139435296,103,,LLC-load-misses,110115,100.00,59.88,of all LL-cache accesses
+    52.139435296,172,,LLC-loads,110115,100.00,,
+    52.139435296,<not counted>,,LLC-store-misses,0,0.00,,
+    52.139435296,<not counted>,,instructions,0,0.00,,
+    52.240000994,119,,LLC-load-misses,137455,100.00,56.94,of all LL-cache accesses
+    52.240000994,209,,LLC-loads,137455,100.00,,
+    52.240000994,<not counted>,,LLC-store-misses,0,0.00,,
+    52.240000994,<not counted>,,instructions,0,0.00,,
+    52.340563061,<not counted>,,LLC-load-misses,0,100.00,,
+    52.340563061,<not counted>,,LLC-loads,0,100.00,,
+    52.340563061,<not counted>,,LLC-store-misses,0,100.00,,
+    52.340563061,<not counted>,,instructions,0,100.00,,
+    52.440921753,47,,LLC-load-misses,58164,100.00,55.29,of all LL-cache accesses
+    52.440921753,85,,LLC-loads,58164,100.00,,
+    52.440921753,<not counted>,,LLC-store-misses,0,0.00,,
+    52.440921753,<not counted>,,instructions,0,0.00,,
+    52.541461470,175,,LLC-load-misses,112334,100.00,69.72,of all LL-cache accesses
+    52.541461470,251,,LLC-loads,112334,100.00,,
+    52.541461470,<not counted>,,LLC-store-misses,0,0.00,,
+    52.541461470,<not counted>,,instructions,0,0.00,,
+    52.642013372,<not counted>,,LLC-load-misses,0,100.00,,
+    52.642013372,<not counted>,,LLC-loads,0,100.00,,
+    52.642013372,<not counted>,,LLC-store-misses,0,100.00,,
+    52.642013372,<not counted>,,instructions,0,100.00,,
+    52.742391522,107,,LLC-load-misses,108048,100.00,63.69,of all LL-cache accesses
+    52.742391522,168,,LLC-loads,108048,100.00,,
+    52.742391522,<not counted>,,LLC-store-misses,0,0.00,,
+    52.742391522,<not counted>,,instructions,0,0.00,,
+    52.842798167,261,,LLC-load-misses,318788,100.00,52.30,of all LL-cache accesses
+    52.842798167,499,,LLC-loads,318788,100.00,,
+    52.842798167,<not counted>,,LLC-store-misses,0,0.00,,
+    52.842798167,<not counted>,,instructions,0,0.00,,
+    52.943157452,58,,LLC-load-misses,54337,100.00,67.44,of all LL-cache accesses
+    52.943157452,86,,LLC-loads,54337,100.00,,
+    52.943157452,<not counted>,,LLC-store-misses,0,0.00,,
+    52.943157452,<not counted>,,instructions,0,0.00,,
+    53.043690048,82,,LLC-load-misses,105805,100.00,52.90,of all LL-cache accesses
+    53.043690048,155,,LLC-loads,105805,100.00,,
+    53.043690048,<not counted>,,LLC-store-misses,0,0.00,,
+    53.043690048,<not counted>,,instructions,0,0.00,,
+    53.144243333,<not counted>,,LLC-load-misses,0,100.00,,
+    53.144243333,<not counted>,,LLC-loads,0,100.00,,
+    53.144243333,<not counted>,,LLC-store-misses,0,100.00,,
+    53.144243333,<not counted>,,instructions,0,100.00,,
+    53.244636259,114,,LLC-load-misses,137621,100.00,52.05,of all LL-cache accesses
+    53.244636259,219,,LLC-loads,137621,100.00,,
+    53.244636259,<not counted>,,LLC-store-misses,0,0.00,,
+    53.244636259,<not counted>,,instructions,0,0.00,,
+    53.345196706,150,,LLC-load-misses,162705,100.00,57.25,of all LL-cache accesses
+    53.345196706,262,,LLC-loads,162705,100.00,,
+    53.345196706,<not counted>,,LLC-store-misses,0,0.00,,
+    53.345196706,<not counted>,,instructions,0,0.00,,
+    53.445628751,130,,LLC-load-misses,241719,100.00,31.18,of all LL-cache accesses
+    53.445628751,417,,LLC-loads,241719,100.00,,
+    53.445628751,<not counted>,,LLC-store-misses,0,0.00,,
+    53.445628751,<not counted>,,instructions,0,0.00,,
+    53.546180459,110,,LLC-load-misses,140748,100.00,54.46,of all LL-cache accesses
+    53.546180459,202,,LLC-loads,140748,100.00,,
+    53.546180459,<not counted>,,LLC-store-misses,0,0.00,,
+    53.546180459,<not counted>,,instructions,0,0.00,,
+    53.646731862,211,,LLC-load-misses,167384,100.00,60.11,of all LL-cache accesses
+    53.646731862,351,,LLC-loads,167384,100.00,,
+    53.646731862,<not counted>,,LLC-store-misses,0,0.00,,
+    53.646731862,<not counted>,,instructions,0,0.00,,
+    53.747051546,254,,LLC-load-misses,120132,100.00,43.57,of all LL-cache accesses
+    53.747051546,583,,LLC-loads,120132,100.00,,
+    53.747051546,<not counted>,,LLC-store-misses,0,0.00,,
+    53.747051546,<not counted>,,instructions,0,0.00,,
+    53.847603823,57,,LLC-load-misses,58393,100.00,64.04,of all LL-cache accesses
+    53.847603823,89,,LLC-loads,58393,100.00,,
+    53.847603823,<not counted>,,LLC-store-misses,0,0.00,,
+    53.847603823,<not counted>,,instructions,0,0.00,,
+    53.948167792,44,,LLC-load-misses,56935,100.00,50.57,of all LL-cache accesses
+    53.948167792,87,,LLC-loads,56935,100.00,,
+    53.948167792,<not counted>,,LLC-store-misses,0,0.00,,
+    53.948167792,<not counted>,,instructions,0,0.00,,
+    54.048526124,52,,LLC-load-misses,82607,100.00,57.78,of all LL-cache accesses
+    54.048526124,90,,LLC-loads,82607,100.00,,
+    54.048526124,<not counted>,,LLC-store-misses,0,0.00,,
+    54.048526124,<not counted>,,instructions,0,0.00,,
+    54.149066707,35,,LLC-load-misses,54302,100.00,42.68,of all LL-cache accesses
+    54.149066707,82,,LLC-loads,54302,100.00,,
+    54.149066707,<not counted>,,LLC-store-misses,0,0.00,,
+    54.149066707,<not counted>,,instructions,0,0.00,,
+    54.249627235,130,,LLC-load-misses,144371,100.00,61.61,of all LL-cache accesses
+    54.249627235,211,,LLC-loads,144371,100.00,,
+    54.249627235,<not counted>,,LLC-store-misses,0,0.00,,
+    54.249627235,<not counted>,,instructions,0,0.00,,
+    54.350188549,117,,LLC-load-misses,108514,100.00,66.48,of all LL-cache accesses
+    54.350188549,176,,LLC-loads,108514,100.00,,
+    54.350188549,<not counted>,,LLC-store-misses,0,0.00,,
+    54.350188549,<not counted>,,instructions,0,0.00,,
+    54.450732269,44,,LLC-load-misses,52524,100.00,52.38,of all LL-cache accesses
+    54.450732269,84,,LLC-loads,52524,100.00,,
+    54.450732269,<not counted>,,LLC-store-misses,0,0.00,,
+    54.450732269,<not counted>,,instructions,0,0.00,,
+    54.551092550,68,,LLC-load-misses,85688,100.00,56.67,of all LL-cache accesses
+    54.551092550,120,,LLC-loads,85688,100.00,,
+    54.551092550,<not counted>,,LLC-store-misses,0,0.00,,
+    54.551092550,<not counted>,,instructions,0,0.00,,
+    54.651618029,153,,LLC-load-misses,192598,100.00,59.07,of all LL-cache accesses
+    54.651618029,259,,LLC-loads,192598,100.00,,
+    54.651618029,<not counted>,,LLC-store-misses,0,0.00,,
+    54.651618029,<not counted>,,instructions,0,0.00,,
+    54.752176792,120,,LLC-load-misses,137676,100.00,66.30,of all LL-cache accesses
+    54.752176792,181,,LLC-loads,137676,100.00,,
+    54.752176792,<not counted>,,LLC-store-misses,0,0.00,,
+    54.752176792,<not counted>,,instructions,0,0.00,,
+    54.852723618,<not counted>,,LLC-load-misses,0,100.00,,
+    54.852723618,<not counted>,,LLC-loads,0,100.00,,
+    54.852723618,<not counted>,,LLC-store-misses,0,100.00,,
+    54.852723618,<not counted>,,instructions,0,100.00,,
+    54.953298688,61,,LLC-load-misses,87780,100.00,64.21,of all LL-cache accesses
+    54.953298688,95,,LLC-loads,87780,100.00,,
+    54.953298688,<not counted>,,LLC-store-misses,0,0.00,,
+    54.953298688,<not counted>,,instructions,0,0.00,,
+    55.053797324,44,,LLC-load-misses,52726,100.00,64.71,of all LL-cache accesses
+    55.053797324,68,,LLC-loads,52726,100.00,,
+    55.053797324,<not counted>,,LLC-store-misses,0,0.00,,
+    55.053797324,<not counted>,,instructions,0,0.00,,
+    55.154342519,<not counted>,,LLC-load-misses,0,100.00,,
+    55.154342519,<not counted>,,LLC-loads,0,100.00,,
+    55.154342519,<not counted>,,LLC-store-misses,0,100.00,,
+    55.154342519,<not counted>,,instructions,0,100.00,,
+    55.254716701,116,,LLC-load-misses,116359,100.00,75.82,of all LL-cache accesses
+    55.254716701,153,,LLC-loads,116359,100.00,,
+    55.254716701,<not counted>,,LLC-store-misses,0,0.00,,
+    55.254716701,<not counted>,,instructions,0,0.00,,
+    55.355274055,52,,LLC-load-misses,55516,100.00,61.90,of all LL-cache accesses
+    55.355274055,84,,LLC-loads,55516,100.00,,
+    55.355274055,<not counted>,,LLC-store-misses,0,0.00,,
+    55.355274055,<not counted>,,instructions,0,0.00,,
+    55.455632436,64,,LLC-load-misses,77738,100.00,50.79,of all LL-cache accesses
+    55.455632436,126,,LLC-loads,77738,100.00,,
+    55.455632436,<not counted>,,LLC-store-misses,0,0.00,,
+    55.455632436,<not counted>,,instructions,0,0.00,,
+    55.556180965,83,,LLC-load-misses,82984,100.00,73.45,of all LL-cache accesses
+    55.556180965,113,,LLC-loads,82984,100.00,,
+    55.556180965,<not counted>,,LLC-store-misses,0,0.00,,
+    55.556180965,<not counted>,,instructions,0,0.00,,
+    55.656673968,45,,LLC-load-misses,54953,100.00,65.22,of all LL-cache accesses
+    55.656673968,69,,LLC-loads,54953,100.00,,
+    55.656673968,<not counted>,,LLC-store-misses,0,0.00,,
+    55.656673968,<not counted>,,instructions,0,0.00,,
+    55.757214030,57,,LLC-load-misses,56498,100.00,62.64,of all LL-cache accesses
+    55.757214030,91,,LLC-loads,56498,100.00,,
+    55.757214030,<not counted>,,LLC-store-misses,0,0.00,,
+    55.757214030,<not counted>,,instructions,0,0.00,,
+    55.857768158,104,,LLC-load-misses,112776,100.00,67.53,of all LL-cache accesses
+    55.857768158,154,,LLC-loads,112776,100.00,,
+    55.857768158,<not counted>,,LLC-store-misses,0,0.00,,
+    55.857768158,<not counted>,,instructions,0,0.00,,
+    55.958320976,160,,LLC-load-misses,227664,100.00,52.12,of all LL-cache accesses
+    55.958320976,307,,LLC-loads,227664,100.00,,
+    55.958320976,<not counted>,,LLC-store-misses,0,0.00,,
+    55.958320976,<not counted>,,instructions,0,0.00,,
+    56.058872474,70,,LLC-load-misses,58243,100.00,75.27,of all LL-cache accesses
+    56.058872474,93,,LLC-loads,58243,100.00,,
+    56.058872474,<not counted>,,LLC-store-misses,0,0.00,,
+    56.058872474,<not counted>,,instructions,0,0.00,,
+    56.159161597,7,,LLC-load-misses,33346,100.00,16.67,of all LL-cache accesses
+    56.159161597,42,,LLC-loads,33346,100.00,,
+    56.159161597,<not counted>,,LLC-store-misses,0,0.00,,
+    56.159161597,<not counted>,,instructions,0,0.00,,
+    56.259546976,84,,LLC-load-misses,106207,100.00,47.46,of all LL-cache accesses
+    56.259546976,177,,LLC-loads,106207,100.00,,
+    56.259546976,<not counted>,,LLC-store-misses,0,0.00,,
+    56.259546976,<not counted>,,instructions,0,0.00,,
+    56.360124885,<not counted>,,LLC-load-misses,0,100.00,,
+    56.360124885,<not counted>,,LLC-loads,0,100.00,,
+    56.360124885,<not counted>,,LLC-store-misses,0,100.00,,
+    56.360124885,<not counted>,,instructions,0,100.00,,
+    56.460645444,145,,LLC-load-misses,201327,100.00,54.72,of all LL-cache accesses
+    56.460645444,265,,LLC-loads,201327,100.00,,
+    56.460645444,<not counted>,,LLC-store-misses,0,0.00,,
+    56.460645444,<not counted>,,instructions,0,0.00,,
+    56.561191104,97,,LLC-load-misses,88116,100.00,64.67,of all LL-cache accesses
+    56.561191104,150,,LLC-loads,88116,100.00,,
+    56.561191104,<not counted>,,LLC-store-misses,0,0.00,,
+    56.561191104,<not counted>,,instructions,0,0.00,,
+    56.661757644,193,,LLC-load-misses,186061,100.00,43.76,of all LL-cache accesses
+    56.661757644,441,,LLC-loads,186061,100.00,,
+    56.661757644,<not counted>,,LLC-store-misses,0,0.00,,
+    56.661757644,<not counted>,,instructions,0,0.00,,
+    56.762289510,130,,LLC-load-misses,138396,100.00,65.66,of all LL-cache accesses
+    56.762289510,198,,LLC-loads,138396,100.00,,
+    56.762289510,<not counted>,,LLC-store-misses,0,0.00,,
+    56.762289510,<not counted>,,instructions,0,0.00,,
+    56.862672238,58,,LLC-load-misses,56306,100.00,62.37,of all LL-cache accesses
+    56.862672238,93,,LLC-loads,56306,100.00,,
+    56.862672238,<not counted>,,LLC-store-misses,0,0.00,,
+    56.862672238,<not counted>,,instructions,0,0.00,,
+    56.963003086,107,,LLC-load-misses,117187,100.00,60.80,of all LL-cache accesses
+    56.963003086,176,,LLC-loads,117187,100.00,,
+    56.963003086,<not counted>,,LLC-store-misses,0,0.00,,
+    56.963003086,<not counted>,,instructions,0,0.00,,
+    57.063559997,73,,LLC-load-misses,81679,100.00,57.03,of all LL-cache accesses
+    57.063559997,128,,LLC-loads,81679,100.00,,
+    57.063559997,<not counted>,,LLC-store-misses,0,0.00,,
+    57.063559997,<not counted>,,instructions,0,0.00,,
+    57.164050050,<not counted>,,LLC-load-misses,0,100.00,,
+    57.164050050,<not counted>,,LLC-loads,0,100.00,,
+    57.164050050,<not counted>,,LLC-store-misses,0,100.00,,
+    57.164050050,<not counted>,,instructions,0,100.00,,
+    57.264415597,129,,LLC-load-misses,141783,100.00,56.83,of all LL-cache accesses
+    57.264415597,227,,LLC-loads,141783,100.00,,
+    57.264415597,<not counted>,,LLC-store-misses,0,0.00,,
+    57.264415597,<not counted>,,instructions,0,0.00,,
+    57.364778580,44,,LLC-load-misses,58540,100.00,53.01,of all LL-cache accesses
+    57.364778580,83,,LLC-loads,58540,100.00,,
+    57.364778580,<not counted>,,LLC-store-misses,0,0.00,,
+    57.364778580,<not counted>,,instructions,0,0.00,,
+    57.465280291,129,,LLC-load-misses,108176,100.00,56.33,of all LL-cache accesses
+    57.465280291,229,,LLC-loads,108176,100.00,,
+    57.465280291,<not counted>,,LLC-store-misses,0,0.00,,
+    57.465280291,<not counted>,,instructions,0,0.00,,
+    57.565827540,146,,LLC-load-misses,164171,100.00,64.32,of all LL-cache accesses
+    57.565827540,227,,LLC-loads,164171,100.00,,
+    57.565827540,<not counted>,,LLC-store-misses,0,0.00,,
+    57.565827540,<not counted>,,instructions,0,0.00,,
+    57.666384069,<not counted>,,LLC-load-misses,0,100.00,,
+    57.666384069,<not counted>,,LLC-loads,0,100.00,,
+    57.666384069,<not counted>,,LLC-store-misses,0,100.00,,
+    57.666384069,<not counted>,,instructions,0,100.00,,
+    57.766938610,125,,LLC-load-misses,137421,100.00,62.19,of all LL-cache accesses
+    57.766938610,201,,LLC-loads,137421,100.00,,
+    57.766938610,<not counted>,,LLC-store-misses,0,0.00,,
+    57.766938610,<not counted>,,instructions,0,0.00,,
+    57.867317783,169,,LLC-load-misses,194282,100.00,60.79,of all LL-cache accesses
+    57.867317783,278,,LLC-loads,194282,100.00,,
+    57.867317783,<not counted>,,LLC-store-misses,0,0.00,,
+    57.867317783,<not counted>,,instructions,0,0.00,,
+    57.967681050,116,,LLC-load-misses,133990,100.00,57.14,of all LL-cache accesses
+    57.967681050,203,,LLC-loads,133990,100.00,,
+    57.967681050,<not counted>,,LLC-store-misses,0,0.00,,
+    57.967681050,<not counted>,,instructions,0,0.00,,
+    58.068231733,52,,LLC-load-misses,82229,100.00,54.74,of all LL-cache accesses
+    58.068231733,95,,LLC-loads,82229,100.00,,
+    58.068231733,<not counted>,,LLC-store-misses,0,0.00,,
+    58.068231733,<not counted>,,instructions,0,0.00,,
+    58.168779434,59,,LLC-load-misses,54286,100.00,64.13,of all LL-cache accesses
+    58.168779434,92,,LLC-loads,54286,100.00,,
+    58.168779434,<not counted>,,LLC-store-misses,0,0.00,,
+    58.168779434,<not counted>,,instructions,0,0.00,,
+    58.269335149,123,,LLC-load-misses,162264,100.00,50.83,of all LL-cache accesses
+    58.269335149,242,,LLC-loads,162264,100.00,,
+    58.269335149,<not counted>,,LLC-store-misses,0,0.00,,
+    58.269335149,<not counted>,,instructions,0,0.00,,
+    58.369863806,144,,LLC-load-misses,142270,100.00,61.80,of all LL-cache accesses
+    58.369863806,233,,LLC-loads,142270,100.00,,
+    58.369863806,<not counted>,,LLC-store-misses,0,0.00,,
+    58.369863806,<not counted>,,instructions,0,0.00,,
+    58.470425460,91,,LLC-load-misses,134399,100.00,46.19,of all LL-cache accesses
+    58.470425460,197,,LLC-loads,134399,100.00,,
+    58.470425460,<not counted>,,LLC-store-misses,0,0.00,,
+    58.470425460,<not counted>,,instructions,0,0.00,,
+    58.570796809,107,,LLC-load-misses,147616,100.00,33.33,of all LL-cache accesses
+    58.570796809,321,,LLC-loads,147616,100.00,,
+    58.570796809,<not counted>,,LLC-store-misses,0,0.00,,
+    58.570796809,<not counted>,,instructions,0,0.00,,
+    58.671178996,51,,LLC-load-misses,87868,100.00,38.06,of all LL-cache accesses
+    58.671178996,134,,LLC-loads,87868,100.00,,
+    58.671178996,<not counted>,,LLC-store-misses,0,0.00,,
+    58.671178996,<not counted>,,instructions,0,0.00,,
+    58.771616991,224,,LLC-load-misses,188789,100.00,51.14,of all LL-cache accesses
+    58.771616991,438,,LLC-loads,188789,100.00,,
+    58.771616991,<not counted>,,LLC-store-misses,0,0.00,,
+    58.771616991,<not counted>,,instructions,0,0.00,,
+    58.872175045,<not counted>,,LLC-load-misses,0,100.00,,
+    58.872175045,<not counted>,,LLC-loads,0,100.00,,
+    58.872175045,<not counted>,,LLC-store-misses,0,100.00,,
+    58.872175045,<not counted>,,instructions,0,100.00,,
+    58.972584420,100,,LLC-load-misses,113837,100.00,57.80,of all LL-cache accesses
+    58.972584420,173,,LLC-loads,113837,100.00,,
+    58.972584420,<not counted>,,LLC-store-misses,0,0.00,,
+    58.972584420,<not counted>,,instructions,0,0.00,,
+    59.073139685,45,,LLC-load-misses,54494,100.00,51.72,of all LL-cache accesses
+    59.073139685,87,,LLC-loads,54494,100.00,,
+    59.073139685,<not counted>,,LLC-store-misses,0,0.00,,
+    59.073139685,<not counted>,,instructions,0,0.00,,
+    59.173680642,32,,LLC-load-misses,56558,100.00,38.55,of all LL-cache accesses
+    59.173680642,83,,LLC-loads,56558,100.00,,
+    59.173680642,<not counted>,,LLC-store-misses,0,0.00,,
+    59.173680642,<not counted>,,instructions,0,0.00,,
+    59.274236373,57,,LLC-load-misses,53804,100.00,66.28,of all LL-cache accesses
+    59.274236373,86,,LLC-loads,53804,100.00,,
+    59.274236373,<not counted>,,LLC-store-misses,0,0.00,,
+    59.274236373,<not counted>,,instructions,0,0.00,,
+    59.374809536,157,,LLC-load-misses,169098,100.00,60.15,of all LL-cache accesses
+    59.374809536,261,,LLC-loads,169098,100.00,,
+    59.374809536,<not counted>,,LLC-store-misses,0,0.00,,
+    59.374809536,<not counted>,,instructions,0,0.00,,
+    59.475177067,116,,LLC-load-misses,95129,100.00,36.83,of all LL-cache accesses
+    59.475177067,315,,LLC-loads,95129,100.00,,
+    59.475177067,<not counted>,,LLC-store-misses,0,0.00,,
+    59.475177067,<not counted>,,instructions,0,0.00,,
+    59.575718978,92,,LLC-load-misses,128718,100.00,46.00,of all LL-cache accesses
+    59.575718978,200,,LLC-loads,128718,100.00,,
+    59.575718978,<not counted>,,LLC-store-misses,0,0.00,,
+    59.575718978,<not counted>,,instructions,0,0.00,,
+    59.676092317,223,,LLC-load-misses,195992,100.00,57.03,of all LL-cache accesses
+    59.676092317,391,,LLC-loads,195992,100.00,,
+    59.676092317,<not counted>,,LLC-store-misses,0,0.00,,
+    59.676092317,<not counted>,,instructions,0,0.00,,
+    59.776598437,128,,LLC-load-misses,154107,100.00,56.89,of all LL-cache accesses
+    59.776598437,225,,LLC-loads,154107,100.00,,
+    59.776598437,<not counted>,,LLC-store-misses,0,0.00,,
+    59.776598437,<not counted>,,instructions,0,0.00,,
+    59.877163913,56,,LLC-load-misses,55149,100.00,78.87,of all LL-cache accesses
+    59.877163913,71,,LLC-loads,55149,100.00,,
+    59.877163913,<not counted>,,LLC-store-misses,0,0.00,,
+    59.877163913,<not counted>,,instructions,0,0.00,,

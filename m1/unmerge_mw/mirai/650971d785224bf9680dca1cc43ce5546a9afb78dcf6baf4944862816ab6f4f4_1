@@ -1,0 +1,6 @@
+# started on Mon Mar 27 13:34:08 2023
+
+24262,,branch-instructions,104384,100.00,,
+1166,,branch-misses,104384,100.00,4.81,of all branches
+2337,,bus-cycles,104384,100.00,,
+134467,,instructions,104384,100.00,,

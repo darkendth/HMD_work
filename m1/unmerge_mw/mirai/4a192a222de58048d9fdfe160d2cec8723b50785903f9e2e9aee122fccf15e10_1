@@ -1,0 +1,6 @@
+# started on Mon Mar 27 13:26:32 2023
+
+2229564,,branch-instructions,3647479,100.00,,
+307748,,branch-misses,3647479,100.00,13.80,of all branches
+86776,,bus-cycles,3647479,100.00,,
+13137385,,instructions,3647479,100.00,,

@@ -1,0 +1,6 @@
+# started on Mon Mar 27 13:36:57 2023
+
+2821,,cache-misses,46407,100.00,,
+7534,,L1-icache-load-misses,46407,100.00,,
+729,,LLC-stores,46407,100.00,,
+109951,,instructions,46407,100.00,,

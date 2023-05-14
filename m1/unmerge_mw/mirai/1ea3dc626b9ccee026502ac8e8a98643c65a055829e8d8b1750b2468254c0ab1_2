@@ -1,0 +1,6 @@
+# started on Mon Mar 27 13:22:27 2023
+
+34946,,cache-references,139561,100.00,,
+347393,,cpu-cycles,139561,100.00,,
+464250,,ref-cycles,139561,100.00,,
+171610,,instructions,139561,100.00,0.49,insn per cycle

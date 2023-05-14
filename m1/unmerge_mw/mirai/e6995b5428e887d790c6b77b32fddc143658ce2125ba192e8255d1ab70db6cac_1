@@ -1,0 +1,6 @@
+# started on Mon Mar 27 14:31:17 2023
+
+     0.002398967,175698,,branch-instructions,400658,100.00,,
+     0.002398967,6013,,branch-misses,400658,100.00,3.42,of all branches
+     0.002398967,9474,,bus-cycles,400658,100.00,,
+     0.002398967,908623,,instructions,400658,100.00,,

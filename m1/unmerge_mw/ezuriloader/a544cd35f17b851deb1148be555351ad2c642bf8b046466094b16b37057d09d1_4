@@ -1,0 +1,6 @@
+# started on Thu Apr  6 00:11:27 2023
+
+     0.006315050,11247,,LLC-load-misses,2290158,36.07,17.27,of all LL-cache accesses
+     0.006315050,65135,,LLC-loads,4819328,74.09,,
+     0.006315050,85506,,LLC-store-misses,5900319,90.97,,
+     0.006315050,42092585,,instructions,5901545,93.83,,

@@ -1,0 +1,12 @@
+# started on Mon Mar 27 16:05:17 2023
+
+     0.000147071,<not counted>,,branch-load-misses,0,100.00,,
+     0.000147071,<not counted>,,branch-loads,0,100.00,,
+     0.000147071,<not counted>,,dTLB-load-misses,0,100.00,,
+     0.000147071,<not counted>,,instructions,0,100.00,,
+# started on Mon Mar 27 16:05:17 2023
+
+     0.000693228,<not counted>,,branch-load-misses,0,100.00,,
+     0.000693228,<not counted>,,branch-loads,0,100.00,,
+     0.000693228,<not counted>,,dTLB-load-misses,0,100.00,,
+     0.000693228,<not counted>,,instructions,0,100.00,,

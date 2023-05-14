@@ -1,0 +1,5 @@
+,branch-instructions,branch-misses,bus-cycles,instructions1,cache-references,cpu-cycles,ref-cycles,instructions2,L1-dcache-load-misses,L1-dcache-loads,L1-dcache-stores,instructions3,LLC-load-misses,LLC-loads,branch-load-misses,branch-loads,dTLB-load-misses,instructions5,dTLB-store-misses,dTLB-stores,iTLB-load-misses,instructions6,node-load-misses,node-loads,node-store-misses,instructions7,mem-loads,mem-stores,instructions8,cache-misses,L1-icache-load-misses,LLC-stores,instructions9,dTLB-loads,iTLB-loads,node-stores,instructions10
+0,23752,2215,7340,118211,133156,1984981,1803300,1406087,16777,330385,205237,1393448,1355,6888,15634,287915,1339,1388049,113,202706,1350,1373299,0,1412,0,1501047,0,203229,1381844,14640,93862,2081,1385692,327772,785,697,1383491
+1,85755,4878,19601,450569,31903,309171,970350,137167,2518,30143,17604,105204,922,1693,4500,61791,478,319935,27,19242,344,136880,0,2904,0,451809,0,19238,136719,65680,59057,2813,450318,32314,111,163,137681
+2,,,,,,,,,8060,100290,57547,348194,,,1807,26162,233,137141,,,,,,832,0,153386,,,,18106,18700,312,135246,,,,
+3,,,,,,,,,2575,31779,19211,135567,,,2711,31558,307,134267,,,,,,,,,,,,,,,,,,,

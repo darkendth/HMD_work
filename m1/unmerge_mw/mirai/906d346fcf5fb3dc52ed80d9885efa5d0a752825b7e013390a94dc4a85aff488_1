@@ -1,0 +1,6 @@
+# started on Mon Mar 27 13:37:31 2023
+
+109250,,branch-instructions,416840,100.00,,
+5802,,branch-misses,416840,100.00,5.31,of all branches
+9174,,bus-cycles,416840,100.00,,
+639467,,instructions,416840,100.00,,

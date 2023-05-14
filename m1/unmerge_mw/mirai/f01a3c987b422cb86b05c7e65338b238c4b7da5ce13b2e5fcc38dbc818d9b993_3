@@ -1,0 +1,6 @@
+# started on Mon Mar 27 16:03:49 2023
+
+26417317,,L1-dcache-load-misses,366754304,100.00,7.94,of all L1-dcache accesses
+332619178,,L1-dcache-loads,366754304,100.00,,
+282809350,,L1-dcache-stores,366754304,100.00,,
+1341577451,,instructions,366754304,100.00,,

@@ -1,0 +1,6 @@
+# started on Mon Mar 27 13:36:57 2023
+
+28938,,dTLB-loads,51654,100.00,,
+36,,iTLB-loads,51654,100.00,,
+41,,node-stores,51654,100.00,,
+109065,,instructions,51654,100.00,,

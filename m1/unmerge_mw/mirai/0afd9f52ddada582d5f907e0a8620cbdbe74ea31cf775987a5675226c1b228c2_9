@@ -1,0 +1,6 @@
+# started on Mon Mar 27 13:21:40 2023
+
+126892,,cache-misses,6086803,100.00,,
+288499,,L1-icache-load-misses,6089583,100.00,,
+83183,,LLC-stores,6091836,100.00,,
+16597380,,instructions,6093796,100.00,,

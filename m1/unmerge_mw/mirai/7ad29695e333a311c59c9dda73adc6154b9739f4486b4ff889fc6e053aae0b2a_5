@@ -1,0 +1,6 @@
+# started on Mon Mar 27 13:36:26 2023
+
+1114,,branch-load-misses,46690,100.00,,
+20629,,branch-loads,46690,100.00,,
+158,,dTLB-load-misses,46690,100.00,,
+111008,,instructions,46690,100.00,,

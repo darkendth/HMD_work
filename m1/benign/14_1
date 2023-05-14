@@ -1,0 +1,2386 @@
+# started on Fri May  5 00:25:39 2023
+
+     0.100126729,6473,,branch-instructions,129006,100.00,,
+     0.100126729,1169,,branch-misses,129006,100.00,18.06,of all branches
+     0.100126729,1240,,bus-cycles,129006,100.00,,
+     0.100126729,33088,,instructions,129006,100.00,,
+     0.200377523,8712,,branch-instructions,281256,100.00,,
+     0.200377523,1616,,branch-misses,281256,100.00,18.55,of all branches
+     0.200377523,2774,,bus-cycles,281256,100.00,,
+     0.200377523,44265,,instructions,281256,100.00,,
+     0.300907732,5468,,branch-instructions,173645,100.00,,
+     0.300907732,873,,branch-misses,173645,100.00,15.97,of all branches
+     0.300907732,1902,,bus-cycles,173645,100.00,,
+     0.300907732,28756,,instructions,173645,100.00,,
+     0.401448743,<not counted>,,branch-instructions,0,100.00,,
+     0.401448743,<not counted>,,branch-misses,0,100.00,,
+     0.401448743,<not counted>,,bus-cycles,0,100.00,,
+     0.401448743,<not counted>,,instructions,0,100.00,,
+     0.501796205,4863,,branch-instructions,198625,100.00,,
+     0.501796205,917,,branch-misses,198625,100.00,18.86,of all branches
+     0.501796205,1823,,bus-cycles,198625,100.00,,
+     0.501796205,24452,,instructions,198625,100.00,,
+     0.602170258,7442,,branch-instructions,317100,100.00,,
+     0.602170258,1309,,branch-misses,317100,100.00,17.59,of all branches
+     0.602170258,3137,,bus-cycles,317100,100.00,,
+     0.602170258,37914,,instructions,317100,100.00,,
+     0.702729741,5495,,branch-instructions,209739,100.00,,
+     0.702729741,827,,branch-misses,209739,100.00,15.05,of all branches
+     0.702729741,1936,,bus-cycles,209739,100.00,,
+     0.702729741,28099,,instructions,209739,100.00,,
+     0.803290310,4110,,branch-instructions,162140,100.00,,
+     0.803290310,736,,branch-misses,162140,100.00,17.91,of all branches
+     0.803290310,1527,,bus-cycles,162140,100.00,,
+     0.803290310,21160,,instructions,162140,100.00,,
+     0.903833962,3582,,branch-instructions,127912,100.00,,
+     0.903833962,632,,branch-misses,127912,100.00,17.64,of all branches
+     0.903833962,1311,,bus-cycles,127912,100.00,,
+     0.903833962,18509,,instructions,127912,100.00,,
+     1.004210961,4358,,branch-instructions,178702,100.00,,
+     1.004210961,738,,branch-misses,178702,100.00,16.93,of all branches
+     1.004210961,1671,,bus-cycles,178702,100.00,,
+     1.004210961,21840,,instructions,178702,100.00,,
+     1.104534849,6885,,branch-instructions,177734,100.00,,
+     1.104534849,1129,,branch-misses,177734,100.00,16.40,of all branches
+     1.104534849,1697,,bus-cycles,177734,100.00,,
+     1.104534849,35586,,instructions,177734,100.00,,
+     1.204917437,5992,,branch-instructions,222021,100.00,,
+     1.204917437,1080,,branch-misses,222021,100.00,18.02,of all branches
+     1.204917437,2154,,bus-cycles,222021,100.00,,
+     1.204917437,30069,,instructions,222021,100.00,,
+     1.305250815,5044,,branch-instructions,201473,100.00,,
+     1.305250815,881,,branch-misses,201473,100.00,17.47,of all branches
+     1.305250815,1930,,bus-cycles,201473,100.00,,
+     1.305250815,25871,,instructions,201473,100.00,,
+     1.405676749,7308,,branch-instructions,281187,100.00,,
+     1.405676749,1346,,branch-misses,281187,100.00,18.42,of all branches
+     1.405676749,2768,,bus-cycles,281187,100.00,,
+     1.405676749,36784,,instructions,281187,100.00,,
+     1.506040078,10765,,branch-instructions,332354,100.00,,
+     1.506040078,1670,,branch-misses,332354,100.00,15.51,of all branches
+     1.506040078,3518,,bus-cycles,332354,100.00,,
+     1.506040078,55638,,instructions,332354,100.00,,
+     1.606405853,5392,,branch-instructions,182486,100.00,,
+     1.606405853,952,,branch-misses,182486,100.00,17.66,of all branches
+     1.606405853,1888,,bus-cycles,182486,100.00,,
+     1.606405853,27510,,instructions,182486,100.00,,
+     1.706940622,7593,,branch-instructions,200037,100.00,,
+     1.706940622,1395,,branch-misses,200037,100.00,18.37,of all branches
+     1.706940622,1825,,bus-cycles,200037,100.00,,
+     1.706940622,38615,,instructions,200037,100.00,,
+     1.807302324,4728,,branch-instructions,201057,100.00,,
+     1.807302324,801,,branch-misses,201057,100.00,16.94,of all branches
+     1.807302324,1847,,bus-cycles,201057,100.00,,
+     1.807302324,23692,,instructions,201057,100.00,,
+     1.907674465,6449,,branch-instructions,247611,100.00,,
+     1.907674465,1136,,branch-misses,247611,100.00,17.62,of all branches
+     1.907674465,2382,,bus-cycles,247611,100.00,,
+     1.907674465,32972,,instructions,247611,100.00,,
+     2.008047887,5826,,branch-instructions,213479,100.00,,
+     2.008047887,944,,branch-misses,213479,100.00,16.20,of all branches
+     2.008047887,2136,,bus-cycles,213479,100.00,,
+     2.008047887,29706,,instructions,213479,100.00,,
+     2.108428995,5014,,branch-instructions,159320,100.00,,
+     2.108428995,928,,branch-misses,159320,100.00,18.51,of all branches
+     2.108428995,1418,,bus-cycles,159320,100.00,,
+     2.108428995,25255,,instructions,159320,100.00,,
+     2.208648195,9078,,branch-instructions,209651,100.00,,
+     2.208648195,1631,,branch-misses,209651,100.00,17.97,of all branches
+     2.208648195,1254,,bus-cycles,209651,100.00,,
+     2.208648195,45958,,instructions,209651,100.00,,
+     2.308943230,4826,,branch-instructions,187408,100.00,,
+     2.308943230,929,,branch-misses,187408,100.00,19.25,of all branches
+     2.308943230,1760,,bus-cycles,187408,100.00,,
+     2.308943230,24185,,instructions,187408,100.00,,
+     2.409292253,5546,,branch-instructions,190528,100.00,,
+     2.409292253,954,,branch-misses,190528,100.00,17.20,of all branches
+     2.409292253,1837,,bus-cycles,190528,100.00,,
+     2.409292253,28372,,instructions,190528,100.00,,
+     2.509657554,12739,,branch-instructions,327827,100.00,,
+     2.509657554,2033,,branch-misses,327827,100.00,15.96,of all branches
+     2.509657554,3265,,bus-cycles,327827,100.00,,
+     2.509657554,66430,,instructions,327827,100.00,,
+     2.610060527,6287,,branch-instructions,248732,100.00,,
+     2.610060527,1171,,branch-misses,248732,100.00,18.63,of all branches
+     2.610060527,2366,,bus-cycles,248732,100.00,,
+     2.610060527,31543,,instructions,248732,100.00,,
+     2.710437588,7154,,branch-instructions,263134,100.00,,
+     2.710437588,1148,,branch-misses,263134,100.00,16.05,of all branches
+     2.710437588,2536,,bus-cycles,263134,100.00,,
+     2.710437588,36862,,instructions,263134,100.00,,
+     2.810811999,4714,,branch-instructions,196044,100.00,,
+     2.810811999,867,,branch-misses,196044,100.00,18.39,of all branches
+     2.810811999,1822,,bus-cycles,196044,100.00,,
+     2.810811999,23624,,instructions,196044,100.00,,
+     2.911249514,3496,,branch-instructions,131697,100.00,,
+     2.911249514,576,,branch-misses,131697,100.00,16.48,of all branches
+     2.911249514,1301,,bus-cycles,131697,100.00,,
+     2.911249514,18114,,instructions,131697,100.00,,
+     3.011629007,2489,,branch-instructions,114997,100.00,,
+     3.011629007,474,,branch-misses,114997,100.00,19.04,of all branches
+     3.011629007,1105,,bus-cycles,114997,100.00,,
+     3.011629007,12514,,instructions,114997,100.00,,
+     3.112035190,2991,,branch-instructions,121117,100.00,,
+     3.112035190,558,,branch-misses,121117,100.00,18.66,of all branches
+     3.112035190,1121,,bus-cycles,121117,100.00,,
+     3.112035190,14954,,instructions,121117,100.00,,
+     3.212408173,7105,,branch-instructions,260518,100.00,,
+     3.212408173,1173,,branch-misses,260518,100.00,16.51,of all branches
+     3.212408173,2498,,bus-cycles,260518,100.00,,
+     3.212408173,36742,,instructions,260518,100.00,,
+     3.312784003,3545,,branch-instructions,144918,100.00,,
+     3.312784003,677,,branch-misses,144918,100.00,19.10,of all branches
+     3.312784003,1378,,bus-cycles,144918,100.00,,
+     3.312784003,17765,,instructions,144918,100.00,,
+     3.413158745,6354,,branch-instructions,222884,100.00,,
+     3.413158745,1081,,branch-misses,222884,100.00,17.01,of all branches
+     3.413158745,2247,,bus-cycles,222884,100.00,,
+     3.413158745,32054,,instructions,222884,100.00,,
+     3.513710660,5656,,branch-instructions,206755,100.00,,
+     3.513710660,938,,branch-misses,206755,100.00,16.58,of all branches
+     3.513710660,1870,,bus-cycles,206755,100.00,,
+     3.513710660,28932,,instructions,206755,100.00,,
+     3.614119067,6237,,branch-instructions,241689,100.00,,
+     3.614119067,1131,,branch-misses,241689,100.00,18.13,of all branches
+     3.614119067,2261,,bus-cycles,241689,100.00,,
+     3.614119067,31296,,instructions,241689,100.00,,
+     3.714485475,3994,,branch-instructions,183049,100.00,,
+     3.714485475,757,,branch-misses,183049,100.00,18.95,of all branches
+     3.714485475,1698,,bus-cycles,183049,100.00,,
+     3.714485475,20045,,instructions,183049,100.00,,
+     3.814801699,6594,,branch-instructions,232672,100.00,,
+     3.814801699,1144,,branch-misses,232672,100.00,17.35,of all branches
+     3.814801699,2251,,bus-cycles,232672,100.00,,
+     3.814801699,33507,,instructions,232672,100.00,,
+     3.915360534,2810,,branch-instructions,125402,100.00,,
+     3.915360534,531,,branch-misses,125402,100.00,18.90,of all branches
+     3.915360534,1159,,bus-cycles,125402,100.00,,
+     3.915360534,14114,,instructions,125402,100.00,,
+     4.015641149,1732,,branch-instructions,79289,100.00,,
+     4.015641149,333,,branch-misses,79289,100.00,19.23,of all branches
+     4.015641149,747,,bus-cycles,79289,100.00,,
+     4.015641149,8682,,instructions,79289,100.00,,
+     4.115998141,8593,,branch-instructions,281703,100.00,,
+     4.115998141,1458,,branch-misses,281703,100.00,16.97,of all branches
+     4.115998141,2850,,bus-cycles,281703,100.00,,
+     4.115998141,44160,,instructions,281703,100.00,,
+     4.216328328,7861,,branch-instructions,274068,100.00,,
+     4.216328328,1376,,branch-misses,274068,100.00,17.50,of all branches
+     4.216328328,2613,,bus-cycles,274068,100.00,,
+     4.216328328,40563,,instructions,274068,100.00,,
+     4.316749990,8284,,branch-instructions,277708,100.00,,
+     4.316749990,1439,,branch-misses,277708,100.00,17.37,of all branches
+     4.316749990,2694,,bus-cycles,277708,100.00,,
+     4.316749990,42667,,instructions,277708,100.00,,
+     4.417104536,9151,,branch-instructions,281210,100.00,,
+     4.417104536,1453,,branch-misses,281210,100.00,15.88,of all branches
+     4.417104536,2912,,bus-cycles,281210,100.00,,
+     4.417104536,48048,,instructions,281210,100.00,,
+     4.517450478,8502,,branch-instructions,286434,100.00,,
+     4.517450478,1314,,branch-misses,286434,100.00,15.46,of all branches
+     4.517450478,2445,,bus-cycles,286434,100.00,,
+     4.517450478,44220,,instructions,286434,100.00,,
+     4.617763983,8036,,branch-instructions,251753,100.00,,
+     4.617763983,1347,,branch-misses,251753,100.00,16.76,of all branches
+     4.617763983,2301,,bus-cycles,251753,100.00,,
+     4.617763983,41018,,instructions,251753,100.00,,
+     4.718060955,10306,,branch-instructions,264311,100.00,,
+     4.718060955,1765,,branch-misses,264311,100.00,17.13,of all branches
+     4.718060955,2477,,bus-cycles,264311,100.00,,
+     4.718060955,53194,,instructions,264311,100.00,,
+     4.818354923,11162,,branch-instructions,283582,100.00,,
+     4.818354923,1831,,branch-misses,283582,100.00,16.40,of all branches
+     4.818354923,2929,,bus-cycles,283582,100.00,,
+     4.818354923,58191,,instructions,283582,100.00,,
+     4.918652711,9907,,branch-instructions,302963,100.00,,
+     4.918652711,1811,,branch-misses,302963,100.00,18.28,of all branches
+     4.918652711,2728,,bus-cycles,302963,100.00,,
+     4.918652711,50200,,instructions,302963,100.00,,
+     5.018947343,9812,,branch-instructions,284187,100.00,,
+     5.018947343,1692,,branch-misses,284187,100.00,17.24,of all branches
+     5.018947343,2501,,bus-cycles,284187,100.00,,
+     5.018947343,50237,,instructions,284187,100.00,,
+     5.119250154,9411,,branch-instructions,267974,100.00,,
+     5.119250154,1647,,branch-misses,267974,100.00,17.50,of all branches
+     5.119250154,2491,,bus-cycles,267974,100.00,,
+     5.119250154,48591,,instructions,267974,100.00,,
+     5.219559824,12996,,branch-instructions,306691,100.00,,
+     5.219559824,2168,,branch-misses,311184,100.00,16.68,of all branches
+     5.219559824,3114,,bus-cycles,311184,100.00,,
+     5.219559824,70258,,instructions,311184,100.00,,
+     5.319860557,11228,,branch-instructions,303936,100.00,,
+     5.319860557,1886,,branch-misses,299443,100.00,16.80,of all branches
+     5.319860557,2977,,bus-cycles,299443,100.00,,
+     5.319860557,55994,,instructions,299443,100.00,,
+     5.420176695,12721,,branch-instructions,304573,100.00,,
+     5.420176695,2043,,branch-misses,304573,100.00,16.06,of all branches
+     5.420176695,2836,,bus-cycles,304573,100.00,,
+     5.420176695,67041,,instructions,304573,100.00,,
+     5.520460326,10928,,branch-instructions,314786,100.00,,
+     5.520460326,1692,,branch-misses,314786,100.00,15.48,of all branches
+     5.520460326,2615,,bus-cycles,314786,100.00,,
+     5.520460326,56894,,instructions,314786,100.00,,
+     5.620794402,10613,,branch-instructions,301080,100.00,,
+     5.620794402,1665,,branch-misses,301080,100.00,15.69,of all branches
+     5.620794402,2785,,bus-cycles,301080,100.00,,
+     5.620794402,55357,,instructions,301080,100.00,,
+     5.721116048,10410,,branch-instructions,281106,100.00,,
+     5.721116048,1775,,branch-misses,281106,100.00,17.05,of all branches
+     5.721116048,2700,,bus-cycles,281106,100.00,,
+     5.721116048,53918,,instructions,281106,100.00,,
+     5.821416062,8046,,branch-instructions,239737,100.00,,
+     5.821416062,1318,,branch-misses,239737,100.00,16.38,of all branches
+     5.821416062,2077,,bus-cycles,239737,100.00,,
+     5.821416062,40455,,instructions,239737,100.00,,
+     5.921743473,7489,,branch-instructions,218107,100.00,,
+     5.921743473,1319,,branch-misses,218107,100.00,17.61,of all branches
+     5.921743473,1794,,bus-cycles,218107,100.00,,
+     5.921743473,37654,,instructions,218107,100.00,,
+     6.022016937,8847,,branch-instructions,219004,100.00,,
+     6.022016937,1610,,branch-misses,219004,100.00,18.20,of all branches
+     6.022016937,1702,,bus-cycles,219004,100.00,,
+     6.022016937,44628,,instructions,219004,100.00,,
+     6.122284618,7137,,branch-instructions,184333,100.00,,
+     6.122284618,1308,,branch-misses,184333,100.00,18.33,of all branches
+     6.122284618,1627,,bus-cycles,184333,100.00,,
+     6.122284618,35949,,instructions,184333,100.00,,
+     6.222570167,13064,,branch-instructions,248313,100.00,,
+     6.222570167,2035,,branch-misses,248313,100.00,15.58,of all branches
+     6.222570167,2409,,bus-cycles,248313,100.00,,
+     6.222570167,68235,,instructions,248313,100.00,,
+     6.322992757,12403,,branch-instructions,219500,100.00,,
+     6.322992757,1836,,branch-misses,219500,100.00,14.80,of all branches
+     6.322992757,2177,,bus-cycles,219500,100.00,,
+     6.322992757,65393,,instructions,219500,100.00,,
+     6.423359262,15084,,branch-instructions,259428,100.00,,
+     6.423359262,2314,,branch-misses,259428,100.00,15.34,of all branches
+     6.423359262,2741,,bus-cycles,259428,100.00,,
+     6.423359262,78738,,instructions,259428,100.00,,
+     6.523761220,10998,,branch-instructions,194746,100.00,,
+     6.523761220,1732,,branch-misses,194746,100.00,15.75,of all branches
+     6.523761220,1619,,bus-cycles,194746,100.00,,
+     6.523761220,56598,,instructions,194746,100.00,,
+     6.624070371,9997,,branch-instructions,216358,100.00,,
+     6.624070371,1554,,branch-misses,216358,100.00,15.54,of all branches
+     6.624070371,1867,,bus-cycles,216358,100.00,,
+     6.624070371,51952,,instructions,216358,100.00,,
+     6.724345800,7263,,branch-instructions,148481,100.00,,
+     6.724345800,1185,,branch-misses,148481,100.00,16.32,of all branches
+     6.724345800,1413,,bus-cycles,148481,100.00,,
+     6.724345800,37270,,instructions,148481,100.00,,
+     6.824628730,7659,,branch-instructions,184361,100.00,,
+     6.824628730,1272,,branch-misses,184361,100.00,16.61,of all branches
+     6.824628730,1664,,bus-cycles,184361,100.00,,
+     6.824628730,39205,,instructions,184361,100.00,,
+     6.924907902,7515,,branch-instructions,168525,100.00,,
+     6.924907902,1331,,branch-misses,168525,100.00,17.71,of all branches
+     6.924907902,1612,,bus-cycles,168525,100.00,,
+     6.924907902,38291,,instructions,168525,100.00,,
+     7.025154994,10581,,branch-instructions,229343,100.00,,
+     7.025154994,1760,,branch-misses,229343,100.00,16.63,of all branches
+     7.025154994,2150,,bus-cycles,229343,100.00,,
+     7.025154994,54691,,instructions,229343,100.00,,
+     7.125431142,7881,,branch-instructions,253258,100.00,,
+     7.125431142,1284,,branch-misses,253258,100.00,16.29,of all branches
+     7.125431142,1655,,bus-cycles,253258,100.00,,
+     7.125431142,40632,,instructions,253258,100.00,,
+     7.225861836,8049,,branch-instructions,214467,100.00,,
+     7.225861836,1411,,branch-misses,214467,100.00,17.53,of all branches
+     7.225861836,1820,,bus-cycles,214467,100.00,,
+     7.225861836,41231,,instructions,214467,100.00,,
+     7.326311177,6410,,branch-instructions,151879,100.00,,
+     7.326311177,1109,,branch-misses,151879,100.00,17.30,of all branches
+     7.326311177,1448,,bus-cycles,151879,100.00,,
+     7.326311177,32994,,instructions,151879,100.00,,
+     7.426809781,7931,,branch-instructions,214951,100.00,,
+     7.426809781,1376,,branch-misses,214951,100.00,17.35,of all branches
+     7.426809781,1956,,bus-cycles,214951,100.00,,
+     7.426809781,40418,,instructions,214951,100.00,,
+     7.527377278,8395,,branch-instructions,227388,100.00,,
+     7.527377278,1235,,branch-misses,227388,100.00,14.71,of all branches
+     7.527377278,2677,,bus-cycles,227388,100.00,,
+     7.527377278,44502,,instructions,227388,100.00,,
+     7.627652700,13739,,branch-instructions,387855,100.00,,
+     7.627652700,2061,,branch-misses,387855,100.00,15.00,of all branches
+     7.627652700,4297,,bus-cycles,387855,100.00,,
+     7.627652700,72512,,instructions,387855,100.00,,
+     7.728090414,7998,,branch-instructions,197700,100.00,,
+     7.728090414,1425,,branch-misses,197700,100.00,17.82,of all branches
+     7.728090414,1942,,bus-cycles,197700,100.00,,
+     7.728090414,40609,,instructions,197700,100.00,,
+     7.828592916,7897,,branch-instructions,231751,100.00,,
+     7.828592916,1278,,branch-misses,231751,100.00,16.18,of all branches
+     7.828592916,2451,,bus-cycles,231751,100.00,,
+     7.828592916,40905,,instructions,231751,100.00,,
+     7.929114694,<not counted>,,branch-instructions,0,100.00,,
+     7.929114694,<not counted>,,branch-misses,0,100.00,,
+     7.929114694,<not counted>,,bus-cycles,0,100.00,,
+     7.929114694,<not counted>,,instructions,0,100.00,,
+     8.029466773,6742,,branch-instructions,229547,100.00,,
+     8.029466773,1110,,branch-misses,229547,100.00,16.46,of all branches
+     8.029466773,2342,,bus-cycles,229547,100.00,,
+     8.029466773,34626,,instructions,229547,100.00,,
+     8.129821251,11903,,branch-instructions,374547,100.00,,
+     8.129821251,1886,,branch-misses,374547,100.00,15.84,of all branches
+     8.129821251,3730,,bus-cycles,374547,100.00,,
+     8.129821251,61688,,instructions,374547,100.00,,
+     8.230181298,12048,,branch-instructions,421965,100.00,,
+     8.230181298,2025,,branch-misses,421965,100.00,16.81,of all branches
+     8.230181298,4006,,bus-cycles,421965,100.00,,
+     8.230181298,62369,,instructions,421965,100.00,,
+     8.330587243,8257,,branch-instructions,262617,100.00,,
+     8.330587243,1360,,branch-misses,262617,100.00,16.47,of all branches
+     8.330587243,2528,,bus-cycles,262617,100.00,,
+     8.330587243,42514,,instructions,262617,100.00,,
+     8.430909793,9664,,branch-instructions,332591,100.00,,
+     8.430909793,1707,,branch-misses,332591,100.00,17.66,of all branches
+     8.430909793,3352,,bus-cycles,332591,100.00,,
+     8.430909793,48998,,instructions,332591,100.00,,
+     8.531403284,7173,,branch-instructions,159196,100.00,,
+     8.531403284,984,,branch-misses,159196,100.00,13.72,of all branches
+     8.531403284,1511,,bus-cycles,159196,100.00,,
+     8.531403284,36762,,instructions,159196,100.00,,
+     8.631777153,<not counted>,,branch-instructions,0,100.00,,
+     8.631777153,<not counted>,,branch-misses,0,100.00,,
+     8.631777153,<not counted>,,bus-cycles,0,100.00,,
+     8.631777153,<not counted>,,instructions,0,100.00,,
+     8.732148010,7838,,branch-instructions,273618,100.00,,
+     8.732148010,1330,,branch-misses,273618,100.00,16.97,of all branches
+     8.732148010,2696,,bus-cycles,273618,100.00,,
+     8.732148010,39780,,instructions,273618,100.00,,
+     8.832470974,5546,,branch-instructions,207340,100.00,,
+     8.832470974,915,,branch-misses,207340,100.00,16.50,of all branches
+     8.832470974,1975,,bus-cycles,207340,100.00,,
+     8.832470974,28243,,instructions,207340,100.00,,
+     8.932893313,9919,,branch-instructions,372383,100.00,,
+     8.932893313,1805,,branch-misses,372383,100.00,18.20,of all branches
+     8.932893313,3559,,bus-cycles,372383,100.00,,
+     8.932893313,50299,,instructions,372383,100.00,,
+     9.033452754,6778,,branch-instructions,251257,100.00,,
+     9.033452754,1257,,branch-misses,251257,100.00,18.55,of all branches
+     9.033452754,2554,,bus-cycles,251257,100.00,,
+     9.033452754,34546,,instructions,251257,100.00,,
+     9.133783525,10131,,branch-instructions,372860,100.00,,
+     9.133783525,1762,,branch-misses,372860,100.00,17.39,of all branches
+     9.133783525,3800,,bus-cycles,372860,100.00,,
+     9.133783525,52513,,instructions,372860,100.00,,
+     9.234119336,11066,,branch-instructions,361894,100.00,,
+     9.234119336,1754,,branch-misses,361894,100.00,15.85,of all branches
+     9.234119336,3870,,bus-cycles,361894,100.00,,
+     9.234119336,57782,,instructions,361894,100.00,,
+     9.334474735,9826,,branch-instructions,333632,100.00,,
+     9.334474735,1736,,branch-misses,333632,100.00,17.67,of all branches
+     9.334474735,3341,,bus-cycles,333632,100.00,,
+     9.334474735,50387,,instructions,333632,100.00,,
+     9.434787043,10666,,branch-instructions,368398,100.00,,
+     9.434787043,1881,,branch-misses,368398,100.00,17.64,of all branches
+     9.434787043,3552,,bus-cycles,368398,100.00,,
+     9.434787043,54669,,instructions,368398,100.00,,
+     9.535151757,8347,,branch-instructions,300699,100.00,,
+     9.535151757,1508,,branch-misses,300699,100.00,18.07,of all branches
+     9.535151757,3127,,bus-cycles,300699,100.00,,
+     9.535151757,42464,,instructions,300699,100.00,,
+     9.635506665,9939,,branch-instructions,354498,100.00,,
+     9.635506665,1792,,branch-misses,354498,100.00,18.03,of all branches
+     9.635506665,3603,,bus-cycles,354498,100.00,,
+     9.635506665,50909,,instructions,354498,100.00,,
+     9.735863973,5824,,branch-instructions,258950,100.00,,
+     9.735863973,1050,,branch-misses,258950,100.00,18.03,of all branches
+     9.735863973,2336,,bus-cycles,258950,100.00,,
+     9.735863973,29189,,instructions,258950,100.00,,
+     9.836218351,8459,,branch-instructions,310134,100.00,,
+     9.836218351,1354,,branch-misses,310134,100.00,16.01,of all branches
+     9.836218351,3177,,bus-cycles,310134,100.00,,
+     9.836218351,44052,,instructions,310134,100.00,,
+     9.936565449,5283,,branch-instructions,213974,100.00,,
+     9.936565449,912,,branch-misses,213974,100.00,17.26,of all branches
+     9.936565449,2033,,bus-cycles,213974,100.00,,
+     9.936565449,26975,,instructions,213974,100.00,,
+    10.036915158,10941,,branch-instructions,400966,100.00,,
+    10.036915158,1849,,branch-misses,400966,100.00,16.90,of all branches
+    10.036915158,4287,,bus-cycles,400966,100.00,,
+    10.036915158,56446,,instructions,400966,100.00,,
+    10.137418629,8423,,branch-instructions,305863,100.00,,
+    10.137418629,1351,,branch-misses,305863,100.00,16.04,of all branches
+    10.137418629,3174,,bus-cycles,305863,100.00,,
+    10.137418629,43948,,instructions,305863,100.00,,
+    10.237775512,7556,,branch-instructions,302402,100.00,,
+    10.237775512,1234,,branch-misses,302402,100.00,16.33,of all branches
+    10.237775512,2738,,bus-cycles,302402,100.00,,
+    10.237775512,38917,,instructions,302402,100.00,,
+    10.338129323,6993,,branch-instructions,280628,100.00,,
+    10.338129323,1078,,branch-misses,280628,100.00,15.42,of all branches
+    10.338129323,2509,,bus-cycles,280628,100.00,,
+    10.338129323,36242,,instructions,280628,100.00,,
+    10.438556663,8247,,branch-instructions,295162,100.00,,
+    10.438556663,1229,,branch-misses,295162,100.00,14.90,of all branches
+    10.438556663,3207,,bus-cycles,295162,100.00,,
+    10.438556663,43702,,instructions,295162,100.00,,
+    10.539145453,8043,,branch-instructions,300708,100.00,,
+    10.539145453,1370,,branch-misses,300708,100.00,17.03,of all branches
+    10.539145453,2779,,bus-cycles,300708,100.00,,
+    10.539145453,40900,,instructions,300708,100.00,,
+    10.639549350,6475,,branch-instructions,228700,100.00,,
+    10.639549350,1157,,branch-misses,228700,100.00,17.87,of all branches
+    10.639549350,2307,,bus-cycles,228700,100.00,,
+    10.639549350,32948,,instructions,228700,100.00,,
+    10.739823370,5569,,branch-instructions,152657,100.00,,
+    10.739823370,1059,,branch-misses,152657,100.00,19.02,of all branches
+    10.739823370,1433,,bus-cycles,152657,100.00,,
+    10.739823370,27931,,instructions,152657,100.00,,
+    10.840191445,5385,,branch-instructions,206385,100.00,,
+    10.840191445,958,,branch-misses,206385,100.00,17.79,of all branches
+    10.840191445,1955,,bus-cycles,206385,100.00,,
+    10.840191445,27466,,instructions,206385,100.00,,
+    10.940526154,5648,,branch-instructions,236202,100.00,,
+    10.940526154,1079,,branch-misses,236202,100.00,19.10,of all branches
+    10.940526154,2184,,bus-cycles,236202,100.00,,
+    10.940526154,28380,,instructions,236202,100.00,,
+    11.040895104,12543,,branch-instructions,332942,100.00,,
+    11.040895104,1696,,branch-misses,332942,100.00,13.52,of all branches
+    11.040895104,3605,,bus-cycles,332942,100.00,,
+    11.040895104,62077,,instructions,332942,100.00,,
+    11.141233541,6668,,branch-instructions,276067,100.00,,
+    11.141233541,1213,,branch-misses,276067,100.00,18.19,of all branches
+    11.141233541,2312,,bus-cycles,276067,100.00,,
+    11.141233541,33554,,instructions,276067,100.00,,
+    11.241553938,6613,,branch-instructions,280234,100.00,,
+    11.241553938,1218,,branch-misses,280234,100.00,18.42,of all branches
+    11.241553938,2533,,bus-cycles,280234,100.00,,
+    11.241553938,33226,,instructions,280234,100.00,,
+    11.341937855,9994,,branch-instructions,295831,100.00,,
+    11.341937855,1644,,branch-misses,295831,100.00,16.45,of all branches
+    11.341937855,3005,,bus-cycles,295831,100.00,,
+    11.341937855,51479,,instructions,295831,100.00,,
+    11.442445800,11310,,branch-instructions,319492,100.00,,
+    11.442445800,1817,,branch-misses,319492,100.00,16.07,of all branches
+    11.442445800,3431,,bus-cycles,319492,100.00,,
+    11.442445800,58685,,instructions,319492,100.00,,
+    11.542804731,8003,,branch-instructions,253660,100.00,,
+    11.542804731,1367,,branch-misses,253660,100.00,17.08,of all branches
+    11.542804731,2618,,bus-cycles,253660,100.00,,
+    11.542804731,41422,,instructions,253660,100.00,,
+    11.643284964,10717,,branch-instructions,301362,100.00,,
+    11.643284964,1806,,branch-misses,301362,100.00,16.85,of all branches
+    11.643284964,3141,,bus-cycles,301362,100.00,,
+    11.643284964,55970,,instructions,301362,100.00,,
+    11.743590609,5946,,branch-instructions,261764,100.00,,
+    11.743590609,1113,,branch-misses,261764,100.00,18.72,of all branches
+    11.743590609,2322,,bus-cycles,261764,100.00,,
+    11.743590609,29831,,instructions,261764,100.00,,
+    11.843882777,10120,,branch-instructions,304800,100.00,,
+    11.843882777,1633,,branch-misses,304800,100.00,16.14,of all branches
+    11.843882777,3134,,bus-cycles,304800,100.00,,
+    11.843882777,52394,,instructions,304800,100.00,,
+    11.944249155,8949,,branch-instructions,270450,100.00,,
+    11.944249155,1390,,branch-misses,270450,100.00,15.53,of all branches
+    11.944249155,2684,,bus-cycles,270450,100.00,,
+    11.944249155,46559,,instructions,270450,100.00,,
+    12.044612309,7354,,branch-instructions,246662,100.00,,
+    12.044612309,1292,,branch-misses,246662,100.00,17.57,of all branches
+    12.044612309,2487,,bus-cycles,246662,100.00,,
+    12.044612309,37640,,instructions,246662,100.00,,
+    12.145094126,11089,,branch-instructions,323263,100.00,,
+    12.145094126,1693,,branch-misses,323263,100.00,15.27,of all branches
+    12.145094126,3350,,bus-cycles,323263,100.00,,
+    12.145094126,57920,,instructions,323263,100.00,,
+    12.245602374,5317,,branch-instructions,202458,100.00,,
+    12.245602374,1000,,branch-misses,202458,100.00,18.81,of all branches
+    12.245602374,1812,,bus-cycles,202458,100.00,,
+    12.245602374,26715,,instructions,202458,100.00,,
+    12.346056002,10634,,branch-instructions,350229,100.00,,
+    12.346056002,1707,,branch-misses,350229,100.00,16.05,of all branches
+    12.346056002,3303,,bus-cycles,350229,100.00,,
+    12.346056002,55347,,instructions,350229,100.00,,
+    12.446440213,11945,,branch-instructions,324791,100.00,,
+    12.446440213,1826,,branch-misses,324791,100.00,15.29,of all branches
+    12.446440213,3479,,bus-cycles,324791,100.00,,
+    12.446440213,62524,,instructions,324791,100.00,,
+    12.546802429,12261,,branch-instructions,331435,100.00,,
+    12.546802429,1969,,branch-misses,331435,100.00,16.06,of all branches
+    12.546802429,3605,,bus-cycles,331435,100.00,,
+    12.546802429,64435,,instructions,331435,100.00,,
+    12.647172959,12021,,branch-instructions,383935,100.00,,
+    12.647172959,1721,,branch-misses,383935,100.00,14.32,of all branches
+    12.647172959,4144,,bus-cycles,383935,100.00,,
+    12.647172959,62619,,instructions,383935,100.00,,
+    12.747565063,12226,,branch-instructions,367441,100.00,,
+    12.747565063,1983,,branch-misses,367441,100.00,16.22,of all branches
+    12.747565063,3668,,bus-cycles,367441,100.00,,
+    12.747565063,63583,,instructions,367441,100.00,,
+    12.847917793,10734,,branch-instructions,363853,100.00,,
+    12.847917793,1787,,branch-misses,363853,100.00,16.65,of all branches
+    12.847917793,3753,,bus-cycles,363853,100.00,,
+    12.847917793,55250,,instructions,363853,100.00,,
+    12.948290094,9507,,branch-instructions,380705,100.00,,
+    12.948290094,1634,,branch-misses,380705,100.00,17.19,of all branches
+    12.948290094,3484,,bus-cycles,380705,100.00,,
+    12.948290094,48239,,instructions,380705,100.00,,
+    13.048647032,10024,,branch-instructions,359332,100.00,,
+    13.048647032,1575,,branch-misses,359332,100.00,15.71,of all branches
+    13.048647032,4214,,bus-cycles,359332,100.00,,
+    13.048647032,52341,,instructions,359332,100.00,,
+    13.148989961,11042,,branch-instructions,377296,100.00,,
+    13.148989961,1725,,branch-misses,377296,100.00,15.62,of all branches
+    13.148989961,3807,,bus-cycles,377296,100.00,,
+    13.148989961,57896,,instructions,377296,100.00,,
+    13.249347042,13540,,branch-instructions,423684,100.00,,
+    13.249347042,1951,,branch-misses,423684,100.00,14.41,of all branches
+    13.249347042,4107,,bus-cycles,423684,100.00,,
+    13.249347042,71122,,instructions,423684,100.00,,
+    13.349716160,7983,,branch-instructions,254000,100.00,,
+    13.349716160,1215,,branch-misses,254000,100.00,15.22,of all branches
+    13.349716160,2843,,bus-cycles,254000,100.00,,
+    13.349716160,41585,,instructions,254000,100.00,,
+    13.450035347,9788,,branch-instructions,252927,100.00,,
+    13.450035347,1508,,branch-misses,252927,100.00,15.41,of all branches
+    13.450035347,2206,,bus-cycles,252927,100.00,,
+    13.450035347,50512,,instructions,252927,100.00,,
+    13.550277095,13884,,branch-instructions,197827,100.00,,
+    13.550277095,1875,,branch-misses,197827,100.00,13.50,of all branches
+    13.550277095,1712,,bus-cycles,197827,100.00,,
+    13.550277095,72066,,instructions,197827,100.00,,
+    13.650454333,12306,,branch-instructions,162781,100.00,,
+    13.650454333,1730,,branch-misses,162781,100.00,14.06,of all branches
+    13.650454333,1419,,bus-cycles,162781,100.00,,
+    13.650454333,63289,,instructions,162781,100.00,,
+    13.750688897,12693,,branch-instructions,267587,100.00,,
+    13.750688897,1838,,branch-misses,267587,100.00,14.48,of all branches
+    13.750688897,2534,,bus-cycles,267587,100.00,,
+    13.750688897,65720,,instructions,267587,100.00,,
+    13.851158860,4906,,branch-instructions,174741,100.00,,
+    13.851158860,844,,branch-misses,174741,100.00,17.20,of all branches
+    13.851158860,1726,,bus-cycles,174741,100.00,,
+    13.851158860,25035,,instructions,174741,100.00,,
+    13.951520031,2391,,branch-instructions,101765,100.00,,
+    13.951520031,460,,branch-misses,101765,100.00,19.24,of all branches
+    13.951520031,957,,bus-cycles,101765,100.00,,
+    13.951520031,12045,,instructions,101765,100.00,,
+    14.051869156,4857,,branch-instructions,191420,100.00,,
+    14.051869156,742,,branch-misses,191420,100.00,15.28,of all branches
+    14.051869156,1750,,bus-cycles,191420,100.00,,
+    14.051869156,24833,,instructions,191420,100.00,,
+    14.152254197,1185,,branch-instructions,52219,100.00,,
+    14.152254197,174,,branch-misses,52219,100.00,14.68,of all branches
+    14.152254197,476,,bus-cycles,52219,100.00,,
+    14.152254197,5937,,instructions,52219,100.00,,
+    14.252798418,3884,,branch-instructions,151658,100.00,,
+    14.252798418,732,,branch-misses,151658,100.00,18.85,of all branches
+    14.252798418,1524,,bus-cycles,151658,100.00,,
+    14.252798418,19476,,instructions,151658,100.00,,
+    14.353319868,3578,,branch-instructions,152444,100.00,,
+    14.353319868,682,,branch-misses,152444,100.00,19.06,of all branches
+    14.353319868,1487,,bus-cycles,152444,100.00,,
+    14.353319868,17940,,instructions,152444,100.00,,
+    14.453681396,1936,,branch-instructions,59794,100.00,,
+    14.453681396,297,,branch-misses,59794,100.00,15.34,of all branches
+    14.453681396,708,,bus-cycles,59794,100.00,,
+    14.453681396,10148,,instructions,59794,100.00,,
+    14.554246135,1185,,branch-instructions,49075,100.00,,
+    14.554246135,226,,branch-misses,49075,100.00,19.07,of all branches
+    14.554246135,468,,bus-cycles,49075,100.00,,
+    14.554246135,5937,,instructions,49075,100.00,,
+    14.654621882,8690,,branch-instructions,364673,100.00,,
+    14.654621882,1512,,branch-misses,364673,100.00,17.40,of all branches
+    14.654621882,3470,,bus-cycles,364673,100.00,,
+    14.654621882,44098,,instructions,364673,100.00,,
+    14.754935152,3308,,branch-instructions,130031,100.00,,
+    14.754935152,615,,branch-misses,130031,100.00,18.59,of all branches
+    14.754935152,1323,,bus-cycles,130031,100.00,,
+    14.754935152,16564,,instructions,130031,100.00,,
+    14.855517868,1207,,branch-instructions,48840,100.00,,
+    14.855517868,228,,branch-misses,48840,100.00,18.89,of all branches
+    14.855517868,457,,bus-cycles,48840,100.00,,
+    14.855517868,6060,,instructions,48840,100.00,,
+    14.956086932,1185,,branch-instructions,49399,100.00,,
+    14.956086932,224,,branch-misses,49399,100.00,18.90,of all branches
+    14.956086932,465,,bus-cycles,49399,100.00,,
+    14.956086932,5937,,instructions,49399,100.00,,
+    15.056630352,1186,,branch-instructions,49077,100.00,,
+    15.056630352,223,,branch-misses,49077,100.00,18.80,of all branches
+    15.056630352,470,,bus-cycles,49077,100.00,,
+    15.056630352,5943,,instructions,49077,100.00,,
+    15.157197606,1756,,branch-instructions,73371,100.00,,
+    15.157197606,340,,branch-misses,73371,100.00,19.36,of all branches
+    15.157197606,691,,bus-cycles,73371,100.00,,
+    15.157197606,8816,,instructions,73371,100.00,,
+    15.257558777,6036,,branch-instructions,139196,100.00,,
+    15.257558777,1041,,branch-misses,139196,100.00,17.25,of all branches
+    15.257558777,1365,,bus-cycles,139196,100.00,,
+    15.257558777,30801,,instructions,139196,100.00,,
+    15.358045876,1185,,branch-instructions,48533,100.00,,
+    15.358045876,224,,branch-misses,48533,100.00,18.90,of all branches
+    15.358045876,466,,bus-cycles,48533,100.00,,
+    15.358045876,5937,,instructions,48533,100.00,,
+    15.458592674,2392,,branch-instructions,99580,100.00,,
+    15.458592674,404,,branch-misses,99580,100.00,16.89,of all branches
+    15.458592674,926,,bus-cycles,99580,100.00,,
+    15.458592674,11997,,instructions,99580,100.00,,
+    15.559140645,1173,,branch-instructions,50379,100.00,,
+    15.559140645,219,,branch-misses,50379,100.00,18.67,of all branches
+    15.559140645,496,,bus-cycles,50379,100.00,,
+    15.559140645,5879,,instructions,50379,100.00,,
+    15.659694311,1185,,branch-instructions,49006,100.00,,
+    15.659694311,223,,branch-misses,49006,100.00,18.82,of all branches
+    15.659694311,472,,bus-cycles,49006,100.00,,
+    15.659694311,5937,,instructions,49006,100.00,,
+    15.760097503,2392,,branch-instructions,101577,100.00,,
+    15.760097503,453,,branch-misses,101577,100.00,18.94,of all branches
+    15.760097503,976,,bus-cycles,101577,100.00,,
+    15.760097503,11997,,instructions,101577,100.00,,
+    15.860561778,6788,,branch-instructions,258129,100.00,,
+    15.860561778,1030,,branch-misses,258129,100.00,15.17,of all branches
+    15.860561778,2535,,bus-cycles,258129,100.00,,
+    15.860561778,35129,,instructions,258129,100.00,,
+    15.961082566,3357,,branch-instructions,128380,100.00,,
+    15.961082566,613,,branch-misses,128380,100.00,18.26,of all branches
+    15.961082566,1299,,bus-cycles,128380,100.00,,
+    15.961082566,16799,,instructions,128380,100.00,,
+    16.061624952,3809,,branch-instructions,145505,100.00,,
+    16.061624952,717,,branch-misses,145505,100.00,18.82,of all branches
+    16.061624952,1429,,bus-cycles,145505,100.00,,
+    16.061624952,19134,,instructions,145505,100.00,,
+    16.162180014,<not counted>,,branch-instructions,0,100.00,,
+    16.162180014,<not counted>,,branch-misses,0,100.00,,
+    16.162180014,<not counted>,,bus-cycles,0,100.00,,
+    16.162180014,<not counted>,,instructions,0,100.00,,
+    16.262715983,3555,,branch-instructions,153750,100.00,,
+    16.262715983,672,,branch-misses,153750,100.00,18.90,of all branches
+    16.262715983,1502,,bus-cycles,153750,100.00,,
+    16.262715983,17813,,instructions,153750,100.00,,
+    16.363099780,<not counted>,,branch-instructions,0,100.00,,
+    16.363099780,<not counted>,,branch-misses,0,100.00,,
+    16.363099780,<not counted>,,bus-cycles,0,100.00,,
+    16.363099780,<not counted>,,instructions,0,100.00,,
+    16.463395027,8160,,branch-instructions,262041,100.00,,
+    16.463395027,1402,,branch-misses,262041,100.00,17.18,of all branches
+    16.463395027,2452,,bus-cycles,262041,100.00,,
+    16.463395027,41395,,instructions,262041,100.00,,
+    16.563735314,1209,,branch-instructions,34249,100.00,,
+    16.563735314,187,,branch-misses,34249,100.00,15.47,of all branches
+    16.563735314,320,,bus-cycles,34249,100.00,,
+    16.563735314,6064,,instructions,34249,100.00,,
+    16.664146945,1727,,branch-instructions,74255,100.00,,
+    16.664146945,333,,branch-misses,74255,100.00,19.28,of all branches
+    16.664146945,709,,bus-cycles,74255,100.00,,
+    16.664146945,8690,,instructions,74255,100.00,,
+    16.764607305,5957,,branch-instructions,159425,100.00,,
+    16.764607305,1133,,branch-misses,159425,100.00,19.02,of all branches
+    16.764607305,1467,,bus-cycles,159425,100.00,,
+    16.764607305,29842,,instructions,159425,100.00,,
+    16.864931127,<not counted>,,branch-instructions,0,100.00,,
+    16.864931127,<not counted>,,branch-misses,0,100.00,,
+    16.864931127,<not counted>,,bus-cycles,0,100.00,,
+    16.864931127,<not counted>,,instructions,0,100.00,,
+    16.965415874,3995,,branch-instructions,157738,100.00,,
+    16.965415874,733,,branch-misses,157738,100.00,18.35,of all branches
+    16.965415874,1591,,bus-cycles,157738,100.00,,
+    16.965415874,20026,,instructions,157738,100.00,,
+    17.065969655,4092,,branch-instructions,190430,100.00,,
+    17.065969655,778,,branch-misses,190430,100.00,19.01,of all branches
+    17.065969655,1667,,bus-cycles,190430,100.00,,
+    17.065969655,20511,,instructions,190430,100.00,,
+    17.166286957,<not counted>,,branch-instructions,0,100.00,,
+    17.166286957,<not counted>,,branch-misses,0,100.00,,
+    17.166286957,<not counted>,,bus-cycles,0,100.00,,
+    17.166286957,<not counted>,,instructions,0,100.00,,
+    17.266823247,3145,,branch-instructions,127546,100.00,,
+    17.266823247,586,,branch-misses,127546,100.00,18.63,of all branches
+    17.266823247,1266,,bus-cycles,127546,100.00,,
+    17.266823247,15762,,instructions,127546,100.00,,
+    17.367216366,1212,,branch-instructions,49610,100.00,,
+    17.367216366,232,,branch-misses,49610,100.00,19.14,of all branches
+    17.367216366,480,,bus-cycles,49610,100.00,,
+    17.367216366,6093,,instructions,49610,100.00,,
+    17.467808106,4086,,branch-instructions,125854,100.00,,
+    17.467808106,586,,branch-misses,125854,100.00,14.34,of all branches
+    17.467808106,1234,,bus-cycles,125854,100.00,,
+    17.467808106,20338,,instructions,125854,100.00,,
+    17.568157403,3043,,branch-instructions,105655,100.00,,
+    17.568157403,541,,branch-misses,105655,100.00,17.78,of all branches
+    17.568157403,1125,,bus-cycles,105655,100.00,,
+    17.568157403,15802,,instructions,105655,100.00,,
+    17.668757478,3133,,branch-instructions,129095,100.00,,
+    17.668757478,531,,branch-misses,129095,100.00,16.95,of all branches
+    17.668757478,1222,,bus-cycles,129095,100.00,,
+    17.668757478,15704,,instructions,129095,100.00,,
+    17.769275325,4104,,branch-instructions,178617,100.00,,
+    17.769275325,765,,branch-misses,178617,100.00,18.64,of all branches
+    17.769275325,1694,,bus-cycles,178617,100.00,,
+    17.769275325,20567,,instructions,178617,100.00,,
+    17.869770006,1185,,branch-instructions,48643,100.00,,
+    17.869770006,225,,branch-misses,48643,100.00,18.99,of all branches
+    17.869770006,468,,bus-cycles,48643,100.00,,
+    17.869770006,5937,,instructions,48643,100.00,,
+    17.970335232,1733,,branch-instructions,73873,100.00,,
+    17.970335232,327,,branch-misses,73873,100.00,18.87,of all branches
+    17.970335232,671,,bus-cycles,73873,100.00,,
+    17.970335232,8687,,instructions,73873,100.00,,
+    18.070877876,1733,,branch-instructions,72183,100.00,,
+    18.070877876,334,,branch-misses,72183,100.00,19.27,of all branches
+    18.070877876,671,,bus-cycles,72183,100.00,,
+    18.070877876,8687,,instructions,72183,100.00,,
+    18.171440780,1185,,branch-instructions,52621,100.00,,
+    18.171440780,221,,branch-misses,52621,100.00,18.65,of all branches
+    18.171440780,507,,bus-cycles,52621,100.00,,
+    18.171440780,5937,,instructions,52621,100.00,,
+    18.271818027,7942,,branch-instructions,238350,100.00,,
+    18.271818027,1299,,branch-misses,238350,100.00,16.36,of all branches
+    18.271818027,2186,,bus-cycles,238350,100.00,,
+    18.271818027,40374,,instructions,238350,100.00,,
+    18.372166788,1734,,branch-instructions,77372,100.00,,
+    18.372166788,270,,branch-misses,77372,100.00,15.57,of all branches
+    18.372166788,662,,bus-cycles,77372,100.00,,
+    18.372166788,8736,,instructions,77372,100.00,,
+    18.472524790,1831,,branch-instructions,78900,100.00,,
+    18.472524790,339,,branch-misses,78900,100.00,18.51,of all branches
+    18.472524790,767,,bus-cycles,78900,100.00,,
+    18.472524790,9140,,instructions,78900,100.00,,
+    18.573098038,4804,,branch-instructions,164900,100.00,,
+    18.573098038,819,,branch-misses,164900,100.00,17.05,of all branches
+    18.573098038,1774,,bus-cycles,164900,100.00,,
+    18.573098038,24449,,instructions,164900,100.00,,
+    18.673656022,1186,,branch-instructions,52945,100.00,,
+    18.673656022,226,,branch-misses,52945,100.00,19.06,of all branches
+    18.673656022,509,,bus-cycles,52945,100.00,,
+    18.673656022,5943,,instructions,52945,100.00,,
+    18.774210410,1743,,branch-instructions,77055,100.00,,
+    18.774210410,335,,branch-misses,77055,100.00,19.22,of all branches
+    18.774210410,745,,bus-cycles,77055,100.00,,
+    18.774210410,8740,,instructions,77055,100.00,,
+    18.874573991,6556,,branch-instructions,253448,100.00,,
+    18.874573991,1138,,branch-misses,253448,100.00,17.36,of all branches
+    18.874573991,2601,,bus-cycles,253448,100.00,,
+    18.874573991,33366,,instructions,253448,100.00,,
+    18.975103245,2371,,branch-instructions,106595,100.00,,
+    18.975103245,445,,branch-misses,106595,100.00,18.77,of all branches
+    18.975103245,1015,,bus-cycles,106595,100.00,,
+    18.975103245,11880,,instructions,106595,100.00,,
+    19.075473217,1186,,branch-instructions,53740,100.00,,
+    19.075473217,224,,branch-misses,53740,100.00,18.89,of all branches
+    19.075473217,532,,bus-cycles,53740,100.00,,
+    19.075473217,5943,,instructions,53740,100.00,,
+    19.176058803,1186,,branch-instructions,50591,100.00,,
+    19.176058803,220,,branch-misses,50591,100.00,18.55,of all branches
+    19.176058803,475,,bus-cycles,50591,100.00,,
+    19.176058803,5943,,instructions,50591,100.00,,
+    19.276599112,3776,,branch-instructions,153519,100.00,,
+    19.276599112,676,,branch-misses,153519,100.00,17.90,of all branches
+    19.276599112,1481,,bus-cycles,153519,100.00,,
+    19.276599112,18928,,instructions,153519,100.00,,
+    19.377173474,2381,,branch-instructions,107772,100.00,,
+    19.377173474,458,,branch-misses,107772,100.00,19.24,of all branches
+    19.377173474,1058,,bus-cycles,107772,100.00,,
+    19.377173474,11945,,instructions,107772,100.00,,
+    19.477699927,4584,,branch-instructions,136519,100.00,,
+    19.477699927,703,,branch-misses,136519,100.00,15.34,of all branches
+    19.477699927,1457,,bus-cycles,136519,100.00,,
+    19.477699927,24184,,instructions,136519,100.00,,
+    19.578241871,2356,,branch-instructions,102956,100.00,,
+    19.578241871,445,,branch-misses,102956,100.00,18.89,of all branches
+    19.578241871,974,,bus-cycles,102956,100.00,,
+    19.578241871,11817,,instructions,102956,100.00,,
+    19.678576558,2912,,branch-instructions,132027,100.00,,
+    19.678576558,565,,branch-misses,132027,100.00,19.40,of all branches
+    19.678576558,1244,,bus-cycles,132027,100.00,,
+    19.678576558,14627,,instructions,132027,100.00,,
+    19.779007407,5890,,branch-instructions,158796,100.00,,
+    19.779007407,1089,,branch-misses,158796,100.00,18.49,of all branches
+    19.779007407,1491,,bus-cycles,158796,100.00,,
+    19.779007407,29520,,instructions,158796,100.00,,
+    19.879559453,1185,,branch-instructions,49522,100.00,,
+    19.879559453,222,,branch-misses,49522,100.00,18.73,of all branches
+    19.879559453,470,,bus-cycles,49522,100.00,,
+    19.879559453,5937,,instructions,49522,100.00,,
+    19.979916743,2370,,branch-instructions,99921,100.00,,
+    19.979916743,442,,branch-misses,99921,100.00,18.65,of all branches
+    19.979916743,960,,bus-cycles,99921,100.00,,
+    19.979916743,11874,,instructions,99921,100.00,,
+    20.080360071,2508,,branch-instructions,104243,100.00,,
+    20.080360071,416,,branch-misses,104243,100.00,16.59,of all branches
+    20.080360071,978,,bus-cycles,104243,100.00,,
+    20.080360071,12575,,instructions,104243,100.00,,
+    20.180897179,1185,,branch-instructions,48688,100.00,,
+    20.180897179,223,,branch-misses,48688,100.00,18.82,of all branches
+    20.180897179,465,,bus-cycles,48688,100.00,,
+    20.180897179,5937,,instructions,48688,100.00,,
+    20.281435653,2822,,branch-instructions,105753,100.00,,
+    20.281435653,517,,branch-misses,105753,100.00,18.32,of all branches
+    20.281435653,1099,,bus-cycles,105753,100.00,,
+    20.281435653,14147,,instructions,105753,100.00,,
+    20.381979591,<not counted>,,branch-instructions,0,100.00,,
+    20.381979591,<not counted>,,branch-misses,0,100.00,,
+    20.381979591,<not counted>,,bus-cycles,0,100.00,,
+    20.381979591,<not counted>,,instructions,0,100.00,,
+    20.482317798,5038,,branch-instructions,186232,100.00,,
+    20.482317798,848,,branch-misses,186232,100.00,16.83,of all branches
+    20.482317798,1896,,bus-cycles,186232,100.00,,
+    20.482317798,25822,,instructions,186232,100.00,,
+    20.582821822,2930,,branch-instructions,107091,100.00,,
+    20.582821822,489,,branch-misses,107091,100.00,16.69,of all branches
+    20.582821822,1059,,bus-cycles,107091,100.00,,
+    20.582821822,14675,,instructions,107091,100.00,,
+    20.683398565,1960,,branch-instructions,87628,100.00,,
+    20.683398565,305,,branch-misses,87628,100.00,15.56,of all branches
+    20.683398565,743,,bus-cycles,87628,100.00,,
+    20.683398565,9825,,instructions,87628,100.00,,
+    20.783910593,1960,,branch-instructions,77088,100.00,,
+    20.783910593,364,,branch-misses,77088,100.00,18.57,of all branches
+    20.783910593,788,,bus-cycles,77088,100.00,,
+    20.783910593,9825,,instructions,77088,100.00,,
+    20.884479183,1186,,branch-instructions,48902,100.00,,
+    20.884479183,220,,branch-misses,48902,100.00,18.55,of all branches
+    20.884479183,473,,bus-cycles,48902,100.00,,
+    20.884479183,5943,,instructions,48902,100.00,,
+    20.984979522,3693,,branch-instructions,136935,100.00,,
+    20.984979522,595,,branch-misses,136935,100.00,16.11,of all branches
+    20.984979522,1398,,bus-cycles,136935,100.00,,
+    20.984979522,19007,,instructions,136935,100.00,,
+    21.085517938,2514,,branch-instructions,105430,100.00,,
+    21.085517938,481,,branch-misses,105430,100.00,19.13,of all branches
+    21.085517938,1044,,bus-cycles,105430,100.00,,
+    21.085517938,12612,,instructions,105430,100.00,,
+    21.185935071,<not counted>,,branch-instructions,0,100.00,,
+    21.185935071,<not counted>,,branch-misses,0,100.00,,
+    21.185935071,<not counted>,,bus-cycles,0,100.00,,
+    21.185935071,<not counted>,,instructions,0,100.00,,
+    21.286497142,5182,,branch-instructions,213487,100.00,,
+    21.286497142,938,,branch-misses,213487,100.00,18.10,of all branches
+    21.286497142,2110,,bus-cycles,213487,100.00,,
+    21.286497142,26034,,instructions,213487,100.00,,
+    21.387046828,2371,,branch-instructions,104822,100.00,,
+    21.387046828,441,,branch-misses,104822,100.00,18.60,of all branches
+    21.387046828,1019,,bus-cycles,104822,100.00,,
+    21.387046828,11880,,instructions,104822,100.00,,
+    21.487609669,3146,,branch-instructions,127638,100.00,,
+    21.487609669,589,,branch-misses,127638,100.00,18.72,of all branches
+    21.487609669,1235,,bus-cycles,127638,100.00,,
+    21.487609669,15768,,instructions,127638,100.00,,
+    21.588163400,2919,,branch-instructions,129139,100.00,,
+    21.588163400,551,,branch-misses,129139,100.00,18.88,of all branches
+    21.588163400,1251,,bus-cycles,129139,100.00,,
+    21.588163400,14630,,instructions,129139,100.00,,
+    21.688535391,1186,,branch-instructions,52397,100.00,,
+    21.688535391,220,,branch-misses,52397,100.00,18.55,of all branches
+    21.688535391,509,,bus-cycles,52397,100.00,,
+    21.688535391,5943,,instructions,52397,100.00,,
+    21.789074097,1185,,branch-instructions,50969,100.00,,
+    21.789074097,227,,branch-misses,50969,100.00,19.16,of all branches
+    21.789074097,493,,bus-cycles,50969,100.00,,
+    21.789074097,5937,,instructions,50969,100.00,,
+    21.889606384,5524,,branch-instructions,240069,100.00,,
+    21.889606384,1035,,branch-misses,240069,100.00,18.74,of all branches
+    21.889606384,2322,,bus-cycles,240069,100.00,,
+    21.889606384,27697,,instructions,240069,100.00,,
+    21.990142782,3578,,branch-instructions,154928,100.00,,
+    21.990142782,600,,branch-misses,154928,100.00,16.77,of all branches
+    21.990142782,1439,,bus-cycles,154928,100.00,,
+    21.990142782,17941,,instructions,154928,100.00,,
+    22.090495653,<not counted>,,branch-instructions,0,100.00,,
+    22.090495653,<not counted>,,branch-misses,0,100.00,,
+    22.090495653,<not counted>,,bus-cycles,0,100.00,,
+    22.090495653,<not counted>,,instructions,0,100.00,,
+    22.190975852,1185,,branch-instructions,49501,100.00,,
+    22.190975852,221,,branch-misses,49501,100.00,18.65,of all branches
+    22.190975852,474,,bus-cycles,49501,100.00,,
+    22.190975852,5937,,instructions,49501,100.00,,
+    22.291344789,2393,,branch-instructions,71442,100.00,,
+    22.291344789,400,,branch-misses,71442,100.00,16.72,of all branches
+    22.291344789,674,,bus-cycles,71442,100.00,,
+    22.291344789,12003,,instructions,71442,100.00,,
+    22.391775920,<not counted>,,branch-instructions,0,100.00,,
+    22.391775920,<not counted>,,branch-misses,0,100.00,,
+    22.391775920,<not counted>,,bus-cycles,0,100.00,,
+    22.391775920,<not counted>,,instructions,0,100.00,,
+    22.492017056,4942,,branch-instructions,179783,100.00,,
+    22.492017056,851,,branch-misses,179783,100.00,17.22,of all branches
+    22.492017056,1628,,bus-cycles,179783,100.00,,
+    22.492017056,25338,,instructions,179783,100.00,,
+    22.592567768,2370,,branch-instructions,100697,100.00,,
+    22.592567768,444,,branch-misses,100697,100.00,18.73,of all branches
+    22.592567768,992,,bus-cycles,100697,100.00,,
+    22.592567768,11874,,instructions,100697,100.00,,
+    22.692978768,1726,,branch-instructions,77762,100.00,,
+    22.692978768,327,,branch-misses,77762,100.00,18.95,of all branches
+    22.692978768,734,,bus-cycles,77762,100.00,,
+    22.692978768,8684,,instructions,77762,100.00,,
+    22.793398030,7172,,branch-instructions,213004,100.00,,
+    22.793398030,1345,,branch-misses,213004,100.00,18.75,of all branches
+    22.793398030,2042,,bus-cycles,213004,100.00,,
+    22.793398030,35949,,instructions,213004,100.00,,
+    22.893798645,2370,,branch-instructions,103887,100.00,,
+    22.893798645,448,,branch-misses,103887,100.00,18.90,of all branches
+    22.893798645,981,,bus-cycles,103887,100.00,,
+    22.893798645,11874,,instructions,103887,100.00,,
+    22.994370829,2918,,branch-instructions,131901,100.00,,
+    22.994370829,554,,branch-misses,131901,100.00,18.99,of all branches
+    22.994370829,1293,,bus-cycles,131901,100.00,,
+    22.994370829,14624,,instructions,131901,100.00,,
+    23.094944044,2509,,branch-instructions,103901,100.00,,
+    23.094944044,419,,branch-misses,103901,100.00,16.70,of all branches
+    23.094944044,999,,bus-cycles,103901,100.00,,
+    23.094944044,12581,,instructions,103901,100.00,,
+    23.195489561,1726,,branch-instructions,76240,100.00,,
+    23.195489561,324,,branch-misses,76240,100.00,18.77,of all branches
+    23.195489561,743,,bus-cycles,76240,100.00,,
+    23.195489561,8684,,instructions,76240,100.00,,
+    23.295882347,4755,,branch-instructions,118403,100.00,,
+    23.295882347,835,,branch-misses,118403,100.00,17.56,of all branches
+    23.295882347,1006,,bus-cycles,118403,100.00,,
+    23.295882347,23817,,instructions,118403,100.00,,
+    23.396230424,2392,,branch-instructions,98125,100.00,,
+    23.396230424,461,,branch-misses,98125,100.00,19.27,of all branches
+    23.396230424,944,,bus-cycles,98125,100.00,,
+    23.396230424,11997,,instructions,98125,100.00,,
+    23.496590426,2487,,branch-instructions,104557,100.00,,
+    23.496590426,434,,branch-misses,104557,100.00,17.45,of all branches
+    23.496590426,1028,,bus-cycles,104557,100.00,,
+    23.496590426,12549,,instructions,104557,100.00,,
+    23.597125506,3149,,branch-instructions,131689,100.00,,
+    23.597125506,603,,branch-misses,131689,100.00,19.15,of all branches
+    23.597125506,1313,,bus-cycles,131689,100.00,,
+    23.597125506,15760,,instructions,131689,100.00,,
+    23.697653341,4586,,branch-instructions,211828,100.00,,
+    23.697653341,862,,branch-misses,211828,100.00,18.80,of all branches
+    23.697653341,1982,,bus-cycles,211828,100.00,,
+    23.697653341,23042,,instructions,211828,100.00,,
+    23.798200468,2432,,branch-instructions,109657,100.00,,
+    23.798200468,470,,branch-misses,109657,100.00,19.33,of all branches
+    23.798200468,1096,,bus-cycles,109657,100.00,,
+    23.798200468,12203,,instructions,109657,100.00,,
+    23.898751531,1734,,branch-instructions,80958,100.00,,
+    23.898751531,334,,branch-misses,80958,100.00,19.26,of all branches
+    23.898751531,779,,bus-cycles,80958,100.00,,
+    23.898751531,8693,,instructions,80958,100.00,,
+    23.999113539,1960,,branch-instructions,78707,100.00,,
+    23.999113539,363,,branch-misses,78707,100.00,18.52,of all branches
+    23.999113539,776,,bus-cycles,78707,100.00,,
+    23.999113539,9825,,instructions,78707,100.00,,
+    24.099678781,1185,,branch-instructions,58927,100.00,,
+    24.099678781,224,,branch-misses,58927,100.00,18.90,of all branches
+    24.099678781,558,,bus-cycles,58927,100.00,,
+    24.099678781,5937,,instructions,58927,100.00,,
+    24.200112443,2919,,branch-instructions,128596,100.00,,
+    24.200112443,564,,branch-misses,128596,100.00,19.32,of all branches
+    24.200112443,1263,,bus-cycles,128596,100.00,,
+    24.200112443,14630,,instructions,128596,100.00,,
+    24.300480273,6625,,branch-instructions,291173,100.00,,
+    24.300480273,1249,,branch-misses,291173,100.00,18.85,of all branches
+    24.300480273,2941,,bus-cycles,291173,100.00,,
+    24.300480273,33256,,instructions,291173,100.00,,
+    24.401018779,1202,,branch-instructions,48694,100.00,,
+    24.401018779,228,,branch-misses,48694,100.00,18.97,of all branches
+    24.401018779,452,,bus-cycles,48694,100.00,,
+    24.401018779,5993,,instructions,48694,100.00,,
+    24.501390480,3792,,branch-instructions,134271,100.00,,
+    24.501390480,618,,branch-misses,134271,100.00,16.30,of all branches
+    24.501390480,1353,,bus-cycles,134271,100.00,,
+    24.501390480,19549,,instructions,134271,100.00,,
+    24.601909991,3689,,branch-instructions,150534,100.00,,
+    24.601909991,694,,branch-misses,150534,100.00,18.81,of all branches
+    24.601909991,1472,,bus-cycles,150534,100.00,,
+    24.601909991,18501,,instructions,150534,100.00,,
+    24.702449279,2907,,branch-instructions,124664,100.00,,
+    24.702449279,490,,branch-misses,124664,100.00,16.86,of all branches
+    24.702449279,1146,,bus-cycles,124664,100.00,,
+    24.702449279,14572,,instructions,124664,100.00,,
+    24.803015832,<not counted>,,branch-instructions,0,100.00,,
+    24.803015832,<not counted>,,branch-misses,0,100.00,,
+    24.803015832,<not counted>,,bus-cycles,0,100.00,,
+    24.803015832,<not counted>,,instructions,0,100.00,,
+    24.903364175,6065,,branch-instructions,267190,100.00,,
+    24.903364175,1143,,branch-misses,267190,100.00,18.85,of all branches
+    24.903364175,2588,,bus-cycles,267190,100.00,,
+    24.903364175,30396,,instructions,267190,100.00,,
+    25.003759930,4216,,branch-instructions,201925,100.00,,
+    25.003759930,804,,branch-misses,201925,100.00,19.07,of all branches
+    25.003759930,1906,,bus-cycles,201925,100.00,,
+    25.003759930,21172,,instructions,201925,100.00,,
+    25.104114713,644,,branch-instructions,27307,100.00,,
+    25.104114713,119,,branch-misses,27307,100.00,18.48,of all branches
+    25.104114713,273,,bus-cycles,27307,100.00,,
+    25.104114713,3190,,instructions,27307,100.00,,
+    25.204487048,2371,,branch-instructions,105359,100.00,,
+    25.204487048,448,,branch-misses,105359,100.00,18.89,of all branches
+    25.204487048,1015,,bus-cycles,105359,100.00,,
+    25.204487048,11880,,instructions,105359,100.00,,
+    25.305041761,2385,,branch-instructions,103352,100.00,,
+    25.305041761,457,,branch-misses,103352,100.00,19.16,of all branches
+    25.305041761,1010,,bus-cycles,103352,100.00,,
+    25.305041761,11972,,instructions,103352,100.00,,
+    25.405571977,1185,,branch-instructions,53493,100.00,,
+    25.405571977,227,,branch-misses,53493,100.00,19.16,of all branches
+    25.405571977,516,,bus-cycles,53493,100.00,,
+    25.405571977,5937,,instructions,53493,100.00,,
+    25.506120168,3699,,branch-instructions,162015,100.00,,
+    25.506120168,651,,branch-misses,162015,100.00,17.60,of all branches
+    25.506120168,1453,,bus-cycles,162015,100.00,,
+    25.506120168,18611,,instructions,162015,100.00,,
+    25.606666447,1842,,branch-instructions,75865,100.00,,
+    25.606666447,351,,branch-misses,75865,100.00,19.06,of all branches
+    25.606666447,779,,bus-cycles,75865,100.00,,
+    25.606666447,9194,,instructions,75865,100.00,,
+    25.707221340,1791,,branch-instructions,56243,100.00,,
+    25.707221340,345,,branch-misses,56243,100.00,19.26,of all branches
+    25.707221340,552,,bus-cycles,56243,100.00,,
+    25.707221340,9057,,instructions,56243,100.00,,
+    25.807657189,4862,,branch-instructions,166384,100.00,,
+    25.807657189,859,,branch-misses,166384,100.00,17.67,of all branches
+    25.807657189,1324,,bus-cycles,166384,100.00,,
+    25.807657189,24377,,instructions,166384,100.00,,
+    25.908255679,1730,,branch-instructions,73559,100.00,,
+    25.908255679,334,,branch-misses,73559,100.00,19.31,of all branches
+    25.908255679,683,,bus-cycles,73559,100.00,,
+    25.908255679,8680,,instructions,73559,100.00,,
+    26.008631999,7873,,branch-instructions,226855,100.00,,
+    26.008631999,993,,branch-misses,226855,100.00,12.61,of all branches
+    26.008631999,2416,,bus-cycles,226855,100.00,,
+    26.008631999,37472,,instructions,226855,100.00,,
+    26.108994866,2532,,branch-instructions,100654,100.00,,
+    26.108994866,471,,branch-misses,100654,100.00,18.60,of all branches
+    26.108994866,977,,bus-cycles,100654,100.00,,
+    26.108994866,12682,,instructions,100654,100.00,,
+    26.209553989,2393,,branch-instructions,107755,100.00,,
+    26.209553989,460,,branch-misses,107755,100.00,19.22,of all branches
+    26.209553989,1054,,bus-cycles,107755,100.00,,
+    26.209553989,12003,,instructions,107755,100.00,,
+    26.310025399,1185,,branch-instructions,18175,100.00,,
+    26.310025399,223,,branch-misses,18175,100.00,18.82,of all branches
+    26.310025399,182,,bus-cycles,18175,100.00,,
+    26.310025399,5937,,instructions,18175,100.00,,
+    26.410469671,4462,,branch-instructions,151537,100.00,,
+    26.410469671,754,,branch-misses,151537,100.00,16.90,of all branches
+    26.410469671,1440,,bus-cycles,151537,100.00,,
+    26.410469671,22403,,instructions,151537,100.00,,
+    26.510975839,1815,,branch-instructions,71697,100.00,,
+    26.510975839,298,,branch-misses,71697,100.00,16.42,of all branches
+    26.510975839,650,,bus-cycles,71697,100.00,,
+    26.510975839,9076,,instructions,71697,100.00,,
+    26.611389257,1185,,branch-instructions,54091,100.00,,
+    26.611389257,227,,branch-misses,54091,100.00,19.16,of all branches
+    26.611389257,504,,bus-cycles,54091,100.00,,
+    26.611389257,5937,,instructions,54091,100.00,,
+    26.711968500,5713,,branch-instructions,241226,100.00,,
+    26.711968500,1034,,branch-misses,241226,100.00,18.10,of all branches
+    26.711968500,2347,,bus-cycles,241226,100.00,,
+    26.711968500,29292,,instructions,241226,100.00,,
+    26.812562237,1186,,branch-instructions,49501,100.00,,
+    26.812562237,222,,branch-misses,49501,100.00,18.72,of all branches
+    26.812562237,483,,bus-cycles,49501,100.00,,
+    26.812562237,5943,,instructions,49501,100.00,,
+    26.913110507,1185,,branch-instructions,50714,100.00,,
+    26.913110507,231,,branch-misses,50714,100.00,19.49,of all branches
+    26.913110507,497,,bus-cycles,50714,100.00,,
+    26.913110507,5937,,instructions,50714,100.00,,
+    27.013659918,2392,,branch-instructions,102780,100.00,,
+    27.013659918,452,,branch-misses,102780,100.00,18.90,of all branches
+    27.013659918,996,,bus-cycles,102780,100.00,,
+    27.013659918,11998,,instructions,102780,100.00,,
+    27.114239551,1185,,branch-instructions,53039,100.00,,
+    27.114239551,227,,branch-misses,53039,100.00,19.16,of all branches
+    27.114239551,519,,bus-cycles,53039,100.00,,
+    27.114239551,5937,,instructions,53039,100.00,,
+    27.214708758,2394,,branch-instructions,99656,100.00,,
+    27.214708758,448,,branch-misses,99656,100.00,18.71,of all branches
+    27.214708758,984,,bus-cycles,99656,100.00,,
+    27.214708758,12009,,instructions,99656,100.00,,
+    27.315248661,4703,,branch-instructions,201822,100.00,,
+    27.315248661,843,,branch-misses,201822,100.00,17.92,of all branches
+    27.315248661,1861,,bus-cycles,201822,100.00,,
+    27.315248661,23572,,instructions,201822,100.00,,
+    27.415780873,1185,,branch-instructions,50356,100.00,,
+    27.415780873,222,,branch-misses,50356,100.00,18.73,of all branches
+    27.415780873,489,,bus-cycles,50356,100.00,,
+    27.415780873,5937,,instructions,50356,100.00,,
+    27.516187620,2641,,branch-instructions,72245,100.00,,
+    27.516187620,404,,branch-misses,72245,100.00,15.30,of all branches
+    27.516187620,762,,bus-cycles,72245,100.00,,
+    27.516187620,13794,,instructions,72245,100.00,,
+    27.616587697,2370,,branch-instructions,99995,100.00,,
+    27.616587697,442,,branch-misses,99995,100.00,18.65,of all branches
+    27.616587697,974,,bus-cycles,99995,100.00,,
+    27.616587697,11874,,instructions,99995,100.00,,
+    27.717152446,2370,,branch-instructions,107908,100.00,,
+    27.717152446,443,,branch-misses,107908,100.00,18.69,of all branches
+    27.717152446,1066,,bus-cycles,107908,100.00,,
+    27.717152446,11874,,instructions,107908,100.00,,
+    27.817467198,3580,,branch-instructions,151690,100.00,,
+    27.817467198,682,,branch-misses,151690,100.00,19.05,of all branches
+    27.817467198,1461,,bus-cycles,151690,100.00,,
+    27.817467198,17944,,instructions,151690,100.00,,
+    27.918008707,4456,,branch-instructions,178537,100.00,,
+    27.918008707,782,,branch-misses,178537,100.00,17.55,of all branches
+    27.918008707,1769,,bus-cycles,178537,100.00,,
+    27.918008707,22350,,instructions,178537,100.00,,
+    28.018360380,2370,,branch-instructions,98797,100.00,,
+    28.018360380,443,,branch-misses,98797,100.00,18.69,of all branches
+    28.018360380,939,,bus-cycles,98797,100.00,,
+    28.018360380,11874,,instructions,98797,100.00,,
+    28.118757647,1666,,branch-instructions,82292,100.00,,
+    28.118757647,322,,branch-misses,82292,100.00,19.33,of all branches
+    28.118757647,762,,bus-cycles,82292,100.00,,
+    28.118757647,8381,,instructions,82292,100.00,,
+    28.219278286,2393,,branch-instructions,105528,100.00,,
+    28.219278286,457,,branch-misses,105528,100.00,19.10,of all branches
+    28.219278286,1029,,bus-cycles,105528,100.00,,
+    28.219278286,12003,,instructions,105528,100.00,,
+    28.319725199,4352,,branch-instructions,113279,100.00,,
+    28.319725199,826,,branch-misses,113279,100.00,18.98,of all branches
+    28.319725199,1108,,bus-cycles,113279,100.00,,
+    28.319725199,21824,,instructions,113279,100.00,,
+    28.420038575,2420,,branch-instructions,100588,100.00,,
+    28.420038575,460,,branch-misses,100588,100.00,19.01,of all branches
+    28.420038575,982,,bus-cycles,100588,100.00,,
+    28.420038575,12159,,instructions,100588,100.00,,
+    28.520574981,8842,,branch-instructions,278668,100.00,,
+    28.520574981,1473,,branch-misses,278668,100.00,16.66,of all branches
+    28.520574981,2676,,bus-cycles,278668,100.00,,
+    28.520574981,45262,,instructions,278668,100.00,,
+    28.620873530,<not counted>,,branch-instructions,0,100.00,,
+    28.620873530,<not counted>,,branch-misses,0,100.00,,
+    28.620873530,<not counted>,,bus-cycles,0,100.00,,
+    28.620873530,<not counted>,,instructions,0,100.00,,
+    28.721213872,3684,,branch-instructions,150209,100.00,,
+    28.721213872,665,,branch-misses,150209,100.00,18.05,of all branches
+    28.721213872,1436,,bus-cycles,150209,100.00,,
+    28.721213872,18516,,instructions,150209,100.00,,
+    28.821729956,7112,,branch-instructions,281899,100.00,,
+    28.821729956,1331,,branch-misses,281899,100.00,18.71,of all branches
+    28.821729956,2771,,bus-cycles,281899,100.00,,
+    28.821729956,35669,,instructions,281899,100.00,,
+    28.922276662,1185,,branch-instructions,50688,100.00,,
+    28.922276662,221,,branch-misses,50688,100.00,18.65,of all branches
+    28.922276662,492,,bus-cycles,50688,100.00,,
+    28.922276662,5938,,instructions,50688,100.00,,
+    29.022828286,2387,,branch-instructions,109444,100.00,,
+    29.022828286,416,,branch-misses,109444,100.00,17.43,of all branches
+    29.022828286,1020,,bus-cycles,109444,100.00,,
+    29.022828286,11971,,instructions,109444,100.00,,
+    29.123203660,1185,,branch-instructions,50481,100.00,,
+    29.123203660,223,,branch-misses,50481,100.00,18.82,of all branches
+    29.123203660,494,,bus-cycles,50481,100.00,,
+    29.123203660,5937,,instructions,50481,100.00,,
+    29.223575348,2392,,branch-instructions,99182,100.00,,
+    29.223575348,451,,branch-misses,99182,100.00,18.85,of all branches
+    29.223575348,957,,bus-cycles,99182,100.00,,
+    29.223575348,11997,,instructions,99182,100.00,,
+    29.324117918,5333,,branch-instructions,223282,100.00,,
+    29.324117918,1007,,branch-misses,223282,100.00,18.88,of all branches
+    29.324117918,2180,,bus-cycles,223282,100.00,,
+    29.324117918,26750,,instructions,223282,100.00,,
+    29.424484771,1185,,branch-instructions,48086,100.00,,
+    29.424484771,226,,branch-misses,48086,100.00,19.07,of all branches
+    29.424484771,472,,bus-cycles,48086,100.00,,
+    29.424484771,5937,,instructions,48086,100.00,,
+    29.525035268,2392,,branch-instructions,98809,100.00,,
+    29.525035268,404,,branch-misses,98809,100.00,16.89,of all branches
+    29.525035268,929,,bus-cycles,98809,100.00,,
+    29.525035268,11997,,instructions,98809,100.00,,
+    29.625395029,3565,,branch-instructions,151169,100.00,,
+    29.625395029,683,,branch-misses,151169,100.00,19.16,of all branches
+    29.625395029,1489,,bus-cycles,151169,100.00,,
+    29.625395029,17876,,instructions,151169,100.00,,
+    29.725931548,3576,,branch-instructions,149280,100.00,,
+    29.725931548,679,,branch-misses,149280,100.00,18.99,of all branches
+    29.725931548,1429,,bus-cycles,149280,100.00,,
+    29.725931548,17929,,instructions,149280,100.00,,
+    29.826490399,1185,,branch-instructions,50516,100.00,,
+    29.826490399,225,,branch-misses,50516,100.00,18.99,of all branches
+    29.826490399,484,,bus-cycles,50516,100.00,,
+    29.826490399,5937,,instructions,50516,100.00,,
+    29.927067613,<not counted>,,branch-instructions,0,100.00,,
+    29.927067613,<not counted>,,branch-misses,0,100.00,,
+    29.927067613,<not counted>,,bus-cycles,0,100.00,,
+    29.927067613,<not counted>,,instructions,0,100.00,,
+    30.027598325,2939,,branch-instructions,112701,100.00,,
+    30.027598325,506,,branch-misses,112701,100.00,17.22,of all branches
+    30.027598325,1040,,bus-cycles,112701,100.00,,
+    30.027598325,14743,,instructions,112701,100.00,,
+    30.128163279,1185,,branch-instructions,50166,100.00,,
+    30.128163279,223,,branch-misses,50166,100.00,18.82,of all branches
+    30.128163279,488,,bus-cycles,50166,100.00,,
+    30.128163279,5937,,instructions,50166,100.00,,
+    30.228717291,1207,,branch-instructions,55256,100.00,,
+    30.228717291,233,,branch-misses,55256,100.00,19.30,of all branches
+    30.228717291,546,,bus-cycles,55256,100.00,,
+    30.228717291,6060,,instructions,55256,100.00,,
+    30.329266899,3543,,branch-instructions,153657,100.00,,
+    30.329266899,664,,branch-misses,153657,100.00,18.74,of all branches
+    30.329266899,1482,,bus-cycles,153657,100.00,,
+    30.329266899,17753,,instructions,153657,100.00,,
+    30.429812540,1849,,branch-instructions,52448,100.00,,
+    30.429812540,261,,branch-misses,52448,100.00,14.12,of all branches
+    30.429812540,551,,bus-cycles,52448,100.00,,
+    30.429812540,9805,,instructions,52448,100.00,,
+    30.530360270,1195,,branch-instructions,31646,100.00,,
+    30.530360270,225,,branch-misses,31646,100.00,18.83,of all branches
+    30.530360270,294,,bus-cycles,31646,100.00,,
+    30.530360270,6002,,instructions,31646,100.00,,
+    30.630777640,1185,,branch-instructions,21330,100.00,,
+    30.630777640,216,,branch-misses,21330,100.00,18.23,of all branches
+    30.630777640,195,,bus-cycles,21330,100.00,,
+    30.630777640,5937,,instructions,21330,100.00,,
+    30.731228050,2392,,branch-instructions,103977,100.00,,
+    30.731228050,456,,branch-misses,103977,100.00,19.06,of all branches
+    30.731228050,1021,,bus-cycles,103977,100.00,,
+    30.731228050,11997,,instructions,103977,100.00,,
+    30.831769164,1185,,branch-instructions,50174,100.00,,
+    30.831769164,219,,branch-misses,50174,100.00,18.48,of all branches
+    30.831769164,491,,bus-cycles,50174,100.00,,
+    30.831769164,5937,,instructions,50174,100.00,,
+    30.932326314,4456,,branch-instructions,180425,100.00,,
+    30.932326314,841,,branch-misses,180425,100.00,18.87,of all branches
+    30.932326314,1849,,bus-cycles,180425,100.00,,
+    30.932326314,22350,,instructions,180425,100.00,,
+    31.032862067,6154,,branch-instructions,219447,100.00,,
+    31.032862067,1041,,branch-misses,219447,100.00,16.92,of all branches
+    31.032862067,2385,,bus-cycles,219447,100.00,,
+    31.032862067,31401,,instructions,219447,100.00,,
+    31.133432214,1185,,branch-instructions,47720,100.00,,
+    31.133432214,217,,branch-misses,47720,100.00,18.31,of all branches
+    31.133432214,450,,bus-cycles,47720,100.00,,
+    31.133432214,5937,,instructions,47720,100.00,,
+    31.233983988,2392,,branch-instructions,107186,100.00,,
+    31.233983988,450,,branch-misses,107186,100.00,18.81,of all branches
+    31.233983988,1042,,bus-cycles,107186,100.00,,
+    31.233983988,11997,,instructions,107186,100.00,,
+    31.334521058,1207,,branch-instructions,18536,100.00,,
+    31.334521058,222,,branch-misses,18536,100.00,18.39,of all branches
+    31.334521058,180,,bus-cycles,18536,100.00,,
+    31.334521058,6060,,instructions,18536,100.00,,
+    31.434761774,3578,,branch-instructions,132264,100.00,,
+    31.434761774,672,,branch-misses,132264,100.00,18.78,of all branches
+    31.434761774,1274,,bus-cycles,132264,100.00,,
+    31.434761774,17940,,instructions,132264,100.00,,
+    31.535313979,4100,,branch-instructions,151667,100.00,,
+    31.535313979,634,,branch-misses,151667,100.00,15.46,of all branches
+    31.535313979,1416,,bus-cycles,151667,100.00,,
+    31.535313979,21114,,instructions,151667,100.00,,
+    31.635602907,3631,,branch-instructions,130296,100.00,,
+    31.635602907,637,,branch-misses,130296,100.00,17.54,of all branches
+    31.635602907,1350,,bus-cycles,130296,100.00,,
+    31.635602907,18693,,instructions,130296,100.00,,
+    31.735930069,3443,,branch-instructions,153298,100.00,,
+    31.735930069,653,,branch-misses,153298,100.00,18.97,of all branches
+    31.735930069,1461,,bus-cycles,153298,100.00,,
+    31.735930069,17293,,instructions,153298,100.00,,
+    31.836173915,3765,,branch-instructions,123472,100.00,,
+    31.836173915,703,,branch-misses,123472,100.00,18.67,of all branches
+    31.836173915,1091,,bus-cycles,123472,100.00,,
+    31.836173915,18836,,instructions,123472,100.00,,
+    31.936750224,<not counted>,,branch-instructions,0,100.00,,
+    31.936750224,<not counted>,,branch-misses,0,100.00,,
+    31.936750224,<not counted>,,bus-cycles,0,100.00,,
+    31.936750224,<not counted>,,instructions,0,100.00,,
+    32.037256433,4239,,branch-instructions,178155,100.00,,
+    32.037256433,818,,branch-misses,178155,100.00,19.30,of all branches
+    32.037256433,1763,,bus-cycles,178155,100.00,,
+    32.037256433,21259,,instructions,178155,100.00,,
+    32.137793550,2852,,branch-instructions,121189,100.00,,
+    32.137793550,538,,branch-misses,121189,100.00,18.86,of all branches
+    32.137793550,1140,,bus-cycles,121189,100.00,,
+    32.137793550,14324,,instructions,121189,100.00,,
+    32.238359297,3190,,branch-instructions,128039,100.00,,
+    32.238359297,591,,branch-misses,128039,100.00,18.53,of all branches
+    32.238359297,1277,,bus-cycles,128039,100.00,,
+    32.238359297,16007,,instructions,128039,100.00,,
+    32.338745996,2906,,branch-instructions,122527,100.00,,
+    32.338745996,551,,branch-misses,122527,100.00,18.96,of all branches
+    32.338745996,1149,,bus-cycles,122527,100.00,,
+    32.338745996,14566,,instructions,122527,100.00,,
+    32.439114750,2437,,branch-instructions,79276,100.00,,
+    32.439114750,341,,branch-misses,79276,100.00,13.99,of all branches
+    32.439114750,768,,bus-cycles,79276,100.00,,
+    32.439114750,12725,,instructions,79276,100.00,,
+    32.539655572,3853,,branch-instructions,157333,100.00,,
+    32.539655572,627,,branch-misses,157333,100.00,16.27,of all branches
+    32.539655572,1485,,bus-cycles,157333,100.00,,
+    32.539655572,19861,,instructions,157333,100.00,,
+    32.639968430,<not counted>,,branch-instructions,0,100.00,,
+    32.639968430,<not counted>,,branch-misses,0,100.00,,
+    32.639968430,<not counted>,,bus-cycles,0,100.00,,
+    32.639968430,<not counted>,,instructions,0,100.00,,
+    32.740496289,3565,,branch-instructions,145794,100.00,,
+    32.740496289,666,,branch-misses,145794,100.00,18.68,of all branches
+    32.740496289,1390,,bus-cycles,145794,100.00,,
+    32.740496289,17876,,instructions,145794,100.00,,
+    32.841042841,3693,,branch-instructions,152820,100.00,,
+    32.841042841,645,,branch-misses,152820,100.00,17.47,of all branches
+    32.841042841,1442,,bus-cycles,152820,100.00,,
+    32.841042841,18519,,instructions,152820,100.00,,
+    32.941555297,1721,,branch-instructions,76330,100.00,,
+    32.941555297,330,,branch-misses,76330,100.00,19.17,of all branches
+    32.941555297,732,,bus-cycles,76330,100.00,,
+    32.941555297,8658,,instructions,76330,100.00,,
+    33.041917644,1407,,branch-instructions,52570,100.00,,
+    33.041917644,261,,branch-misses,52570,100.00,18.55,of all branches
+    33.041917644,541,,bus-cycles,52570,100.00,,
+    33.041917644,7020,,instructions,52570,100.00,,
+    33.142340587,1207,,branch-instructions,50902,100.00,,
+    33.142340587,234,,branch-misses,50902,100.00,19.39,of all branches
+    33.142340587,496,,bus-cycles,50902,100.00,,
+    33.142340587,6060,,instructions,50902,100.00,,
+    33.242654492,2370,,branch-instructions,105111,100.00,,
+    33.242654492,453,,branch-misses,105111,100.00,19.11,of all branches
+    33.242654492,1045,,bus-cycles,105111,100.00,,
+    33.242654492,11874,,instructions,105111,100.00,,
+    33.343249725,4293,,branch-instructions,144727,100.00,,
+    33.343249725,780,,branch-misses,144727,100.00,18.17,of all branches
+    33.343249725,1402,,bus-cycles,144727,100.00,,
+    33.343249725,21532,,instructions,144727,100.00,,
+    33.443765751,5682,,branch-instructions,180849,100.00,,
+    33.443765751,823,,branch-misses,180849,100.00,14.48,of all branches
+    33.443765751,1811,,bus-cycles,180849,100.00,,
+    33.443765751,29511,,instructions,180849,100.00,,
+    33.544261744,7190,,branch-instructions,148522,100.00,,
+    33.544261744,1133,,branch-misses,148522,100.00,15.76,of all branches
+    33.544261744,1632,,bus-cycles,148522,100.00,,
+    33.544261744,36965,,instructions,148522,100.00,,
+    33.644809617,<not counted>,,branch-instructions,0,100.00,,
+    33.644809617,<not counted>,,branch-misses,0,100.00,,
+    33.644809617,<not counted>,,bus-cycles,0,100.00,,
+    33.644809617,<not counted>,,instructions,0,100.00,,
+    33.745355466,2398,,branch-instructions,107657,100.00,,
+    33.745355466,455,,branch-misses,107657,100.00,18.97,of all branches
+    33.745355466,1072,,bus-cycles,107657,100.00,,
+    33.745355466,12036,,instructions,107657,100.00,,
+    33.845897319,1733,,branch-instructions,77997,100.00,,
+    33.845897319,274,,branch-misses,77997,100.00,15.81,of all branches
+    33.845897319,685,,bus-cycles,77997,100.00,,
+    33.845897319,8687,,instructions,77997,100.00,,
+    33.946499316,4860,,branch-instructions,206080,100.00,,
+    33.946499316,914,,branch-misses,206080,100.00,18.81,of all branches
+    33.946499316,2015,,bus-cycles,206080,100.00,,
+    33.946499316,24394,,instructions,206080,100.00,,
+    34.047074474,1956,,branch-instructions,74376,100.00,,
+    34.047074474,361,,branch-misses,74376,100.00,18.46,of all branches
+    34.047074474,735,,bus-cycles,74376,100.00,,
+    34.047074474,9776,,instructions,74376,100.00,,
+    34.147614119,1185,,branch-instructions,50083,100.00,,
+    34.147614119,223,,branch-misses,50083,100.00,18.82,of all branches
+    34.147614119,493,,bus-cycles,50083,100.00,,
+    34.147614119,5937,,instructions,50083,100.00,,
+    34.248161946,1185,,branch-instructions,51477,100.00,,
+    34.248161946,223,,branch-misses,51477,100.00,18.82,of all branches
+    34.248161946,508,,bus-cycles,51477,100.00,,
+    34.248161946,5937,,instructions,51477,100.00,,
+    34.348716228,4879,,branch-instructions,126022,100.00,,
+    34.348716228,909,,branch-misses,126022,100.00,18.63,of all branches
+    34.348716228,1225,,bus-cycles,126022,100.00,,
+    34.348716228,24457,,instructions,126022,100.00,,
+    34.449012024,3041,,branch-instructions,101119,100.00,,
+    34.449012024,494,,branch-misses,101119,100.00,16.24,of all branches
+    34.449012024,1019,,bus-cycles,101119,100.00,,
+    34.449012024,15788,,instructions,101119,100.00,,
+    34.549569055,4170,,branch-instructions,172241,100.00,,
+    34.549569055,789,,branch-misses,172241,100.00,18.92,of all branches
+    34.549569055,1617,,bus-cycles,172241,100.00,,
+    34.549569055,20971,,instructions,172241,100.00,,
+    34.650120566,2371,,branch-instructions,103380,100.00,,
+    34.650120566,444,,branch-misses,103380,100.00,18.73,of all branches
+    34.650120566,1023,,bus-cycles,103380,100.00,,
+    34.650120566,11880,,instructions,103380,100.00,,
+    34.750684035,2912,,branch-instructions,138681,100.00,,
+    34.750684035,548,,branch-misses,138681,100.00,18.82,of all branches
+    34.750684035,1314,,bus-cycles,138681,100.00,,
+    34.750684035,14628,,instructions,138681,100.00,,
+    34.851133611,4326,,branch-instructions,108465,100.00,,
+    34.851133611,802,,branch-misses,108465,100.00,18.54,of all branches
+    34.851133611,1065,,bus-cycles,108465,100.00,,
+    34.851133611,21650,,instructions,108465,100.00,,
+    34.951692982,2928,,branch-instructions,124280,100.00,,
+    34.951692982,545,,branch-misses,124280,100.00,18.61,of all branches
+    34.951692982,1189,,bus-cycles,124280,100.00,,
+    34.951692982,14677,,instructions,124280,100.00,,
+    35.052203394,<not counted>,,branch-instructions,0,100.00,,
+    35.052203394,<not counted>,,branch-misses,0,100.00,,
+    35.052203394,<not counted>,,bus-cycles,0,100.00,,
+    35.052203394,<not counted>,,instructions,0,100.00,,
+    35.152571869,2893,,branch-instructions,125776,100.00,,
+    35.152571869,555,,branch-misses,125776,100.00,19.18,of all branches
+    35.152571869,1157,,bus-cycles,125776,100.00,,
+    35.152571869,14504,,instructions,125776,100.00,,
+    35.252930159,2918,,branch-instructions,123438,100.00,,
+    35.252930159,551,,branch-misses,123438,100.00,18.88,of all branches
+    35.252930159,1219,,bus-cycles,123438,100.00,,
+    35.252930159,14624,,instructions,123438,100.00,,
+    35.353508676,2939,,branch-instructions,92061,100.00,,
+    35.353508676,564,,branch-misses,92061,100.00,19.19,of all branches
+    35.353508676,863,,bus-cycles,92061,100.00,,
+    35.353508676,14742,,instructions,92061,100.00,,
+    35.453963769,3073,,branch-instructions,106741,100.00,,
+    35.453963769,583,,branch-misses,106741,100.00,18.97,of all branches
+    35.453963769,1047,,bus-cycles,106741,100.00,,
+    35.453963769,15449,,instructions,106741,100.00,,
+    35.554512178,1882,,branch-instructions,75005,100.00,,
+    35.554512178,347,,branch-misses,75005,100.00,18.44,of all branches
+    35.554512178,721,,bus-cycles,75005,100.00,,
+    35.554512178,9429,,instructions,75005,100.00,,
+    35.655057085,1185,,branch-instructions,48195,100.00,,
+    35.655057085,220,,branch-misses,48195,100.00,18.57,of all branches
+    35.655057085,449,,bus-cycles,48195,100.00,,
+    35.655057085,5937,,instructions,48195,100.00,,
+    35.755387263,4086,,branch-instructions,175565,100.00,,
+    35.755387263,770,,branch-misses,175565,100.00,18.84,of all branches
+    35.755387263,1691,,bus-cycles,175565,100.00,,
+    35.755387263,20479,,instructions,175565,100.00,,
+    35.856004256,1168,,branch-instructions,42406,100.00,,
+    35.856004256,219,,branch-misses,42406,100.00,18.75,of all branches
+    35.856004256,411,,bus-cycles,42406,100.00,,
+    35.856004256,5853,,instructions,42406,100.00,,
+    35.956541125,2394,,branch-instructions,87712,100.00,,
+    35.956541125,452,,branch-misses,87712,100.00,18.88,of all branches
+    35.956541125,856,,bus-cycles,87712,100.00,,
+    35.956541125,12009,,instructions,87712,100.00,,
+    36.057075569,2057,,branch-instructions,81987,100.00,,
+    36.057075569,274,,branch-misses,81987,100.00,13.32,of all branches
+    36.057075569,521,,bus-cycles,81987,100.00,,
+    36.057075569,10344,,instructions,81987,100.00,,
+    36.157479405,1184,,branch-instructions,55808,100.00,,
+    36.157479405,174,,branch-misses,55808,100.00,14.70,of all branches
+    36.157479405,481,,bus-cycles,55808,100.00,,
+    36.157479405,5932,,instructions,55808,100.00,,
+    36.257834803,2382,,branch-instructions,112478,100.00,,
+    36.257834803,398,,branch-misses,112478,100.00,16.71,of all branches
+    36.257834803,1038,,bus-cycles,112478,100.00,,
+    36.257834803,11943,,instructions,112478,100.00,,
+    36.358346024,3544,,branch-instructions,119056,100.00,,
+    36.358346024,675,,branch-misses,119056,100.00,19.05,of all branches
+    36.358346024,1163,,bus-cycles,119056,100.00,,
+    36.358346024,17759,,instructions,119056,100.00,,
+    36.458821224,5105,,branch-instructions,223362,100.00,,
+    36.458821224,993,,branch-misses,223362,100.00,19.45,of all branches
+    36.458821224,2068,,bus-cycles,223362,100.00,,
+    36.458821224,25589,,instructions,223362,100.00,,
+    36.559420730,1184,,branch-instructions,51885,100.00,,
+    36.559420730,231,,branch-misses,51885,100.00,19.51,of all branches
+    36.559420730,502,,bus-cycles,51885,100.00,,
+    36.559420730,5933,,instructions,51885,100.00,,
+    36.660015147,1733,,branch-instructions,83380,100.00,,
+    36.660015147,319,,branch-misses,83380,100.00,18.41,of all branches
+    36.660015147,747,,bus-cycles,83380,100.00,,
+    36.660015147,8687,,instructions,83380,100.00,,
+    36.760495366,2919,,branch-instructions,132728,100.00,,
+    36.760495366,556,,branch-misses,132728,100.00,19.05,of all branches
+    36.760495366,1316,,bus-cycles,132728,100.00,,
+    36.760495366,14630,,instructions,132728,100.00,,
+    36.861039095,<not counted>,,branch-instructions,0,100.00,,
+    36.861039095,<not counted>,,branch-misses,0,100.00,,
+    36.861039095,<not counted>,,bus-cycles,0,100.00,,
+    36.861039095,<not counted>,,instructions,0,100.00,,
+    36.961444235,6757,,branch-instructions,285290,100.00,,
+    36.961444235,1105,,branch-misses,285290,100.00,16.35,of all branches
+    36.961444235,2559,,bus-cycles,285290,100.00,,
+    36.961444235,34374,,instructions,285290,100.00,,
+    37.061993085,2370,,branch-instructions,103260,100.00,,
+    37.061993085,406,,branch-misses,103260,100.00,17.13,of all branches
+    37.061993085,962,,bus-cycles,103260,100.00,,
+    37.061993085,11876,,instructions,103260,100.00,,
+    37.162542140,1209,,branch-instructions,48750,100.00,,
+    37.162542140,173,,branch-misses,48750,100.00,14.31,of all branches
+    37.162542140,441,,bus-cycles,48750,100.00,,
+    37.162542140,6064,,instructions,48750,100.00,,
+    37.263139253,1186,,branch-instructions,50386,100.00,,
+    37.263139253,221,,branch-misses,50386,100.00,18.63,of all branches
+    37.263139253,485,,bus-cycles,50386,100.00,,
+    37.263139253,5943,,instructions,50386,100.00,,
+    37.363485926,2392,,branch-instructions,66651,100.00,,
+    37.363485926,444,,branch-misses,66651,100.00,18.56,of all branches
+    37.363485926,666,,bus-cycles,66651,100.00,,
+    37.363485926,11997,,instructions,66651,100.00,,
+    37.463792840,2918,,branch-instructions,113792,100.00,,
+    37.463792840,499,,branch-misses,113792,100.00,17.10,of all branches
+    37.463792840,1066,,bus-cycles,113792,100.00,,
+    37.463792840,14624,,instructions,113792,100.00,,
+    37.564258946,4110,,branch-instructions,173334,100.00,,
+    37.564258946,789,,branch-misses,173334,100.00,19.20,of all branches
+    37.564258946,1654,,bus-cycles,173334,100.00,,
+    37.564258946,20617,,instructions,173334,100.00,,
+    37.664810400,<not counted>,,branch-instructions,0,100.00,,
+    37.664810400,<not counted>,,branch-misses,0,100.00,,
+    37.664810400,<not counted>,,bus-cycles,0,100.00,,
+    37.664810400,<not counted>,,instructions,0,100.00,,
+    37.765326324,3674,,branch-instructions,154492,100.00,,
+    37.765326324,691,,branch-misses,154492,100.00,18.81,of all branches
+    37.765326324,1363,,bus-cycles,154492,100.00,,
+    37.765326324,18451,,instructions,154492,100.00,,
+    37.865710964,5187,,branch-instructions,128431,100.00,,
+    37.865710964,964,,branch-misses,128431,100.00,18.58,of all branches
+    37.865710964,1256,,bus-cycles,128431,100.00,,
+    37.865710964,25966,,instructions,128431,100.00,,
+    37.966278329,1186,,branch-instructions,49694,100.00,,
+    37.966278329,222,,branch-misses,49694,100.00,18.72,of all branches
+    37.966278329,471,,bus-cycles,49694,100.00,,
+    37.966278329,5943,,instructions,49694,100.00,,
+    38.066682067,1208,,branch-instructions,48239,100.00,,
+    38.066682067,177,,branch-misses,48239,100.00,14.65,of all branches
+    38.066682067,440,,bus-cycles,48239,100.00,,
+    38.066682067,6066,,instructions,48239,100.00,,
+    38.167238509,2347,,branch-instructions,98927,100.00,,
+    38.167238509,439,,branch-misses,98927,100.00,18.70,of all branches
+    38.167238509,954,,bus-cycles,98927,100.00,,
+    38.167238509,11764,,instructions,98927,100.00,,
+    38.267802193,4717,,branch-instructions,218192,100.00,,
+    38.267802193,899,,branch-misses,218192,100.00,19.06,of all branches
+    38.267802193,2135,,bus-cycles,218192,100.00,,
+    38.267802193,23665,,instructions,218192,100.00,,
+    38.368187926,1782,,branch-instructions,42861,100.00,,
+    38.368187926,341,,branch-misses,42861,100.00,19.14,of all branches
+    38.368187926,412,,bus-cycles,42861,100.00,,
+    38.368187926,8926,,instructions,42861,100.00,,
+    38.468554911,2872,,branch-instructions,91347,100.00,,
+    38.468554911,494,,branch-misses,91347,100.00,17.20,of all branches
+    38.468554911,823,,bus-cycles,91347,100.00,,
+    38.468554911,14435,,instructions,91347,100.00,,
+    38.568912982,3547,,branch-instructions,72590,100.00,,
+    38.568912982,542,,branch-misses,72590,100.00,15.28,of all branches
+    38.568912982,850,,bus-cycles,72590,100.00,,
+    38.568912982,18217,,instructions,72590,100.00,,
+    38.669407657,1726,,branch-instructions,77587,100.00,,
+    38.669407657,336,,branch-misses,77587,100.00,19.47,of all branches
+    38.669407657,723,,bus-cycles,77587,100.00,,
+    38.669407657,8684,,instructions,77587,100.00,,
+    38.769980657,4359,,branch-instructions,192267,100.00,,
+    38.769980657,828,,branch-misses,192267,100.00,19.00,of all branches
+    38.769980657,1904,,bus-cycles,192267,100.00,,
+    38.769980657,21835,,instructions,192267,100.00,,
+    38.870523502,1743,,branch-instructions,79387,100.00,,
+    38.870523502,335,,branch-misses,79387,100.00,19.22,of all branches
+    38.870523502,749,,bus-cycles,79387,100.00,,
+    38.870523502,8740,,instructions,79387,100.00,,
+    38.971109066,3681,,branch-instructions,161293,100.00,,
+    38.971109066,651,,branch-misses,161293,100.00,17.69,of all branches
+    38.971109066,1550,,bus-cycles,161293,100.00,,
+    38.971109066,18454,,instructions,161293,100.00,,
+    39.071662914,1212,,branch-instructions,51878,100.00,,
+    39.071662914,234,,branch-misses,51878,100.00,19.31,of all branches
+    39.071662914,518,,bus-cycles,51878,100.00,,
+    39.071662914,6093,,instructions,51878,100.00,,
+    39.172225655,<not counted>,,branch-instructions,0,100.00,,
+    39.172225655,<not counted>,,branch-misses,0,100.00,,
+    39.172225655,<not counted>,,bus-cycles,0,100.00,,
+    39.172225655,<not counted>,,instructions,0,100.00,,
+    39.272563704,2370,,branch-instructions,101147,100.00,,
+    39.272563704,437,,branch-misses,101147,100.00,18.44,of all branches
+    39.272563704,1005,,bus-cycles,101147,100.00,,
+    39.272563704,11874,,instructions,101147,100.00,,
+    39.373096805,4705,,branch-instructions,146438,100.00,,
+    39.373096805,862,,branch-misses,146438,100.00,18.32,of all branches
+    39.373096805,1449,,bus-cycles,146438,100.00,,
+    39.373096805,23606,,instructions,146438,100.00,,
+    39.473555123,2370,,branch-instructions,79165,100.00,,
+    39.473555123,390,,branch-misses,79165,100.00,16.46,of all branches
+    39.473555123,720,,bus-cycles,79165,100.00,,
+    39.473555123,11874,,instructions,79165,100.00,,
+    39.574096239,541,,branch-instructions,25870,100.00,,
+    39.574096239,105,,branch-misses,25870,100.00,19.41,of all branches
+    39.574096239,233,,bus-cycles,25870,100.00,,
+    39.574096239,2747,,instructions,25870,100.00,,
+    39.674412557,3788,,branch-instructions,156269,100.00,,
+    39.674412557,738,,branch-misses,156269,100.00,19.48,of all branches
+    39.674412557,1562,,bus-cycles,156269,100.00,,
+    39.674412557,18946,,instructions,156269,100.00,,
+    39.775013515,2371,,branch-instructions,99665,100.00,,
+    39.775013515,453,,branch-misses,99665,100.00,19.11,of all branches
+    39.775013515,966,,bus-cycles,99665,100.00,,
+    39.775013515,11880,,instructions,99665,100.00,,
+    39.875509551,1727,,branch-instructions,72330,100.00,,
+    39.875509551,329,,branch-misses,72330,100.00,19.05,of all branches
+    39.875509551,689,,bus-cycles,72330,100.00,,
+    39.875509551,8690,,instructions,72330,100.00,,
+    39.975905578,6332,,branch-instructions,260489,100.00,,
+    39.975905578,1189,,branch-misses,260489,100.00,18.78,of all branches
+    39.975905578,2554,,bus-cycles,260489,100.00,,
+    39.975905578,31740,,instructions,260489,100.00,,
+    40.076449779,<not counted>,,branch-instructions,0,100.00,,
+    40.076449779,<not counted>,,branch-misses,0,100.00,,
+    40.076449779,<not counted>,,bus-cycles,0,100.00,,
+    40.076449779,<not counted>,,instructions,0,100.00,,
+    40.176930092,1207,,branch-instructions,53053,100.00,,
+    40.176930092,228,,branch-misses,53053,100.00,18.89,of all branches
+    40.176930092,509,,bus-cycles,53053,100.00,,
+    40.176930092,6060,,instructions,53053,100.00,,
+    40.277473659,2392,,branch-instructions,98613,100.00,,
+    40.277473659,416,,branch-misses,98613,100.00,17.39,of all branches
+    40.277473659,942,,bus-cycles,98613,100.00,,
+    40.277473659,11999,,instructions,98613,100.00,,
+    40.378020345,1185,,branch-instructions,29206,100.00,,
+    40.378020345,218,,branch-misses,29206,100.00,18.40,of all branches
+    40.378020345,145,,bus-cycles,29206,100.00,,
+    40.378020345,5937,,instructions,29206,100.00,,
+    40.478467955,3233,,branch-instructions,109193,100.00,,
+    40.478467955,536,,branch-misses,109193,100.00,16.58,of all branches
+    40.478467955,1044,,bus-cycles,109193,100.00,,
+    40.478467955,16202,,instructions,109193,100.00,,
+    40.579012187,1734,,branch-instructions,76979,100.00,,
+    40.579012187,278,,branch-misses,76979,100.00,16.03,of all branches
+    40.579012187,691,,bus-cycles,76979,100.00,,
+    40.579012187,8691,,instructions,76979,100.00,,
+    40.679376461,1185,,branch-instructions,49478,100.00,,
+    40.679376461,221,,branch-misses,49478,100.00,18.65,of all branches
+    40.679376461,477,,bus-cycles,49478,100.00,,
+    40.679376461,5937,,instructions,49478,100.00,,
+    40.779869477,5590,,branch-instructions,179363,100.00,,
+    40.779869477,880,,branch-misses,179363,100.00,15.74,of all branches
+    40.779869477,1870,,bus-cycles,179363,100.00,,
+    40.779869477,28529,,instructions,179363,100.00,,
+    40.880329994,4144,,branch-instructions,96244,100.00,,
+    40.880329994,678,,branch-misses,96244,100.00,16.36,of all branches
+    40.880329994,929,,bus-cycles,96244,100.00,,
+    40.880329994,21348,,instructions,96244,100.00,,
+    40.980701715,1185,,branch-instructions,48974,100.00,,
+    40.980701715,221,,branch-misses,48974,100.00,18.65,of all branches
+    40.980701715,460,,bus-cycles,48974,100.00,,
+    40.980701715,5937,,instructions,48974,100.00,,
+    41.081191923,2632,,branch-instructions,102377,100.00,,
+    41.081191923,472,,branch-misses,102377,100.00,17.93,of all branches
+    41.081191923,977,,bus-cycles,102377,100.00,,
+    41.081191923,13146,,instructions,102377,100.00,,
+    41.181548959,2473,,branch-instructions,101334,100.00,,
+    41.181548959,465,,branch-misses,101334,100.00,18.80,of all branches
+    41.181548959,983,,bus-cycles,101334,100.00,,
+    41.181548959,12407,,instructions,101334,100.00,,
+    41.282104634,1948,,branch-instructions,77854,100.00,,
+    41.282104634,362,,branch-misses,77854,100.00,18.58,of all branches
+    41.282104634,775,,bus-cycles,77854,100.00,,
+    41.282104634,9767,,instructions,77854,100.00,,
+    41.382645394,4136,,branch-instructions,185383,100.00,,
+    41.382645394,684,,branch-misses,185383,100.00,16.54,of all branches
+    41.382645394,1785,,bus-cycles,185383,100.00,,
+    41.382645394,20756,,instructions,185383,100.00,,
+    41.483194267,4330,,branch-instructions,187567,100.00,,
+    41.483194267,807,,branch-misses,187567,100.00,18.64,of all branches
+    41.483194267,1831,,bus-cycles,187567,100.00,,
+    41.483194267,21703,,instructions,187567,100.00,,
+    41.583729862,2398,,branch-instructions,108360,100.00,,
+    41.583729862,452,,branch-misses,108360,100.00,18.85,of all branches
+    41.583729862,1072,,bus-cycles,108360,100.00,,
+    41.583729862,12036,,instructions,108360,100.00,,
+    41.684083080,1738,,branch-instructions,74970,100.00,,
+    41.684083080,325,,branch-misses,74970,100.00,18.70,of all branches
+    41.684083080,681,,bus-cycles,74970,100.00,,
+    41.684083080,8732,,instructions,74970,100.00,,
+    41.784643094,3145,,branch-instructions,124465,100.00,,
+    41.784643094,604,,branch-misses,124465,100.00,19.21,of all branches
+    41.784643094,1236,,bus-cycles,124465,100.00,,
+    41.784643094,15764,,instructions,124465,100.00,,
+    41.885185353,1185,,branch-instructions,48536,100.00,,
+    41.885185353,222,,branch-misses,48536,100.00,18.73,of all branches
+    41.885185353,449,,bus-cycles,48536,100.00,,
+    41.885185353,5937,,instructions,48536,100.00,,
+    41.985548348,1725,,branch-instructions,76158,100.00,,
+    41.985548348,328,,branch-misses,76158,100.00,19.01,of all branches
+    41.985548348,671,,bus-cycles,76158,100.00,,
+    41.985548348,8679,,instructions,76158,100.00,,
+    42.086067373,1407,,branch-instructions,51218,100.00,,
+    42.086067373,258,,branch-misses,51218,100.00,18.34,of all branches
+    42.086067373,514,,bus-cycles,51218,100.00,,
+    42.086067373,7020,,instructions,51218,100.00,,
+    42.186600390,<not counted>,,branch-instructions,0,100.00,,
+    42.186600390,<not counted>,,branch-misses,0,100.00,,
+    42.186600390,<not counted>,,bus-cycles,0,100.00,,
+    42.186600390,<not counted>,,instructions,0,100.00,,
+    42.287119417,3618,,branch-instructions,151729,100.00,,
+    42.287119417,681,,branch-misses,151729,100.00,18.82,of all branches
+    42.287119417,1405,,bus-cycles,151729,100.00,,
+    42.287119417,18169,,instructions,151729,100.00,,
+    42.387675804,2393,,branch-instructions,68404,100.00,,
+    42.387675804,444,,branch-misses,68404,100.00,18.55,of all branches
+    42.387675804,661,,bus-cycles,68404,100.00,,
+    42.387675804,12003,,instructions,68404,100.00,,
+    42.488154403,3145,,branch-instructions,120453,100.00,,
+    42.488154403,526,,branch-misses,120453,100.00,16.72,of all branches
+    42.488154403,1141,,bus-cycles,120453,100.00,,
+    42.488154403,15762,,instructions,120453,100.00,,
+    42.588614910,2393,,branch-instructions,99279,100.00,,
+    42.588614910,446,,branch-misses,99279,100.00,18.64,of all branches
+    42.588614910,963,,bus-cycles,99279,100.00,,
+    42.588614910,12003,,instructions,99279,100.00,,
+    42.688976992,<not counted>,,branch-instructions,0,100.00,,
+    42.688976992,<not counted>,,branch-misses,0,100.00,,
+    42.688976992,<not counted>,,bus-cycles,0,100.00,,
+    42.688976992,<not counted>,,instructions,0,100.00,,
+    42.789462291,4111,,branch-instructions,183061,100.00,,
+    42.789462291,798,,branch-misses,183061,100.00,19.41,of all branches
+    42.789462291,1792,,bus-cycles,183061,100.00,,
+    42.789462291,20604,,instructions,183061,100.00,,
+    42.889989863,3157,,branch-instructions,124338,100.00,,
+    42.889989863,579,,branch-misses,124338,100.00,18.34,of all branches
+    42.889989863,1216,,bus-cycles,124338,100.00,,
+    42.889989863,15831,,instructions,124338,100.00,,
+    42.990530183,3555,,branch-instructions,150094,100.00,,
+    42.990530183,665,,branch-misses,150094,100.00,18.71,of all branches
+    42.990530183,1480,,bus-cycles,150094,100.00,,
+    42.990530183,17811,,instructions,150094,100.00,,
+    43.091078167,1173,,branch-instructions,51931,100.00,,
+    43.091078167,218,,branch-misses,51931,100.00,18.58,of all branches
+    43.091078167,506,,bus-cycles,51931,100.00,,
+    43.091078167,5879,,instructions,51931,100.00,,
+    43.191580410,1208,,branch-instructions,54312,100.00,,
+    43.191580410,226,,branch-misses,54312,100.00,18.71,of all branches
+    43.191580410,538,,bus-cycles,54312,100.00,,
+    43.191580410,6066,,instructions,54312,100.00,,
+    43.291957021,3551,,branch-instructions,153690,100.00,,
+    43.291957021,666,,branch-misses,153690,100.00,18.76,of all branches
+    43.291957021,1512,,bus-cycles,153690,100.00,,
+    43.291957021,17800,,instructions,153690,100.00,,
+    43.392301935,3599,,branch-instructions,95807,100.00,,
+    43.392301935,676,,branch-misses,95807,100.00,18.78,of all branches
+    43.392301935,942,,bus-cycles,95807,100.00,,
+    43.392301935,18057,,instructions,95807,100.00,,
+    43.492664056,3227,,branch-instructions,116722,100.00,,
+    43.492664056,513,,branch-misses,116722,100.00,15.90,of all branches
+    43.492664056,1220,,bus-cycles,116722,100.00,,
+    43.492664056,16709,,instructions,116722,100.00,,
+    43.593311648,3116,,branch-instructions,65138,100.00,,
+    43.593311648,569,,branch-misses,65138,100.00,18.26,of all branches
+    43.593311648,493,,bus-cycles,65138,100.00,,
+    43.593311648,15646,,instructions,65138,100.00,,
+    43.693811881,1727,,branch-instructions,68777,100.00,,
+    43.693811881,323,,branch-misses,68777,100.00,18.70,of all branches
+    43.693811881,665,,bus-cycles,68777,100.00,,
+    43.693811881,8690,,instructions,68777,100.00,,
+    43.794189344,4003,,branch-instructions,119466,100.00,,
+    43.794189344,687,,branch-misses,119466,100.00,17.16,of all branches
+    43.794189344,1185,,bus-cycles,119466,100.00,,
+    43.794189344,20035,,instructions,119466,100.00,,
+    43.894617777,5828,,branch-instructions,177000,100.00,,
+    43.894617777,1074,,branch-misses,177000,100.00,18.43,of all branches
+    43.894617777,1760,,bus-cycles,177000,100.00,,
+    43.894617777,29232,,instructions,177000,100.00,,
+    43.995179125,1212,,branch-instructions,51810,100.00,,
+    43.995179125,230,,branch-misses,51810,100.00,18.98,of all branches
+    43.995179125,491,,bus-cycles,51810,100.00,,
+    43.995179125,6093,,instructions,51810,100.00,,
+    44.095750335,2934,,branch-instructions,128781,100.00,,
+    44.095750335,559,,branch-misses,128781,100.00,19.05,of all branches
+    44.095750335,1263,,bus-cycles,128781,100.00,,
+    44.095750335,14750,,instructions,128781,100.00,,
+    44.196129576,2345,,branch-instructions,97661,100.00,,
+    44.196129576,446,,branch-misses,97661,100.00,19.02,of all branches
+    44.196129576,942,,bus-cycles,97661,100.00,,
+    44.196129576,11754,,instructions,97661,100.00,,
+    44.296500004,2680,,branch-instructions,102438,100.00,,
+    44.296500004,488,,branch-misses,102438,100.00,18.21,of all branches
+    44.296500004,1040,,bus-cycles,102438,100.00,,
+    44.296500004,13397,,instructions,102438,100.00,,
+    44.397060476,2370,,branch-instructions,99328,100.00,,
+    44.397060476,459,,branch-misses,99328,100.00,19.37,of all branches
+    44.397060476,977,,bus-cycles,99328,100.00,,
+    44.397060476,11874,,instructions,99328,100.00,,
+    44.497617417,3164,,branch-instructions,141946,100.00,,
+    44.497617417,542,,branch-misses,141946,100.00,17.13,of all branches
+    44.497617417,1366,,bus-cycles,141946,100.00,,
+    44.497617417,15863,,instructions,141946,100.00,,
+    44.598153225,1207,,branch-instructions,49974,100.00,,
+    44.598153225,231,,branch-misses,49974,100.00,19.14,of all branches
+    44.598153225,500,,bus-cycles,49974,100.00,,
+    44.598153225,6060,,instructions,49974,100.00,,
+    44.698625804,2941,,branch-instructions,127810,100.00,,
+    44.698625804,546,,branch-misses,127810,100.00,18.57,of all branches
+    44.698625804,1202,,bus-cycles,127810,100.00,,
+    44.698625804,14796,,instructions,127810,100.00,,
+    44.799143477,1898,,branch-instructions,75555,100.00,,
+    44.799143477,363,,branch-misses,75555,100.00,19.13,of all branches
+    44.799143477,739,,bus-cycles,75555,100.00,,
+    44.799143477,9524,,instructions,75555,100.00,,
+    44.899689874,1186,,branch-instructions,50045,100.00,,
+    44.899689874,218,,branch-misses,50045,100.00,18.38,of all branches
+    44.899689874,486,,bus-cycles,50045,100.00,,
+    44.899689874,5943,,instructions,50045,100.00,,
+    45.000233027,1185,,branch-instructions,53260,100.00,,
+    45.000233027,221,,branch-misses,53260,100.00,18.65,of all branches
+    45.000233027,513,,bus-cycles,53260,100.00,,
+    45.000233027,5937,,instructions,53260,100.00,,
+    45.100785413,1185,,branch-instructions,54693,100.00,,
+    45.100785413,229,,branch-misses,54693,100.00,19.32,of all branches
+    45.100785413,546,,bus-cycles,54693,100.00,,
+    45.100785413,5937,,instructions,54693,100.00,,
+    45.201224446,2393,,branch-instructions,100218,100.00,,
+    45.201224446,445,,branch-misses,100218,100.00,18.60,of all branches
+    45.201224446,970,,bus-cycles,100218,100.00,,
+    45.201224446,12003,,instructions,100218,100.00,,
+    45.301600137,1730,,branch-instructions,71444,100.00,,
+    45.301600137,336,,branch-misses,71444,100.00,19.42,of all branches
+    45.301600137,657,,bus-cycles,71444,100.00,,
+    45.301600137,8682,,instructions,71444,100.00,,
+    45.402121385,3140,,branch-instructions,103053,100.00,,
+    45.402121385,585,,branch-misses,103053,100.00,18.63,of all branches
+    45.402121385,893,,bus-cycles,103053,100.00,,
+    45.402121385,15736,,instructions,103053,100.00,,
+    45.502531243,2392,,branch-instructions,78706,100.00,,
+    45.502531243,414,,branch-misses,78706,100.00,17.31,of all branches
+    45.502531243,715,,bus-cycles,78706,100.00,,
+    45.502531243,11997,,instructions,78706,100.00,,
+    45.603095188,1185,,branch-instructions,52930,100.00,,
+    45.603095188,221,,branch-misses,52930,100.00,18.65,of all branches
+    45.603095188,510,,bus-cycles,52930,100.00,,
+    45.603095188,5937,,instructions,52930,100.00,,
+    45.703680538,2393,,branch-instructions,108281,100.00,,
+    45.703680538,455,,branch-misses,108281,100.00,19.01,of all branches
+    45.703680538,1062,,bus-cycles,108281,100.00,,
+    45.703680538,12003,,instructions,108281,100.00,,
+    45.804071559,1185,,branch-instructions,53125,100.00,,
+    45.804071559,222,,branch-misses,53125,100.00,18.73,of all branches
+    45.804071559,524,,bus-cycles,53125,100.00,,
+    45.804071559,5937,,instructions,53125,100.00,,
+    45.904442940,3249,,branch-instructions,127637,100.00,,
+    45.904442940,571,,branch-misses,127637,100.00,17.57,of all branches
+    45.904442940,1229,,bus-cycles,127637,100.00,,
+    45.904442940,16288,,instructions,127637,100.00,,
+    46.004792971,6634,,branch-instructions,219390,100.00,,
+    46.004792971,1036,,branch-misses,219390,100.00,15.62,of all branches
+    46.004792971,2274,,bus-cycles,219390,100.00,,
+    46.004792971,32893,,instructions,219390,100.00,,
+    46.105256464,1151,,branch-instructions,57887,100.00,,
+    46.105256464,226,,branch-misses,57887,100.00,19.64,of all branches
+    46.105256464,448,,bus-cycles,57887,100.00,,
+    46.105256464,5784,,instructions,57887,100.00,,
+    46.205773101,2370,,branch-instructions,111422,100.00,,
+    46.205773101,442,,branch-misses,111422,100.00,18.65,of all branches
+    46.205773101,1057,,bus-cycles,111422,100.00,,
+    46.205773101,11874,,instructions,111422,100.00,,
+    46.306161209,1185,,branch-instructions,66323,100.00,,
+    46.306161209,221,,branch-misses,66323,100.00,18.65,of all branches
+    46.306161209,465,,bus-cycles,66323,100.00,,
+    46.306161209,5937,,instructions,66323,100.00,,
+    46.406606570,5872,,branch-instructions,145279,100.00,,
+    46.406606570,1118,,branch-misses,145279,100.00,19.04,of all branches
+    46.406606570,1408,,bus-cycles,145279,100.00,,
+    46.406606570,29566,,instructions,145279,100.00,,
+    46.507164873,3818,,branch-instructions,130957,100.00,,
+    46.507164873,612,,branch-misses,130957,100.00,16.03,of all branches
+    46.507164873,1315,,bus-cycles,130957,100.00,,
+    46.507164873,19631,,instructions,130957,100.00,,
+    46.607726549,3262,,branch-instructions,111058,100.00,,
+    46.607726549,514,,branch-misses,111058,100.00,15.76,of all branches
+    46.607726549,1100,,bus-cycles,111058,100.00,,
+    46.607726549,16816,,instructions,111058,100.00,,
+    46.708288901,1185,,branch-instructions,49641,100.00,,
+    46.708288901,223,,branch-misses,49641,100.00,18.82,of all branches
+    46.708288901,491,,bus-cycles,49641,100.00,,
+    46.708288901,5937,,instructions,49641,100.00,,
+    46.808736803,3132,,branch-instructions,91997,100.00,,
+    46.808736803,589,,branch-misses,91997,100.00,18.81,of all branches
+    46.808736803,890,,bus-cycles,91997,100.00,,
+    46.808736803,15700,,instructions,91997,100.00,,
+    46.909182222,3571,,branch-instructions,109086,100.00,,
+    46.909182222,679,,branch-misses,109086,100.00,19.01,of all branches
+    46.909182222,1053,,bus-cycles,109086,100.00,,
+    46.909182222,17915,,instructions,109086,100.00,,
+    47.009748727,4353,,branch-instructions,190332,100.00,,
+    47.009748727,817,,branch-misses,190332,100.00,18.77,of all branches
+    47.009748727,1889,,bus-cycles,190332,100.00,,
+    47.009748727,21822,,instructions,190332,100.00,,
+    47.110313233,1727,,branch-instructions,93278,100.00,,
+    47.110313233,331,,branch-misses,93278,100.00,19.17,of all branches
+    47.110313233,789,,bus-cycles,93278,100.00,,
+    47.110313233,8690,,instructions,93278,100.00,,
+    47.210733109,2679,,branch-instructions,107109,100.00,,
+    47.210733109,493,,branch-misses,107109,100.00,18.40,of all branches
+    47.210733109,1088,,bus-cycles,107109,100.00,,
+    47.210733109,13391,,instructions,107109,100.00,,
+    47.311111975,1186,,branch-instructions,60140,100.00,,
+    47.311111975,217,,branch-misses,60140,100.00,18.30,of all branches
+    47.311111975,553,,bus-cycles,60140,100.00,,
+    47.311111975,5943,,instructions,60140,100.00,,
+    47.411643271,2365,,branch-instructions,77645,100.00,,
+    47.411643271,438,,branch-misses,77645,100.00,18.52,of all branches
+    47.411643271,616,,bus-cycles,77645,100.00,,
+    47.411643271,11848,,instructions,77645,100.00,,
+    47.512101108,2928,,branch-instructions,85288,100.00,,
+    47.512101108,553,,branch-misses,85288,100.00,18.89,of all branches
+    47.512101108,805,,bus-cycles,85288,100.00,,
+    47.512101108,14689,,instructions,85288,100.00,,
+    47.612582207,3202,,branch-instructions,114757,100.00,,
+    47.612582207,481,,branch-misses,114757,100.00,15.02,of all branches
+    47.612582207,1167,,bus-cycles,114757,100.00,,
+    47.612582207,16590,,instructions,114757,100.00,,
+    47.713094671,2698,,branch-instructions,105775,100.00,,
+    47.713094671,454,,branch-misses,105775,100.00,16.83,of all branches
+    47.713094671,1004,,bus-cycles,105775,100.00,,
+    47.713094671,13554,,instructions,105775,100.00,,
+    47.813458999,5831,,branch-instructions,225841,100.00,,
+    47.813458999,1096,,branch-misses,225841,100.00,18.80,of all branches
+    47.813458999,2185,,bus-cycles,225841,100.00,,
+    47.813458999,29250,,instructions,225841,100.00,,
+    47.914035459,1185,,branch-instructions,49365,100.00,,
+    47.914035459,224,,branch-misses,49365,100.00,18.90,of all branches
+    47.914035459,473,,bus-cycles,49365,100.00,,
+    47.914035459,5937,,instructions,49365,100.00,,
+    48.014602066,2370,,branch-instructions,104374,100.00,,
+    48.014602066,446,,branch-misses,104374,100.00,18.82,of all branches
+    48.014602066,995,,bus-cycles,104374,100.00,,
+    48.014602066,11874,,instructions,104374,100.00,,
+    48.115164553,<not counted>,,branch-instructions,0,100.00,,
+    48.115164553,<not counted>,,branch-misses,0,100.00,,
+    48.115164553,<not counted>,,bus-cycles,0,100.00,,
+    48.115164553,<not counted>,,instructions,0,100.00,,
+    48.215723525,2398,,branch-instructions,101532,100.00,,
+    48.215723525,458,,branch-misses,101532,100.00,19.10,of all branches
+    48.215723525,991,,bus-cycles,101532,100.00,,
+    48.215723525,12036,,instructions,101532,100.00,,
+    48.316119249,3544,,branch-instructions,149457,100.00,,
+    48.316119249,666,,branch-misses,149457,100.00,18.79,of all branches
+    48.316119249,1441,,bus-cycles,149457,100.00,,
+    48.316119249,17759,,instructions,149457,100.00,,
+    48.416470984,4444,,branch-instructions,97180,100.00,,
+    48.416470984,748,,branch-misses,97180,100.00,16.83,of all branches
+    48.416470984,907,,bus-cycles,97180,100.00,,
+    48.416470984,22297,,instructions,97180,100.00,,
+    48.516810656,8977,,branch-instructions,256247,100.00,,
+    48.516810656,1205,,branch-misses,256247,100.00,13.42,of all branches
+    48.516810656,2976,,bus-cycles,256247,100.00,,
+    48.516810656,43277,,instructions,256247,100.00,,
+    48.617312040,1760,,branch-instructions,76142,100.00,,
+    48.617312040,342,,branch-misses,76142,100.00,19.43,of all branches
+    48.617312040,760,,bus-cycles,76142,100.00,,
+    48.617312040,8803,,instructions,76142,100.00,,
+    48.717675752,1743,,branch-instructions,81683,100.00,,
+    48.717675752,341,,branch-misses,81683,100.00,19.56,of all branches
+    48.717675752,792,,bus-cycles,81683,100.00,,
+    48.717675752,8740,,instructions,81683,100.00,,
+    48.818052460,1210,,branch-instructions,54636,100.00,,
+    48.818052460,225,,branch-misses,54636,100.00,18.60,of all branches
+    48.818052460,530,,bus-cycles,54636,100.00,,
+    48.818052460,6070,,instructions,54636,100.00,,
+    48.918619250,4320,,branch-instructions,176826,100.00,,
+    48.918619250,754,,branch-misses,176826,100.00,17.45,of all branches
+    48.918619250,1712,,bus-cycles,176826,100.00,,
+    48.918619250,21653,,instructions,176826,100.00,,
+    49.019162031,2371,,branch-instructions,97223,100.00,,
+    49.019162031,443,,branch-misses,97223,100.00,18.68,of all branches
+    49.019162031,940,,bus-cycles,97223,100.00,,
+    49.019162031,11880,,instructions,97223,100.00,,
+    49.119557635,1755,,branch-instructions,92681,100.00,,
+    49.119557635,335,,branch-misses,92681,100.00,19.09,of all branches
+    49.119557635,772,,bus-cycles,92681,100.00,,
+    49.119557635,8810,,instructions,92681,100.00,,
+    49.220123738,2370,,branch-instructions,101898,100.00,,
+    49.220123738,450,,branch-misses,101898,100.00,18.99,of all branches
+    49.220123738,1002,,bus-cycles,101898,100.00,,
+    49.220123738,11874,,instructions,101898,100.00,,
+    49.320614126,4126,,branch-instructions,174782,100.00,,
+    49.320614126,781,,branch-misses,174782,100.00,18.93,of all branches
+    49.320614126,1707,,bus-cycles,174782,100.00,,
+    49.320614126,20690,,instructions,174782,100.00,,
+    49.421152689,1892,,branch-instructions,33468,100.00,,
+    49.421152689,201,,branch-misses,33468,100.00,10.62,of all branches
+    49.421152689,308,,bus-cycles,33468,100.00,,
+    49.421152689,9938,,instructions,33468,100.00,,
+    49.521566510,4985,,branch-instructions,126920,100.00,,
+    49.521566510,862,,branch-misses,126920,100.00,17.29,of all branches
+    49.521566510,1277,,bus-cycles,126920,100.00,,
+    49.521566510,25553,,instructions,126920,100.00,,
+    49.622099392,4669,,branch-instructions,201680,100.00,,
+    49.622099392,841,,branch-misses,201680,100.00,18.01,of all branches
+    49.622099392,1882,,bus-cycles,201680,100.00,,
+    49.622099392,23435,,instructions,201680,100.00,,
+    49.722690370,1185,,branch-instructions,53852,100.00,,
+    49.722690370,224,,branch-misses,53852,100.00,18.90,of all branches
+    49.722690370,538,,bus-cycles,53852,100.00,,
+    49.722690370,5937,,instructions,53852,100.00,,
+    49.823236521,3128,,branch-instructions,107192,100.00,,
+    49.823236521,587,,branch-misses,107192,100.00,18.77,of all branches
+    49.823236521,941,,bus-cycles,107192,100.00,,
+    49.823236521,15678,,instructions,107192,100.00,,
+    49.923635148,5002,,branch-instructions,110702,100.00,,
+    49.923635148,796,,branch-misses,110702,100.00,15.91,of all branches
+    49.923635148,1118,,bus-cycles,110702,100.00,,
+    49.923635148,26193,,instructions,110702,100.00,,
+    50.024201506,1185,,branch-instructions,48720,100.00,,
+    50.024201506,223,,branch-misses,48720,100.00,18.82,of all branches
+    50.024201506,464,,bus-cycles,48720,100.00,,
+    50.024201506,5937,,instructions,48720,100.00,,
+    50.124582435,3146,,branch-instructions,127134,100.00,,
+    50.124582435,583,,branch-misses,127134,100.00,18.53,of all branches
+    50.124582435,1261,,bus-cycles,127134,100.00,,
+    50.124582435,15768,,instructions,127134,100.00,,
+    50.225125048,2391,,branch-instructions,100815,100.00,,
+    50.225125048,445,,branch-misses,100815,100.00,18.61,of all branches
+    50.225125048,966,,bus-cycles,100815,100.00,,
+    50.225125048,11993,,instructions,100815,100.00,,
+    50.325699141,1185,,branch-instructions,52366,100.00,,
+    50.325699141,233,,branch-misses,52366,100.00,19.66,of all branches
+    50.325699141,513,,bus-cycles,52366,100.00,,
+    50.325699141,5937,,instructions,52366,100.00,,
+    50.426239995,1207,,branch-instructions,17194,100.00,,
+    50.426239995,217,,branch-misses,17194,100.00,17.98,of all branches
+    50.426239995,174,,bus-cycles,17194,100.00,,
+    50.426239995,6060,,instructions,17194,100.00,,
+    50.526670606,2364,,branch-instructions,51990,100.00,,
+    50.526670606,383,,branch-misses,51990,100.00,16.20,of all branches
+    50.526670606,467,,bus-cycles,51990,100.00,,
+    50.526670606,11844,,instructions,51990,100.00,,
+    50.627244122,1185,,branch-instructions,60089,100.00,,
+    50.627244122,209,,branch-misses,60089,100.00,17.64,of all branches
+    50.627244122,559,,bus-cycles,60089,100.00,,
+    50.627244122,5937,,instructions,60089,100.00,,
+    50.727811176,4283,,branch-instructions,177898,100.00,,
+    50.727811176,750,,branch-misses,177898,100.00,17.51,of all branches
+    50.727811176,1692,,bus-cycles,177898,100.00,,
+    50.727811176,21541,,instructions,177898,100.00,,
+    50.828381204,633,,branch-instructions,25130,100.00,,
+    50.828381204,113,,branch-misses,25130,100.00,17.85,of all branches
+    50.828381204,244,,bus-cycles,25130,100.00,,
+    50.828381204,3138,,instructions,25130,100.00,,
+    50.928942560,1207,,branch-instructions,50932,100.00,,
+    50.928942560,231,,branch-misses,50932,100.00,19.14,of all branches
+    50.928942560,507,,bus-cycles,50932,100.00,,
+    50.928942560,6060,,instructions,50932,100.00,,
+    51.029309048,4486,,branch-instructions,173942,100.00,,
+    51.029309048,828,,branch-misses,173942,100.00,18.46,of all branches
+    51.029309048,1666,,bus-cycles,173942,100.00,,
+    51.029309048,22557,,instructions,173942,100.00,,
+    51.129853452,1459,,branch-instructions,53208,100.00,,
+    51.129853452,285,,branch-misses,53208,100.00,19.53,of all branches
+    51.129853452,557,,bus-cycles,53208,100.00,,
+    51.129853452,7284,,instructions,53208,100.00,,
+    51.230409760,1185,,branch-instructions,49801,100.00,,
+    51.230409760,220,,branch-misses,49801,100.00,18.57,of all branches
+    51.230409760,494,,bus-cycles,49801,100.00,,
+    51.230409760,5937,,instructions,49801,100.00,,
+    51.330977636,3117,,branch-instructions,134924,100.00,,
+    51.330977636,586,,branch-misses,134924,100.00,18.80,of all branches
+    51.330977636,1301,,bus-cycles,134924,100.00,,
+    51.330977636,15641,,instructions,134924,100.00,,
+    51.431509778,10443,,branch-instructions,197557,100.00,,
+    51.431509778,1528,,branch-misses,197557,100.00,14.63,of all branches
+    51.431509778,1905,,bus-cycles,197557,100.00,,
+    51.431509778,53539,,instructions,197557,100.00,,
+    51.531807275,2619,,branch-instructions,96893,100.00,,
+    51.531807275,489,,branch-misses,96893,100.00,18.67,of all branches
+    51.531807275,977,,bus-cycles,96893,100.00,,
+    51.531807275,13113,,instructions,96893,100.00,,
+    51.632366481,2369,,branch-instructions,101350,100.00,,
+    51.632366481,450,,branch-misses,101350,100.00,19.00,of all branches
+    51.632366481,983,,bus-cycles,101350,100.00,,
+    51.632366481,11870,,instructions,101350,100.00,,
+    51.732942149,1185,,branch-instructions,50248,100.00,,
+    51.732942149,219,,branch-misses,50248,100.00,18.48,of all branches
+    51.732942149,498,,bus-cycles,50248,100.00,,
+    51.732942149,5937,,instructions,50248,100.00,,
+    51.833495021,1203,,branch-instructions,48136,100.00,,
+    51.833495021,233,,branch-misses,48136,100.00,19.37,of all branches
+    51.833495021,460,,bus-cycles,48136,100.00,,
+    51.833495021,6049,,instructions,48136,100.00,,
+    51.934033767,5701,,branch-instructions,227166,100.00,,
+    51.934033767,1065,,branch-misses,227166,100.00,18.68,of all branches
+    51.934033767,2237,,bus-cycles,227166,100.00,,
+    51.934033767,28652,,instructions,227166,100.00,,
+    52.034398271,2369,,branch-instructions,103481,100.00,,
+    52.034398271,448,,branch-misses,103481,100.00,18.91,of all branches
+    52.034398271,935,,bus-cycles,103481,100.00,,
+    52.034398271,11870,,instructions,103481,100.00,,
+    52.134774413,1185,,branch-instructions,49873,100.00,,
+    52.134774413,214,,branch-misses,49873,100.00,18.06,of all branches
+    52.134774413,474,,bus-cycles,49873,100.00,,
+    52.134774413,5937,,instructions,49873,100.00,,
+    52.235336262,3145,,branch-instructions,131856,100.00,,
+    52.235336262,587,,branch-misses,131856,100.00,18.66,of all branches
+    52.235336262,1277,,bus-cycles,131856,100.00,,
+    52.235336262,15764,,instructions,131856,100.00,,
+    52.335714165,1207,,branch-instructions,48893,100.00,,
+    52.335714165,224,,branch-misses,48893,100.00,18.56,of all branches
+    52.335714165,465,,bus-cycles,48893,100.00,,
+    52.335714165,6060,,instructions,48893,100.00,,
+    52.436272790,2906,,branch-instructions,98657,100.00,,
+    52.436272790,504,,branch-misses,98657,100.00,17.34,of all branches
+    52.436272790,870,,bus-cycles,98657,100.00,,
+    52.436272790,14566,,instructions,98657,100.00,,
+    52.536696803,3954,,branch-instructions,132223,100.00,,
+    52.536696803,738,,branch-misses,132223,100.00,18.66,of all branches
+    52.536696803,1196,,bus-cycles,132223,100.00,,
+    52.536696803,19844,,instructions,132223,100.00,,
+    52.637259077,<not counted>,,branch-instructions,0,100.00,,
+    52.637259077,<not counted>,,branch-misses,0,100.00,,
+    52.637259077,<not counted>,,bus-cycles,0,100.00,,
+    52.637259077,<not counted>,,instructions,0,100.00,,
+    52.737619644,2971,,branch-instructions,128075,100.00,,
+    52.737619644,586,,branch-misses,128075,100.00,19.72,of all branches
+    52.737619644,1227,,bus-cycles,128075,100.00,,
+    52.737619644,14905,,instructions,128075,100.00,,
+    52.838170890,6758,,branch-instructions,248750,100.00,,
+    52.838170890,1234,,branch-misses,248750,100.00,18.26,of all branches
+    52.838170890,2384,,bus-cycles,248750,100.00,,
+    52.838170890,33891,,instructions,248750,100.00,,
+    52.938616595,3208,,branch-instructions,93424,100.00,,
+    52.938616595,602,,branch-misses,93424,100.00,18.77,of all branches
+    52.938616595,928,,bus-cycles,93424,100.00,,
+    52.938616595,16080,,instructions,93424,100.00,,
+    53.039170764,1765,,branch-instructions,82445,100.00,,
+    53.039170764,299,,branch-misses,82445,100.00,16.94,of all branches
+    53.039170764,768,,bus-cycles,82445,100.00,,
+    53.039170764,8863,,instructions,82445,100.00,,
+    53.139560973,2371,,branch-instructions,102237,100.00,,
+    53.139560973,446,,branch-misses,102237,100.00,18.81,of all branches
+    53.139560973,1000,,bus-cycles,102237,100.00,,
+    53.139560973,11880,,instructions,102237,100.00,,
+    53.240141277,2914,,branch-instructions,126015,100.00,,
+    53.240141277,546,,branch-misses,126015,100.00,18.74,of all branches
+    53.240141277,1186,,bus-cycles,126015,100.00,,
+    53.240141277,14604,,instructions,126015,100.00,,
+    53.340694310,2393,,branch-instructions,98114,100.00,,
+    53.340694310,451,,branch-misses,98114,100.00,18.85,of all branches
+    53.340694310,942,,bus-cycles,98114,100.00,,
+    53.340694310,12003,,instructions,98114,100.00,,
+    53.441212322,3439,,branch-instructions,107589,100.00,,
+    53.441212322,636,,branch-misses,107589,100.00,18.49,of all branches
+    53.441212322,983,,bus-cycles,107589,100.00,,
+    53.441212322,17326,,instructions,107589,100.00,,
+    53.541633020,4887,,branch-instructions,98647,100.00,,
+    53.541633020,763,,branch-misses,98647,100.00,15.61,of all branches
+    53.541633020,1007,,bus-cycles,98647,100.00,,
+    53.541633020,24839,,instructions,98647,100.00,,
+    53.642088317,<not counted>,,branch-instructions,0,100.00,,
+    53.642088317,<not counted>,,branch-misses,0,100.00,,
+    53.642088317,<not counted>,,bus-cycles,0,100.00,,
+    53.642088317,<not counted>,,instructions,0,100.00,,
+    53.742640595,4445,,branch-instructions,189976,100.00,,
+    53.742640595,785,,branch-misses,189976,100.00,17.66,of all branches
+    53.742640595,1878,,bus-cycles,189976,100.00,,
+    53.742640595,22290,,instructions,189976,100.00,,
+    53.843189051,<not counted>,,branch-instructions,0,100.00,,
+    53.843189051,<not counted>,,branch-misses,0,100.00,,
+    53.843189051,<not counted>,,bus-cycles,0,100.00,,
+    53.843189051,<not counted>,,instructions,0,100.00,,
+    53.943775400,1725,,branch-instructions,78375,100.00,,
+    53.943775400,323,,branch-misses,78375,100.00,18.72,of all branches
+    53.943775400,761,,bus-cycles,78375,100.00,,
+    53.943775400,8679,,instructions,78375,100.00,,
+    54.044226638,1407,,branch-instructions,53033,100.00,,
+    54.044226638,254,,branch-misses,53033,100.00,18.05,of all branches
+    54.044226638,544,,bus-cycles,53033,100.00,,
+    54.044226638,7020,,instructions,53033,100.00,,
+    54.144695479,1743,,branch-instructions,78877,100.00,,
+    54.144695479,339,,branch-misses,78877,100.00,19.45,of all branches
+    54.144695479,747,,bus-cycles,78877,100.00,,
+    54.144695479,8740,,instructions,78877,100.00,,
+    54.245266771,1185,,branch-instructions,54763,100.00,,
+    54.245266771,222,,branch-misses,54763,100.00,18.73,of all branches
+    54.245266771,548,,bus-cycles,54763,100.00,,
+    54.245266771,5937,,instructions,54763,100.00,,
+    54.345817681,5041,,branch-instructions,182847,100.00,,
+    54.345817681,909,,branch-misses,182847,100.00,18.03,of all branches
+    54.345817681,1898,,bus-cycles,182847,100.00,,
+    54.345817681,25836,,instructions,182847,100.00,,
+    54.446364117,3574,,branch-instructions,92784,100.00,,
+    54.446364117,592,,branch-misses,92784,100.00,16.56,of all branches
+    54.446364117,774,,bus-cycles,92784,100.00,,
+    54.446364117,18519,,instructions,92784,100.00,,
+    54.546844886,644,,branch-instructions,12981,100.00,,
+    54.546844886,117,,branch-misses,12981,100.00,18.17,of all branches
+    54.546844886,126,,bus-cycles,12981,100.00,,
+    54.546844886,3190,,instructions,12981,100.00,,
+    54.647394134,3557,,branch-instructions,148108,100.00,,
+    54.647394134,672,,branch-misses,148108,100.00,18.89,of all branches
+    54.647394134,1451,,bus-cycles,148108,100.00,,
+    54.647394134,17823,,instructions,148108,100.00,,
+    54.747778915,2397,,branch-instructions,101043,100.00,,
+    54.747778915,455,,branch-misses,101043,100.00,18.98,of all branches
+    54.747778915,1000,,bus-cycles,101043,100.00,,
+    54.747778915,12030,,instructions,101043,100.00,,
+    54.848349334,<not counted>,,branch-instructions,0,100.00,,
+    54.848349334,<not counted>,,branch-misses,0,100.00,,
+    54.848349334,<not counted>,,bus-cycles,0,100.00,,
+    54.848349334,<not counted>,,instructions,0,100.00,,
+    54.948685712,5505,,branch-instructions,231005,100.00,,
+    54.948685712,1032,,branch-misses,231005,100.00,18.75,of all branches
+    54.948685712,2259,,bus-cycles,231005,100.00,,
+    54.948685712,27590,,instructions,231005,100.00,,
+    55.049259153,1184,,branch-instructions,48970,100.00,,
+    55.049259153,223,,branch-misses,48970,100.00,18.83,of all branches
+    55.049259153,461,,bus-cycles,48970,100.00,,
+    55.049259153,5933,,instructions,48970,100.00,,
+    55.149806734,1185,,branch-instructions,49772,100.00,,
+    55.149806734,227,,branch-misses,49772,100.00,19.16,of all branches
+    55.149806734,483,,bus-cycles,49772,100.00,,
+    55.149806734,5937,,instructions,49772,100.00,,
+    55.250367829,1185,,branch-instructions,50909,100.00,,
+    55.250367829,227,,branch-misses,50909,100.00,19.16,of all branches
+    55.250367829,498,,bus-cycles,50909,100.00,,
+    55.250367829,5937,,instructions,50909,100.00,,
+    55.350748805,1732,,branch-instructions,77126,100.00,,
+    55.350748805,330,,branch-misses,77126,100.00,19.05,of all branches
+    55.350748805,719,,bus-cycles,77126,100.00,,
+    55.350748805,8682,,instructions,77126,100.00,,
+    55.451283145,3567,,branch-instructions,96858,100.00,,
+    55.451283145,620,,branch-misses,96858,100.00,17.38,of all branches
+    55.451283145,898,,bus-cycles,96858,100.00,,
+    55.451283145,17888,,instructions,96858,100.00,,
+    55.551682630,2918,,branch-instructions,112426,100.00,,
+    55.551682630,554,,branch-misses,112426,100.00,18.99,of all branches
+    55.551682630,1099,,bus-cycles,112426,100.00,,
+    55.551682630,14624,,instructions,112426,100.00,,
+    55.652233653,1185,,branch-instructions,51617,100.00,,
+    55.652233653,221,,branch-misses,51617,100.00,18.65,of all branches
+    55.652233653,509,,bus-cycles,51617,100.00,,
+    55.652233653,5937,,instructions,51617,100.00,,
+    55.752765411,2358,,branch-instructions,101249,100.00,,
+    55.752765411,448,,branch-misses,101249,100.00,19.00,of all branches
+    55.752765411,995,,bus-cycles,101249,100.00,,
+    55.752765411,11816,,instructions,101249,100.00,,
+    55.853113862,4228,,branch-instructions,136067,100.00,,
+    55.853113862,793,,branch-misses,136067,100.00,18.76,of all branches
+    55.853113862,1257,,bus-cycles,136067,100.00,,
+    55.853113862,21199,,instructions,136067,100.00,,
+    55.953543074,4794,,branch-instructions,165239,100.00,,
+    55.953543074,904,,branch-misses,165239,100.00,18.86,of all branches
+    55.953543074,1612,,bus-cycles,165239,100.00,,
+    55.953543074,24068,,instructions,165239,100.00,,
+    56.054101027,2477,,branch-instructions,96385,100.00,,
+    56.054101027,442,,branch-misses,96385,100.00,17.84,of all branches
+    56.054101027,932,,bus-cycles,96385,100.00,,
+    56.054101027,12447,,instructions,96385,100.00,,
+    56.154493806,2894,,branch-instructions,125629,100.00,,
+    56.154493806,560,,branch-misses,125629,100.00,19.35,of all branches
+    56.154493806,1209,,bus-cycles,125629,100.00,,
+    56.154493806,14508,,instructions,125629,100.00,,
+    56.255042457,2918,,branch-instructions,132365,100.00,,
+    56.255042457,560,,branch-misses,132365,100.00,19.19,of all branches
+    56.255042457,1282,,bus-cycles,132365,100.00,,
+    56.255042457,14624,,instructions,132365,100.00,,
+    56.355413671,1185,,branch-instructions,50356,100.00,,
+    56.355413671,222,,branch-misses,50356,100.00,18.73,of all branches
+    56.355413671,488,,bus-cycles,50356,100.00,,
+    56.355413671,5937,,instructions,50356,100.00,,
+    56.455804557,7377,,branch-instructions,206903,100.00,,
+    56.455804557,1327,,branch-misses,206903,100.00,17.99,of all branches
+    56.455804557,2060,,bus-cycles,206903,100.00,,
+    56.455804557,37020,,instructions,206903,100.00,,
+    56.556314015,1362,,branch-instructions,49146,100.00,,
+    56.556314015,264,,branch-misses,49146,100.00,19.38,of all branches
+    56.556314015,510,,bus-cycles,49146,100.00,,
+    56.556314015,6810,,instructions,49146,100.00,,
+    56.656684100,<not counted>,,branch-instructions,0,100.00,,
+    56.656684100,<not counted>,,branch-misses,0,100.00,,
+    56.656684100,<not counted>,,bus-cycles,0,100.00,,
+    56.656684100,<not counted>,,instructions,0,100.00,,
+    56.757170994,4890,,branch-instructions,206369,100.00,,
+    56.757170994,803,,branch-misses,206369,100.00,16.42,of all branches
+    56.757170994,1918,,bus-cycles,206369,100.00,,
+    56.757170994,24518,,instructions,206369,100.00,,
+    56.857616056,1185,,branch-instructions,47708,100.00,,
+    56.857616056,234,,branch-misses,47708,100.00,19.75,of all branches
+    56.857616056,464,,bus-cycles,47708,100.00,,
+    56.857616056,5937,,instructions,47708,100.00,,
+    56.958006651,2393,,branch-instructions,105577,100.00,,
+    56.958006651,451,,branch-misses,105577,100.00,18.85,of all branches
+    56.958006651,1015,,bus-cycles,105577,100.00,,
+    56.958006651,12003,,instructions,105577,100.00,,
+    57.058579130,3156,,branch-instructions,134236,100.00,,
+    57.058579130,597,,branch-misses,134236,100.00,18.92,of all branches
+    57.058579130,1349,,bus-cycles,134236,100.00,,
+    57.058579130,15833,,instructions,134236,100.00,,
+    57.159151036,1185,,branch-instructions,61234,100.00,,
+    57.159151036,218,,branch-misses,61234,100.00,18.40,of all branches
+    57.159151036,585,,bus-cycles,61234,100.00,,
+    57.159151036,5937,,instructions,61234,100.00,,
+    57.259504425,1185,,branch-instructions,48399,100.00,,
+    57.259504425,220,,branch-misses,48399,100.00,18.57,of all branches
+    57.259504425,476,,bus-cycles,48399,100.00,,
+    57.259504425,5937,,instructions,48399,100.00,,
+    57.360085824,2392,,branch-instructions,109470,100.00,,
+    57.360085824,451,,branch-misses,109470,100.00,18.85,of all branches
+    57.360085824,1068,,bus-cycles,109470,100.00,,
+    57.360085824,11997,,instructions,109470,100.00,,
+    57.460463762,4036,,branch-instructions,124004,100.00,,
+    57.460463762,766,,branch-misses,124004,100.00,18.98,of all branches
+    57.460463762,1042,,bus-cycles,124004,100.00,,
+    57.460463762,20255,,instructions,124004,100.00,,
+    57.560744204,1212,,branch-instructions,52557,100.00,,
+    57.560744204,230,,branch-misses,52557,100.00,18.98,of all branches
+    57.560744204,521,,bus-cycles,52557,100.00,,
+    57.560744204,6093,,instructions,52557,100.00,,
+    57.661264136,1665,,branch-instructions,81289,100.00,,
+    57.661264136,318,,branch-misses,81289,100.00,19.10,of all branches
+    57.661264136,750,,bus-cycles,81289,100.00,,
+    57.661264136,8375,,instructions,81289,100.00,,
+    57.761821412,3600,,branch-instructions,149029,100.00,,
+    57.761821412,677,,branch-misses,149029,100.00,18.81,of all branches
+    57.761821412,1436,,bus-cycles,149029,100.00,,
+    57.761821412,18063,,instructions,149029,100.00,,
+    57.862368543,2629,,branch-instructions,105086,100.00,,
+    57.862368543,488,,branch-misses,105086,100.00,18.56,of all branches
+    57.862368543,1036,,bus-cycles,105086,100.00,,
+    57.862368543,13155,,instructions,105086,100.00,,
+    57.962942540,5500,,branch-instructions,230010,100.00,,
+    57.962942540,1031,,branch-misses,230010,100.00,18.75,of all branches
+    57.962942540,2255,,bus-cycles,230010,100.00,,
+    57.962942540,27564,,instructions,230010,100.00,,
+    58.063309983,<not counted>,,branch-instructions,0,100.00,,
+    58.063309983,<not counted>,,branch-misses,0,100.00,,
+    58.063309983,<not counted>,,bus-cycles,0,100.00,,
+    58.063309983,<not counted>,,instructions,0,100.00,,
+    58.163676431,1664,,branch-instructions,78032,100.00,,
+    58.163676431,311,,branch-misses,78032,100.00,18.69,of all branches
+    58.163676431,734,,bus-cycles,78032,100.00,,
+    58.163676431,8370,,instructions,78032,100.00,,
+    58.263992335,4096,,branch-instructions,178810,100.00,,
+    58.263992335,771,,branch-misses,178810,100.00,18.82,of all branches
+    58.263992335,1755,,bus-cycles,178810,100.00,,
+    58.263992335,20558,,instructions,178810,100.00,,
+    58.364542556,1408,,branch-instructions,49917,100.00,,
+    58.364542556,255,,branch-misses,49917,100.00,18.11,of all branches
+    58.364542556,493,,bus-cycles,49917,100.00,,
+    58.364542556,7026,,instructions,49917,100.00,,
+    58.465092839,3603,,branch-instructions,90569,100.00,,
+    58.465092839,685,,branch-misses,90569,100.00,19.01,of all branches
+    58.465092839,862,,bus-cycles,90569,100.00,,
+    58.465092839,18086,,instructions,90569,100.00,,
+    58.565513539,6384,,branch-instructions,180257,100.00,,
+    58.565513539,1106,,branch-misses,180257,100.00,17.32,of all branches
+    58.565513539,1565,,bus-cycles,180257,100.00,,
+    58.565513539,32049,,instructions,180257,100.00,,
+    58.666079688,<not counted>,,branch-instructions,0,100.00,,
+    58.666079688,<not counted>,,branch-misses,0,100.00,,
+    58.666079688,<not counted>,,bus-cycles,0,100.00,,
+    58.666079688,<not counted>,,instructions,0,100.00,,
+    58.766623532,2371,,branch-instructions,105829,100.00,,
+    58.766623532,415,,branch-misses,105829,100.00,17.50,of all branches
+    58.766623532,1027,,bus-cycles,105829,100.00,,
+    58.766623532,11880,,instructions,105829,100.00,,
+    58.867214782,3620,,branch-instructions,162150,100.00,,
+    58.867214782,643,,branch-misses,162150,100.00,17.76,of all branches
+    58.867214782,1569,,bus-cycles,162150,100.00,,
+    58.867214782,18170,,instructions,162150,100.00,,
+    58.967778980,4729,,branch-instructions,203418,100.00,,
+    58.967778980,896,,branch-misses,203418,100.00,18.95,of all branches
+    58.967778980,1978,,bus-cycles,203418,100.00,,
+    58.967778980,23698,,instructions,203418,100.00,,
+    59.068331016,<not counted>,,branch-instructions,0,100.00,,
+    59.068331016,<not counted>,,branch-misses,0,100.00,,
+    59.068331016,<not counted>,,bus-cycles,0,100.00,,
+    59.068331016,<not counted>,,instructions,0,100.00,,
+    59.168692075,2371,,branch-instructions,104237,100.00,,
+    59.168692075,446,,branch-misses,104237,100.00,18.81,of all branches
+    59.168692075,1040,,bus-cycles,104237,100.00,,
+    59.168692075,11880,,instructions,104237,100.00,,
+    59.269236708,2370,,branch-instructions,101881,100.00,,
+    59.269236708,446,,branch-misses,101881,100.00,18.82,of all branches
+    59.269236708,1009,,bus-cycles,101881,100.00,,
+    59.269236708,11874,,instructions,101881,100.00,,
+    59.369826597,4054,,branch-instructions,178328,100.00,,
+    59.369826597,774,,branch-misses,178328,100.00,19.09,of all branches
+    59.369826597,1678,,bus-cycles,178328,100.00,,
+    59.369826597,20359,,instructions,178328,100.00,,
+    59.470359261,3716,,branch-instructions,102755,100.00,,
+    59.470359261,690,,branch-misses,102755,100.00,18.57,of all branches
+    59.470359261,1000,,bus-cycles,102755,100.00,,
+    59.470359261,18641,,instructions,102755,100.00,,
+    59.570831317,1864,,branch-instructions,32850,100.00,,
+    59.570831317,286,,branch-misses,32850,100.00,15.34,of all branches
+    59.570831317,355,,bus-cycles,32850,100.00,,
+    59.570831317,9932,,instructions,32850,100.00,,
+    59.671227128,3141,,branch-instructions,125358,100.00,,
+    59.671227128,586,,branch-misses,125358,100.00,18.66,of all branches
+    59.671227128,1239,,bus-cycles,125358,100.00,,
+    59.671227128,15751,,instructions,125358,100.00,,
+    59.771590589,3542,,branch-instructions,150226,100.00,,
+    59.771590589,603,,branch-misses,150226,100.00,17.02,of all branches
+    59.771590589,1392,,bus-cycles,150226,100.00,,
+    59.771590589,17748,,instructions,150226,100.00,,
+    59.872137955,1185,,branch-instructions,50376,100.00,,
+    59.872137955,219,,branch-misses,50376,100.00,18.48,of all branches
+    59.872137955,493,,bus-cycles,50376,100.00,,
+    59.872137955,5937,,instructions,50376,100.00,,

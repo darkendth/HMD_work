@@ -1,0 +1,6 @@
+# started on Mon Mar 27 16:03:50 2023
+
+390883,,LLC-load-misses,302175737,75.16,51.18,of all LL-cache accesses
+763794,,LLC-loads,298208203,74.18,,
+18759665,,LLC-store-misses,203655214,50.81,,
+1362717898,,instructions,302934581,75.35,,

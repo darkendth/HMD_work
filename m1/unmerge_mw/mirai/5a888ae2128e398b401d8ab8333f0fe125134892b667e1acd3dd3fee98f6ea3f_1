@@ -1,0 +1,6 @@
+# started on Mon Mar 27 13:33:09 2023
+
+177550,,branch-instructions,996548,100.00,,
+6039,,branch-misses,996548,100.00,3.40,of all branches
+23602,,bus-cycles,996548,100.00,,
+917596,,instructions,996548,100.00,,

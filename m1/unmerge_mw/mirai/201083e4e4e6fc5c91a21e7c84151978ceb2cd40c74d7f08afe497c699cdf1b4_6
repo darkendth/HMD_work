@@ -1,0 +1,6 @@
+# started on Mon Mar 27 13:24:03 2023
+
+384,,dTLB-store-misses,2619752,100.00,,
+658891,,dTLB-stores,2619752,100.00,,
+287,,iTLB-load-misses,2619752,100.00,,
+9792895,,instructions,2619752,100.00,,

@@ -1,0 +1,6 @@
+# started on Mon Mar 27 13:22:27 2023
+
+0,,mem-loads,93995,100.00,,
+27060,,mem-stores,95492,100.00,,
+321900,,ref-cycles,96568,100.00,,
+158723,,instructions,97768,100.00,,

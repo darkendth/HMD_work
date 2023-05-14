@@ -1,0 +1,2386 @@
+# started on Thu May  4 23:01:55 2023
+
+     0.100350154,483,,L1-dcache-load-misses,26874,100.00,12.15,of all L1-dcache accesses
+     0.100350154,3974,,L1-dcache-loads,26874,100.00,,
+     0.100350154,2308,,L1-dcache-stores,26874,100.00,,
+     0.100350154,15172,,instructions,26874,100.00,,
+     0.200782115,312,,L1-dcache-load-misses,77786,100.00,11.92,of all L1-dcache accesses
+     0.200782115,2617,,L1-dcache-loads,77786,100.00,,
+     0.200782115,1604,,L1-dcache-stores,77786,100.00,,
+     0.200782115,10657,,instructions,77786,100.00,,
+     0.301328292,902,,L1-dcache-load-misses,42181,100.00,12.94,of all L1-dcache accesses
+     0.301328292,6973,,L1-dcache-loads,42181,100.00,,
+     0.301328292,3957,,L1-dcache-stores,42181,100.00,,
+     0.301328292,27361,,instructions,42181,100.00,,
+     0.401810674,652,,L1-dcache-load-misses,79053,100.00,15.22,of all L1-dcache accesses
+     0.401810674,4285,,L1-dcache-loads,79053,100.00,,
+     0.401810674,2593,,L1-dcache-stores,79053,100.00,,
+     0.401810674,17173,,instructions,79053,100.00,,
+     0.502292531,312,,L1-dcache-load-misses,72561,100.00,11.91,of all L1-dcache accesses
+     0.502292531,2619,,L1-dcache-loads,72561,100.00,,
+     0.502292531,1605,,L1-dcache-stores,72561,100.00,,
+     0.502292531,10662,,instructions,72561,100.00,,
+     0.602792916,290,,L1-dcache-load-misses,81027,100.00,11.09,of all L1-dcache accesses
+     0.602792916,2614,,L1-dcache-loads,81027,100.00,,
+     0.602792916,1597,,L1-dcache-stores,81027,100.00,,
+     0.602792916,10653,,instructions,81027,100.00,,
+     0.703286946,328,,L1-dcache-load-misses,72850,100.00,12.53,of all L1-dcache accesses
+     0.703286946,2618,,L1-dcache-loads,72850,100.00,,
+     0.703286946,1604,,L1-dcache-stores,72850,100.00,,
+     0.703286946,10663,,instructions,72850,100.00,,
+     0.803864627,547,,L1-dcache-load-misses,115770,100.00,12.95,of all L1-dcache accesses
+     0.803864627,4223,,L1-dcache-loads,115770,100.00,,
+     0.803864627,2582,,L1-dcache-stores,115770,100.00,,
+     0.803864627,17087,,instructions,115770,100.00,,
+     0.904320993,596,,L1-dcache-load-misses,68140,100.00,14.02,of all L1-dcache accesses
+     0.904320993,4252,,L1-dcache-loads,68140,100.00,,
+     0.904320993,2577,,L1-dcache-stores,68140,100.00,,
+     0.904320993,17071,,instructions,68140,100.00,,
+     1.004862015,309,,L1-dcache-load-misses,47797,100.00,11.81,of all L1-dcache accesses
+     1.004862015,2616,,L1-dcache-loads,47797,100.00,,
+     1.004862015,1604,,L1-dcache-stores,47797,100.00,,
+     1.004862015,10654,,instructions,47797,100.00,,
+     1.105386109,321,,L1-dcache-load-misses,74313,100.00,12.27,of all L1-dcache accesses
+     1.105386109,2616,,L1-dcache-loads,74313,100.00,,
+     1.105386109,1604,,L1-dcache-stores,74313,100.00,,
+     1.105386109,10654,,instructions,74313,100.00,,
+     1.205828000,304,,L1-dcache-load-misses,66053,100.00,11.64,of all L1-dcache accesses
+     1.205828000,2611,,L1-dcache-loads,66053,100.00,,
+     1.205828000,1597,,L1-dcache-stores,66053,100.00,,
+     1.205828000,10643,,instructions,66053,100.00,,
+     1.306300284,351,,L1-dcache-load-misses,76180,100.00,13.18,of all L1-dcache accesses
+     1.306300284,2663,,L1-dcache-loads,76180,100.00,,
+     1.306300284,1631,,L1-dcache-stores,76180,100.00,,
+     1.306300284,10827,,instructions,76180,100.00,,
+     1.406776225,614,,L1-dcache-load-misses,60124,100.00,14.33,of all L1-dcache accesses
+     1.406776225,4284,,L1-dcache-loads,60124,100.00,,
+     1.406776225,2599,,L1-dcache-stores,60124,100.00,,
+     1.406776225,17190,,instructions,60124,100.00,,
+     1.507336808,424,,L1-dcache-load-misses,73928,100.00,15.62,of all L1-dcache accesses
+     1.507336808,2715,,L1-dcache-loads,73928,100.00,,
+     1.507336808,1652,,L1-dcache-stores,73928,100.00,,
+     1.507336808,11045,,instructions,73928,100.00,,
+     1.607979569,413,,L1-dcache-load-misses,74096,100.00,15.49,of all L1-dcache accesses
+     1.607979569,2667,,L1-dcache-loads,74096,100.00,,
+     1.607979569,1635,,L1-dcache-stores,74096,100.00,,
+     1.607979569,10840,,instructions,74096,100.00,,
+     1.708640285,340,,L1-dcache-load-misses,79544,100.00,12.91,of all L1-dcache accesses
+     1.708640285,2634,,L1-dcache-loads,79544,100.00,,
+     1.708640285,1616,,L1-dcache-stores,79544,100.00,,
+     1.708640285,10718,,instructions,79544,100.00,,
+     1.809260123,676,,L1-dcache-load-misses,128255,100.00,15.91,of all L1-dcache accesses
+     1.809260123,4249,,L1-dcache-loads,128255,100.00,,
+     1.809260123,2607,,L1-dcache-stores,128255,100.00,,
+     1.809260123,17176,,instructions,128255,100.00,,
+     1.909871577,582,,L1-dcache-load-misses,124384,100.00,13.69,of all L1-dcache accesses
+     1.909871577,4250,,L1-dcache-loads,124384,100.00,,
+     1.909871577,2575,,L1-dcache-stores,124384,100.00,,
+     1.909871577,17069,,instructions,124384,100.00,,
+     2.010509842,409,,L1-dcache-load-misses,73152,100.00,15.63,of all L1-dcache accesses
+     2.010509842,2617,,L1-dcache-loads,73152,100.00,,
+     2.010509842,1604,,L1-dcache-stores,73152,100.00,,
+     2.010509842,10657,,instructions,73152,100.00,,
+     2.111002522,653,,L1-dcache-load-misses,162506,100.00,12.45,of all L1-dcache accesses
+     2.111002522,5244,,L1-dcache-loads,162506,100.00,,
+     2.111002522,3220,,L1-dcache-stores,162506,100.00,,
+     2.111002522,21362,,instructions,162506,100.00,,
+     2.211490639,<not counted>,,L1-dcache-load-misses,0,100.00,,
+     2.211490639,<not counted>,,L1-dcache-loads,0,100.00,,
+     2.211490639,<not counted>,,L1-dcache-stores,0,100.00,,
+     2.211490639,<not counted>,,instructions,0,100.00,,
+     2.311843853,651,,L1-dcache-load-misses,131259,100.00,12.43,of all L1-dcache accesses
+     2.311843853,5239,,L1-dcache-loads,131259,100.00,,
+     2.311843853,3210,,L1-dcache-stores,131259,100.00,,
+     2.311843853,21334,,instructions,131259,100.00,,
+     2.412313254,268,,L1-dcache-load-misses,46974,100.00,16.47,of all L1-dcache accesses
+     2.412313254,1627,,L1-dcache-loads,46974,100.00,,
+     2.412313254,965,,L1-dcache-stores,46974,100.00,,
+     2.412313254,6375,,instructions,46974,100.00,,
+     2.512882941,721,,L1-dcache-load-misses,150539,100.00,13.42,of all L1-dcache accesses
+     2.512882941,5371,,L1-dcache-loads,150539,100.00,,
+     2.512882941,3291,,L1-dcache-stores,150539,100.00,,
+     2.512882941,21839,,instructions,150539,100.00,,
+     2.613543221,<not counted>,,L1-dcache-load-misses,0,100.00,,
+     2.613543221,<not counted>,,L1-dcache-loads,0,100.00,,
+     2.613543221,<not counted>,,L1-dcache-stores,0,100.00,,
+     2.613543221,<not counted>,,instructions,0,100.00,,
+     2.713997974,647,,L1-dcache-load-misses,156272,100.00,12.32,of all L1-dcache accesses
+     2.713997974,5252,,L1-dcache-loads,156272,100.00,,
+     2.713997974,3217,,L1-dcache-stores,156272,100.00,,
+     2.713997974,21384,,instructions,156272,100.00,,
+     2.814598707,1217,,L1-dcache-load-misses,206689,100.00,13.74,of all L1-dcache accesses
+     2.814598707,8855,,L1-dcache-loads,206689,100.00,,
+     2.814598707,5690,,L1-dcache-stores,206689,100.00,,
+     2.814598707,34608,,instructions,206689,100.00,,
+     2.915191116,951,,L1-dcache-load-misses,196099,100.00,13.63,of all L1-dcache accesses
+     2.915191116,6976,,L1-dcache-loads,196099,100.00,,
+     2.915191116,4224,,L1-dcache-stores,196099,100.00,,
+     2.915191116,28100,,instructions,196099,100.00,,
+     3.015832848,<not counted>,,L1-dcache-load-misses,0,100.00,,
+     3.015832848,<not counted>,,L1-dcache-loads,0,100.00,,
+     3.015832848,<not counted>,,L1-dcache-stores,0,100.00,,
+     3.015832848,<not counted>,,instructions,0,100.00,,
+     3.116343651,732,,L1-dcache-load-misses,149359,100.00,13.87,of all L1-dcache accesses
+     3.116343651,5277,,L1-dcache-loads,149359,100.00,,
+     3.116343651,3234,,L1-dcache-stores,149359,100.00,,
+     3.116343651,21482,,instructions,149359,100.00,,
+     3.216807684,<not counted>,,L1-dcache-load-misses,0,100.00,,
+     3.216807684,<not counted>,,L1-dcache-loads,0,100.00,,
+     3.216807684,<not counted>,,L1-dcache-stores,0,100.00,,
+     3.216807684,<not counted>,,instructions,0,100.00,,
+     3.317404181,689,,L1-dcache-load-misses,146957,100.00,13.08,of all L1-dcache accesses
+     3.317404181,5268,,L1-dcache-loads,146957,100.00,,
+     3.317404181,3231,,L1-dcache-stores,146957,100.00,,
+     3.317404181,21466,,instructions,146957,100.00,,
+     3.418003333,280,,L1-dcache-load-misses,46905,100.00,16.77,of all L1-dcache accesses
+     3.418003333,1670,,L1-dcache-loads,46905,100.00,,
+     3.418003333,979,,L1-dcache-stores,46905,100.00,,
+     3.418003333,6522,,instructions,46905,100.00,,
+     3.518592267,736,,L1-dcache-load-misses,154120,100.00,13.58,of all L1-dcache accesses
+     3.518592267,5419,,L1-dcache-loads,154120,100.00,,
+     3.518592267,3298,,L1-dcache-stores,154120,100.00,,
+     3.518592267,21964,,instructions,154120,100.00,,
+     3.619029293,<not counted>,,L1-dcache-load-misses,0,100.00,,
+     3.619029293,<not counted>,,L1-dcache-loads,0,100.00,,
+     3.619029293,<not counted>,,L1-dcache-stores,0,100.00,,
+     3.619029293,<not counted>,,instructions,0,100.00,,
+     3.719594437,667,,L1-dcache-load-misses,153354,100.00,12.61,of all L1-dcache accesses
+     3.719594437,5291,,L1-dcache-loads,153354,100.00,,
+     3.719594437,3229,,L1-dcache-stores,153354,100.00,,
+     3.719594437,21521,,instructions,153354,100.00,,
+     3.820215180,232,,L1-dcache-load-misses,46827,100.00,14.41,of all L1-dcache accesses
+     3.820215180,1610,,L1-dcache-loads,46827,100.00,,
+     3.820215180,978,,L1-dcache-stores,46827,100.00,,
+     3.820215180,6429,,instructions,46827,100.00,,
+     3.920863883,927,,L1-dcache-load-misses,203419,100.00,13.45,of all L1-dcache accesses
+     3.920863883,6894,,L1-dcache-loads,203419,100.00,,
+     3.920863883,4197,,L1-dcache-stores,203419,100.00,,
+     3.920863883,27843,,instructions,203419,100.00,,
+     4.021394160,<not counted>,,L1-dcache-load-misses,0,100.00,,
+     4.021394160,<not counted>,,L1-dcache-loads,0,100.00,,
+     4.021394160,<not counted>,,L1-dcache-stores,0,100.00,,
+     4.021394160,<not counted>,,instructions,0,100.00,,
+     4.122034724,648,,L1-dcache-load-misses,144680,100.00,12.33,of all L1-dcache accesses
+     4.122034724,5255,,L1-dcache-loads,144680,100.00,,
+     4.122034724,3225,,L1-dcache-stores,144680,100.00,,
+     4.122034724,21402,,instructions,144680,100.00,,
+     4.222604999,<not counted>,,L1-dcache-load-misses,0,100.00,,
+     4.222604999,<not counted>,,L1-dcache-loads,0,100.00,,
+     4.222604999,<not counted>,,L1-dcache-stores,0,100.00,,
+     4.222604999,<not counted>,,instructions,0,100.00,,
+     4.323026983,655,,L1-dcache-load-misses,154088,100.00,12.44,of all L1-dcache accesses
+     4.323026983,5266,,L1-dcache-loads,154088,100.00,,
+     4.323026983,3236,,L1-dcache-stores,154088,100.00,,
+     4.323026983,21456,,instructions,154088,100.00,,
+     4.423657329,268,,L1-dcache-load-misses,47718,100.00,16.47,of all L1-dcache accesses
+     4.423657329,1627,,L1-dcache-loads,47718,100.00,,
+     4.423657329,965,,L1-dcache-stores,47718,100.00,,
+     4.423657329,6375,,instructions,47718,100.00,,
+     4.524289680,640,,L1-dcache-load-misses,153860,100.00,12.22,of all L1-dcache accesses
+     4.524289680,5239,,L1-dcache-loads,153860,100.00,,
+     4.524289680,3215,,L1-dcache-stores,153860,100.00,,
+     4.524289680,21355,,instructions,153860,100.00,,
+     4.624914078,<not counted>,,L1-dcache-load-misses,0,100.00,,
+     4.624914078,<not counted>,,L1-dcache-loads,0,100.00,,
+     4.624914078,<not counted>,,L1-dcache-stores,0,100.00,,
+     4.624914078,<not counted>,,instructions,0,100.00,,
+     4.725350088,691,,L1-dcache-load-misses,159895,100.00,12.90,of all L1-dcache accesses
+     4.725350088,5357,,L1-dcache-loads,159895,100.00,,
+     4.725350088,3274,,L1-dcache-stores,159895,100.00,,
+     4.725350088,21759,,instructions,159895,100.00,,
+     4.825819370,225,,L1-dcache-load-misses,46972,100.00,14.00,of all L1-dcache accesses
+     4.825819370,1607,,L1-dcache-loads,46972,100.00,,
+     4.825819370,977,,L1-dcache-stores,46972,100.00,,
+     4.825819370,6412,,instructions,46972,100.00,,
+     4.926196210,921,,L1-dcache-load-misses,82795,100.00,13.10,of all L1-dcache accesses
+     4.926196210,7033,,L1-dcache-loads,82795,100.00,,
+     4.926196210,4264,,L1-dcache-stores,82795,100.00,,
+     4.926196210,28341,,instructions,82795,100.00,,
+     5.026751553,<not counted>,,L1-dcache-load-misses,0,100.00,,
+     5.026751553,<not counted>,,L1-dcache-loads,0,100.00,,
+     5.026751553,<not counted>,,L1-dcache-stores,0,100.00,,
+     5.026751553,<not counted>,,instructions,0,100.00,,
+     5.127387825,645,,L1-dcache-load-misses,146449,100.00,12.30,of all L1-dcache accesses
+     5.127387825,5243,,L1-dcache-loads,146449,100.00,,
+     5.127387825,3219,,L1-dcache-stores,146449,100.00,,
+     5.127387825,21352,,instructions,146449,100.00,,
+     5.227975299,<not counted>,,L1-dcache-load-misses,0,100.00,,
+     5.227975299,<not counted>,,L1-dcache-loads,0,100.00,,
+     5.227975299,<not counted>,,L1-dcache-stores,0,100.00,,
+     5.227975299,<not counted>,,instructions,0,100.00,,
+     5.328285027,737,,L1-dcache-load-misses,122907,100.00,13.71,of all L1-dcache accesses
+     5.328285027,5377,,L1-dcache-loads,122907,100.00,,
+     5.328285027,3281,,L1-dcache-stores,122907,100.00,,
+     5.328285027,21831,,instructions,122907,100.00,,
+     5.428896407,286,,L1-dcache-load-misses,48544,100.00,16.78,of all L1-dcache accesses
+     5.428896407,1704,,L1-dcache-loads,48544,100.00,,
+     5.428896407,1004,,L1-dcache-stores,48544,100.00,,
+     5.428896407,6776,,instructions,48544,100.00,,
+     5.529609621,693,,L1-dcache-load-misses,149721,100.00,12.95,of all L1-dcache accesses
+     5.529609621,5352,,L1-dcache-loads,149721,100.00,,
+     5.529609621,3268,,L1-dcache-stores,149721,100.00,,
+     5.529609621,21728,,instructions,149721,100.00,,
+     5.630248094,<not counted>,,L1-dcache-load-misses,0,100.00,,
+     5.630248094,<not counted>,,L1-dcache-loads,0,100.00,,
+     5.630248094,<not counted>,,L1-dcache-stores,0,100.00,,
+     5.630248094,<not counted>,,instructions,0,100.00,,
+     5.730862945,683,,L1-dcache-load-misses,154215,100.00,12.77,of all L1-dcache accesses
+     5.730862945,5350,,L1-dcache-loads,154215,100.00,,
+     5.730862945,3261,,L1-dcache-stores,154215,100.00,,
+     5.730862945,21706,,instructions,154215,100.00,,
+     5.831358434,232,,L1-dcache-load-misses,47060,100.00,14.37,of all L1-dcache accesses
+     5.831358434,1614,,L1-dcache-loads,47060,100.00,,
+     5.831358434,979,,L1-dcache-stores,47060,100.00,,
+     5.831358434,6442,,instructions,47060,100.00,,
+     5.931948657,1458,,L1-dcache-load-misses,280064,100.00,11.83,of all L1-dcache accesses
+     5.931948657,12326,,L1-dcache-loads,280064,100.00,,
+     5.931948657,7268,,L1-dcache-stores,280064,100.00,,
+     5.931948657,47071,,instructions,280064,100.00,,
+     6.032573591,<not counted>,,L1-dcache-load-misses,0,100.00,,
+     6.032573591,<not counted>,,L1-dcache-loads,0,100.00,,
+     6.032573591,<not counted>,,L1-dcache-stores,0,100.00,,
+     6.032573591,<not counted>,,instructions,0,100.00,,
+     6.133220671,765,,L1-dcache-load-misses,154690,100.00,14.44,of all L1-dcache accesses
+     6.133220671,5299,,L1-dcache-loads,154690,100.00,,
+     6.133220671,3239,,L1-dcache-stores,154690,100.00,,
+     6.133220671,21559,,instructions,154690,100.00,,
+     6.233641458,<not counted>,,L1-dcache-load-misses,0,100.00,,
+     6.233641458,<not counted>,,L1-dcache-loads,0,100.00,,
+     6.233641458,<not counted>,,L1-dcache-stores,0,100.00,,
+     6.233641458,<not counted>,,instructions,0,100.00,,
+     6.334044490,668,,L1-dcache-load-misses,153337,100.00,12.74,of all L1-dcache accesses
+     6.334044490,5242,,L1-dcache-loads,153337,100.00,,
+     6.334044490,3213,,L1-dcache-stores,153337,100.00,,
+     6.334044490,21355,,instructions,153337,100.00,,
+     6.434688375,281,,L1-dcache-load-misses,47327,100.00,17.23,of all L1-dcache accesses
+     6.434688375,1631,,L1-dcache-loads,47327,100.00,,
+     6.434688375,967,,L1-dcache-stores,47327,100.00,,
+     6.434688375,6398,,instructions,47327,100.00,,
+     6.535301763,789,,L1-dcache-load-misses,150041,100.00,14.92,of all L1-dcache accesses
+     6.535301763,5288,,L1-dcache-loads,150041,100.00,,
+     6.535301763,3242,,L1-dcache-stores,150041,100.00,,
+     6.535301763,21587,,instructions,150041,100.00,,
+     6.635899179,<not counted>,,L1-dcache-load-misses,0,100.00,,
+     6.635899179,<not counted>,,L1-dcache-loads,0,100.00,,
+     6.635899179,<not counted>,,L1-dcache-stores,0,100.00,,
+     6.635899179,<not counted>,,instructions,0,100.00,,
+     6.736571164,659,,L1-dcache-load-misses,143419,100.00,12.59,of all L1-dcache accesses
+     6.736571164,5236,,L1-dcache-loads,143419,100.00,,
+     6.736571164,3208,,L1-dcache-stores,143419,100.00,,
+     6.736571164,21326,,instructions,143419,100.00,,
+     6.837049227,225,,L1-dcache-load-misses,46439,100.00,14.20,of all L1-dcache accesses
+     6.837049227,1585,,L1-dcache-loads,46439,100.00,,
+     6.837049227,963,,L1-dcache-stores,46439,100.00,,
+     6.837049227,6336,,instructions,46439,100.00,,
+     6.937408449,960,,L1-dcache-load-misses,85704,100.00,13.95,of all L1-dcache accesses
+     6.937408449,6884,,L1-dcache-loads,85704,100.00,,
+     6.937408449,4188,,L1-dcache-stores,85704,100.00,,
+     6.937408449,27789,,instructions,85704,100.00,,
+     7.037976437,<not counted>,,L1-dcache-load-misses,0,100.00,,
+     7.037976437,<not counted>,,L1-dcache-loads,0,100.00,,
+     7.037976437,<not counted>,,L1-dcache-stores,0,100.00,,
+     7.037976437,<not counted>,,instructions,0,100.00,,
+     7.138603076,666,,L1-dcache-load-misses,149693,100.00,12.69,of all L1-dcache accesses
+     7.138603076,5250,,L1-dcache-loads,149693,100.00,,
+     7.138603076,3219,,L1-dcache-stores,149693,100.00,,
+     7.138603076,21391,,instructions,149693,100.00,,
+     7.239162881,<not counted>,,L1-dcache-load-misses,0,100.00,,
+     7.239162881,<not counted>,,L1-dcache-loads,0,100.00,,
+     7.239162881,<not counted>,,L1-dcache-stores,0,100.00,,
+     7.239162881,<not counted>,,instructions,0,100.00,,
+     7.339767085,671,,L1-dcache-load-misses,146059,100.00,12.61,of all L1-dcache accesses
+     7.339767085,5322,,L1-dcache-loads,146059,100.00,,
+     7.339767085,3254,,L1-dcache-stores,146059,100.00,,
+     7.339767085,21630,,instructions,146059,100.00,,
+     7.440339428,281,,L1-dcache-load-misses,51522,100.00,17.21,of all L1-dcache accesses
+     7.440339428,1633,,L1-dcache-loads,51522,100.00,,
+     7.440339428,969,,L1-dcache-stores,51522,100.00,,
+     7.440339428,6408,,instructions,51522,100.00,,
+     7.540975019,658,,L1-dcache-load-misses,145348,100.00,12.52,of all L1-dcache accesses
+     7.540975019,5254,,L1-dcache-loads,145348,100.00,,
+     7.540975019,3229,,L1-dcache-stores,145348,100.00,,
+     7.540975019,21401,,instructions,145348,100.00,,
+     7.641414409,<not counted>,,L1-dcache-load-misses,0,100.00,,
+     7.641414409,<not counted>,,L1-dcache-loads,0,100.00,,
+     7.641414409,<not counted>,,L1-dcache-stores,0,100.00,,
+     7.641414409,<not counted>,,instructions,0,100.00,,
+     7.742032548,769,,L1-dcache-load-misses,155399,100.00,14.47,of all L1-dcache accesses
+     7.742032548,5313,,L1-dcache-loads,155399,100.00,,
+     7.742032548,3249,,L1-dcache-stores,155399,100.00,,
+     7.742032548,21589,,instructions,155399,100.00,,
+     7.842476817,1557,,L1-dcache-load-misses,264101,100.00,14.98,of all L1-dcache accesses
+     7.842476817,10391,,L1-dcache-loads,264101,100.00,,
+     7.842476817,6467,,L1-dcache-stores,264101,100.00,,
+     7.842476817,40454,,instructions,264101,100.00,,
+     7.942936353,602,,L1-dcache-load-misses,73937,100.00,14.11,of all L1-dcache accesses
+     7.942936353,4266,,L1-dcache-loads,73937,100.00,,
+     7.942936353,2583,,L1-dcache-stores,73937,100.00,,
+     7.942936353,17129,,instructions,73937,100.00,,
+     8.043366326,364,,L1-dcache-load-misses,74110,100.00,13.40,of all L1-dcache accesses
+     8.043366326,2716,,L1-dcache-loads,74110,100.00,,
+     8.043366326,1653,,L1-dcache-stores,74110,100.00,,
+     8.043366326,10995,,instructions,74110,100.00,,
+     8.143988612,332,,L1-dcache-load-misses,80530,100.00,12.54,of all L1-dcache accesses
+     8.143988612,2647,,L1-dcache-loads,80530,100.00,,
+     8.143988612,1620,,L1-dcache-stores,80530,100.00,,
+     8.143988612,10769,,instructions,80530,100.00,,
+     8.244502337,413,,L1-dcache-load-misses,33196,100.00,14.10,of all L1-dcache accesses
+     8.244502337,2929,,L1-dcache-loads,33196,100.00,,
+     8.244502337,1793,,L1-dcache-stores,33196,100.00,,
+     8.244502337,11849,,instructions,33196,100.00,,
+     8.344840259,596,,L1-dcache-load-misses,127481,100.00,13.98,of all L1-dcache accesses
+     8.344840259,4263,,L1-dcache-loads,127481,100.00,,
+     8.344840259,2586,,L1-dcache-stores,127481,100.00,,
+     8.344840259,17115,,instructions,127481,100.00,,
+     8.445270171,329,,L1-dcache-load-misses,72118,100.00,12.51,of all L1-dcache accesses
+     8.445270171,2629,,L1-dcache-loads,72118,100.00,,
+     8.445270171,1615,,L1-dcache-stores,72118,100.00,,
+     8.445270171,10714,,instructions,72118,100.00,,
+     8.545701534,436,,L1-dcache-load-misses,82068,100.00,16.62,of all L1-dcache accesses
+     8.545701534,2623,,L1-dcache-loads,82068,100.00,,
+     8.545701534,1608,,L1-dcache-stores,82068,100.00,,
+     8.545701534,10686,,instructions,82068,100.00,,
+     8.646216908,308,,L1-dcache-load-misses,78987,100.00,11.81,of all L1-dcache accesses
+     8.646216908,2607,,L1-dcache-loads,78987,100.00,,
+     8.646216908,1596,,L1-dcache-stores,78987,100.00,,
+     8.646216908,10620,,instructions,78987,100.00,,
+     8.746847009,320,,L1-dcache-load-misses,80426,100.00,12.18,of all L1-dcache accesses
+     8.746847009,2628,,L1-dcache-loads,80426,100.00,,
+     8.746847009,1614,,L1-dcache-stores,80426,100.00,,
+     8.746847009,10706,,instructions,80426,100.00,,
+     8.847300305,829,,L1-dcache-load-misses,165277,100.00,14.14,of all L1-dcache accesses
+     8.847300305,5861,,L1-dcache-loads,165277,100.00,,
+     8.847300305,3551,,L1-dcache-stores,165277,100.00,,
+     8.847300305,23509,,instructions,165277,100.00,,
+     8.947643106,316,,L1-dcache-load-misses,40014,100.00,12.08,of all L1-dcache accesses
+     8.947643106,2616,,L1-dcache-loads,40014,100.00,,
+     8.947643106,1604,,L1-dcache-stores,40014,100.00,,
+     8.947643106,10656,,instructions,40014,100.00,,
+     9.048039492,320,,L1-dcache-load-misses,75573,100.00,12.20,of all L1-dcache accesses
+     9.048039492,2623,,L1-dcache-loads,75573,100.00,,
+     9.048039492,1609,,L1-dcache-stores,75573,100.00,,
+     9.048039492,10682,,instructions,75573,100.00,,
+     9.148660956,332,,L1-dcache-load-misses,76857,100.00,12.43,of all L1-dcache accesses
+     9.148660956,2672,,L1-dcache-loads,76857,100.00,,
+     9.148660956,1639,,L1-dcache-stores,76857,100.00,,
+     9.148660956,10856,,instructions,76857,100.00,,
+     9.249231332,324,,L1-dcache-load-misses,84571,100.00,12.32,of all L1-dcache accesses
+     9.249231332,2630,,L1-dcache-loads,84571,100.00,,
+     9.249231332,1615,,L1-dcache-stores,84571,100.00,,
+     9.249231332,10707,,instructions,84571,100.00,,
+     9.349695370,594,,L1-dcache-load-misses,129572,100.00,14.00,of all L1-dcache accesses
+     9.349695370,4243,,L1-dcache-loads,129572,100.00,,
+     9.349695370,2570,,L1-dcache-stores,129572,100.00,,
+     9.349695370,17031,,instructions,129572,100.00,,
+     9.450244645,359,,L1-dcache-load-misses,80572,100.00,13.21,of all L1-dcache accesses
+     9.450244645,2717,,L1-dcache-loads,80572,100.00,,
+     9.450244645,1655,,L1-dcache-stores,80572,100.00,,
+     9.450244645,10997,,instructions,80572,100.00,,
+     9.550878087,320,,L1-dcache-load-misses,80081,100.00,12.11,of all L1-dcache accesses
+     9.550878087,2642,,L1-dcache-loads,80081,100.00,,
+     9.550878087,1619,,L1-dcache-stores,80081,100.00,,
+     9.550878087,10743,,instructions,80081,100.00,,
+     9.651334704,306,,L1-dcache-load-misses,74984,100.00,11.76,of all L1-dcache accesses
+     9.651334704,2601,,L1-dcache-loads,74984,100.00,,
+     9.651334704,1594,,L1-dcache-stores,74984,100.00,,
+     9.651334704,10603,,instructions,74984,100.00,,
+     9.751933738,351,,L1-dcache-load-misses,81346,100.00,12.99,of all L1-dcache accesses
+     9.751933738,2702,,L1-dcache-loads,81346,100.00,,
+     9.751933738,1645,,L1-dcache-stores,81346,100.00,,
+     9.751933738,10958,,instructions,81346,100.00,,
+     9.852401507,1000,,L1-dcache-load-misses,180798,100.00,16.79,of all L1-dcache accesses
+     9.852401507,5956,,L1-dcache-loads,180798,100.00,,
+     9.852401507,3594,,L1-dcache-stores,180798,100.00,,
+     9.852401507,23806,,instructions,180798,100.00,,
+     9.953020204,327,,L1-dcache-load-misses,39334,100.00,12.42,of all L1-dcache accesses
+     9.953020204,2633,,L1-dcache-loads,39334,100.00,,
+     9.953020204,1615,,L1-dcache-stores,39334,100.00,,
+     9.953020204,10728,,instructions,39334,100.00,,
+    10.053617515,326,,L1-dcache-load-misses,71419,100.00,12.42,of all L1-dcache accesses
+    10.053617515,2625,,L1-dcache-loads,71419,100.00,,
+    10.053617515,1609,,L1-dcache-stores,71419,100.00,,
+    10.053617515,10690,,instructions,71419,100.00,,
+    10.154101069,321,,L1-dcache-load-misses,80862,100.00,12.26,of all L1-dcache accesses
+    10.154101069,2618,,L1-dcache-loads,80862,100.00,,
+    10.154101069,1604,,L1-dcache-stores,80862,100.00,,
+    10.154101069,10661,,instructions,80862,100.00,,
+    10.254683695,327,,L1-dcache-load-misses,71037,100.00,12.48,of all L1-dcache accesses
+    10.254683695,2620,,L1-dcache-loads,71037,100.00,,
+    10.254683695,1606,,L1-dcache-stores,71037,100.00,,
+    10.254683695,10668,,instructions,71037,100.00,,
+    10.355282831,676,,L1-dcache-load-misses,130879,100.00,14.79,of all L1-dcache accesses
+    10.355282831,4571,,L1-dcache-loads,130879,100.00,,
+    10.355282831,2769,,L1-dcache-stores,130879,100.00,,
+    10.355282831,18268,,instructions,130879,100.00,,
+    10.455889777,407,,L1-dcache-load-misses,79450,100.00,14.92,of all L1-dcache accesses
+    10.455889777,2727,,L1-dcache-loads,79450,100.00,,
+    10.455889777,1660,,L1-dcache-stores,79450,100.00,,
+    10.455889777,11037,,instructions,79450,100.00,,
+    10.556513207,319,,L1-dcache-load-misses,78085,100.00,12.09,of all L1-dcache accesses
+    10.556513207,2638,,L1-dcache-loads,78085,100.00,,
+    10.556513207,1617,,L1-dcache-stores,78085,100.00,,
+    10.556513207,10731,,instructions,78085,100.00,,
+    10.656917734,359,,L1-dcache-load-misses,78976,100.00,13.25,of all L1-dcache accesses
+    10.656917734,2710,,L1-dcache-loads,78976,100.00,,
+    10.656917734,1643,,L1-dcache-stores,78976,100.00,,
+    10.656917734,10971,,instructions,78976,100.00,,
+    10.757426745,554,,L1-dcache-load-misses,125764,100.00,13.09,of all L1-dcache accesses
+    10.757426745,4231,,L1-dcache-loads,125764,100.00,,
+    10.757426745,2583,,L1-dcache-stores,125764,100.00,,
+    10.757426745,17092,,instructions,125764,100.00,,
+    10.857873961,588,,L1-dcache-load-misses,119929,100.00,13.80,of all L1-dcache accesses
+    10.857873961,4260,,L1-dcache-loads,119929,100.00,,
+    10.857873961,2585,,L1-dcache-stores,119929,100.00,,
+    10.857873961,17105,,instructions,119929,100.00,,
+    10.958471183,455,,L1-dcache-load-misses,35186,100.00,17.41,of all L1-dcache accesses
+    10.958471183,2614,,L1-dcache-loads,35186,100.00,,
+    10.958471183,1605,,L1-dcache-stores,35186,100.00,,
+    10.958471183,10650,,instructions,35186,100.00,,
+    11.058959909,323,,L1-dcache-load-misses,80788,100.00,12.34,of all L1-dcache accesses
+    11.058959909,2618,,L1-dcache-loads,80788,100.00,,
+    11.058959909,1606,,L1-dcache-stores,80788,100.00,,
+    11.058959909,10658,,instructions,80788,100.00,,
+    11.159596799,317,,L1-dcache-load-misses,74624,100.00,12.06,of all L1-dcache accesses
+    11.159596799,2629,,L1-dcache-loads,74624,100.00,,
+    11.159596799,1615,,L1-dcache-stores,74624,100.00,,
+    11.159596799,10705,,instructions,74624,100.00,,
+    11.259996002,328,,L1-dcache-load-misses,37582,100.00,12.47,of all L1-dcache accesses
+    11.259996002,2631,,L1-dcache-loads,37582,100.00,,
+    11.259996002,1617,,L1-dcache-stores,37582,100.00,,
+    11.259996002,10727,,instructions,37582,100.00,,
+    11.360353574,590,,L1-dcache-load-misses,129177,100.00,13.86,of all L1-dcache accesses
+    11.360353574,4258,,L1-dcache-loads,129177,100.00,,
+    11.360353574,2574,,L1-dcache-stores,129177,100.00,,
+    11.360353574,17102,,instructions,129177,100.00,,
+    11.460986488,420,,L1-dcache-load-misses,66707,100.00,16.06,of all L1-dcache accesses
+    11.460986488,2615,,L1-dcache-loads,66707,100.00,,
+    11.460986488,1611,,L1-dcache-stores,66707,100.00,,
+    11.460986488,10666,,instructions,66707,100.00,,
+    11.561692702,317,,L1-dcache-load-misses,74539,100.00,12.06,of all L1-dcache accesses
+    11.561692702,2628,,L1-dcache-loads,74539,100.00,,
+    11.561692702,1614,,L1-dcache-stores,74539,100.00,,
+    11.561692702,10705,,instructions,74539,100.00,,
+    11.662225313,329,,L1-dcache-load-misses,80404,100.00,12.56,of all L1-dcache accesses
+    11.662225313,2620,,L1-dcache-loads,80404,100.00,,
+    11.662225313,1604,,L1-dcache-stores,80404,100.00,,
+    11.662225313,10670,,instructions,80404,100.00,,
+    11.762849529,646,,L1-dcache-load-misses,130280,100.00,14.06,of all L1-dcache accesses
+    11.762849529,4596,,L1-dcache-loads,130280,100.00,,
+    11.762849529,2799,,L1-dcache-stores,130280,100.00,,
+    11.762849529,18460,,instructions,130280,100.00,,
+    11.863324973,645,,L1-dcache-load-misses,122848,100.00,14.75,of all L1-dcache accesses
+    11.863324973,4374,,L1-dcache-loads,122848,100.00,,
+    11.863324973,2635,,L1-dcache-stores,122848,100.00,,
+    11.863324973,17487,,instructions,122848,100.00,,
+    11.963989024,329,,L1-dcache-load-misses,74140,100.00,12.36,of all L1-dcache accesses
+    11.963989024,2661,,L1-dcache-loads,74140,100.00,,
+    11.963989024,1635,,L1-dcache-stores,74140,100.00,,
+    11.963989024,10826,,instructions,74140,100.00,,
+    12.064614596,329,,L1-dcache-load-misses,74934,100.00,12.56,of all L1-dcache accesses
+    12.064614596,2619,,L1-dcache-loads,74934,100.00,,
+    12.064614596,1605,,L1-dcache-stores,74934,100.00,,
+    12.064614596,10666,,instructions,74934,100.00,,
+    12.165179631,310,,L1-dcache-load-misses,76556,100.00,11.84,of all L1-dcache accesses
+    12.165179631,2618,,L1-dcache-loads,76556,100.00,,
+    12.165179631,1606,,L1-dcache-stores,76556,100.00,,
+    12.165179631,10671,,instructions,76556,100.00,,
+    12.265668423,323,,L1-dcache-load-misses,78149,100.00,12.30,of all L1-dcache accesses
+    12.265668423,2625,,L1-dcache-loads,78149,100.00,,
+    12.265668423,1612,,L1-dcache-stores,78149,100.00,,
+    12.265668423,10694,,instructions,78149,100.00,,
+    12.366290242,573,,L1-dcache-load-misses,128683,100.00,13.50,of all L1-dcache accesses
+    12.366290242,4245,,L1-dcache-loads,128683,100.00,,
+    12.366290242,2568,,L1-dcache-stores,128683,100.00,,
+    12.366290242,17050,,instructions,128683,100.00,,
+    12.466884527,320,,L1-dcache-load-misses,75988,100.00,12.18,of all L1-dcache accesses
+    12.466884527,2627,,L1-dcache-loads,75988,100.00,,
+    12.466884527,1614,,L1-dcache-stores,75988,100.00,,
+    12.466884527,10694,,instructions,75988,100.00,,
+    12.567339913,317,,L1-dcache-load-misses,80622,100.00,12.07,of all L1-dcache accesses
+    12.567339913,2627,,L1-dcache-loads,80622,100.00,,
+    12.567339913,1610,,L1-dcache-stores,80622,100.00,,
+    12.567339913,10695,,instructions,80622,100.00,,
+    12.668020818,313,,L1-dcache-load-misses,75241,100.00,11.96,of all L1-dcache accesses
+    12.668020818,2616,,L1-dcache-loads,75241,100.00,,
+    12.668020818,1604,,L1-dcache-stores,75241,100.00,,
+    12.668020818,10654,,instructions,75241,100.00,,
+    12.768602645,554,,L1-dcache-load-misses,129740,100.00,12.88,of all L1-dcache accesses
+    12.768602645,4302,,L1-dcache-loads,129740,100.00,,
+    12.768602645,2614,,L1-dcache-stores,129740,100.00,,
+    12.768602645,17332,,instructions,129740,100.00,,
+    12.869021041,586,,L1-dcache-load-misses,122883,100.00,13.33,of all L1-dcache accesses
+    12.869021041,4396,,L1-dcache-loads,122883,100.00,,
+    12.869021041,2639,,L1-dcache-stores,122883,100.00,,
+    12.869021041,17580,,instructions,122883,100.00,,
+    12.969739947,317,,L1-dcache-load-misses,50343,100.00,12.06,of all L1-dcache accesses
+    12.969739947,2628,,L1-dcache-loads,50343,100.00,,
+    12.969739947,1612,,L1-dcache-stores,50343,100.00,,
+    12.969739947,10710,,instructions,50343,100.00,,
+    13.070384157,667,,L1-dcache-load-misses,148691,100.00,11.49,of all L1-dcache accesses
+    13.070384157,5806,,L1-dcache-loads,148691,100.00,,
+    13.070384157,3499,,L1-dcache-stores,148691,100.00,,
+    13.070384157,21533,,instructions,148691,100.00,,
+    13.171037411,301,,L1-dcache-load-misses,77787,100.00,11.47,of all L1-dcache accesses
+    13.171037411,2625,,L1-dcache-loads,77787,100.00,,
+    13.171037411,1612,,L1-dcache-stores,77787,100.00,,
+    13.171037411,10701,,instructions,77787,100.00,,
+    13.271671464,394,,L1-dcache-load-misses,78951,100.00,14.79,of all L1-dcache accesses
+    13.271671464,2664,,L1-dcache-loads,78951,100.00,,
+    13.271671464,1631,,L1-dcache-stores,78951,100.00,,
+    13.271671464,10831,,instructions,78951,100.00,,
+    13.372129875,616,,L1-dcache-load-misses,131866,100.00,14.09,of all L1-dcache accesses
+    13.372129875,4371,,L1-dcache-loads,131866,100.00,,
+    13.372129875,2637,,L1-dcache-stores,131866,100.00,,
+    13.372129875,17602,,instructions,131866,100.00,,
+    13.472764791,322,,L1-dcache-load-misses,74920,100.00,12.26,of all L1-dcache accesses
+    13.472764791,2626,,L1-dcache-loads,74920,100.00,,
+    13.472764791,1609,,L1-dcache-stores,74920,100.00,,
+    13.472764791,10694,,instructions,74920,100.00,,
+    13.573306735,319,,L1-dcache-load-misses,72626,100.00,12.15,of all L1-dcache accesses
+    13.573306735,2625,,L1-dcache-loads,72626,100.00,,
+    13.573306735,1612,,L1-dcache-stores,72626,100.00,,
+    13.573306735,10692,,instructions,72626,100.00,,
+    13.673835749,321,,L1-dcache-load-misses,80855,100.00,12.22,of all L1-dcache accesses
+    13.673835749,2627,,L1-dcache-loads,80855,100.00,,
+    13.673835749,1609,,L1-dcache-stores,80855,100.00,,
+    13.673835749,10695,,instructions,80855,100.00,,
+    13.774393470,2653,,L1-dcache-load-misses,422748,100.00,11.02,of all L1-dcache accesses
+    13.774393470,24084,,L1-dcache-loads,422748,100.00,,
+    13.774393470,15121,,L1-dcache-stores,422748,100.00,,
+    13.774393470,94133,,instructions,422748,100.00,,
+    13.874803636,590,,L1-dcache-load-misses,112862,100.00,13.87,of all L1-dcache accesses
+    13.874803636,4254,,L1-dcache-loads,112862,100.00,,
+    13.874803636,2577,,L1-dcache-stores,112862,100.00,,
+    13.874803636,17078,,instructions,112862,100.00,,
+    13.975452833,362,,L1-dcache-load-misses,52254,100.00,13.35,of all L1-dcache accesses
+    13.975452833,2712,,L1-dcache-loads,52254,100.00,,
+    13.975452833,1648,,L1-dcache-stores,52254,100.00,,
+    13.975452833,10978,,instructions,52254,100.00,,
+    14.076077645,318,,L1-dcache-load-misses,77668,100.00,12.07,of all L1-dcache accesses
+    14.076077645,2634,,L1-dcache-loads,77668,100.00,,
+    14.076077645,1617,,L1-dcache-stores,77668,100.00,,
+    14.076077645,10714,,instructions,77668,100.00,,
+    14.176750014,316,,L1-dcache-load-misses,82648,100.00,12.07,of all L1-dcache accesses
+    14.176750014,2617,,L1-dcache-loads,82648,100.00,,
+    14.176750014,1605,,L1-dcache-stores,82648,100.00,,
+    14.176750014,10655,,instructions,82648,100.00,,
+    14.277379705,339,,L1-dcache-load-misses,30002,100.00,12.70,of all L1-dcache accesses
+    14.277379705,2670,,L1-dcache-loads,30002,100.00,,
+    14.277379705,1638,,L1-dcache-stores,30002,100.00,,
+    14.277379705,10851,,instructions,30002,100.00,,
+    14.377727092,599,,L1-dcache-load-misses,128002,100.00,13.93,of all L1-dcache accesses
+    14.377727092,4300,,L1-dcache-loads,128002,100.00,,
+    14.377727092,2600,,L1-dcache-stores,128002,100.00,,
+    14.377727092,17231,,instructions,128002,100.00,,
+    14.478362355,323,,L1-dcache-load-misses,75158,100.00,12.31,of all L1-dcache accesses
+    14.478362355,2623,,L1-dcache-loads,75158,100.00,,
+    14.478362355,1612,,L1-dcache-stores,75158,100.00,,
+    14.478362355,10685,,instructions,75158,100.00,,
+    14.578991825,328,,L1-dcache-load-misses,74778,100.00,12.50,of all L1-dcache accesses
+    14.578991825,2625,,L1-dcache-loads,74778,100.00,,
+    14.578991825,1607,,L1-dcache-stores,74778,100.00,,
+    14.578991825,10690,,instructions,74778,100.00,,
+    14.679602240,317,,L1-dcache-load-misses,81059,100.00,12.09,of all L1-dcache accesses
+    14.679602240,2622,,L1-dcache-loads,81059,100.00,,
+    14.679602240,1606,,L1-dcache-stores,81059,100.00,,
+    14.679602240,10673,,instructions,81059,100.00,,
+    14.780088722,542,,L1-dcache-load-misses,126536,100.00,12.87,of all L1-dcache accesses
+    14.780088722,4211,,L1-dcache-loads,126536,100.00,,
+    14.780088722,2572,,L1-dcache-stores,126536,100.00,,
+    14.780088722,17030,,instructions,126536,100.00,,
+    14.880580052,576,,L1-dcache-load-misses,120051,100.00,13.53,of all L1-dcache accesses
+    14.880580052,4258,,L1-dcache-loads,120051,100.00,,
+    14.880580052,2579,,L1-dcache-stores,120051,100.00,,
+    14.880580052,17101,,instructions,120051,100.00,,
+    14.981307244,325,,L1-dcache-load-misses,43917,100.00,12.40,of all L1-dcache accesses
+    14.981307244,2620,,L1-dcache-loads,43917,100.00,,
+    14.981307244,1604,,L1-dcache-stores,43917,100.00,,
+    14.981307244,10668,,instructions,43917,100.00,,
+    15.081927978,326,,L1-dcache-load-misses,78052,100.00,12.42,of all L1-dcache accesses
+    15.081927978,2625,,L1-dcache-loads,78052,100.00,,
+    15.081927978,1609,,L1-dcache-stores,78052,100.00,,
+    15.081927978,10695,,instructions,78052,100.00,,
+    15.182431520,327,,L1-dcache-load-misses,79273,100.00,12.48,of all L1-dcache accesses
+    15.182431520,2620,,L1-dcache-loads,79273,100.00,,
+    15.182431520,1604,,L1-dcache-stores,79273,100.00,,
+    15.182431520,10668,,instructions,79273,100.00,,
+    15.283050283,341,,L1-dcache-load-misses,74832,100.00,12.75,of all L1-dcache accesses
+    15.283050283,2674,,L1-dcache-loads,74832,100.00,,
+    15.283050283,1638,,L1-dcache-stores,74832,100.00,,
+    15.283050283,10867,,instructions,74832,100.00,,
+    15.383694169,672,,L1-dcache-load-misses,124042,100.00,14.77,of all L1-dcache accesses
+    15.383694169,4551,,L1-dcache-loads,124042,100.00,,
+    15.383694169,2761,,L1-dcache-stores,124042,100.00,,
+    15.383694169,18187,,instructions,124042,100.00,,
+    15.484184935,365,,L1-dcache-load-misses,76751,100.00,13.42,of all L1-dcache accesses
+    15.484184935,2720,,L1-dcache-loads,76751,100.00,,
+    15.484184935,1653,,L1-dcache-stores,76751,100.00,,
+    15.484184935,11004,,instructions,76751,100.00,,
+    15.584814360,342,,L1-dcache-load-misses,78651,100.00,12.86,of all L1-dcache accesses
+    15.584814360,2659,,L1-dcache-loads,78651,100.00,,
+    15.584814360,1624,,L1-dcache-stores,78651,100.00,,
+    15.584814360,10805,,instructions,78651,100.00,,
+    15.685417157,445,,L1-dcache-load-misses,73305,100.00,11.26,of all L1-dcache accesses
+    15.685417157,3951,,L1-dcache-loads,73305,100.00,,
+    15.685417157,2293,,L1-dcache-stores,73305,100.00,,
+    15.685417157,15126,,instructions,73305,100.00,,
+    15.785970218,608,,L1-dcache-load-misses,125566,100.00,13.93,of all L1-dcache accesses
+    15.785970218,4364,,L1-dcache-loads,125566,100.00,,
+    15.785970218,2646,,L1-dcache-stores,125566,100.00,,
+    15.785970218,17547,,instructions,125566,100.00,,
+    15.886369289,582,,L1-dcache-load-misses,122020,100.00,13.61,of all L1-dcache accesses
+    15.886369289,4275,,L1-dcache-loads,122020,100.00,,
+    15.886369289,2589,,L1-dcache-stores,122020,100.00,,
+    15.886369289,17154,,instructions,122020,100.00,,
+    15.987033638,330,,L1-dcache-load-misses,44403,100.00,12.57,of all L1-dcache accesses
+    15.987033638,2625,,L1-dcache-loads,44403,100.00,,
+    15.987033638,1607,,L1-dcache-stores,44403,100.00,,
+    15.987033638,10690,,instructions,44403,100.00,,
+    16.087645137,378,,L1-dcache-load-misses,70730,100.00,13.94,of all L1-dcache accesses
+    16.087645137,2712,,L1-dcache-loads,70730,100.00,,
+    16.087645137,1648,,L1-dcache-stores,70730,100.00,,
+    16.087645137,10974,,instructions,70730,100.00,,
+    16.188277393,340,,L1-dcache-load-misses,81026,100.00,12.78,of all L1-dcache accesses
+    16.188277393,2660,,L1-dcache-loads,81026,100.00,,
+    16.188277393,1625,,L1-dcache-stores,81026,100.00,,
+    16.188277393,10815,,instructions,81026,100.00,,
+    16.288950508,320,,L1-dcache-load-misses,66735,100.00,12.24,of all L1-dcache accesses
+    16.288950508,2614,,L1-dcache-loads,66735,100.00,,
+    16.288950508,1604,,L1-dcache-stores,66735,100.00,,
+    16.288950508,10649,,instructions,66735,100.00,,
+    16.389604573,602,,L1-dcache-load-misses,128218,100.00,14.09,of all L1-dcache accesses
+    16.389604573,4272,,L1-dcache-loads,128218,100.00,,
+    16.389604573,2583,,L1-dcache-stores,128218,100.00,,
+    16.389604573,17139,,instructions,128218,100.00,,
+    16.490239347,329,,L1-dcache-load-misses,41061,100.00,12.43,of all L1-dcache accesses
+    16.490239347,2647,,L1-dcache-loads,41061,100.00,,
+    16.490239347,1628,,L1-dcache-stores,41061,100.00,,
+    16.490239347,10769,,instructions,41061,100.00,,
+    16.590769938,651,,L1-dcache-load-misses,81140,100.00,15.22,of all L1-dcache accesses
+    16.590769938,4277,,L1-dcache-loads,81140,100.00,,
+    16.590769938,2428,,L1-dcache-stores,81140,100.00,,
+    16.590769938,16369,,instructions,81140,100.00,,
+    16.691403665,321,,L1-dcache-load-misses,75725,100.00,12.23,of all L1-dcache accesses
+    16.691403665,2625,,L1-dcache-loads,75725,100.00,,
+    16.691403665,1609,,L1-dcache-stores,75725,100.00,,
+    16.691403665,10690,,instructions,75725,100.00,,
+    16.792035719,760,,L1-dcache-load-misses,141906,100.00,13.31,of all L1-dcache accesses
+    16.792035719,5709,,L1-dcache-loads,141906,100.00,,
+    16.792035719,3431,,L1-dcache-stores,141906,100.00,,
+    16.792035719,22216,,instructions,141906,100.00,,
+    16.892471015,569,,L1-dcache-load-misses,119336,100.00,13.39,of all L1-dcache accesses
+    16.892471015,4250,,L1-dcache-loads,119336,100.00,,
+    16.892471015,2573,,L1-dcache-stores,119336,100.00,,
+    16.892471015,17075,,instructions,119336,100.00,,
+    16.993061110,312,,L1-dcache-load-misses,72456,100.00,11.91,of all L1-dcache accesses
+    16.993061110,2620,,L1-dcache-loads,72456,100.00,,
+    16.993061110,1609,,L1-dcache-stores,72456,100.00,,
+    16.993061110,10677,,instructions,72456,100.00,,
+    17.093519098,321,,L1-dcache-load-misses,81413,100.00,12.28,of all L1-dcache accesses
+    17.093519098,2615,,L1-dcache-loads,81413,100.00,,
+    17.093519098,1605,,L1-dcache-stores,81413,100.00,,
+    17.093519098,10648,,instructions,81413,100.00,,
+    17.194129198,331,,L1-dcache-load-misses,79918,100.00,12.64,of all L1-dcache accesses
+    17.194129198,2618,,L1-dcache-loads,79918,100.00,,
+    17.194129198,1604,,L1-dcache-stores,79918,100.00,,
+    17.194129198,10661,,instructions,79918,100.00,,
+    17.294740605,330,,L1-dcache-load-misses,30984,100.00,12.61,of all L1-dcache accesses
+    17.294740605,2616,,L1-dcache-loads,30984,100.00,,
+    17.294740605,1604,,L1-dcache-stores,30984,100.00,,
+    17.294740605,10658,,instructions,30984,100.00,,
+    17.395312613,601,,L1-dcache-load-misses,123893,100.00,14.09,of all L1-dcache accesses
+    17.395312613,4264,,L1-dcache-loads,123893,100.00,,
+    17.395312613,2581,,L1-dcache-stores,123893,100.00,,
+    17.395312613,17120,,instructions,123893,100.00,,
+    17.495946875,341,,L1-dcache-load-misses,77072,100.00,12.60,of all L1-dcache accesses
+    17.495946875,2707,,L1-dcache-loads,77072,100.00,,
+    17.495946875,1654,,L1-dcache-stores,77072,100.00,,
+    17.495946875,11098,,instructions,77072,100.00,,
+    17.596587149,335,,L1-dcache-load-misses,75128,100.00,12.66,of all L1-dcache accesses
+    17.596587149,2647,,L1-dcache-loads,75128,100.00,,
+    17.596587149,1622,,L1-dcache-stores,75128,100.00,,
+    17.596587149,10773,,instructions,75128,100.00,,
+    17.697231139,320,,L1-dcache-load-misses,79943,100.00,12.19,of all L1-dcache accesses
+    17.697231139,2626,,L1-dcache-loads,79943,100.00,,
+    17.697231139,1610,,L1-dcache-stores,79943,100.00,,
+    17.697231139,10700,,instructions,79943,100.00,,
+    17.797864278,546,,L1-dcache-load-misses,131181,100.00,12.90,of all L1-dcache accesses
+    17.797864278,4231,,L1-dcache-loads,131181,100.00,,
+    17.797864278,2587,,L1-dcache-stores,131181,100.00,,
+    17.797864278,17104,,instructions,131181,100.00,,
+    17.898329475,592,,L1-dcache-load-misses,121891,100.00,13.89,of all L1-dcache accesses
+    17.898329475,4261,,L1-dcache-loads,121891,100.00,,
+    17.898329475,2583,,L1-dcache-stores,121891,100.00,,
+    17.898329475,17112,,instructions,121891,100.00,,
+    17.998993025,327,,L1-dcache-load-misses,73695,100.00,12.45,of all L1-dcache accesses
+    17.998993025,2627,,L1-dcache-loads,73695,100.00,,
+    17.998993025,1609,,L1-dcache-stores,73695,100.00,,
+    17.998993025,10697,,instructions,73695,100.00,,
+    18.099628986,330,,L1-dcache-load-misses,73276,100.00,12.59,of all L1-dcache accesses
+    18.099628986,2621,,L1-dcache-loads,73276,100.00,,
+    18.099628986,1607,,L1-dcache-stores,73276,100.00,,
+    18.099628986,10678,,instructions,73276,100.00,,
+    18.200277906,329,,L1-dcache-load-misses,80356,100.00,12.50,of all L1-dcache accesses
+    18.200277906,2632,,L1-dcache-loads,80356,100.00,,
+    18.200277906,1612,,L1-dcache-stores,80356,100.00,,
+    18.200277906,10719,,instructions,80356,100.00,,
+    18.300901159,322,,L1-dcache-load-misses,79894,100.00,12.24,of all L1-dcache accesses
+    18.300901159,2631,,L1-dcache-loads,79894,100.00,,
+    18.300901159,1617,,L1-dcache-stores,79894,100.00,,
+    18.300901159,10719,,instructions,79894,100.00,,
+    18.401605286,635,,L1-dcache-load-misses,128773,100.00,14.56,of all L1-dcache accesses
+    18.401605286,4361,,L1-dcache-loads,128773,100.00,,
+    18.401605286,2627,,L1-dcache-stores,128773,100.00,,
+    18.401605286,17452,,instructions,128773,100.00,,
+    18.502158751,689,,L1-dcache-load-misses,151623,100.00,11.41,of all L1-dcache accesses
+    18.502158751,6038,,L1-dcache-loads,151623,100.00,,
+    18.502158751,3664,,L1-dcache-stores,151623,100.00,,
+    18.502158751,22390,,instructions,151623,100.00,,
+    18.602574335,320,,L1-dcache-load-misses,74817,100.00,12.24,of all L1-dcache accesses
+    18.602574335,2614,,L1-dcache-loads,74817,100.00,,
+    18.602574335,1604,,L1-dcache-stores,74817,100.00,,
+    18.602574335,10647,,instructions,74817,100.00,,
+    18.703258155,326,,L1-dcache-load-misses,69202,100.00,12.44,of all L1-dcache accesses
+    18.703258155,2621,,L1-dcache-loads,69202,100.00,,
+    18.703258155,1607,,L1-dcache-stores,69202,100.00,,
+    18.703258155,10678,,instructions,69202,100.00,,
+    18.803912190,1683,,L1-dcache-load-misses,300048,100.00,14.50,of all L1-dcache accesses
+    18.803912190,11603,,L1-dcache-loads,300048,100.00,,
+    18.803912190,7367,,L1-dcache-stores,300048,100.00,,
+    18.803912190,45829,,instructions,300048,100.00,,
+    18.904308374,590,,L1-dcache-load-misses,122069,100.00,13.88,of all L1-dcache accesses
+    18.904308374,4252,,L1-dcache-loads,122069,100.00,,
+    18.904308374,2571,,L1-dcache-stores,122069,100.00,,
+    18.904308374,17078,,instructions,122069,100.00,,
+    19.004964106,336,,L1-dcache-load-misses,35502,100.00,12.84,of all L1-dcache accesses
+    19.004964106,2616,,L1-dcache-loads,35502,100.00,,
+    19.004964106,1605,,L1-dcache-stores,35502,100.00,,
+    19.004964106,10659,,instructions,35502,100.00,,
+    19.105405966,323,,L1-dcache-load-misses,76652,100.00,12.29,of all L1-dcache accesses
+    19.105405966,2629,,L1-dcache-loads,76652,100.00,,
+    19.105405966,1611,,L1-dcache-stores,76652,100.00,,
+    19.105405966,10699,,instructions,76652,100.00,,
+    19.206054108,324,,L1-dcache-load-misses,81112,100.00,12.35,of all L1-dcache accesses
+    19.206054108,2623,,L1-dcache-loads,81112,100.00,,
+    19.206054108,1607,,L1-dcache-stores,81112,100.00,,
+    19.206054108,10676,,instructions,81112,100.00,,
+    19.306695801,325,,L1-dcache-load-misses,71475,100.00,12.40,of all L1-dcache accesses
+    19.306695801,2621,,L1-dcache-loads,71475,100.00,,
+    19.306695801,1607,,L1-dcache-stores,71475,100.00,,
+    19.306695801,10678,,instructions,71475,100.00,,
+    19.407256223,619,,L1-dcache-load-misses,123648,100.00,14.30,of all L1-dcache accesses
+    19.407256223,4329,,L1-dcache-loads,123648,100.00,,
+    19.407256223,2618,,L1-dcache-stores,123648,100.00,,
+    19.407256223,17334,,instructions,123648,100.00,,
+    19.507938647,335,,L1-dcache-load-misses,80158,100.00,12.62,of all L1-dcache accesses
+    19.507938647,2655,,L1-dcache-loads,80158,100.00,,
+    19.507938647,1625,,L1-dcache-stores,80158,100.00,,
+    19.507938647,10802,,instructions,80158,100.00,,
+    19.608441705,334,,L1-dcache-load-misses,74299,100.00,12.73,of all L1-dcache accesses
+    19.608441705,2623,,L1-dcache-loads,74299,100.00,,
+    19.608441705,1607,,L1-dcache-stores,74299,100.00,,
+    19.608441705,10685,,instructions,74299,100.00,,
+    19.709085769,323,,L1-dcache-load-misses,81251,100.00,12.29,of all L1-dcache accesses
+    19.709085769,2628,,L1-dcache-loads,81251,100.00,,
+    19.709085769,1610,,L1-dcache-stores,81251,100.00,,
+    19.709085769,10707,,instructions,81251,100.00,,
+    19.809814154,588,,L1-dcache-load-misses,126831,100.00,13.62,of all L1-dcache accesses
+    19.809814154,4318,,L1-dcache-loads,126831,100.00,,
+    19.809814154,2625,,L1-dcache-stores,126831,100.00,,
+    19.809814154,17401,,instructions,126831,100.00,,
+    19.910234511,591,,L1-dcache-load-misses,119161,100.00,13.88,of all L1-dcache accesses
+    19.910234511,4257,,L1-dcache-loads,119161,100.00,,
+    19.910234511,2578,,L1-dcache-stores,119161,100.00,,
+    19.910234511,17099,,instructions,119161,100.00,,
+    20.010900696,332,,L1-dcache-load-misses,35938,100.00,12.66,of all L1-dcache accesses
+    20.010900696,2623,,L1-dcache-loads,35938,100.00,,
+    20.010900696,1607,,L1-dcache-stores,35938,100.00,,
+    20.010900696,10685,,instructions,35938,100.00,,
+    20.111475919,328,,L1-dcache-load-misses,73670,100.00,12.51,of all L1-dcache accesses
+    20.111475919,2621,,L1-dcache-loads,73670,100.00,,
+    20.111475919,1607,,L1-dcache-stores,73670,100.00,,
+    20.111475919,10678,,instructions,73670,100.00,,
+    20.212106441,324,,L1-dcache-load-misses,79234,100.00,12.39,of all L1-dcache accesses
+    20.212106441,2616,,L1-dcache-loads,79234,100.00,,
+    20.212106441,1604,,L1-dcache-stores,79234,100.00,,
+    20.212106441,10654,,instructions,79234,100.00,,
+    20.312803450,323,,L1-dcache-load-misses,28430,100.00,12.34,of all L1-dcache accesses
+    20.312803450,2618,,L1-dcache-loads,28430,100.00,,
+    20.312803450,1604,,L1-dcache-stores,28430,100.00,,
+    20.312803450,10663,,instructions,28430,100.00,,
+    20.413248777,697,,L1-dcache-load-misses,133874,100.00,15.18,of all L1-dcache accesses
+    20.413248777,4591,,L1-dcache-loads,133874,100.00,,
+    20.413248777,2778,,L1-dcache-stores,133874,100.00,,
+    20.413248777,18364,,instructions,133874,100.00,,
+    20.513886402,334,,L1-dcache-load-misses,74487,100.00,12.65,of all L1-dcache accesses
+    20.513886402,2640,,L1-dcache-loads,74487,100.00,,
+    20.513886402,1619,,L1-dcache-stores,74487,100.00,,
+    20.513886402,10744,,instructions,74487,100.00,,
+    20.614418388,325,,L1-dcache-load-misses,79718,100.00,12.39,of all L1-dcache accesses
+    20.614418388,2623,,L1-dcache-loads,79718,100.00,,
+    20.614418388,1607,,L1-dcache-stores,79718,100.00,,
+    20.614418388,10685,,instructions,79718,100.00,,
+    20.715056921,346,,L1-dcache-load-misses,74881,100.00,12.93,of all L1-dcache accesses
+    20.715056921,2675,,L1-dcache-loads,74881,100.00,,
+    20.715056921,1635,,L1-dcache-stores,74881,100.00,,
+    20.715056921,10865,,instructions,74881,100.00,,
+    20.815714009,549,,L1-dcache-load-misses,121395,100.00,12.91,of all L1-dcache accesses
+    20.815714009,4253,,L1-dcache-loads,121395,100.00,,
+    20.815714009,2587,,L1-dcache-stores,121395,100.00,,
+    20.815714009,17175,,instructions,121395,100.00,,
+    20.916103291,631,,L1-dcache-load-misses,132148,100.00,14.00,of all L1-dcache accesses
+    20.916103291,4508,,L1-dcache-loads,132148,100.00,,
+    20.916103291,2688,,L1-dcache-stores,132148,100.00,,
+    20.916103291,17961,,instructions,132148,100.00,,
+    21.016687416,335,,L1-dcache-load-misses,32979,100.00,12.57,of all L1-dcache accesses
+    21.016687416,2666,,L1-dcache-loads,32979,100.00,,
+    21.016687416,1634,,L1-dcache-stores,32979,100.00,,
+    21.016687416,10836,,instructions,32979,100.00,,
+    21.117215198,330,,L1-dcache-load-misses,68948,100.00,12.28,of all L1-dcache accesses
+    21.117215198,2687,,L1-dcache-loads,68948,100.00,,
+    21.117215198,1642,,L1-dcache-stores,68948,100.00,,
+    21.117215198,11032,,instructions,68948,100.00,,
+    21.217656815,302,,L1-dcache-load-misses,72596,100.00,11.57,of all L1-dcache accesses
+    21.217656815,2611,,L1-dcache-loads,72596,100.00,,
+    21.217656815,1597,,L1-dcache-stores,72596,100.00,,
+    21.217656815,10645,,instructions,72596,100.00,,
+    21.318325525,337,,L1-dcache-load-misses,80500,100.00,12.80,of all L1-dcache accesses
+    21.318325525,2633,,L1-dcache-loads,80500,100.00,,
+    21.318325525,1617,,L1-dcache-stores,80500,100.00,,
+    21.318325525,10721,,instructions,80500,100.00,,
+    21.418934485,595,,L1-dcache-load-misses,125088,100.00,13.94,of all L1-dcache accesses
+    21.418934485,4268,,L1-dcache-loads,125088,100.00,,
+    21.418934485,2582,,L1-dcache-stores,125088,100.00,,
+    21.418934485,17138,,instructions,125088,100.00,,
+    21.519604421,332,,L1-dcache-load-misses,23216,100.00,12.70,of all L1-dcache accesses
+    21.519604421,2615,,L1-dcache-loads,23216,100.00,,
+    21.519604421,1605,,L1-dcache-stores,23216,100.00,,
+    21.519604421,10648,,instructions,23216,100.00,,
+    21.620119081,313,,L1-dcache-load-misses,84050,100.00,11.95,of all L1-dcache accesses
+    21.620119081,2619,,L1-dcache-loads,84050,100.00,,
+    21.620119081,1605,,L1-dcache-stores,84050,100.00,,
+    21.620119081,10664,,instructions,84050,100.00,,
+    21.720765737,332,,L1-dcache-load-misses,87304,100.00,12.66,of all L1-dcache accesses
+    21.720765737,2623,,L1-dcache-loads,87304,100.00,,
+    21.720765737,1610,,L1-dcache-stores,87304,100.00,,
+    21.720765737,10685,,instructions,87304,100.00,,
+    21.821379175,545,,L1-dcache-load-misses,114758,100.00,12.95,of all L1-dcache accesses
+    21.821379175,4208,,L1-dcache-loads,114758,100.00,,
+    21.821379175,2572,,L1-dcache-stores,114758,100.00,,
+    21.821379175,17018,,instructions,114758,100.00,,
+    21.921798856,593,,L1-dcache-load-misses,122710,100.00,13.90,of all L1-dcache accesses
+    21.921798856,4265,,L1-dcache-loads,122710,100.00,,
+    21.921798856,2584,,L1-dcache-stores,122710,100.00,,
+    21.921798856,17123,,instructions,122710,100.00,,
+    22.022463828,398,,L1-dcache-load-misses,25981,100.00,14.80,of all L1-dcache accesses
+    22.022463828,2689,,L1-dcache-loads,25981,100.00,,
+    22.022463828,1645,,L1-dcache-stores,25981,100.00,,
+    22.022463828,10924,,instructions,25981,100.00,,
+    22.123107118,336,,L1-dcache-load-misses,80823,100.00,12.67,of all L1-dcache accesses
+    22.123107118,2651,,L1-dcache-loads,80823,100.00,,
+    22.123107118,1622,,L1-dcache-stores,80823,100.00,,
+    22.123107118,10779,,instructions,80823,100.00,,
+    22.223504446,317,,L1-dcache-load-misses,74435,100.00,12.10,of all L1-dcache accesses
+    22.223504446,2620,,L1-dcache-loads,74435,100.00,,
+    22.223504446,1604,,L1-dcache-stores,74435,100.00,,
+    22.223504446,10668,,instructions,74435,100.00,,
+    22.324149403,346,,L1-dcache-load-misses,74013,100.00,13.13,of all L1-dcache accesses
+    22.324149403,2635,,L1-dcache-loads,74013,100.00,,
+    22.324149403,1620,,L1-dcache-stores,74013,100.00,,
+    22.324149403,10750,,instructions,74013,100.00,,
+    22.424773837,602,,L1-dcache-load-misses,123248,100.00,14.12,of all L1-dcache accesses
+    22.424773837,4262,,L1-dcache-loads,123248,100.00,,
+    22.424773837,2579,,L1-dcache-stores,123248,100.00,,
+    22.424773837,17106,,instructions,123248,100.00,,
+    22.525420182,344,,L1-dcache-load-misses,82805,100.00,12.71,of all L1-dcache accesses
+    22.525420182,2707,,L1-dcache-loads,82805,100.00,,
+    22.525420182,1654,,L1-dcache-stores,82805,100.00,,
+    22.525420182,11098,,instructions,82805,100.00,,
+    22.626096435,322,,L1-dcache-load-misses,73155,100.00,12.22,of all L1-dcache accesses
+    22.626096435,2635,,L1-dcache-loads,73155,100.00,,
+    22.626096435,1616,,L1-dcache-stores,73155,100.00,,
+    22.626096435,10720,,instructions,73155,100.00,,
+    22.726693289,329,,L1-dcache-load-misses,80548,100.00,12.54,of all L1-dcache accesses
+    22.726693289,2623,,L1-dcache-loads,80548,100.00,,
+    22.726693289,1607,,L1-dcache-stores,80548,100.00,,
+    22.726693289,10685,,instructions,80548,100.00,,
+    22.827150962,551,,L1-dcache-load-misses,141335,100.00,13.00,of all L1-dcache accesses
+    22.827150962,4240,,L1-dcache-loads,141335,100.00,,
+    22.827150962,2590,,L1-dcache-stores,141335,100.00,,
+    22.827150962,17142,,instructions,141335,100.00,,
+    22.927615975,607,,L1-dcache-load-misses,116942,100.00,14.23,of all L1-dcache accesses
+    22.927615975,4267,,L1-dcache-loads,116942,100.00,,
+    22.927615975,2584,,L1-dcache-stores,116942,100.00,,
+    22.927615975,17132,,instructions,116942,100.00,,
+    23.028234336,329,,L1-dcache-load-misses,74099,100.00,12.49,of all L1-dcache accesses
+    23.028234336,2634,,L1-dcache-loads,74099,100.00,,
+    23.028234336,1617,,L1-dcache-stores,74099,100.00,,
+    23.028234336,10728,,instructions,74099,100.00,,
+    23.128883897,325,,L1-dcache-load-misses,73190,100.00,12.40,of all L1-dcache accesses
+    23.128883897,2621,,L1-dcache-loads,73190,100.00,,
+    23.128883897,1607,,L1-dcache-stores,73190,100.00,,
+    23.128883897,10676,,instructions,73190,100.00,,
+    23.229274270,353,,L1-dcache-load-misses,75164,100.00,13.49,of all L1-dcache accesses
+    23.229274270,2616,,L1-dcache-loads,75164,100.00,,
+    23.229274270,1604,,L1-dcache-stores,75164,100.00,,
+    23.229274270,10654,,instructions,75164,100.00,,
+    23.329720492,342,,L1-dcache-load-misses,28953,100.00,12.80,of all L1-dcache accesses
+    23.329720492,2671,,L1-dcache-loads,28953,100.00,,
+    23.329720492,1638,,L1-dcache-stores,28953,100.00,,
+    23.329720492,10853,,instructions,28953,100.00,,
+    23.430311128,615,,L1-dcache-load-misses,121733,100.00,14.27,of all L1-dcache accesses
+    23.430311128,4309,,L1-dcache-loads,121733,100.00,,
+    23.430311128,2603,,L1-dcache-stores,121733,100.00,,
+    23.430311128,17276,,instructions,121733,100.00,,
+    23.530973471,349,,L1-dcache-load-misses,76030,100.00,13.09,of all L1-dcache accesses
+    23.530973471,2667,,L1-dcache-loads,76030,100.00,,
+    23.530973471,1636,,L1-dcache-stores,76030,100.00,,
+    23.530973471,10841,,instructions,76030,100.00,,
+    23.631589497,452,,L1-dcache-load-misses,79423,100.00,17.04,of all L1-dcache accesses
+    23.631589497,2653,,L1-dcache-loads,79423,100.00,,
+    23.631589497,1622,,L1-dcache-stores,79423,100.00,,
+    23.631589497,10786,,instructions,79423,100.00,,
+    23.732222538,327,,L1-dcache-load-misses,74792,100.00,12.49,of all L1-dcache accesses
+    23.732222538,2618,,L1-dcache-loads,74792,100.00,,
+    23.732222538,1604,,L1-dcache-stores,74792,100.00,,
+    23.732222538,10661,,instructions,74792,100.00,,
+    23.832824356,2030,,L1-dcache-load-misses,359054,100.00,12.81,of all L1-dcache accesses
+    23.832824356,15847,,L1-dcache-loads,359054,100.00,,
+    23.832824356,10261,,L1-dcache-stores,359054,100.00,,
+    23.832824356,60702,,instructions,359054,100.00,,
+    23.933278887,605,,L1-dcache-load-misses,131687,100.00,14.22,of all L1-dcache accesses
+    23.933278887,4256,,L1-dcache-loads,131687,100.00,,
+    23.933278887,2578,,L1-dcache-stores,131687,100.00,,
+    23.933278887,17086,,instructions,131687,100.00,,
+    24.033703484,349,,L1-dcache-load-misses,67099,100.00,13.30,of all L1-dcache accesses
+    24.033703484,2625,,L1-dcache-loads,67099,100.00,,
+    24.033703484,1609,,L1-dcache-stores,67099,100.00,,
+    24.033703484,10701,,instructions,67099,100.00,,
+    24.134189055,331,,L1-dcache-load-misses,67162,100.00,12.61,of all L1-dcache accesses
+    24.134189055,2625,,L1-dcache-loads,67162,100.00,,
+    24.134189055,1609,,L1-dcache-stores,67162,100.00,,
+    24.134189055,10687,,instructions,67162,100.00,,
+    24.234816300,320,,L1-dcache-load-misses,77784,100.00,12.20,of all L1-dcache accesses
+    24.234816300,2624,,L1-dcache-loads,77784,100.00,,
+    24.234816300,1610,,L1-dcache-stores,77784,100.00,,
+    24.234816300,10687,,instructions,77784,100.00,,
+    24.335267545,342,,L1-dcache-load-misses,81554,100.00,12.78,of all L1-dcache accesses
+    24.335267545,2677,,L1-dcache-loads,81554,100.00,,
+    24.335267545,1641,,L1-dcache-stores,81554,100.00,,
+    24.335267545,10882,,instructions,81554,100.00,,
+    24.435906957,611,,L1-dcache-load-misses,129982,100.00,14.20,of all L1-dcache accesses
+    24.435906957,4302,,L1-dcache-loads,129982,100.00,,
+    24.435906957,2600,,L1-dcache-stores,129982,100.00,,
+    24.435906957,17238,,instructions,129982,100.00,,
+    24.536340488,368,,L1-dcache-load-misses,72125,100.00,13.61,of all L1-dcache accesses
+    24.536340488,2704,,L1-dcache-loads,72125,100.00,,
+    24.536340488,1650,,L1-dcache-stores,72125,100.00,,
+    24.536340488,10967,,instructions,72125,100.00,,
+    24.636959965,447,,L1-dcache-load-misses,72393,100.00,16.85,of all L1-dcache accesses
+    24.636959965,2653,,L1-dcache-loads,72393,100.00,,
+    24.636959965,1622,,L1-dcache-stores,72393,100.00,,
+    24.636959965,10788,,instructions,72393,100.00,,
+    24.737619159,328,,L1-dcache-load-misses,74329,100.00,12.50,of all L1-dcache accesses
+    24.737619159,2623,,L1-dcache-loads,74329,100.00,,
+    24.737619159,1607,,L1-dcache-stores,74329,100.00,,
+    24.737619159,10685,,instructions,74329,100.00,,
+    24.838280318,545,,L1-dcache-load-misses,125261,100.00,12.92,of all L1-dcache accesses
+    24.838280318,4217,,L1-dcache-loads,125261,100.00,,
+    24.838280318,2578,,L1-dcache-stores,125261,100.00,,
+    24.838280318,17048,,instructions,125261,100.00,,
+    24.938743372,590,,L1-dcache-load-misses,130288,100.00,13.70,of all L1-dcache accesses
+    24.938743372,4307,,L1-dcache-loads,130288,100.00,,
+    24.938743372,2603,,L1-dcache-stores,130288,100.00,,
+    24.938743372,17388,,instructions,130288,100.00,,
+    25.039334558,334,,L1-dcache-load-misses,22004,100.00,12.77,of all L1-dcache accesses
+    25.039334558,2616,,L1-dcache-loads,22004,100.00,,
+    25.039334558,1604,,L1-dcache-stores,22004,100.00,,
+    25.039334558,10654,,instructions,22004,100.00,,
+    25.139840407,327,,L1-dcache-load-misses,51810,100.00,12.47,of all L1-dcache accesses
+    25.139840407,2623,,L1-dcache-loads,51810,100.00,,
+    25.139840407,1607,,L1-dcache-stores,51810,100.00,,
+    25.139840407,10687,,instructions,51810,100.00,,
+    25.240464802,332,,L1-dcache-load-misses,64147,100.00,12.69,of all L1-dcache accesses
+    25.240464802,2616,,L1-dcache-loads,64147,100.00,,
+    25.240464802,1604,,L1-dcache-stores,64147,100.00,,
+    25.240464802,10656,,instructions,64147,100.00,,
+    25.341099155,324,,L1-dcache-load-misses,74284,100.00,12.35,of all L1-dcache accesses
+    25.341099155,2624,,L1-dcache-loads,74284,100.00,,
+    25.341099155,1608,,L1-dcache-stores,74284,100.00,,
+    25.341099155,10686,,instructions,74284,100.00,,
+    25.441575710,605,,L1-dcache-load-misses,120773,100.00,14.25,of all L1-dcache accesses
+    25.441575710,4245,,L1-dcache-loads,120773,100.00,,
+    25.441575710,2569,,L1-dcache-stores,120773,100.00,,
+    25.441575710,17036,,instructions,120773,100.00,,
+    25.542189674,343,,L1-dcache-load-misses,76068,100.00,12.84,of all L1-dcache accesses
+    25.542189674,2671,,L1-dcache-loads,76068,100.00,,
+    25.542189674,1633,,L1-dcache-stores,76068,100.00,,
+    25.542189674,10853,,instructions,76068,100.00,,
+    25.642824983,340,,L1-dcache-load-misses,73365,100.00,12.85,of all L1-dcache accesses
+    25.642824983,2646,,L1-dcache-loads,73365,100.00,,
+    25.642824983,1619,,L1-dcache-stores,73365,100.00,,
+    25.642824983,10757,,instructions,73365,100.00,,
+    25.743271558,325,,L1-dcache-load-misses,74478,100.00,12.40,of all L1-dcache accesses
+    25.743271558,2621,,L1-dcache-loads,74478,100.00,,
+    25.743271558,1607,,L1-dcache-stores,74478,100.00,,
+    25.743271558,10676,,instructions,74478,100.00,,
+    25.843697409,717,,L1-dcache-load-misses,115749,100.00,16.79,of all L1-dcache accesses
+    25.843697409,4271,,L1-dcache-loads,115749,100.00,,
+    25.843697409,2606,,L1-dcache-stores,115749,100.00,,
+    25.843697409,17235,,instructions,115749,100.00,,
+    25.944157786,591,,L1-dcache-load-misses,121043,100.00,13.90,of all L1-dcache accesses
+    25.944157786,4253,,L1-dcache-loads,121043,100.00,,
+    25.944157786,2578,,L1-dcache-stores,121043,100.00,,
+    25.944157786,17070,,instructions,121043,100.00,,
+    26.044782273,405,,L1-dcache-load-misses,70433,100.00,15.17,of all L1-dcache accesses
+    26.044782273,2669,,L1-dcache-loads,70433,100.00,,
+    26.044782273,1632,,L1-dcache-stores,70433,100.00,,
+    26.044782273,10841,,instructions,70433,100.00,,
+    26.145402337,328,,L1-dcache-load-misses,74913,100.00,12.40,of all L1-dcache accesses
+    26.145402337,2645,,L1-dcache-loads,74913,100.00,,
+    26.145402337,1620,,L1-dcache-stores,74913,100.00,,
+    26.145402337,10762,,instructions,74913,100.00,,
+    26.245852003,322,,L1-dcache-load-misses,72334,100.00,12.31,of all L1-dcache accesses
+    26.245852003,2616,,L1-dcache-loads,72334,100.00,,
+    26.245852003,1604,,L1-dcache-stores,72334,100.00,,
+    26.245852003,10654,,instructions,72334,100.00,,
+    26.346307172,331,,L1-dcache-load-misses,70794,100.00,12.65,of all L1-dcache accesses
+    26.346307172,2616,,L1-dcache-loads,70794,100.00,,
+    26.346307172,1604,,L1-dcache-stores,70794,100.00,,
+    26.346307172,10658,,instructions,70794,100.00,,
+    26.446829002,853,,L1-dcache-load-misses,134471,100.00,15.16,of all L1-dcache accesses
+    26.446829002,5627,,L1-dcache-loads,134471,100.00,,
+    26.446829002,3295,,L1-dcache-stores,134471,100.00,,
+    26.446829002,21645,,instructions,134471,100.00,,
+    26.547391650,657,,L1-dcache-load-misses,109620,100.00,12.38,of all L1-dcache accesses
+    26.547391650,5309,,L1-dcache-loads,109620,100.00,,
+    26.547391650,3257,,L1-dcache-stores,109620,100.00,,
+    26.547391650,21595,,instructions,109620,100.00,,
+    26.648028606,<not counted>,,L1-dcache-load-misses,0,100.00,,
+    26.648028606,<not counted>,,L1-dcache-loads,0,100.00,,
+    26.648028606,<not counted>,,L1-dcache-stores,0,100.00,,
+    26.648028606,<not counted>,,instructions,0,100.00,,
+    26.748611643,698,,L1-dcache-load-misses,161884,100.00,13.02,of all L1-dcache accesses
+    26.748611643,5362,,L1-dcache-loads,161884,100.00,,
+    26.748611643,3270,,L1-dcache-stores,161884,100.00,,
+    26.748611643,21749,,instructions,161884,100.00,,
+    26.849245881,226,,L1-dcache-load-misses,50258,100.00,14.11,of all L1-dcache accesses
+    26.849245881,1602,,L1-dcache-loads,50258,100.00,,
+    26.849245881,975,,L1-dcache-stores,50258,100.00,,
+    26.849245881,6395,,instructions,50258,100.00,,
+    26.949693716,995,,L1-dcache-load-misses,206926,100.00,14.44,of all L1-dcache accesses
+    26.949693716,6892,,L1-dcache-loads,206926,100.00,,
+    26.949693716,4192,,L1-dcache-stores,206926,100.00,,
+    26.949693716,27822,,instructions,206926,100.00,,
+    27.050159345,<not counted>,,L1-dcache-load-misses,0,100.00,,
+    27.050159345,<not counted>,,L1-dcache-loads,0,100.00,,
+    27.050159345,<not counted>,,L1-dcache-stores,0,100.00,,
+    27.050159345,<not counted>,,instructions,0,100.00,,
+    27.150580796,642,,L1-dcache-load-misses,144561,100.00,12.22,of all L1-dcache accesses
+    27.150580796,5254,,L1-dcache-loads,144561,100.00,,
+    27.150580796,3223,,L1-dcache-stores,144561,100.00,,
+    27.150580796,21406,,instructions,144561,100.00,,
+    27.251205085,<not counted>,,L1-dcache-load-misses,0,100.00,,
+    27.251205085,<not counted>,,L1-dcache-loads,0,100.00,,
+    27.251205085,<not counted>,,L1-dcache-stores,0,100.00,,
+    27.251205085,<not counted>,,instructions,0,100.00,,
+    27.351818300,664,,L1-dcache-load-misses,156121,100.00,12.66,of all L1-dcache accesses
+    27.351818300,5245,,L1-dcache-loads,156121,100.00,,
+    27.351818300,3218,,L1-dcache-stores,156121,100.00,,
+    27.351818300,21360,,instructions,156121,100.00,,
+    27.452255985,281,,L1-dcache-load-misses,48789,100.00,17.18,of all L1-dcache accesses
+    27.452255985,1636,,L1-dcache-loads,48789,100.00,,
+    27.452255985,972,,L1-dcache-stores,48789,100.00,,
+    27.452255985,6419,,instructions,48789,100.00,,
+    27.552878454,646,,L1-dcache-load-misses,147242,100.00,12.31,of all L1-dcache accesses
+    27.552878454,5246,,L1-dcache-loads,147242,100.00,,
+    27.552878454,3216,,L1-dcache-stores,147242,100.00,,
+    27.552878454,21354,,instructions,147242,100.00,,
+    27.653309089,<not counted>,,L1-dcache-load-misses,0,100.00,,
+    27.653309089,<not counted>,,L1-dcache-loads,0,100.00,,
+    27.653309089,<not counted>,,L1-dcache-stores,0,100.00,,
+    27.653309089,<not counted>,,instructions,0,100.00,,
+    27.753744510,707,,L1-dcache-load-misses,148751,100.00,13.13,of all L1-dcache accesses
+    27.753744510,5384,,L1-dcache-loads,148751,100.00,,
+    27.753744510,3279,,L1-dcache-stores,148751,100.00,,
+    27.753744510,21823,,instructions,148751,100.00,,
+    27.854390450,233,,L1-dcache-load-misses,47794,100.00,14.49,of all L1-dcache accesses
+    27.854390450,1608,,L1-dcache-loads,47794,100.00,,
+    27.854390450,977,,L1-dcache-stores,47794,100.00,,
+    27.854390450,6414,,instructions,47794,100.00,,
+    27.954824541,926,,L1-dcache-load-misses,233359,100.00,13.47,of all L1-dcache accesses
+    27.954824541,6873,,L1-dcache-loads,233359,100.00,,
+    27.954824541,4183,,L1-dcache-stores,233359,100.00,,
+    27.954824541,27736,,instructions,233359,100.00,,
+    28.055438663,<not counted>,,L1-dcache-load-misses,0,100.00,,
+    28.055438663,<not counted>,,L1-dcache-loads,0,100.00,,
+    28.055438663,<not counted>,,L1-dcache-stores,0,100.00,,
+    28.055438663,<not counted>,,instructions,0,100.00,,
+    28.156039528,759,,L1-dcache-load-misses,153864,100.00,11.72,of all L1-dcache accesses
+    28.156039528,6474,,L1-dcache-loads,153864,100.00,,
+    28.156039528,3853,,L1-dcache-stores,153864,100.00,,
+    28.156039528,25442,,instructions,153864,100.00,,
+    28.256513452,<not counted>,,L1-dcache-load-misses,0,100.00,,
+    28.256513452,<not counted>,,L1-dcache-loads,0,100.00,,
+    28.256513452,<not counted>,,L1-dcache-stores,0,100.00,,
+    28.256513452,<not counted>,,instructions,0,100.00,,
+    28.357126909,646,,L1-dcache-load-misses,156119,100.00,12.33,of all L1-dcache accesses
+    28.357126909,5238,,L1-dcache-loads,156119,100.00,,
+    28.357126909,3212,,L1-dcache-stores,156119,100.00,,
+    28.357126909,21335,,instructions,156119,100.00,,
+    28.457793356,276,,L1-dcache-load-misses,46853,100.00,16.97,of all L1-dcache accesses
+    28.457793356,1626,,L1-dcache-loads,46853,100.00,,
+    28.457793356,964,,L1-dcache-stores,46853,100.00,,
+    28.457793356,6372,,instructions,46853,100.00,,
+    28.558445054,756,,L1-dcache-load-misses,159205,100.00,13.54,of all L1-dcache accesses
+    28.558445054,5582,,L1-dcache-loads,159205,100.00,,
+    28.558445054,3412,,L1-dcache-stores,159205,100.00,,
+    28.558445054,22632,,instructions,159205,100.00,,
+    28.659059940,<not counted>,,L1-dcache-load-misses,0,100.00,,
+    28.659059940,<not counted>,,L1-dcache-loads,0,100.00,,
+    28.659059940,<not counted>,,L1-dcache-stores,0,100.00,,
+    28.659059940,<not counted>,,instructions,0,100.00,,
+    28.759638507,711,,L1-dcache-load-misses,162596,100.00,13.06,of all L1-dcache accesses
+    28.759638507,5446,,L1-dcache-loads,162596,100.00,,
+    28.759638507,3313,,L1-dcache-stores,162596,100.00,,
+    28.759638507,22170,,instructions,162596,100.00,,
+    28.860272572,1197,,L1-dcache-load-misses,206423,100.00,13.55,of all L1-dcache accesses
+    28.860272572,8837,,L1-dcache-loads,206423,100.00,,
+    28.860272572,5687,,L1-dcache-stores,206423,100.00,,
+    28.860272572,34518,,instructions,206423,100.00,,
+    28.960653548,965,,L1-dcache-load-misses,201863,100.00,13.57,of all L1-dcache accesses
+    28.960653548,7113,,L1-dcache-loads,201863,100.00,,
+    28.960653548,4303,,L1-dcache-stores,201863,100.00,,
+    28.960653548,28622,,instructions,201863,100.00,,
+    29.061298057,<not counted>,,L1-dcache-load-misses,0,100.00,,
+    29.061298057,<not counted>,,L1-dcache-loads,0,100.00,,
+    29.061298057,<not counted>,,L1-dcache-stores,0,100.00,,
+    29.061298057,<not counted>,,instructions,0,100.00,,
+    29.161910457,649,,L1-dcache-load-misses,152860,100.00,12.31,of all L1-dcache accesses
+    29.161910457,5270,,L1-dcache-loads,152860,100.00,,
+    29.161910457,3238,,L1-dcache-stores,152860,100.00,,
+    29.161910457,21453,,instructions,152860,100.00,,
+    29.262333545,<not counted>,,L1-dcache-load-misses,0,100.00,,
+    29.262333545,<not counted>,,L1-dcache-loads,0,100.00,,
+    29.262333545,<not counted>,,L1-dcache-stores,0,100.00,,
+    29.262333545,<not counted>,,instructions,0,100.00,,
+    29.362964661,658,,L1-dcache-load-misses,134798,100.00,12.50,of all L1-dcache accesses
+    29.362964661,5262,,L1-dcache-loads,134798,100.00,,
+    29.362964661,3232,,L1-dcache-stores,134798,100.00,,
+    29.362964661,21446,,instructions,134798,100.00,,
+    29.463566225,281,,L1-dcache-load-misses,48424,100.00,17.00,of all L1-dcache accesses
+    29.463566225,1653,,L1-dcache-loads,48424,100.00,,
+    29.463566225,984,,L1-dcache-stores,48424,100.00,,
+    29.463566225,6474,,instructions,48424,100.00,,
+    29.564194109,1242,,L1-dcache-load-misses,200363,100.00,13.70,of all L1-dcache accesses
+    29.564194109,9063,,L1-dcache-loads,200363,100.00,,
+    29.564194109,5523,,L1-dcache-stores,200363,100.00,,
+    29.564194109,34814,,instructions,200363,100.00,,
+    29.664820204,<not counted>,,L1-dcache-load-misses,0,100.00,,
+    29.664820204,<not counted>,,L1-dcache-loads,0,100.00,,
+    29.664820204,<not counted>,,L1-dcache-stores,0,100.00,,
+    29.664820204,<not counted>,,instructions,0,100.00,,
+    29.765235843,709,,L1-dcache-load-misses,151446,100.00,13.44,of all L1-dcache accesses
+    29.765235843,5274,,L1-dcache-loads,151446,100.00,,
+    29.765235843,3230,,L1-dcache-stores,151446,100.00,,
+    29.765235843,21472,,instructions,151446,100.00,,
+    29.865910352,226,,L1-dcache-load-misses,45909,100.00,14.05,of all L1-dcache accesses
+    29.865910352,1608,,L1-dcache-loads,45909,100.00,,
+    29.865910352,978,,L1-dcache-stores,45909,100.00,,
+    29.865910352,6424,,instructions,45909,100.00,,
+    29.966337726,993,,L1-dcache-load-misses,182439,100.00,14.20,of all L1-dcache accesses
+    29.966337726,6992,,L1-dcache-loads,182439,100.00,,
+    29.966337726,4244,,L1-dcache-stores,182439,100.00,,
+    29.966337726,28165,,instructions,182439,100.00,,
+    30.066767914,<not counted>,,L1-dcache-load-misses,0,100.00,,
+    30.066767914,<not counted>,,L1-dcache-loads,0,100.00,,
+    30.066767914,<not counted>,,L1-dcache-stores,0,100.00,,
+    30.066767914,<not counted>,,instructions,0,100.00,,
+    30.167344637,642,,L1-dcache-load-misses,145546,100.00,12.24,of all L1-dcache accesses
+    30.167344637,5246,,L1-dcache-loads,145546,100.00,,
+    30.167344637,3211,,L1-dcache-stores,145546,100.00,,
+    30.167344637,21358,,instructions,145546,100.00,,
+    30.267796240,<not counted>,,L1-dcache-load-misses,0,100.00,,
+    30.267796240,<not counted>,,L1-dcache-loads,0,100.00,,
+    30.267796240,<not counted>,,L1-dcache-stores,0,100.00,,
+    30.267796240,<not counted>,,instructions,0,100.00,,
+    30.368290938,997,,L1-dcache-load-misses,197169,100.00,13.95,of all L1-dcache accesses
+    30.368290938,7145,,L1-dcache-loads,197169,100.00,,
+    30.368290938,4355,,L1-dcache-stores,197169,100.00,,
+    30.368290938,28804,,instructions,197169,100.00,,
+    30.468899178,<not counted>,,L1-dcache-load-misses,0,100.00,,
+    30.468899178,<not counted>,,L1-dcache-loads,0,100.00,,
+    30.468899178,<not counted>,,L1-dcache-stores,0,100.00,,
+    30.468899178,<not counted>,,instructions,0,100.00,,
+    30.569545427,640,,L1-dcache-load-misses,151241,100.00,12.19,of all L1-dcache accesses
+    30.569545427,5251,,L1-dcache-loads,151241,100.00,,
+    30.569545427,3222,,L1-dcache-stores,151241,100.00,,
+    30.569545427,21384,,instructions,151241,100.00,,
+    30.669970012,<not counted>,,L1-dcache-load-misses,0,100.00,,
+    30.669970012,<not counted>,,L1-dcache-loads,0,100.00,,
+    30.669970012,<not counted>,,L1-dcache-stores,0,100.00,,
+    30.669970012,<not counted>,,instructions,0,100.00,,
+    30.770484897,885,,L1-dcache-load-misses,188885,100.00,12.86,of all L1-dcache accesses
+    30.770484897,6884,,L1-dcache-loads,188885,100.00,,
+    30.770484897,4211,,L1-dcache-stores,188885,100.00,,
+    30.770484897,27886,,instructions,188885,100.00,,
+    30.871102664,293,,L1-dcache-load-misses,47874,100.00,17.31,of all L1-dcache accesses
+    30.871102664,1693,,L1-dcache-loads,47874,100.00,,
+    30.871102664,999,,L1-dcache-stores,47874,100.00,,
+    30.871102664,6608,,instructions,47874,100.00,,
+    30.971531753,695,,L1-dcache-load-misses,149307,100.00,12.99,of all L1-dcache accesses
+    30.971531753,5352,,L1-dcache-loads,149307,100.00,,
+    30.971531753,3271,,L1-dcache-stores,149307,100.00,,
+    30.971531753,21738,,instructions,149307,100.00,,
+    31.072125111,<not counted>,,L1-dcache-load-misses,0,100.00,,
+    31.072125111,<not counted>,,L1-dcache-loads,0,100.00,,
+    31.072125111,<not counted>,,L1-dcache-stores,0,100.00,,
+    31.072125111,<not counted>,,instructions,0,100.00,,
+    31.172635429,693,,L1-dcache-load-misses,132297,100.00,12.96,of all L1-dcache accesses
+    31.172635429,5349,,L1-dcache-loads,132297,100.00,,
+    31.172635429,3266,,L1-dcache-stores,132297,100.00,,
+    31.172635429,21718,,instructions,132297,100.00,,
+    31.273064947,<not counted>,,L1-dcache-load-misses,0,100.00,,
+    31.273064947,<not counted>,,L1-dcache-loads,0,100.00,,
+    31.273064947,<not counted>,,L1-dcache-stores,0,100.00,,
+    31.273064947,<not counted>,,instructions,0,100.00,,
+    31.373614274,960,,L1-dcache-load-misses,188722,100.00,13.73,of all L1-dcache accesses
+    31.373614274,6990,,L1-dcache-loads,188722,100.00,,
+    31.373614274,4248,,L1-dcache-stores,188722,100.00,,
+    31.373614274,28181,,instructions,188722,100.00,,
+    31.474070336,<not counted>,,L1-dcache-load-misses,0,100.00,,
+    31.474070336,<not counted>,,L1-dcache-loads,0,100.00,,
+    31.474070336,<not counted>,,L1-dcache-stores,0,100.00,,
+    31.474070336,<not counted>,,instructions,0,100.00,,
+    31.574308759,653,,L1-dcache-load-misses,56672,100.00,12.44,of all L1-dcache accesses
+    31.574308759,5251,,L1-dcache-loads,56672,100.00,,
+    31.574308759,3224,,L1-dcache-stores,56672,100.00,,
+    31.574308759,21381,,instructions,56672,100.00,,
+    31.674751008,<not counted>,,L1-dcache-load-misses,0,100.00,,
+    31.674751008,<not counted>,,L1-dcache-loads,0,100.00,,
+    31.674751008,<not counted>,,L1-dcache-stores,0,100.00,,
+    31.674751008,<not counted>,,instructions,0,100.00,,
+    31.775182060,969,,L1-dcache-load-misses,212944,100.00,14.17,of all L1-dcache accesses
+    31.775182060,6840,,L1-dcache-loads,212944,100.00,,
+    31.775182060,4187,,L1-dcache-stores,212944,100.00,,
+    31.775182060,27744,,instructions,212944,100.00,,
+    31.875700972,591,,L1-dcache-load-misses,121069,100.00,13.88,of all L1-dcache accesses
+    31.875700972,4259,,L1-dcache-loads,121069,100.00,,
+    31.875700972,2580,,L1-dcache-stores,121069,100.00,,
+    31.875700972,17098,,instructions,121069,100.00,,
+    31.976094169,320,,L1-dcache-load-misses,31183,100.00,12.17,of all L1-dcache accesses
+    31.976094169,2630,,L1-dcache-loads,31183,100.00,,
+    31.976094169,1615,,L1-dcache-stores,31183,100.00,,
+    31.976094169,10716,,instructions,31183,100.00,,
+    32.076390415,324,,L1-dcache-load-misses,81808,100.00,12.36,of all L1-dcache accesses
+    32.076390415,2621,,L1-dcache-loads,81808,100.00,,
+    32.076390415,1607,,L1-dcache-stores,81808,100.00,,
+    32.076390415,10678,,instructions,81808,100.00,,
+    32.177032594,317,,L1-dcache-load-misses,80086,100.00,12.09,of all L1-dcache accesses
+    32.177032594,2621,,L1-dcache-loads,80086,100.00,,
+    32.177032594,1607,,L1-dcache-stores,80086,100.00,,
+    32.177032594,10676,,instructions,80086,100.00,,
+    32.277485758,347,,L1-dcache-load-misses,67185,100.00,13.25,of all L1-dcache accesses
+    32.277485758,2619,,L1-dcache-loads,67185,100.00,,
+    32.277485758,1605,,L1-dcache-stores,67185,100.00,,
+    32.277485758,10664,,instructions,67185,100.00,,
+    32.378116002,586,,L1-dcache-load-misses,139624,100.00,13.78,of all L1-dcache accesses
+    32.378116002,4253,,L1-dcache-loads,139624,100.00,,
+    32.378116002,2574,,L1-dcache-stores,139624,100.00,,
+    32.378116002,17079,,instructions,139624,100.00,,
+    32.478710144,341,,L1-dcache-load-misses,75750,100.00,12.82,of all L1-dcache accesses
+    32.478710144,2659,,L1-dcache-loads,75750,100.00,,
+    32.478710144,1631,,L1-dcache-stores,75750,100.00,,
+    32.478710144,10810,,instructions,75750,100.00,,
+    32.579333496,329,,L1-dcache-load-misses,79814,100.00,12.46,of all L1-dcache accesses
+    32.579333496,2640,,L1-dcache-loads,79814,100.00,,
+    32.579333496,1619,,L1-dcache-stores,79814,100.00,,
+    32.579333496,10744,,instructions,79814,100.00,,
+    32.679940857,316,,L1-dcache-load-misses,81367,100.00,12.03,of all L1-dcache accesses
+    32.679940857,2626,,L1-dcache-loads,81367,100.00,,
+    32.679940857,1610,,L1-dcache-stores,81367,100.00,,
+    32.679940857,10700,,instructions,81367,100.00,,
+    32.780516165,552,,L1-dcache-load-misses,132375,100.00,13.07,of all L1-dcache accesses
+    32.780516165,4225,,L1-dcache-loads,132375,100.00,,
+    32.780516165,2584,,L1-dcache-stores,132375,100.00,,
+    32.780516165,17076,,instructions,132375,100.00,,
+    32.881172329,590,,L1-dcache-load-misses,126241,100.00,13.83,of all L1-dcache accesses
+    32.881172329,4265,,L1-dcache-loads,126241,100.00,,
+    32.881172329,2589,,L1-dcache-stores,126241,100.00,,
+    32.881172329,17128,,instructions,126241,100.00,,
+    32.981602560,336,,L1-dcache-load-misses,79465,100.00,12.54,of all L1-dcache accesses
+    32.981602560,2680,,L1-dcache-loads,79465,100.00,,
+    32.981602560,1637,,L1-dcache-stores,79465,100.00,,
+    32.981602560,10874,,instructions,79465,100.00,,
+    33.081874864,338,,L1-dcache-load-misses,72394,100.00,12.80,of all L1-dcache accesses
+    33.081874864,2640,,L1-dcache-loads,72394,100.00,,
+    33.081874864,1620,,L1-dcache-stores,72394,100.00,,
+    33.081874864,10747,,instructions,72394,100.00,,
+    33.182423486,326,,L1-dcache-load-misses,99199,100.00,12.38,of all L1-dcache accesses
+    33.182423486,2633,,L1-dcache-loads,99199,100.00,,
+    33.182423486,1617,,L1-dcache-stores,99199,100.00,,
+    33.182423486,10726,,instructions,99199,100.00,,
+    33.282867783,329,,L1-dcache-load-misses,76615,100.00,12.55,of all L1-dcache accesses
+    33.282867783,2621,,L1-dcache-loads,76615,100.00,,
+    33.282867783,1608,,L1-dcache-stores,76615,100.00,,
+    33.282867783,10676,,instructions,76615,100.00,,
+    33.383259731,603,,L1-dcache-load-misses,128984,100.00,14.11,of all L1-dcache accesses
+    33.383259731,4273,,L1-dcache-loads,128984,100.00,,
+    33.383259731,2586,,L1-dcache-stores,128984,100.00,,
+    33.383259731,17137,,instructions,128984,100.00,,
+    33.483960668,328,,L1-dcache-load-misses,80999,100.00,12.51,of all L1-dcache accesses
+    33.483960668,2621,,L1-dcache-loads,80999,100.00,,
+    33.483960668,1608,,L1-dcache-stores,80999,100.00,,
+    33.483960668,10676,,instructions,80999,100.00,,
+    33.584604774,316,,L1-dcache-load-misses,80955,100.00,12.03,of all L1-dcache accesses
+    33.584604774,2627,,L1-dcache-loads,80955,100.00,,
+    33.584604774,1609,,L1-dcache-stores,80955,100.00,,
+    33.584604774,10697,,instructions,80955,100.00,,
+    33.685250654,356,,L1-dcache-load-misses,75891,100.00,13.19,of all L1-dcache accesses
+    33.685250654,2699,,L1-dcache-loads,75891,100.00,,
+    33.685250654,1644,,L1-dcache-stores,75891,100.00,,
+    33.685250654,10941,,instructions,75891,100.00,,
+    33.785797132,1556,,L1-dcache-load-misses,266338,100.00,15.14,of all L1-dcache accesses
+    33.785797132,10280,,L1-dcache-loads,266338,100.00,,
+    33.785797132,6385,,L1-dcache-stores,266338,100.00,,
+    33.785797132,40192,,instructions,266338,100.00,,
+    33.886395593,607,,L1-dcache-load-misses,121667,100.00,14.21,of all L1-dcache accesses
+    33.886395593,4271,,L1-dcache-loads,121667,100.00,,
+    33.886395593,2591,,L1-dcache-stores,121667,100.00,,
+    33.886395593,17152,,instructions,121667,100.00,,
+    33.986972131,974,,L1-dcache-load-misses,125945,100.00,13.32,of all L1-dcache accesses
+    33.986972131,7312,,L1-dcache-loads,125945,100.00,,
+    33.986972131,4042,,L1-dcache-stores,125945,100.00,,
+    33.986972131,28144,,instructions,125945,100.00,,
+    34.087452674,327,,L1-dcache-load-misses,80213,100.00,12.46,of all L1-dcache accesses
+    34.087452674,2625,,L1-dcache-loads,80213,100.00,,
+    34.087452674,1609,,L1-dcache-stores,80213,100.00,,
+    34.087452674,10685,,instructions,80213,100.00,,
+    34.188083003,320,,L1-dcache-load-misses,80734,100.00,12.21,of all L1-dcache accesses
+    34.188083003,2621,,L1-dcache-loads,80734,100.00,,
+    34.188083003,1607,,L1-dcache-stores,80734,100.00,,
+    34.188083003,10676,,instructions,80734,100.00,,
+    34.288728997,314,,L1-dcache-load-misses,73776,100.00,11.98,of all L1-dcache accesses
+    34.288728997,2622,,L1-dcache-loads,73776,100.00,,
+    34.288728997,1607,,L1-dcache-stores,73776,100.00,,
+    34.288728997,10682,,instructions,73776,100.00,,
+    34.389358469,589,,L1-dcache-load-misses,120964,100.00,13.86,of all L1-dcache accesses
+    34.389358469,4250,,L1-dcache-loads,120964,100.00,,
+    34.389358469,2574,,L1-dcache-stores,120964,100.00,,
+    34.389358469,17056,,instructions,120964,100.00,,
+    34.489803102,319,,L1-dcache-load-misses,80489,100.00,12.16,of all L1-dcache accesses
+    34.489803102,2623,,L1-dcache-loads,80489,100.00,,
+    34.489803102,1607,,L1-dcache-stores,80489,100.00,,
+    34.489803102,10683,,instructions,80489,100.00,,
+    34.590254143,312,,L1-dcache-load-misses,79068,100.00,11.91,of all L1-dcache accesses
+    34.590254143,2620,,L1-dcache-loads,79068,100.00,,
+    34.590254143,1606,,L1-dcache-stores,79068,100.00,,
+    34.590254143,10666,,instructions,79068,100.00,,
+    34.690892581,356,,L1-dcache-load-misses,76653,100.00,13.05,of all L1-dcache accesses
+    34.690892581,2727,,L1-dcache-loads,76653,100.00,,
+    34.690892581,1656,,L1-dcache-stores,76653,100.00,,
+    34.690892581,11036,,instructions,76653,100.00,,
+    34.791568352,541,,L1-dcache-load-misses,128446,100.00,12.79,of all L1-dcache accesses
+    34.791568352,4230,,L1-dcache-loads,128446,100.00,,
+    34.791568352,2590,,L1-dcache-stores,128446,100.00,,
+    34.791568352,17096,,instructions,128446,100.00,,
+    34.892205060,593,,L1-dcache-load-misses,120658,100.00,13.93,of all L1-dcache accesses
+    34.892205060,4256,,L1-dcache-loads,120658,100.00,,
+    34.892205060,2580,,L1-dcache-stores,120658,100.00,,
+    34.892205060,17088,,instructions,120658,100.00,,
+    34.992845526,316,,L1-dcache-load-misses,75189,100.00,12.04,of all L1-dcache accesses
+    34.992845526,2625,,L1-dcache-loads,75189,100.00,,
+    34.992845526,1609,,L1-dcache-stores,75189,100.00,,
+    34.992845526,10688,,instructions,75189,100.00,,
+    35.093089000,323,,L1-dcache-load-misses,32621,100.00,12.30,of all L1-dcache accesses
+    35.093089000,2625,,L1-dcache-loads,32621,100.00,,
+    35.093089000,1609,,L1-dcache-stores,32621,100.00,,
+    35.093089000,10690,,instructions,32621,100.00,,
+    35.193409849,583,,L1-dcache-load-misses,108700,100.00,10.84,of all L1-dcache accesses
+    35.193409849,5378,,L1-dcache-loads,108700,100.00,,
+    35.193409849,3297,,L1-dcache-stores,108700,100.00,,
+    35.193409849,20038,,instructions,108700,100.00,,
+    35.293855360,358,,L1-dcache-load-misses,77626,100.00,13.25,of all L1-dcache accesses
+    35.293855360,2702,,L1-dcache-loads,77626,100.00,,
+    35.293855360,1646,,L1-dcache-stores,77626,100.00,,
+    35.293855360,10955,,instructions,77626,100.00,,
+    35.394239888,714,,L1-dcache-load-misses,119696,100.00,16.66,of all L1-dcache accesses
+    35.394239888,4286,,L1-dcache-loads,119696,100.00,,
+    35.394239888,2598,,L1-dcache-stores,119696,100.00,,
+    35.394239888,17198,,instructions,119696,100.00,,
+    35.494804351,321,,L1-dcache-load-misses,68833,100.00,12.22,of all L1-dcache accesses
+    35.494804351,2626,,L1-dcache-loads,68833,100.00,,
+    35.494804351,1613,,L1-dcache-stores,68833,100.00,,
+    35.494804351,10701,,instructions,68833,100.00,,
+    35.595423439,316,,L1-dcache-load-misses,80551,100.00,12.02,of all L1-dcache accesses
+    35.595423439,2630,,L1-dcache-loads,80551,100.00,,
+    35.595423439,1612,,L1-dcache-stores,80551,100.00,,
+    35.595423439,10712,,instructions,80551,100.00,,
+    35.696062829,321,,L1-dcache-load-misses,75337,100.00,12.23,of all L1-dcache accesses
+    35.696062829,2625,,L1-dcache-loads,75337,100.00,,
+    35.696062829,1610,,L1-dcache-stores,75337,100.00,,
+    35.696062829,10699,,instructions,75337,100.00,,
+    35.796681951,543,,L1-dcache-load-misses,129765,100.00,12.91,of all L1-dcache accesses
+    35.796681951,4206,,L1-dcache-loads,129765,100.00,,
+    35.796681951,2572,,L1-dcache-stores,129765,100.00,,
+    35.796681951,17012,,instructions,129765,100.00,,
+    35.897317833,594,,L1-dcache-load-misses,117519,100.00,13.94,of all L1-dcache accesses
+    35.897317833,4261,,L1-dcache-loads,117519,100.00,,
+    35.897317833,2584,,L1-dcache-stores,117519,100.00,,
+    35.897317833,17111,,instructions,117519,100.00,,
+    35.997793766,360,,L1-dcache-load-misses,82722,100.00,13.23,of all L1-dcache accesses
+    35.997793766,2721,,L1-dcache-loads,82722,100.00,,
+    35.997793766,1653,,L1-dcache-stores,82722,100.00,,
+    35.997793766,11010,,instructions,82722,100.00,,
+    36.098208900,332,,L1-dcache-load-misses,75793,100.00,12.56,of all L1-dcache accesses
+    36.098208900,2644,,L1-dcache-loads,75793,100.00,,
+    36.098208900,1621,,L1-dcache-stores,75793,100.00,,
+    36.098208900,10767,,instructions,75793,100.00,,
+    36.198768046,316,,L1-dcache-load-misses,77517,100.00,12.07,of all L1-dcache accesses
+    36.198768046,2618,,L1-dcache-loads,77517,100.00,,
+    36.198768046,1606,,L1-dcache-stores,77517,100.00,,
+    36.198768046,10659,,instructions,77517,100.00,,
+    36.299401853,327,,L1-dcache-load-misses,80199,100.00,12.41,of all L1-dcache accesses
+    36.299401853,2634,,L1-dcache-loads,80199,100.00,,
+    36.299401853,1619,,L1-dcache-stores,80199,100.00,,
+    36.299401853,10735,,instructions,80199,100.00,,
+    36.400032932,610,,L1-dcache-load-misses,130048,100.00,14.24,of all L1-dcache accesses
+    36.400032932,4283,,L1-dcache-loads,130048,100.00,,
+    36.400032932,2593,,L1-dcache-stores,130048,100.00,,
+    36.400032932,17197,,instructions,130048,100.00,,
+    36.500639650,332,,L1-dcache-load-misses,28409,100.00,12.63,of all L1-dcache accesses
+    36.500639650,2629,,L1-dcache-loads,28409,100.00,,
+    36.500639650,1614,,L1-dcache-stores,28409,100.00,,
+    36.500639650,10701,,instructions,28409,100.00,,
+    36.601137961,320,,L1-dcache-load-misses,81816,100.00,12.19,of all L1-dcache accesses
+    36.601137961,2625,,L1-dcache-loads,81816,100.00,,
+    36.601137961,1613,,L1-dcache-stores,81816,100.00,,
+    36.601137961,10695,,instructions,81816,100.00,,
+    36.701590722,326,,L1-dcache-load-misses,72890,100.00,12.42,of all L1-dcache accesses
+    36.701590722,2625,,L1-dcache-loads,72890,100.00,,
+    36.701590722,1612,,L1-dcache-stores,72890,100.00,,
+    36.701590722,10692,,instructions,72890,100.00,,
+    36.802207188,549,,L1-dcache-load-misses,129609,100.00,13.00,of all L1-dcache accesses
+    36.802207188,4224,,L1-dcache-loads,129609,100.00,,
+    36.802207188,2588,,L1-dcache-stores,129609,100.00,,
+    36.802207188,17092,,instructions,129609,100.00,,
+    36.902860977,603,,L1-dcache-load-misses,123178,100.00,13.67,of all L1-dcache accesses
+    36.902860977,4410,,L1-dcache-loads,123178,100.00,,
+    36.902860977,2651,,L1-dcache-stores,123178,100.00,,
+    36.902860977,17649,,instructions,123178,100.00,,
+    37.003542052,319,,L1-dcache-load-misses,78588,100.00,12.15,of all L1-dcache accesses
+    37.003542052,2626,,L1-dcache-loads,78588,100.00,,
+    37.003542052,1613,,L1-dcache-stores,78588,100.00,,
+    37.003542052,10697,,instructions,78588,100.00,,
+    37.104000892,323,,L1-dcache-load-misses,44064,100.00,12.33,of all L1-dcache accesses
+    37.104000892,2619,,L1-dcache-loads,44064,100.00,,
+    37.104000892,1605,,L1-dcache-stores,44064,100.00,,
+    37.104000892,10664,,instructions,44064,100.00,,
+    37.204615177,528,,L1-dcache-load-misses,76314,100.00,17.50,of all L1-dcache accesses
+    37.204615177,3018,,L1-dcache-loads,76314,100.00,,
+    37.204615177,1845,,L1-dcache-stores,76314,100.00,,
+    37.204615177,12283,,instructions,76314,100.00,,
+    37.305237709,383,,L1-dcache-load-misses,112482,100.00,14.03,of all L1-dcache accesses
+    37.305237709,2730,,L1-dcache-loads,112482,100.00,,
+    37.305237709,1661,,L1-dcache-stores,112482,100.00,,
+    37.305237709,11058,,instructions,112482,100.00,,
+    37.405851467,619,,L1-dcache-load-misses,128233,100.00,14.37,of all L1-dcache accesses
+    37.405851467,4307,,L1-dcache-loads,128233,100.00,,
+    37.405851467,2604,,L1-dcache-stores,128233,100.00,,
+    37.405851467,17264,,instructions,128233,100.00,,
+    37.506305796,323,,L1-dcache-load-misses,78976,100.00,12.29,of all L1-dcache accesses
+    37.506305796,2628,,L1-dcache-loads,78976,100.00,,
+    37.506305796,1611,,L1-dcache-stores,78976,100.00,,
+    37.506305796,10696,,instructions,78976,100.00,,
+    37.606943342,317,,L1-dcache-load-misses,80371,100.00,12.08,of all L1-dcache accesses
+    37.606943342,2624,,L1-dcache-loads,80371,100.00,,
+    37.606943342,1608,,L1-dcache-stores,80371,100.00,,
+    37.606943342,10686,,instructions,80371,100.00,,
+    37.707554056,326,,L1-dcache-load-misses,79143,100.00,12.43,of all L1-dcache accesses
+    37.707554056,2623,,L1-dcache-loads,79143,100.00,,
+    37.707554056,1607,,L1-dcache-stores,79143,100.00,,
+    37.707554056,10683,,instructions,79143,100.00,,
+    37.808188801,539,,L1-dcache-load-misses,126472,100.00,12.80,of all L1-dcache accesses
+    37.808188801,4210,,L1-dcache-loads,126472,100.00,,
+    37.808188801,2574,,L1-dcache-stores,126472,100.00,,
+    37.808188801,17028,,instructions,126472,100.00,,
+    37.908854047,591,,L1-dcache-load-misses,128359,100.00,13.87,of all L1-dcache accesses
+    37.908854047,4262,,L1-dcache-loads,128359,100.00,,
+    37.908854047,2584,,L1-dcache-stores,128359,100.00,,
+    37.908854047,17115,,instructions,128359,100.00,,
+    38.009407091,318,,L1-dcache-load-misses,76730,100.00,12.11,of all L1-dcache accesses
+    38.009407091,2626,,L1-dcache-loads,76730,100.00,,
+    38.009407091,1612,,L1-dcache-stores,76730,100.00,,
+    38.009407091,10697,,instructions,76730,100.00,,
+    38.109854437,322,,L1-dcache-load-misses,44252,100.00,12.29,of all L1-dcache accesses
+    38.109854437,2621,,L1-dcache-loads,44252,100.00,,
+    38.109854437,1607,,L1-dcache-stores,44252,100.00,,
+    38.109854437,10678,,instructions,44252,100.00,,
+    38.210267180,309,,L1-dcache-load-misses,63905,100.00,11.80,of all L1-dcache accesses
+    38.210267180,2618,,L1-dcache-loads,63905,100.00,,
+    38.210267180,1604,,L1-dcache-stores,63905,100.00,,
+    38.210267180,10663,,instructions,63905,100.00,,
+    38.310871942,322,,L1-dcache-load-misses,78983,100.00,12.24,of all L1-dcache accesses
+    38.310871942,2631,,L1-dcache-loads,78983,100.00,,
+    38.310871942,1617,,L1-dcache-stores,78983,100.00,,
+    38.310871942,10719,,instructions,78983,100.00,,
+    38.411528614,595,,L1-dcache-load-misses,120887,100.00,13.97,of all L1-dcache accesses
+    38.411528614,4260,,L1-dcache-loads,120887,100.00,,
+    38.411528614,2582,,L1-dcache-stores,120887,100.00,,
+    38.411528614,17110,,instructions,120887,100.00,,
+    38.512143094,561,,L1-dcache-load-misses,93283,100.00,13.56,of all L1-dcache accesses
+    38.512143094,4138,,L1-dcache-loads,93283,100.00,,
+    38.512143094,2375,,L1-dcache-stores,93283,100.00,,
+    38.512143094,15834,,instructions,93283,100.00,,
+    38.612636361,322,,L1-dcache-load-misses,74616,100.00,12.22,of all L1-dcache accesses
+    38.612636361,2634,,L1-dcache-loads,74616,100.00,,
+    38.612636361,1615,,L1-dcache-stores,74616,100.00,,
+    38.612636361,10719,,instructions,74616,100.00,,
+    38.713257993,325,,L1-dcache-load-misses,76157,100.00,12.38,of all L1-dcache accesses
+    38.713257993,2625,,L1-dcache-loads,76157,100.00,,
+    38.713257993,1610,,L1-dcache-stores,76157,100.00,,
+    38.713257993,10699,,instructions,76157,100.00,,
+    38.813868095,2693,,L1-dcache-load-misses,450888,100.00,11.25,of all L1-dcache accesses
+    38.813868095,23929,,L1-dcache-loads,450888,100.00,,
+    38.813868095,15049,,L1-dcache-stores,450888,100.00,,
+    38.813868095,93561,,instructions,450888,100.00,,
+    38.914310611,601,,L1-dcache-load-misses,127990,100.00,14.01,of all L1-dcache accesses
+    38.914310611,4290,,L1-dcache-loads,127990,100.00,,
+    38.914310611,2601,,L1-dcache-stores,127990,100.00,,
+    38.914310611,17211,,instructions,127990,100.00,,
+    39.014894591,393,,L1-dcache-load-misses,71832,100.00,14.99,of all L1-dcache accesses
+    39.014894591,2621,,L1-dcache-loads,71832,100.00,,
+    39.014894591,1611,,L1-dcache-stores,71832,100.00,,
+    39.014894591,10674,,instructions,71832,100.00,,
+    39.115346529,325,,L1-dcache-load-misses,48522,100.00,12.42,of all L1-dcache accesses
+    39.115346529,2616,,L1-dcache-loads,48522,100.00,,
+    39.115346529,1606,,L1-dcache-stores,48522,100.00,,
+    39.115346529,10651,,instructions,48522,100.00,,
+    39.215965734,377,,L1-dcache-load-misses,95692,100.00,14.39,of all L1-dcache accesses
+    39.215965734,2619,,L1-dcache-loads,95692,100.00,,
+    39.215965734,1608,,L1-dcache-stores,95692,100.00,,
+    39.215965734,10669,,instructions,95692,100.00,,
+    39.316601273,315,,L1-dcache-load-misses,74550,100.00,12.06,of all L1-dcache accesses
+    39.316601273,2612,,L1-dcache-loads,74550,100.00,,
+    39.316601273,1604,,L1-dcache-stores,74550,100.00,,
+    39.316601273,10640,,instructions,74550,100.00,,
+    39.417224770,707,,L1-dcache-load-misses,145101,100.00,16.10,of all L1-dcache accesses
+    39.417224770,4391,,L1-dcache-loads,145101,100.00,,
+    39.417224770,2633,,L1-dcache-stores,145101,100.00,,
+    39.417224770,17530,,instructions,145101,100.00,,
+    39.517846073,343,,L1-dcache-load-misses,80888,100.00,12.84,of all L1-dcache accesses
+    39.517846073,2672,,L1-dcache-loads,80888,100.00,,
+    39.517846073,1638,,L1-dcache-stores,80888,100.00,,
+    39.517846073,10858,,instructions,80888,100.00,,
+    39.618482519,391,,L1-dcache-load-misses,93451,100.00,14.79,of all L1-dcache accesses
+    39.618482519,2644,,L1-dcache-loads,93451,100.00,,
+    39.618482519,1620,,L1-dcache-stores,93451,100.00,,
+    39.618482519,10759,,instructions,93451,100.00,,
+    39.718937271,327,,L1-dcache-load-misses,71274,100.00,12.49,of all L1-dcache accesses
+    39.718937271,2618,,L1-dcache-loads,71274,100.00,,
+    39.718937271,1604,,L1-dcache-stores,71274,100.00,,
+    39.718937271,10661,,instructions,71274,100.00,,
+    39.819612309,622,,L1-dcache-load-misses,145186,100.00,14.70,of all L1-dcache accesses
+    39.819612309,4231,,L1-dcache-loads,145186,100.00,,
+    39.819612309,2584,,L1-dcache-stores,145186,100.00,,
+    39.819612309,17101,,instructions,145186,100.00,,
+    39.920228506,587,,L1-dcache-load-misses,131052,100.00,13.78,of all L1-dcache accesses
+    39.920228506,4260,,L1-dcache-loads,131052,100.00,,
+    39.920228506,2585,,L1-dcache-stores,131052,100.00,,
+    39.920228506,17105,,instructions,131052,100.00,,
+    40.020854398,382,,L1-dcache-load-misses,95687,100.00,14.55,of all L1-dcache accesses
+    40.020854398,2626,,L1-dcache-loads,95687,100.00,,
+    40.020854398,1609,,L1-dcache-stores,95687,100.00,,
+    40.020854398,10694,,instructions,95687,100.00,,
+    40.121329595,319,,L1-dcache-load-misses,36585,100.00,12.19,of all L1-dcache accesses
+    40.121329595,2616,,L1-dcache-loads,36585,100.00,,
+    40.121329595,1604,,L1-dcache-stores,36585,100.00,,
+    40.121329595,10654,,instructions,36585,100.00,,
+    40.221724321,374,,L1-dcache-load-misses,84153,100.00,14.29,of all L1-dcache accesses
+    40.221724321,2617,,L1-dcache-loads,84153,100.00,,
+    40.221724321,1600,,L1-dcache-stores,84153,100.00,,
+    40.221724321,10668,,instructions,84153,100.00,,
+    40.322173535,323,,L1-dcache-load-misses,73394,100.00,12.34,of all L1-dcache accesses
+    40.322173535,2618,,L1-dcache-loads,73394,100.00,,
+    40.322173535,1604,,L1-dcache-stores,73394,100.00,,
+    40.322173535,10663,,instructions,73394,100.00,,
+    40.422745390,660,,L1-dcache-load-misses,138432,100.00,15.50,of all L1-dcache accesses
+    40.422745390,4257,,L1-dcache-loads,138432,100.00,,
+    40.422745390,2579,,L1-dcache-stores,138432,100.00,,
+    40.422745390,17093,,instructions,138432,100.00,,
+    40.523182601,325,,L1-dcache-load-misses,80073,100.00,12.36,of all L1-dcache accesses
+    40.523182601,2629,,L1-dcache-loads,80073,100.00,,
+    40.523182601,1610,,L1-dcache-stores,80073,100.00,,
+    40.523182601,10702,,instructions,80073,100.00,,
+    40.623879410,888,,L1-dcache-load-misses,147227,100.00,12.88,of all L1-dcache accesses
+    40.623879410,6895,,L1-dcache-loads,147227,100.00,,
+    40.623879410,4077,,L1-dcache-stores,147227,100.00,,
+    40.623879410,25170,,instructions,147227,100.00,,
+    40.724442530,368,,L1-dcache-load-misses,79852,100.00,13.53,of all L1-dcache accesses
+    40.724442530,2720,,L1-dcache-loads,79852,100.00,,
+    40.724442530,1651,,L1-dcache-stores,79852,100.00,,
+    40.724442530,11009,,instructions,79852,100.00,,
+    40.825072634,617,,L1-dcache-load-misses,135861,100.00,14.48,of all L1-dcache accesses
+    40.825072634,4261,,L1-dcache-loads,135861,100.00,,
+    40.825072634,2603,,L1-dcache-stores,135861,100.00,,
+    40.825072634,17208,,instructions,135861,100.00,,
+    40.925605955,593,,L1-dcache-load-misses,111254,100.00,13.93,of all L1-dcache accesses
+    40.925605955,4256,,L1-dcache-loads,111254,100.00,,
+    40.925605955,2577,,L1-dcache-stores,111254,100.00,,
+    40.925605955,17085,,instructions,111254,100.00,,
+    41.026071289,376,,L1-dcache-load-misses,93685,100.00,14.35,of all L1-dcache accesses
+    41.026071289,2620,,L1-dcache-loads,93685,100.00,,
+    41.026071289,1606,,L1-dcache-stores,93685,100.00,,
+    41.026071289,10666,,instructions,93685,100.00,,
+    41.126302094,328,,L1-dcache-load-misses,45335,100.00,12.54,of all L1-dcache accesses
+    41.126302094,2616,,L1-dcache-loads,45335,100.00,,
+    41.126302094,1604,,L1-dcache-stores,45335,100.00,,
+    41.126302094,10654,,instructions,45335,100.00,,
+    41.226918052,373,,L1-dcache-load-misses,80151,100.00,14.28,of all L1-dcache accesses
+    41.226918052,2612,,L1-dcache-loads,80151,100.00,,
+    41.226918052,1598,,L1-dcache-stores,80151,100.00,,
+    41.226918052,10644,,instructions,80151,100.00,,
+    41.327511400,339,,L1-dcache-load-misses,78113,100.00,12.89,of all L1-dcache accesses
+    41.327511400,2630,,L1-dcache-loads,78113,100.00,,
+    41.327511400,1615,,L1-dcache-stores,78113,100.00,,
+    41.327511400,10726,,instructions,78113,100.00,,
+    41.428144635,716,,L1-dcache-load-misses,138458,100.00,16.41,of all L1-dcache accesses
+    41.428144635,4362,,L1-dcache-loads,138458,100.00,,
+    41.428144635,2625,,L1-dcache-stores,138458,100.00,,
+    41.428144635,17438,,instructions,138458,100.00,,
+    41.528765195,376,,L1-dcache-load-misses,70970,100.00,14.19,of all L1-dcache accesses
+    41.528765195,2649,,L1-dcache-loads,70970,100.00,,
+    41.528765195,1628,,L1-dcache-stores,70970,100.00,,
+    41.528765195,10781,,instructions,70970,100.00,,
+    41.629197781,386,,L1-dcache-load-misses,94054,100.00,14.66,of all L1-dcache accesses
+    41.629197781,2633,,L1-dcache-loads,94054,100.00,,
+    41.629197781,1613,,L1-dcache-stores,94054,100.00,,
+    41.629197781,10720,,instructions,94054,100.00,,
+    41.729671067,384,,L1-dcache-load-misses,80483,100.00,14.13,of all L1-dcache accesses
+    41.729671067,2717,,L1-dcache-loads,80483,100.00,,
+    41.729671067,1651,,L1-dcache-stores,80483,100.00,,
+    41.729671067,10998,,instructions,80483,100.00,,
+    41.830252066,615,,L1-dcache-load-misses,134254,100.00,14.47,of all L1-dcache accesses
+    41.830252066,4250,,L1-dcache-loads,134254,100.00,,
+    41.830252066,2602,,L1-dcache-stores,134254,100.00,,
+    41.830252066,17167,,instructions,134254,100.00,,
+    41.930896036,593,,L1-dcache-load-misses,129941,100.00,13.91,of all L1-dcache accesses
+    41.930896036,4262,,L1-dcache-loads,129941,100.00,,
+    41.930896036,2586,,L1-dcache-stores,129941,100.00,,
+    41.930896036,17109,,instructions,129941,100.00,,
+    42.031541561,392,,L1-dcache-load-misses,96150,100.00,14.95,of all L1-dcache accesses
+    42.031541561,2622,,L1-dcache-loads,96150,100.00,,
+    42.031541561,1612,,L1-dcache-stores,96150,100.00,,
+    42.031541561,10685,,instructions,96150,100.00,,
+    42.132021534,329,,L1-dcache-load-misses,67922,100.00,12.52,of all L1-dcache accesses
+    42.132021534,2628,,L1-dcache-loads,67922,100.00,,
+    42.132021534,1615,,L1-dcache-stores,67922,100.00,,
+    42.132021534,10709,,instructions,67922,100.00,,
+    42.232656708,371,,L1-dcache-load-misses,86056,100.00,14.21,of all L1-dcache accesses
+    42.232656708,2611,,L1-dcache-loads,86056,100.00,,
+    42.232656708,1602,,L1-dcache-stores,86056,100.00,,
+    42.232656708,10646,,instructions,86056,100.00,,
+    42.333302749,333,,L1-dcache-load-misses,75873,100.00,12.66,of all L1-dcache accesses
+    42.333302749,2631,,L1-dcache-loads,75873,100.00,,
+    42.333302749,1614,,L1-dcache-stores,75873,100.00,,
+    42.333302749,10715,,instructions,75873,100.00,,
+    42.433698078,675,,L1-dcache-load-misses,146244,100.00,15.83,of all L1-dcache accesses
+    42.433698078,4263,,L1-dcache-loads,146244,100.00,,
+    42.433698078,2581,,L1-dcache-stores,146244,100.00,,
+    42.433698078,17121,,instructions,146244,100.00,,
+    42.534207833,321,,L1-dcache-load-misses,79633,100.00,12.24,of all L1-dcache accesses
+    42.534207833,2622,,L1-dcache-loads,79633,100.00,,
+    42.534207833,1608,,L1-dcache-stores,79633,100.00,,
+    42.534207833,10668,,instructions,79633,100.00,,
+    42.634831369,387,,L1-dcache-load-misses,94604,100.00,14.70,of all L1-dcache accesses
+    42.634831369,2632,,L1-dcache-loads,94604,100.00,,
+    42.634831369,1613,,L1-dcache-stores,94604,100.00,,
+    42.634831369,10717,,instructions,94604,100.00,,
+    42.735463131,326,,L1-dcache-load-misses,107858,100.00,12.46,of all L1-dcache accesses
+    42.735463131,2616,,L1-dcache-loads,107858,100.00,,
+    42.735463131,1604,,L1-dcache-stores,107858,100.00,,
+    42.735463131,10654,,instructions,107858,100.00,,
+    42.836126940,585,,L1-dcache-load-misses,133224,100.00,13.94,of all L1-dcache accesses
+    42.836126940,4197,,L1-dcache-loads,133224,100.00,,
+    42.836126940,2563,,L1-dcache-stores,133224,100.00,,
+    42.836126940,16978,,instructions,133224,100.00,,
+    42.936713678,589,,L1-dcache-load-misses,122977,100.00,13.84,of all L1-dcache accesses
+    42.936713678,4256,,L1-dcache-loads,122977,100.00,,
+    42.936713678,2581,,L1-dcache-stores,122977,100.00,,
+    42.936713678,17087,,instructions,122977,100.00,,
+    43.037107933,413,,L1-dcache-load-misses,97748,100.00,15.47,of all L1-dcache accesses
+    43.037107933,2670,,L1-dcache-loads,97748,100.00,,
+    43.037107933,1633,,L1-dcache-stores,97748,100.00,,
+    43.037107933,10850,,instructions,97748,100.00,,
+    43.137563780,330,,L1-dcache-load-misses,33387,100.00,12.48,of all L1-dcache accesses
+    43.137563780,2644,,L1-dcache-loads,33387,100.00,,
+    43.137563780,1620,,L1-dcache-stores,33387,100.00,,
+    43.137563780,10761,,instructions,33387,100.00,,
+    43.237987585,410,,L1-dcache-load-misses,76732,100.00,15.64,of all L1-dcache accesses
+    43.237987585,2622,,L1-dcache-loads,76732,100.00,,
+    43.237987585,1608,,L1-dcache-stores,76732,100.00,,
+    43.237987585,10685,,instructions,76732,100.00,,
+    43.338537963,331,,L1-dcache-load-misses,73008,100.00,12.63,of all L1-dcache accesses
+    43.338537963,2621,,L1-dcache-loads,73008,100.00,,
+    43.338537963,1607,,L1-dcache-stores,73008,100.00,,
+    43.338537963,10678,,instructions,73008,100.00,,
+    43.438978722,662,,L1-dcache-load-misses,141532,100.00,15.54,of all L1-dcache accesses
+    43.438978722,4261,,L1-dcache-loads,141532,100.00,,
+    43.438978722,2576,,L1-dcache-stores,141532,100.00,,
+    43.438978722,17097,,instructions,141532,100.00,,
+    43.539669917,353,,L1-dcache-load-misses,81660,100.00,13.07,of all L1-dcache accesses
+    43.539669917,2701,,L1-dcache-loads,81660,100.00,,
+    43.539669917,1650,,L1-dcache-stores,81660,100.00,,
+    43.539669917,10958,,instructions,81660,100.00,,
+    43.640108330,409,,L1-dcache-load-misses,94566,100.00,15.40,of all L1-dcache accesses
+    43.640108330,2655,,L1-dcache-loads,94566,100.00,,
+    43.640108330,1625,,L1-dcache-stores,94566,100.00,,
+    43.640108330,10802,,instructions,94566,100.00,,
+    43.740782308,327,,L1-dcache-load-misses,80429,100.00,12.19,of all L1-dcache accesses
+    43.740782308,2682,,L1-dcache-loads,80429,100.00,,
+    43.740782308,1641,,L1-dcache-stores,80429,100.00,,
+    43.740782308,11024,,instructions,80429,100.00,,
+    43.841421174,1574,,L1-dcache-load-misses,290358,100.00,13.72,of all L1-dcache accesses
+    43.841421174,11472,,L1-dcache-loads,290358,100.00,,
+    43.841421174,7300,,L1-dcache-stores,290358,100.00,,
+    43.841421174,45276,,instructions,290358,100.00,,
+    43.941834068,652,,L1-dcache-load-misses,123956,100.00,14.91,of all L1-dcache accesses
+    43.941834068,4372,,L1-dcache-loads,123956,100.00,,
+    43.941834068,2635,,L1-dcache-stores,123956,100.00,,
+    43.941834068,17486,,instructions,123956,100.00,,
+    44.042321495,392,,L1-dcache-load-misses,85814,100.00,14.89,of all L1-dcache accesses
+    44.042321495,2633,,L1-dcache-loads,85814,100.00,,
+    44.042321495,1616,,L1-dcache-stores,85814,100.00,,
+    44.042321495,10715,,instructions,85814,100.00,,
+    44.142939419,328,,L1-dcache-load-misses,74762,100.00,12.51,of all L1-dcache accesses
+    44.142939419,2622,,L1-dcache-loads,74762,100.00,,
+    44.142939419,1608,,L1-dcache-stores,74762,100.00,,
+    44.142939419,10679,,instructions,74762,100.00,,
+    44.243412051,417,,L1-dcache-load-misses,95826,100.00,15.33,of all L1-dcache accesses
+    44.243412051,2720,,L1-dcache-loads,95826,100.00,,
+    44.243412051,1654,,L1-dcache-stores,95826,100.00,,
+    44.243412051,11007,,instructions,95826,100.00,,
+    44.344014451,340,,L1-dcache-load-misses,81158,100.00,12.82,of all L1-dcache accesses
+    44.344014451,2653,,L1-dcache-loads,81158,100.00,,
+    44.344014451,1628,,L1-dcache-stores,81158,100.00,,
+    44.344014451,10798,,instructions,81158,100.00,,
+    44.444631930,672,,L1-dcache-load-misses,127648,100.00,15.68,of all L1-dcache accesses
+    44.444631930,4286,,L1-dcache-loads,127648,100.00,,
+    44.444631930,2598,,L1-dcache-stores,127648,100.00,,
+    44.444631930,17198,,instructions,127648,100.00,,
+    44.545199404,375,,L1-dcache-load-misses,71686,100.00,14.26,of all L1-dcache accesses
+    44.545199404,2629,,L1-dcache-loads,71686,100.00,,
+    44.545199404,1615,,L1-dcache-stores,71686,100.00,,
+    44.545199404,10714,,instructions,71686,100.00,,
+    44.645852996,379,,L1-dcache-load-misses,86396,100.00,14.41,of all L1-dcache accesses
+    44.645852996,2630,,L1-dcache-loads,86396,100.00,,
+    44.645852996,1612,,L1-dcache-stores,86396,100.00,,
+    44.645852996,10717,,instructions,86396,100.00,,
+    44.746491631,332,,L1-dcache-load-misses,78010,100.00,12.67,of all L1-dcache accesses
+    44.746491631,2621,,L1-dcache-loads,78010,100.00,,
+    44.746491631,1607,,L1-dcache-stores,78010,100.00,,
+    44.746491631,10678,,instructions,78010,100.00,,
+    44.847121888,602,,L1-dcache-load-misses,133813,100.00,14.29,of all L1-dcache accesses
+    44.847121888,4212,,L1-dcache-loads,133813,100.00,,
+    44.847121888,2575,,L1-dcache-stores,133813,100.00,,
+    44.847121888,17038,,instructions,133813,100.00,,
+    44.947577618,600,,L1-dcache-load-misses,127118,100.00,13.48,of all L1-dcache accesses
+    44.947577618,4450,,L1-dcache-loads,127118,100.00,,
+    44.947577618,2667,,L1-dcache-stores,127118,100.00,,
+    44.947577618,17903,,instructions,127118,100.00,,
+    45.048063285,369,,L1-dcache-load-misses,87840,100.00,14.08,of all L1-dcache accesses
+    45.048063285,2621,,L1-dcache-loads,87840,100.00,,
+    45.048063285,1607,,L1-dcache-stores,87840,100.00,,
+    45.048063285,10678,,instructions,87840,100.00,,
+    45.148663754,329,,L1-dcache-load-misses,43422,100.00,12.51,of all L1-dcache accesses
+    45.148663754,2629,,L1-dcache-loads,43422,100.00,,
+    45.148663754,1612,,L1-dcache-stores,43422,100.00,,
+    45.148663754,10713,,instructions,43422,100.00,,
+    45.249299319,379,,L1-dcache-load-misses,87188,100.00,14.47,of all L1-dcache accesses
+    45.249299319,2619,,L1-dcache-loads,87188,100.00,,
+    45.249299319,1607,,L1-dcache-stores,87188,100.00,,
+    45.249299319,10671,,instructions,87188,100.00,,
+    45.349742507,589,,L1-dcache-load-misses,78733,100.00,19.04,of all L1-dcache accesses
+    45.349742507,3094,,L1-dcache-loads,78733,100.00,,
+    45.349742507,1900,,L1-dcache-stores,78733,100.00,,
+    45.349742507,12506,,instructions,78733,100.00,,
+    45.450142709,665,,L1-dcache-load-misses,133023,100.00,15.67,of all L1-dcache accesses
+    45.450142709,4243,,L1-dcache-loads,133023,100.00,,
+    45.450142709,2571,,L1-dcache-stores,133023,100.00,,
+    45.450142709,17036,,instructions,133023,100.00,,
+    45.550865764,349,,L1-dcache-load-misses,81980,100.00,13.07,of all L1-dcache accesses
+    45.550865764,2670,,L1-dcache-loads,81980,100.00,,
+    45.550865764,1633,,L1-dcache-stores,81980,100.00,,
+    45.550865764,10852,,instructions,81980,100.00,,
+    45.651292530,409,,L1-dcache-load-misses,85272,100.00,15.45,of all L1-dcache accesses
+    45.651292530,2648,,L1-dcache-loads,85272,100.00,,
+    45.651292530,1625,,L1-dcache-stores,85272,100.00,,
+    45.651292530,10774,,instructions,85272,100.00,,
+    45.751979202,327,,L1-dcache-load-misses,74845,100.00,12.47,of all L1-dcache accesses
+    45.751979202,2623,,L1-dcache-loads,74845,100.00,,
+    45.751979202,1607,,L1-dcache-stores,74845,100.00,,
+    45.751979202,10683,,instructions,74845,100.00,,
+    45.852582391,633,,L1-dcache-load-misses,135180,100.00,14.92,of all L1-dcache accesses
+    45.852582391,4244,,L1-dcache-loads,135180,100.00,,
+    45.852582391,2599,,L1-dcache-stores,135180,100.00,,
+    45.852582391,17158,,instructions,135180,100.00,,
+    45.953032046,593,,L1-dcache-load-misses,121097,100.00,13.92,of all L1-dcache accesses
+    45.953032046,4260,,L1-dcache-loads,121097,100.00,,
+    45.953032046,2586,,L1-dcache-stores,121097,100.00,,
+    45.953032046,17102,,instructions,121097,100.00,,
+    46.053556060,387,,L1-dcache-load-misses,92222,100.00,14.75,of all L1-dcache accesses
+    46.053556060,2624,,L1-dcache-loads,92222,100.00,,
+    46.053556060,1612,,L1-dcache-stores,92222,100.00,,
+    46.053556060,10690,,instructions,92222,100.00,,
+    46.154203277,316,,L1-dcache-load-misses,80997,100.00,12.04,of all L1-dcache accesses
+    46.154203277,2625,,L1-dcache-loads,80997,100.00,,
+    46.154203277,1613,,L1-dcache-stores,80997,100.00,,
+    46.154203277,10691,,instructions,80997,100.00,,
+    46.254844842,404,,L1-dcache-load-misses,78150,100.00,15.40,of all L1-dcache accesses
+    46.254844842,2624,,L1-dcache-loads,78150,100.00,,
+    46.254844842,1613,,L1-dcache-stores,78150,100.00,,
+    46.254844842,10691,,instructions,78150,100.00,,
+    46.355278807,326,,L1-dcache-load-misses,74678,100.00,12.42,of all L1-dcache accesses
+    46.355278807,2625,,L1-dcache-loads,74678,100.00,,
+    46.355278807,1612,,L1-dcache-stores,74678,100.00,,
+    46.355278807,10696,,instructions,74678,100.00,,
+    46.455712014,657,,L1-dcache-load-misses,132989,100.00,15.54,of all L1-dcache accesses
+    46.455712014,4229,,L1-dcache-loads,132989,100.00,,
+    46.455712014,2558,,L1-dcache-stores,132989,100.00,,
+    46.455712014,16986,,instructions,132989,100.00,,
+    46.556328146,332,,L1-dcache-load-misses,32901,100.00,12.65,of all L1-dcache accesses
+    46.556328146,2625,,L1-dcache-loads,32901,100.00,,
+    46.556328146,1611,,L1-dcache-stores,32901,100.00,,
+    46.556328146,10690,,instructions,32901,100.00,,
+    46.656939494,381,,L1-dcache-load-misses,85900,100.00,14.56,of all L1-dcache accesses
+    46.656939494,2617,,L1-dcache-loads,85900,100.00,,
+    46.656939494,1605,,L1-dcache-stores,85900,100.00,,
+    46.656939494,10655,,instructions,85900,100.00,,
+    46.757599000,353,,L1-dcache-load-misses,76936,100.00,13.24,of all L1-dcache accesses
+    46.757599000,2667,,L1-dcache-loads,76936,100.00,,
+    46.757599000,1636,,L1-dcache-stores,76936,100.00,,
+    46.757599000,10843,,instructions,76936,100.00,,
+    46.858251821,641,,L1-dcache-load-misses,141908,100.00,15.06,of all L1-dcache accesses
+    46.858251821,4255,,L1-dcache-loads,141908,100.00,,
+    46.858251821,2598,,L1-dcache-stores,141908,100.00,,
+    46.858251821,17184,,instructions,141908,100.00,,
+    46.958707090,604,,L1-dcache-load-misses,117181,100.00,14.18,of all L1-dcache accesses
+    46.958707090,4261,,L1-dcache-loads,117181,100.00,,
+    46.958707090,2585,,L1-dcache-stores,117181,100.00,,
+    46.958707090,17109,,instructions,117181,100.00,,
+    47.059146280,393,,L1-dcache-load-misses,86681,100.00,15.00,of all L1-dcache accesses
+    47.059146280,2620,,L1-dcache-loads,86681,100.00,,
+    47.059146280,1607,,L1-dcache-stores,86681,100.00,,
+    47.059146280,10675,,instructions,86681,100.00,,
+    47.159758279,328,,L1-dcache-load-misses,31462,100.00,12.47,of all L1-dcache accesses
+    47.159758279,2631,,L1-dcache-loads,31462,100.00,,
+    47.159758279,1620,,L1-dcache-stores,31462,100.00,,
+    47.159758279,10723,,instructions,31462,100.00,,
+    47.260062515,449,,L1-dcache-load-misses,60205,100.00,15.65,of all L1-dcache accesses
+    47.260062515,2869,,L1-dcache-loads,60205,100.00,,
+    47.260062515,1764,,L1-dcache-stores,60205,100.00,,
+    47.260062515,11653,,instructions,60205,100.00,,
+    47.360669106,639,,L1-dcache-load-misses,112100,100.00,10.97,of all L1-dcache accesses
+    47.360669106,5826,,L1-dcache-loads,112100,100.00,,
+    47.360669106,3551,,L1-dcache-stores,112100,100.00,,
+    47.360669106,21547,,instructions,112100,100.00,,
+    47.461288098,688,,L1-dcache-load-misses,126400,100.00,16.21,of all L1-dcache accesses
+    47.461288098,4243,,L1-dcache-loads,126400,100.00,,
+    47.461288098,2568,,L1-dcache-stores,126400,100.00,,
+    47.461288098,17041,,instructions,126400,100.00,,
+    47.561902293,463,,L1-dcache-load-misses,73066,100.00,17.46,of all L1-dcache accesses
+    47.561902293,2652,,L1-dcache-loads,73066,100.00,,
+    47.561902293,1628,,L1-dcache-stores,73066,100.00,,
+    47.561902293,10779,,instructions,73066,100.00,,
+    47.662468141,411,,L1-dcache-load-misses,87466,100.00,15.56,of all L1-dcache accesses
+    47.662468141,2641,,L1-dcache-loads,87466,100.00,,
+    47.662468141,1619,,L1-dcache-stores,87466,100.00,,
+    47.662468141,10745,,instructions,87466,100.00,,
+    47.763137350,354,,L1-dcache-load-misses,80214,100.00,13.29,of all L1-dcache accesses
+    47.763137350,2663,,L1-dcache-loads,80214,100.00,,
+    47.763137350,1633,,L1-dcache-stores,80214,100.00,,
+    47.763137350,10828,,instructions,80214,100.00,,
+    47.863770098,618,,L1-dcache-load-misses,125864,100.00,14.61,of all L1-dcache accesses
+    47.863770098,4230,,L1-dcache-loads,125864,100.00,,
+    47.863770098,2583,,L1-dcache-stores,125864,100.00,,
+    47.863770098,17097,,instructions,125864,100.00,,
+    47.964391283,610,,L1-dcache-load-misses,112505,100.00,14.34,of all L1-dcache accesses
+    47.964391283,4255,,L1-dcache-loads,112505,100.00,,
+    47.964391283,2579,,L1-dcache-stores,112505,100.00,,
+    47.964391283,17075,,instructions,112505,100.00,,
+    48.064842413,389,,L1-dcache-load-misses,87645,100.00,14.84,of all L1-dcache accesses
+    48.064842413,2621,,L1-dcache-loads,87645,100.00,,
+    48.064842413,1609,,L1-dcache-stores,87645,100.00,,
+    48.064842413,10679,,instructions,87645,100.00,,
+    48.165406431,345,,L1-dcache-load-misses,32343,100.00,13.13,of all L1-dcache accesses
+    48.165406431,2628,,L1-dcache-loads,32343,100.00,,
+    48.165406431,1614,,L1-dcache-stores,32343,100.00,,
+    48.165406431,10711,,instructions,32343,100.00,,
+    48.265865310,384,,L1-dcache-load-misses,87255,100.00,14.67,of all L1-dcache accesses
+    48.265865310,2617,,L1-dcache-loads,87255,100.00,,
+    48.265865310,1604,,L1-dcache-stores,87255,100.00,,
+    48.265865310,10657,,instructions,87255,100.00,,
+    48.366317161,339,,L1-dcache-load-misses,80441,100.00,12.90,of all L1-dcache accesses
+    48.366317161,2628,,L1-dcache-loads,80441,100.00,,
+    48.366317161,1614,,L1-dcache-stores,80441,100.00,,
+    48.366317161,10711,,instructions,80441,100.00,,
+    48.466942128,667,,L1-dcache-load-misses,132437,100.00,15.72,of all L1-dcache accesses
+    48.466942128,4244,,L1-dcache-loads,132437,100.00,,
+    48.466942128,2568,,L1-dcache-stores,132437,100.00,,
+    48.466942128,17032,,instructions,132437,100.00,,
+    48.567402323,341,,L1-dcache-load-misses,72932,100.00,12.98,of all L1-dcache accesses
+    48.567402323,2628,,L1-dcache-loads,72932,100.00,,
+    48.567402323,1614,,L1-dcache-stores,72932,100.00,,
+    48.567402323,10711,,instructions,72932,100.00,,
+    48.668036355,385,,L1-dcache-load-misses,86165,100.00,14.72,of all L1-dcache accesses
+    48.668036355,2616,,L1-dcache-loads,86165,100.00,,
+    48.668036355,1604,,L1-dcache-stores,86165,100.00,,
+    48.668036355,10654,,instructions,86165,100.00,,
+    48.768656314,334,,L1-dcache-load-misses,74760,100.00,12.74,of all L1-dcache accesses
+    48.768656314,2621,,L1-dcache-loads,74760,100.00,,
+    48.768656314,1609,,L1-dcache-stores,74760,100.00,,
+    48.768656314,10679,,instructions,74760,100.00,,
+    48.869301430,2034,,L1-dcache-load-misses,344200,100.00,13.02,of all L1-dcache accesses
+    48.869301430,15628,,L1-dcache-loads,344200,100.00,,
+    48.869301430,10186,,L1-dcache-stores,344200,100.00,,
+    48.869301430,59959,,instructions,344200,100.00,,
+    48.969921336,602,,L1-dcache-load-misses,128379,100.00,14.15,of all L1-dcache accesses
+    48.969921336,4253,,L1-dcache-loads,128379,100.00,,
+    48.969921336,2577,,L1-dcache-stores,128379,100.00,,
+    48.969921336,17076,,instructions,128379,100.00,,
+    49.070423695,404,,L1-dcache-load-misses,24512,100.00,15.24,of all L1-dcache accesses
+    49.070423695,2651,,L1-dcache-loads,24512,100.00,,
+    49.070423695,1627,,L1-dcache-stores,24512,100.00,,
+    49.070423695,10780,,instructions,24512,100.00,,
+    49.171021139,349,,L1-dcache-load-misses,34036,100.00,12.98,of all L1-dcache accesses
+    49.171021139,2688,,L1-dcache-loads,34036,100.00,,
+    49.171021139,1641,,L1-dcache-stores,34036,100.00,,
+    49.171021139,10904,,instructions,34036,100.00,,
+    49.271588186,393,,L1-dcache-load-misses,88762,100.00,14.89,of all L1-dcache accesses
+    49.271588186,2639,,L1-dcache-loads,88762,100.00,,
+    49.271588186,1623,,L1-dcache-stores,88762,100.00,,
+    49.271588186,10744,,instructions,88762,100.00,,
+    49.372228704,324,,L1-dcache-load-misses,79476,100.00,12.38,of all L1-dcache accesses
+    49.372228704,2618,,L1-dcache-loads,79476,100.00,,
+    49.372228704,1604,,L1-dcache-stores,79476,100.00,,
+    49.372228704,10661,,instructions,79476,100.00,,
+    49.473110725,699,,L1-dcache-load-misses,147198,100.00,16.12,of all L1-dcache accesses
+    49.473110725,4337,,L1-dcache-loads,147198,100.00,,
+    49.473110725,2614,,L1-dcache-stores,147198,100.00,,
+    49.473110725,17365,,instructions,147198,100.00,,
+    49.573828986,337,,L1-dcache-load-misses,79913,100.00,12.73,of all L1-dcache accesses
+    49.573828986,2648,,L1-dcache-loads,79913,100.00,,
+    49.573828986,1620,,L1-dcache-stores,79913,100.00,,
+    49.573828986,10770,,instructions,79913,100.00,,
+    49.674374252,882,,L1-dcache-load-misses,133782,100.00,13.22,of all L1-dcache accesses
+    49.674374252,6670,,L1-dcache-loads,133782,100.00,,
+    49.674374252,4015,,L1-dcache-stores,133782,100.00,,
+    49.674374252,24886,,instructions,133782,100.00,,
+    49.774827357,356,,L1-dcache-load-misses,80563,100.00,13.19,of all L1-dcache accesses
+    49.774827357,2700,,L1-dcache-loads,80563,100.00,,
+    49.774827357,1644,,L1-dcache-stores,80563,100.00,,
+    49.774827357,10944,,instructions,80563,100.00,,
+    49.875295936,624,,L1-dcache-load-misses,142079,100.00,14.71,of all L1-dcache accesses
+    49.875295936,4241,,L1-dcache-loads,142079,100.00,,
+    49.875295936,2588,,L1-dcache-stores,142079,100.00,,
+    49.875295936,17140,,instructions,142079,100.00,,
+    49.975894645,602,,L1-dcache-load-misses,121963,100.00,14.12,of all L1-dcache accesses
+    49.975894645,4264,,L1-dcache-loads,121963,100.00,,
+    49.975894645,2583,,L1-dcache-stores,121963,100.00,,
+    49.975894645,17120,,instructions,121963,100.00,,
+    50.076329878,378,,L1-dcache-load-misses,89559,100.00,14.41,of all L1-dcache accesses
+    50.076329878,2624,,L1-dcache-loads,89559,100.00,,
+    50.076329878,1612,,L1-dcache-stores,89559,100.00,,
+    50.076329878,10688,,instructions,89559,100.00,,
+    50.176942022,328,,L1-dcache-load-misses,31201,100.00,12.50,of all L1-dcache accesses
+    50.176942022,2624,,L1-dcache-loads,31201,100.00,,
+    50.176942022,1607,,L1-dcache-stores,31201,100.00,,
+    50.176942022,10686,,instructions,31201,100.00,,
+    50.277526699,426,,L1-dcache-load-misses,81843,100.00,15.78,of all L1-dcache accesses
+    50.277526699,2700,,L1-dcache-loads,81843,100.00,,
+    50.277526699,1644,,L1-dcache-stores,81843,100.00,,
+    50.277526699,10942,,instructions,81843,100.00,,
+    50.378170369,461,,L1-dcache-load-misses,86047,100.00,14.53,of all L1-dcache accesses
+    50.378170369,3172,,L1-dcache-loads,86047,100.00,,
+    50.378170369,1958,,L1-dcache-stores,86047,100.00,,
+    50.378170369,12794,,instructions,86047,100.00,,
+    50.478758026,655,,L1-dcache-load-misses,131331,100.00,15.40,of all L1-dcache accesses
+    50.478758026,4254,,L1-dcache-loads,131331,100.00,,
+    50.478758026,2574,,L1-dcache-stores,131331,100.00,,
+    50.478758026,17082,,instructions,131331,100.00,,
+    50.579304170,548,,L1-dcache-load-misses,90234,100.00,10.81,of all L1-dcache accesses
+    50.579304170,5071,,L1-dcache-loads,90234,100.00,,
+    50.579304170,2885,,L1-dcache-stores,90234,100.00,,
+    50.579304170,18865,,instructions,90234,100.00,,
+    50.679930155,384,,L1-dcache-load-misses,78817,100.00,14.68,of all L1-dcache accesses
+    50.679930155,2615,,L1-dcache-loads,78817,100.00,,
+    50.679930155,1604,,L1-dcache-stores,78817,100.00,,
+    50.679930155,10650,,instructions,78817,100.00,,
+    50.780575825,324,,L1-dcache-load-misses,67721,100.00,12.36,of all L1-dcache accesses
+    50.780575825,2622,,L1-dcache-loads,67721,100.00,,
+    50.780575825,1607,,L1-dcache-stores,67721,100.00,,
+    50.780575825,10679,,instructions,67721,100.00,,
+    50.881034100,590,,L1-dcache-load-misses,128548,100.00,14.01,of all L1-dcache accesses
+    50.881034100,4210,,L1-dcache-loads,128548,100.00,,
+    50.881034100,2580,,L1-dcache-stores,128548,100.00,,
+    50.881034100,17035,,instructions,128548,100.00,,
+    50.981560645,600,,L1-dcache-load-misses,119184,100.00,14.09,of all L1-dcache accesses
+    50.981560645,4258,,L1-dcache-loads,119184,100.00,,
+    50.981560645,2580,,L1-dcache-stores,119184,100.00,,
+    50.981560645,17094,,instructions,119184,100.00,,
+    51.082009290,360,,L1-dcache-load-misses,70847,100.00,13.76,of all L1-dcache accesses
+    51.082009290,2616,,L1-dcache-loads,70847,100.00,,
+    51.082009290,1605,,L1-dcache-stores,70847,100.00,,
+    51.082009290,10651,,instructions,70847,100.00,,
+    51.182640435,757,,L1-dcache-load-misses,103589,100.00,14.18,of all L1-dcache accesses
+    51.182640435,5338,,L1-dcache-loads,103589,100.00,,
+    51.182640435,3258,,L1-dcache-stores,103589,100.00,,
+    51.182640435,21671,,instructions,103589,100.00,,
+    51.283227273,<not counted>,,L1-dcache-load-misses,0,100.00,,
+    51.283227273,<not counted>,,L1-dcache-loads,0,100.00,,
+    51.283227273,<not counted>,,L1-dcache-stores,0,100.00,,
+    51.283227273,<not counted>,,instructions,0,100.00,,
+    51.383697819,709,,L1-dcache-load-misses,168264,100.00,13.48,of all L1-dcache accesses
+    51.383697819,5261,,L1-dcache-loads,168264,100.00,,
+    51.383697819,3224,,L1-dcache-stores,168264,100.00,,
+    51.383697819,21419,,instructions,168264,100.00,,
+    51.484155773,274,,L1-dcache-load-misses,50476,100.00,16.85,of all L1-dcache accesses
+    51.484155773,1626,,L1-dcache-loads,50476,100.00,,
+    51.484155773,964,,L1-dcache-stores,50476,100.00,,
+    51.484155773,6376,,instructions,50476,100.00,,
+    51.584707065,702,,L1-dcache-load-misses,163231,100.00,13.39,of all L1-dcache accesses
+    51.584707065,5242,,L1-dcache-loads,163231,100.00,,
+    51.584707065,3217,,L1-dcache-stores,163231,100.00,,
+    51.584707065,21343,,instructions,163231,100.00,,
+    51.685362138,<not counted>,,L1-dcache-load-misses,0,100.00,,
+    51.685362138,<not counted>,,L1-dcache-loads,0,100.00,,
+    51.685362138,<not counted>,,L1-dcache-stores,0,100.00,,
+    51.685362138,<not counted>,,instructions,0,100.00,,
+    51.785804258,959,,L1-dcache-load-misses,207013,100.00,13.96,of all L1-dcache accesses
+    51.785804258,6868,,L1-dcache-loads,207013,100.00,,
+    51.785804258,4201,,L1-dcache-stores,207013,100.00,,
+    51.785804258,27818,,instructions,207013,100.00,,
+    51.886198855,<not counted>,,L1-dcache-load-misses,0,100.00,,
+    51.886198855,<not counted>,,L1-dcache-loads,0,100.00,,
+    51.886198855,<not counted>,,L1-dcache-stores,0,100.00,,
+    51.886198855,<not counted>,,instructions,0,100.00,,
+    51.986799537,1018,,L1-dcache-load-misses,216523,100.00,14.51,of all L1-dcache accesses
+    51.986799537,7015,,L1-dcache-loads,216523,100.00,,
+    51.986799537,4251,,L1-dcache-stores,216523,100.00,,
+    51.986799537,28224,,instructions,216523,100.00,,
+    52.087251813,<not counted>,,L1-dcache-load-misses,0,100.00,,
+    52.087251813,<not counted>,,L1-dcache-loads,0,100.00,,
+    52.087251813,<not counted>,,L1-dcache-stores,0,100.00,,
+    52.087251813,<not counted>,,instructions,0,100.00,,
+    52.187863132,719,,L1-dcache-load-misses,117061,100.00,13.71,of all L1-dcache accesses
+    52.187863132,5243,,L1-dcache-loads,117061,100.00,,
+    52.187863132,3218,,L1-dcache-stores,117061,100.00,,
+    52.187863132,21361,,instructions,117061,100.00,,
+    52.288487910,<not counted>,,L1-dcache-load-misses,0,100.00,,
+    52.288487910,<not counted>,,L1-dcache-loads,0,100.00,,
+    52.288487910,<not counted>,,L1-dcache-stores,0,100.00,,
+    52.288487910,<not counted>,,instructions,0,100.00,,
+    52.388931807,723,,L1-dcache-load-misses,170358,100.00,13.76,of all L1-dcache accesses
+    52.388931807,5254,,L1-dcache-loads,170358,100.00,,
+    52.388931807,3219,,L1-dcache-stores,170358,100.00,,
+    52.388931807,21400,,instructions,170358,100.00,,
+    52.489414737,257,,L1-dcache-load-misses,45287,100.00,15.91,of all L1-dcache accesses
+    52.489414737,1615,,L1-dcache-loads,45287,100.00,,
+    52.489414737,954,,L1-dcache-stores,45287,100.00,,
+    52.489414737,6335,,instructions,45287,100.00,,
+    52.590046263,746,,L1-dcache-load-misses,170624,100.00,14.05,of all L1-dcache accesses
+    52.590046263,5308,,L1-dcache-loads,170624,100.00,,
+    52.590046263,3253,,L1-dcache-stores,170624,100.00,,
+    52.590046263,21592,,instructions,170624,100.00,,
+    52.690708507,<not counted>,,L1-dcache-load-misses,0,100.00,,
+    52.690708507,<not counted>,,L1-dcache-loads,0,100.00,,
+    52.690708507,<not counted>,,L1-dcache-stores,0,100.00,,
+    52.690708507,<not counted>,,instructions,0,100.00,,
+    52.791317074,941,,L1-dcache-load-misses,213655,100.00,13.72,of all L1-dcache accesses
+    52.791317074,6860,,L1-dcache-loads,213655,100.00,,
+    52.791317074,4195,,L1-dcache-stores,213655,100.00,,
+    52.791317074,27820,,instructions,213655,100.00,,
+    52.891866904,262,,L1-dcache-load-misses,47121,100.00,14.77,of all L1-dcache accesses
+    52.891866904,1774,,L1-dcache-loads,47121,100.00,,
+    52.891866904,1027,,L1-dcache-stores,47121,100.00,,
+    52.891866904,6908,,instructions,47121,100.00,,
+    52.992319208,722,,L1-dcache-load-misses,167320,100.00,13.75,of all L1-dcache accesses
+    52.992319208,5250,,L1-dcache-loads,167320,100.00,,
+    52.992319208,3219,,L1-dcache-stores,167320,100.00,,
+    52.992319208,21387,,instructions,167320,100.00,,
+    53.092931687,<not counted>,,L1-dcache-load-misses,0,100.00,,
+    53.092931687,<not counted>,,L1-dcache-loads,0,100.00,,
+    53.092931687,<not counted>,,L1-dcache-stores,0,100.00,,
+    53.092931687,<not counted>,,instructions,0,100.00,,
+    53.193416212,726,,L1-dcache-load-misses,98793,100.00,13.85,of all L1-dcache accesses
+    53.193416212,5241,,L1-dcache-loads,98793,100.00,,
+    53.193416212,3211,,L1-dcache-stores,98793,100.00,,
+    53.193416212,21348,,instructions,98793,100.00,,
+    53.294037525,<not counted>,,L1-dcache-load-misses,0,100.00,,
+    53.294037525,<not counted>,,L1-dcache-loads,0,100.00,,
+    53.294037525,<not counted>,,L1-dcache-stores,0,100.00,,
+    53.294037525,<not counted>,,instructions,0,100.00,,
+    53.394621177,968,,L1-dcache-load-misses,208955,100.00,14.09,of all L1-dcache accesses
+    53.394621177,6869,,L1-dcache-loads,208955,100.00,,
+    53.394621177,4178,,L1-dcache-stores,208955,100.00,,
+    53.394621177,27735,,instructions,208955,100.00,,
+    53.495210280,<not counted>,,L1-dcache-load-misses,0,100.00,,
+    53.495210280,<not counted>,,L1-dcache-loads,0,100.00,,
+    53.495210280,<not counted>,,L1-dcache-stores,0,100.00,,
+    53.495210280,<not counted>,,instructions,0,100.00,,
+    53.595868871,888,,L1-dcache-load-misses,169438,100.00,13.63,of all L1-dcache accesses
+    53.595868871,6516,,L1-dcache-loads,169438,100.00,,
+    53.595868871,3878,,L1-dcache-stores,169438,100.00,,
+    53.595868871,25589,,instructions,169438,100.00,,
+    53.696302285,<not counted>,,L1-dcache-load-misses,0,100.00,,
+    53.696302285,<not counted>,,L1-dcache-loads,0,100.00,,
+    53.696302285,<not counted>,,L1-dcache-stores,0,100.00,,
+    53.696302285,<not counted>,,instructions,0,100.00,,
+    53.796984421,1966,,L1-dcache-load-misses,355017,100.00,13.83,of all L1-dcache accesses
+    53.796984421,14215,,L1-dcache-loads,355017,100.00,,
+    53.796984421,8955,,L1-dcache-stores,355017,100.00,,
+    53.796984421,56327,,instructions,355017,100.00,,
+    53.897629444,273,,L1-dcache-load-misses,42320,100.00,16.30,of all L1-dcache accesses
+    53.897629444,1675,,L1-dcache-loads,42320,100.00,,
+    53.897629444,986,,L1-dcache-stores,42320,100.00,,
+    53.897629444,6542,,instructions,42320,100.00,,
+    53.998010279,743,,L1-dcache-load-misses,158372,100.00,13.98,of all L1-dcache accesses
+    53.998010279,5313,,L1-dcache-loads,158372,100.00,,
+    53.998010279,3254,,L1-dcache-stores,158372,100.00,,
+    53.998010279,21605,,instructions,158372,100.00,,
+    54.098676589,<not counted>,,L1-dcache-load-misses,0,100.00,,
+    54.098676589,<not counted>,,L1-dcache-loads,0,100.00,,
+    54.098676589,<not counted>,,L1-dcache-stores,0,100.00,,
+    54.098676589,<not counted>,,instructions,0,100.00,,
+    54.199272827,770,,L1-dcache-load-misses,116692,100.00,14.47,of all L1-dcache accesses
+    54.199272827,5323,,L1-dcache-loads,116692,100.00,,
+    54.199272827,3260,,L1-dcache-stores,116692,100.00,,
+    54.199272827,21636,,instructions,116692,100.00,,
+    54.299886555,<not counted>,,L1-dcache-load-misses,0,100.00,,
+    54.299886555,<not counted>,,L1-dcache-loads,0,100.00,,
+    54.299886555,<not counted>,,L1-dcache-stores,0,100.00,,
+    54.299886555,<not counted>,,instructions,0,100.00,,
+    54.400532293,1010,,L1-dcache-load-misses,227892,100.00,14.64,of all L1-dcache accesses
+    54.400532293,6899,,L1-dcache-loads,227892,100.00,,
+    54.400532293,4198,,L1-dcache-stores,227892,100.00,,
+    54.400532293,27842,,instructions,227892,100.00,,
+    54.501093158,<not counted>,,L1-dcache-load-misses,0,100.00,,
+    54.501093158,<not counted>,,L1-dcache-loads,0,100.00,,
+    54.501093158,<not counted>,,L1-dcache-stores,0,100.00,,
+    54.501093158,<not counted>,,instructions,0,100.00,,
+    54.601743829,727,,L1-dcache-load-misses,166296,100.00,13.85,of all L1-dcache accesses
+    54.601743829,5249,,L1-dcache-loads,166296,100.00,,
+    54.601743829,3219,,L1-dcache-stores,166296,100.00,,
+    54.601743829,21382,,instructions,166296,100.00,,
+    54.702346782,<not counted>,,L1-dcache-load-misses,0,100.00,,
+    54.702346782,<not counted>,,L1-dcache-loads,0,100.00,,
+    54.702346782,<not counted>,,L1-dcache-stores,0,100.00,,
+    54.702346782,<not counted>,,instructions,0,100.00,,
+    54.802971759,996,,L1-dcache-load-misses,227611,100.00,14.30,of all L1-dcache accesses
+    54.802971759,6967,,L1-dcache-loads,227611,100.00,,
+    54.802971759,4254,,L1-dcache-stores,227611,100.00,,
+    54.802971759,28180,,instructions,227611,100.00,,
+    54.903590832,250,,L1-dcache-load-misses,49256,100.00,15.31,of all L1-dcache accesses
+    54.903590832,1633,,L1-dcache-loads,49256,100.00,,
+    54.903590832,972,,L1-dcache-stores,49256,100.00,,
+    54.903590832,6409,,instructions,49256,100.00,,
+    55.004222049,693,,L1-dcache-load-misses,150874,100.00,13.20,of all L1-dcache accesses
+    55.004222049,5249,,L1-dcache-loads,150874,100.00,,
+    55.004222049,3219,,L1-dcache-stores,150874,100.00,,
+    55.004222049,21384,,instructions,150874,100.00,,
+    55.104850844,<not counted>,,L1-dcache-load-misses,0,100.00,,
+    55.104850844,<not counted>,,L1-dcache-loads,0,100.00,,
+    55.104850844,<not counted>,,L1-dcache-stores,0,100.00,,
+    55.104850844,<not counted>,,instructions,0,100.00,,
+    55.205457450,787,,L1-dcache-load-misses,153129,100.00,14.97,of all L1-dcache accesses
+    55.205457450,5257,,L1-dcache-loads,153129,100.00,,
+    55.205457450,3227,,L1-dcache-stores,153129,100.00,,
+    55.205457450,21420,,instructions,153129,100.00,,
+    55.305893194,<not counted>,,L1-dcache-load-misses,0,100.00,,
+    55.305893194,<not counted>,,L1-dcache-loads,0,100.00,,
+    55.305893194,<not counted>,,L1-dcache-stores,0,100.00,,
+    55.305893194,<not counted>,,instructions,0,100.00,,
+    55.406301690,1058,,L1-dcache-load-misses,224832,100.00,15.36,of all L1-dcache accesses
+    55.406301690,6886,,L1-dcache-loads,224832,100.00,,
+    55.406301690,4198,,L1-dcache-stores,224832,100.00,,
+    55.406301690,27803,,instructions,224832,100.00,,
+    55.506927191,<not counted>,,L1-dcache-load-misses,0,100.00,,
+    55.506927191,<not counted>,,L1-dcache-loads,0,100.00,,
+    55.506927191,<not counted>,,L1-dcache-stores,0,100.00,,
+    55.506927191,<not counted>,,instructions,0,100.00,,
+    55.607553934,805,,L1-dcache-load-misses,165895,100.00,15.33,of all L1-dcache accesses
+    55.607553934,5252,,L1-dcache-loads,165895,100.00,,
+    55.607553934,3219,,L1-dcache-stores,165895,100.00,,
+    55.607553934,21391,,instructions,165895,100.00,,
+    55.707982728,407,,L1-dcache-load-misses,88080,100.00,15.50,of all L1-dcache accesses
+    55.707982728,2626,,L1-dcache-loads,88080,100.00,,
+    55.707982728,1609,,L1-dcache-stores,88080,100.00,,
+    55.707982728,10693,,instructions,88080,100.00,,
+    55.808603287,613,,L1-dcache-load-misses,146685,100.00,14.54,of all L1-dcache accesses
+    55.808603287,4217,,L1-dcache-loads,146685,100.00,,
+    55.808603287,2577,,L1-dcache-stores,146685,100.00,,
+    55.808603287,17060,,instructions,146685,100.00,,
+    55.909104055,701,,L1-dcache-load-misses,145098,100.00,16.08,of all L1-dcache accesses
+    55.909104055,4360,,L1-dcache-loads,145098,100.00,,
+    55.909104055,2632,,L1-dcache-stores,145098,100.00,,
+    55.909104055,17447,,instructions,145098,100.00,,
+    56.009793340,420,,L1-dcache-load-misses,93078,100.00,15.59,of all L1-dcache accesses
+    56.009793340,2694,,L1-dcache-loads,93078,100.00,,
+    56.009793340,1642,,L1-dcache-stores,93078,100.00,,
+    56.009793340,10927,,instructions,93078,100.00,,
+    56.110228336,384,,L1-dcache-load-misses,89704,100.00,14.62,of all L1-dcache accesses
+    56.110228336,2626,,L1-dcache-loads,89704,100.00,,
+    56.110228336,1612,,L1-dcache-stores,89704,100.00,,
+    56.110228336,10703,,instructions,89704,100.00,,
+    56.210727210,369,,L1-dcache-load-misses,88149,100.00,14.08,of all L1-dcache accesses
+    56.210727210,2620,,L1-dcache-loads,88149,100.00,,
+    56.210727210,1607,,L1-dcache-stores,88149,100.00,,
+    56.210727210,10674,,instructions,88149,100.00,,
+    56.311275147,385,,L1-dcache-load-misses,87592,100.00,14.70,of all L1-dcache accesses
+    56.311275147,2619,,L1-dcache-loads,87592,100.00,,
+    56.311275147,1606,,L1-dcache-stores,87592,100.00,,
+    56.311275147,10666,,instructions,87592,100.00,,
+    56.411895391,667,,L1-dcache-load-misses,143714,100.00,15.58,of all L1-dcache accesses
+    56.411895391,4282,,L1-dcache-loads,143714,100.00,,
+    56.411895391,2588,,L1-dcache-stores,143714,100.00,,
+    56.411895391,17176,,instructions,143714,100.00,,
+    56.512582058,386,,L1-dcache-load-misses,87967,100.00,14.72,of all L1-dcache accesses
+    56.512582058,2623,,L1-dcache-loads,87967,100.00,,
+    56.512582058,1609,,L1-dcache-stores,87967,100.00,,
+    56.512582058,10680,,instructions,87967,100.00,,
+    56.613209021,371,,L1-dcache-load-misses,129542,100.00,14.15,of all L1-dcache accesses
+    56.613209021,2622,,L1-dcache-loads,129542,100.00,,
+    56.613209021,1607,,L1-dcache-stores,129542,100.00,,
+    56.613209021,10681,,instructions,129542,100.00,,
+    56.713665403,388,,L1-dcache-load-misses,88905,100.00,14.76,of all L1-dcache accesses
+    56.713665403,2628,,L1-dcache-loads,88905,100.00,,
+    56.713665403,1612,,L1-dcache-stores,88905,100.00,,
+    56.713665403,10710,,instructions,88905,100.00,,
+    56.814124615,600,,L1-dcache-load-misses,145984,100.00,13.88,of all L1-dcache accesses
+    56.814124615,4322,,L1-dcache-loads,145984,100.00,,
+    56.814124615,2629,,L1-dcache-stores,145984,100.00,,
+    56.814124615,17672,,instructions,145984,100.00,,
+    56.914687577,653,,L1-dcache-load-misses,144720,100.00,15.35,of all L1-dcache accesses
+    56.914687577,4255,,L1-dcache-loads,144720,100.00,,
+    56.914687577,2578,,L1-dcache-stores,144720,100.00,,
+    56.914687577,17080,,instructions,144720,100.00,,
+    57.015302875,390,,L1-dcache-load-misses,88749,100.00,14.71,of all L1-dcache accesses
+    57.015302875,2652,,L1-dcache-loads,88749,100.00,,
+    57.015302875,1626,,L1-dcache-stores,88749,100.00,,
+    57.015302875,10788,,instructions,88749,100.00,,
+    57.115931603,381,,L1-dcache-load-misses,80572,100.00,14.52,of all L1-dcache accesses
+    57.115931603,2624,,L1-dcache-loads,80572,100.00,,
+    57.115931603,1612,,L1-dcache-stores,80572,100.00,,
+    57.115931603,10700,,instructions,80572,100.00,,
+    57.216547553,463,,L1-dcache-load-misses,87895,100.00,16.09,of all L1-dcache accesses
+    57.216547553,2877,,L1-dcache-loads,87895,100.00,,
+    57.216547553,1769,,L1-dcache-stores,87895,100.00,,
+    57.216547553,11688,,instructions,87895,100.00,,
+    57.317184853,389,,L1-dcache-load-misses,88074,100.00,14.83,of all L1-dcache accesses
+    57.317184853,2623,,L1-dcache-loads,88074,100.00,,
+    57.317184853,1609,,L1-dcache-stores,88074,100.00,,
+    57.317184853,10691,,instructions,88074,100.00,,
+    57.417621517,667,,L1-dcache-load-misses,144465,100.00,15.65,of all L1-dcache accesses
+    57.417621517,4261,,L1-dcache-loads,144465,100.00,,
+    57.417621517,2579,,L1-dcache-stores,144465,100.00,,
+    57.417621517,17102,,instructions,144465,100.00,,
+    57.518153851,389,,L1-dcache-load-misses,93727,100.00,14.86,of all L1-dcache accesses
+    57.518153851,2618,,L1-dcache-loads,93727,100.00,,
+    57.518153851,1608,,L1-dcache-stores,93727,100.00,,
+    57.518153851,10654,,instructions,93727,100.00,,
+    57.618787857,376,,L1-dcache-load-misses,93481,100.00,14.37,of all L1-dcache accesses
+    57.618787857,2617,,L1-dcache-loads,93481,100.00,,
+    57.618787857,1606,,L1-dcache-stores,93481,100.00,,
+    57.618787857,10655,,instructions,93481,100.00,,
+    57.719261433,375,,L1-dcache-load-misses,93288,100.00,14.32,of all L1-dcache accesses
+    57.719261433,2618,,L1-dcache-loads,93288,100.00,,
+    57.719261433,1606,,L1-dcache-stores,93288,100.00,,
+    57.719261433,10658,,instructions,93288,100.00,,
+    57.819891038,591,,L1-dcache-load-misses,143887,100.00,14.09,of all L1-dcache accesses
+    57.819891038,4195,,L1-dcache-loads,143887,100.00,,
+    57.819891038,2568,,L1-dcache-stores,143887,100.00,,
+    57.819891038,16966,,instructions,143887,100.00,,
+    57.920327067,694,,L1-dcache-load-misses,133781,100.00,15.97,of all L1-dcache accesses
+    57.920327067,4345,,L1-dcache-loads,133781,100.00,,
+    57.920327067,2622,,L1-dcache-stores,133781,100.00,,
+    57.920327067,17375,,instructions,133781,100.00,,
+    58.021012593,372,,L1-dcache-load-misses,94754,100.00,14.24,of all L1-dcache accesses
+    58.021012593,2613,,L1-dcache-loads,94754,100.00,,
+    58.021012593,1604,,L1-dcache-stores,94754,100.00,,
+    58.021012593,10643,,instructions,94754,100.00,,
+    58.121678219,378,,L1-dcache-load-misses,94149,100.00,14.47,of all L1-dcache accesses
+    58.121678219,2612,,L1-dcache-loads,94149,100.00,,
+    58.121678219,1604,,L1-dcache-stores,94149,100.00,,
+    58.121678219,10640,,instructions,94149,100.00,,
+    58.222209519,422,,L1-dcache-load-misses,61473,100.00,15.54,of all L1-dcache accesses
+    58.222209519,2716,,L1-dcache-loads,61473,100.00,,
+    58.222209519,1651,,L1-dcache-stores,61473,100.00,,
+    58.222209519,10992,,instructions,61473,100.00,,
+    58.322823367,387,,L1-dcache-load-misses,95929,100.00,14.76,of all L1-dcache accesses
+    58.322823367,2622,,L1-dcache-loads,95929,100.00,,
+    58.322823367,1607,,L1-dcache-stores,95929,100.00,,
+    58.322823367,10679,,instructions,95929,100.00,,
+    58.423240613,669,,L1-dcache-load-misses,145349,100.00,15.65,of all L1-dcache accesses
+    58.423240613,4276,,L1-dcache-loads,145349,100.00,,
+    58.423240613,2586,,L1-dcache-stores,145349,100.00,,
+    58.423240613,17147,,instructions,145349,100.00,,
+    58.523938130,494,,L1-dcache-load-misses,89478,100.00,17.21,of all L1-dcache accesses
+    58.523938130,2870,,L1-dcache-loads,89478,100.00,,
+    58.523938130,1764,,L1-dcache-stores,89478,100.00,,
+    58.523938130,11654,,instructions,89478,100.00,,
+    58.624580792,368,,L1-dcache-load-misses,96051,100.00,13.99,of all L1-dcache accesses
+    58.624580792,2631,,L1-dcache-loads,96051,100.00,,
+    58.624580792,1612,,L1-dcache-stores,96051,100.00,,
+    58.624580792,10713,,instructions,96051,100.00,,
+    58.725183501,394,,L1-dcache-load-misses,94991,100.00,14.99,of all L1-dcache accesses
+    58.725183501,2628,,L1-dcache-loads,94991,100.00,,
+    58.725183501,1610,,L1-dcache-stores,94991,100.00,,
+    58.725183501,10704,,instructions,94991,100.00,,
+    58.825840871,1648,,L1-dcache-load-misses,278499,100.00,15.82,of all L1-dcache accesses
+    58.825840871,10418,,L1-dcache-loads,278499,100.00,,
+    58.825840871,6486,,L1-dcache-stores,278499,100.00,,
+    58.825840871,40614,,instructions,278499,100.00,,
+    58.926281803,652,,L1-dcache-load-misses,144447,100.00,15.27,of all L1-dcache accesses
+    58.926281803,4271,,L1-dcache-loads,144447,100.00,,
+    58.926281803,2594,,L1-dcache-stores,144447,100.00,,
+    58.926281803,17154,,instructions,144447,100.00,,
+    59.026864581,401,,L1-dcache-load-misses,74754,100.00,15.33,of all L1-dcache accesses
+    59.026864581,2616,,L1-dcache-loads,74754,100.00,,
+    59.026864581,1606,,L1-dcache-stores,74754,100.00,,
+    59.026864581,10651,,instructions,74754,100.00,,
+    59.127294248,397,,L1-dcache-load-misses,94203,100.00,15.14,of all L1-dcache accesses
+    59.127294248,2623,,L1-dcache-loads,94203,100.00,,
+    59.127294248,1607,,L1-dcache-stores,94203,100.00,,
+    59.127294248,10683,,instructions,94203,100.00,,
+    59.227930604,433,,L1-dcache-load-misses,52962,100.00,15.89,of all L1-dcache accesses
+    59.227930604,2725,,L1-dcache-loads,52962,100.00,,
+    59.227930604,1654,,L1-dcache-stores,52962,100.00,,
+    59.227930604,11028,,instructions,52962,100.00,,
+    59.328571566,1033,,L1-dcache-load-misses,157439,100.00,15.95,of all L1-dcache accesses
+    59.328571566,6475,,L1-dcache-loads,157439,100.00,,
+    59.328571566,3765,,L1-dcache-stores,157439,100.00,,
+    59.328571566,24041,,instructions,157439,100.00,,
+    59.429202036,668,,L1-dcache-load-misses,146275,100.00,15.55,of all L1-dcache accesses
+    59.429202036,4296,,L1-dcache-loads,146275,100.00,,
+    59.429202036,2595,,L1-dcache-stores,146275,100.00,,
+    59.429202036,17223,,instructions,146275,100.00,,
+    59.529713308,408,,L1-dcache-load-misses,85725,100.00,15.54,of all L1-dcache accesses
+    59.529713308,2625,,L1-dcache-loads,85725,100.00,,
+    59.529713308,1609,,L1-dcache-stores,85725,100.00,,
+    59.529713308,10692,,instructions,85725,100.00,,
+    59.630335521,395,,L1-dcache-load-misses,89673,100.00,15.05,of all L1-dcache accesses
+    59.630335521,2624,,L1-dcache-loads,89673,100.00,,
+    59.630335521,1607,,L1-dcache-stores,89673,100.00,,
+    59.630335521,10686,,instructions,89673,100.00,,
+    59.730964425,392,,L1-dcache-load-misses,127507,100.00,14.91,of all L1-dcache accesses
+    59.730964425,2629,,L1-dcache-loads,127507,100.00,,
+    59.730964425,1609,,L1-dcache-stores,127507,100.00,,
+    59.730964425,10701,,instructions,127507,100.00,,
+    59.831617044,599,,L1-dcache-load-misses,145233,100.00,14.24,of all L1-dcache accesses
+    59.831617044,4207,,L1-dcache-loads,145233,100.00,,
+    59.831617044,2571,,L1-dcache-stores,145233,100.00,,
+    59.831617044,17014,,instructions,145233,100.00,,
+    59.932231411,658,,L1-dcache-load-misses,144273,100.00,15.44,of all L1-dcache accesses
+    59.932231411,4262,,L1-dcache-loads,144273,100.00,,
+    59.932231411,2581,,L1-dcache-stores,144273,100.00,,
+    59.932231411,17109,,instructions,144273,100.00,,
